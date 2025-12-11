@@ -1,0 +1,48 @@
+{
+  "words": [
+    {
+      "id": "1",
+      "word": "Variable",
+      "type": "code",
+      "image_url": "variable",
+      "definition": "A named storage location that holds a value and can be modified during program execution.",
+      "content_payload": {
+        "code_snippet": "x = 42\nname = \"Python\"\nprint(f\"{name}: {x}\")"
+      }
+    },
+    {
+      "id": "2",
+      "word": "Austere",
+      "type": "language",
+      "image_url": "austere",
+      "definition": "The nun lived in an austere room, furnished with only the bare essentials, reflecting her simple and disciplined way of life.",
+      "content_payload": {
+          "pronunciation": "ɔːˈstɪə",
+          "hindiUsage": "उनका जीवन बहुत सादा (austere) था।"
+      }
+    },
+    {
+      "id": "3",
+      "word": "Namaste",
+      "type": "language",
+      "image_url": "https://example.com/namaste.jpg",
+      "definition": "A respectful greeting in Hindi, often accompanied by a slight bow with palms pressed together.",
+      "content_payload": {
+        "pronunciation": "nuh-muh-stay",
+        "hindi_usage": "नमस्ते, आप कैसे हैं?"
+      }
+    },
+    {
+      "id": "4",
+      "word": "Dhanyavad",
+      "type": "language",
+      "image_url": "https://example.com/dhanyavad.jpg",
+      "definition": "A polite way to express gratitude in Hindi, meaning 'thank you'.",
+      "content_payload": {
+        "pronunciation": "dhun-yuh-vahd",
+        "hindi_usage": "आपकी मदद के लिए धन्यवाद।"
+      }
+    }
+  ]
+}
+
