@@ -84,7 +84,7 @@
         "tags": ["idiom", "exaggeration", "overreaction"],
         "word_anglicized": "Storm in a teacup",
         "word_native": "Storm in a teacup",
-        "image_url": "images/storm_in_teacup.jpg",
+        "image_url": "images/storm_in_a_teacup.jpg",
         "content_payload": {
           "definition": "A lot of unnecessary anger or worry about a small problem.",
           "example_sentence": "The argument over font size was just a storm in a teacup.",
