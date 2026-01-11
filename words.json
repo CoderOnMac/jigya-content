@@ -1,468 +1,593 @@
 {
-    "version": 1,
-    "words": [
-      {
-        "id": "20251211-EN-001",
-        "date": "2025-12-11",
-        "category": "english",
-        "type": "idiom",
-        "tags": ["idiom", "majority", "advantage"],
-        "word_anglicized": "Lion's share",
-        "word_native": "Lion's share",
-        "image_url": "images/lions_share.jpg",
-        "content_payload": {
-          "definition": "The largest or most significant portion of something.",
-          "example_sentence": "At the startup, the founders took the lion's share of the equity.",
-          "image_prompt": "Studio Ghibli style illustration of a confident lion at a round wooden table piled high with coins and documents, taking the biggest slice of a glowing golden pie while smaller animals receive tiny slices, warm indoor lighting, clean modern composition, soft color palette, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251212-EN-002",
-        "date": "2025-12-12",
-        "category": "english",
-        "type": "idiom",
-        "tags": ["idiom", "criticism", "unfair"],
-        "word_anglicized": "A bit rich",
-        "word_native": "A bit rich",
-        "image_url": "images/a_bit_rich.jpg",
-        "content_payload": {
-          "definition": "Used to say that someone's criticism or demand is hypocritical or unreasonable.",
-          "example_sentence": "It's a bit rich for him to complain about late work when he misses every deadline.",
-          "image_prompt": "Clean modern anime style art of a casual office scene where a man who is obviously late and disorganized points accusingly at a colleague, while a subtle speech bubble shows a clock behind him, warm colors, slight humor, minimalist background, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251213-EN-003",
-        "date": "2025-12-13",
-        "category": "english",
-        "type": "idiom",
-        "tags": ["idiom", "consequences", "unleash"],
-        "word_anglicized": "Pandora's box",
-        "word_native": "Pandora's box",
-        "image_url": "images/pandoras_box.jpg",
-        "content_payload": {
-          "definition": "A source of many unforeseen troubles once opened or triggered.",
-          "example_sentence": "Turning on anonymous comments opened a Pandora's box of abuse for the creator.",
-          "image_prompt": "Oil painting style scene of a curious person opening a small ornate box on a desk, with swirling dark shapes, emails, and notification icons escaping like spirits, contrasted against a tidy modern room, cinematic lighting, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251214-EN-004",
-        "date": "2025-12-14",
-        "category": "english",
-        "type": "idiom",
-        "tags": ["idiom", "agreement", "wasted_effort"],
-        "word_anglicized": "Preaching to the choir",
-        "word_native": "Preaching to the choir",
-        "image_url": "images/preaching_to_the_choir.jpg",
-        "content_payload": {
-          "definition": "Trying to convince people who already agree with you.",
-          "example_sentence": "Telling that team to care about clean code is preaching to the choir.",
-          "image_prompt": "Ghibli style image of a friendly speaker enthusiastically presenting best practices on a big screen to an audience already nodding, holding checklists titled 'Clean Code', cozy modern auditorium, soft colors, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251215-EN-005",
-        "date": "2025-12-15",
-        "category": "english",
-        "type": "idiom",
-        "tags": ["idiom", "hard_work", "late_night"],
-        "word_anglicized": "Burning the midnight oil",
-        "word_native": "Burning the midnight oil",
-        "image_url": "images/burning_the_midnight_oil.jpg",
-        "content_payload": {
-          "definition": "Working late into the night.",
-          "example_sentence": "She was burning the midnight oil to finish her thesis before the deadline.",
-          "image_prompt": "Soft oil painting of a student at a small desk by a window at night, warm desk lamp light contrasting with cool moonlight outside, coffee mug, open laptop and papers scattered, Ghibli-inspired cozy vibe, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251216-EN-006",
-        "date": "2025-12-16",
-        "category": "english",
-        "type": "idiom",
-        "tags": ["idiom", "exaggeration", "overreaction"],
-        "word_anglicized": "Storm in a teacup",
-        "word_native": "Storm in a teacup",
-        "image_url": "images/storm_in_a_teacup.jpg",
-        "content_payload": {
-          "definition": "A lot of unnecessary anger or worry about a small problem.",
-          "example_sentence": "The argument over font size was just a storm in a teacup.",
-          "image_prompt": "Whimsical anime style close-up of a teacup on a desk with a tiny dramatic storm swirling inside—clouds, lightning, waves—while the rest of the workspace stays calm and minimal, pastel color palette, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251217-EN-007",
-        "date": "2025-12-17",
-        "category": "english",
-        "type": "word",
-        "tags": ["advanced", "tharoorian", "appearance"],
-        "word_anglicized": "Pulchritudinous",
-        "word_native": "Pulchritudinous",
-        "image_url": "images/pulchritudinous.jpg",
-        "content_payload": {
-          "definition": "Beautiful, especially physically attractive.",
-          "example_sentence": "The pulchritudinous landscape left the hikers completely speechless.",
-          "image_prompt": "Lush Ghibli-style valley at golden hour, mountains, flowers, a river reflecting the sky, two tiny hikers admiring the view, saturated colors and painterly detail, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251218-EN-008",
-        "date": "2025-12-18",
-        "category": "english",
-        "type": "word",
-        "tags": ["advanced", "tharoorian", "intelligence"],
-        "word_anglicized": "Perspicacious",
-        "word_native": "Perspicacious",
-        "image_url": "images/perspicacious.png",
-        "content_payload": {
-          "definition": "Having a ready insight into things; mentally sharp.",
-          "example_sentence": "Her perspicacious questions exposed the weakness in the proposal.",
-          "image_prompt": "Oil painting of a person in a modern meeting room, calmly highlighting a flaw on a projected chart while others look surprised, subtle halo of light around their head symbolizing insight, clean composition, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251219-EN-009",
-        "date": "2025-12-19",
-        "category": "english",
-        "type": "word",
-        "tags": ["advanced", "tharoorian", "language"],
-        "word_anglicized": "Sesquipedalian",
-        "word_native": "Sesquipedalian",
-        "image_url": "images/sesquipedalian.jpg",
-        "content_payload": {
-          "definition": "Characterized by long, complex words; long-winded.",
-          "example_sentence": "His sesquipedalian speeches impressed more than they informed.",
-          "image_prompt": "Ghibli-like art of a speaker on a small stage surrounded by floating oversized dictionary pages and tangled word balloons full of long words, audience looking amused and slightly confused, warm theater lighting, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251220-EN-010",
-        "date": "2025-12-20",
-        "category": "english",
-        "type": "word",
-        "tags": ["advanced", "tharoorian", "mood"],
-        "word_anglicized": "Lugubrious",
-        "word_native": "Lugubrious",
-        "image_url": "images/lugubrious.jpg",
-        "content_payload": {
-          "definition": "Looking or sounding sad and gloomy.",
-          "example_sentence": "The office felt lugubrious after the layoffs were announced.",
-          "image_prompt": "Oil painting style open-plan office in cool blue tones, empty chairs and dim monitors, a single person sitting alone at a desk with slumped shoulders, rainy window in the background, cinematic mood, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251221-EN-011",
-        "date": "2025-12-21",
-        "category": "english",
-        "type": "word",
-        "tags": ["advanced", "tharoorian", "behavior"],
-        "word_anglicized": "Obstreperous",
-        "word_native": "Obstreperous",
-        "image_url": "images/obstreperous.jpg",
-        "content_payload": {
-          "definition": "Noisy and difficult to control.",
-          "example_sentence": "The obstreperous crowd drowned out the speaker entirely.",
-          "image_prompt": "Dynamic anime-style crowd outside in a city square, people shouting and waving signs, sound waves drawn as bright lines, a tiny frustrated speaker with a megaphone barely visible, bold colors, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251222-EN-012",
-        "date": "2025-12-22",
-        "category": "english",
-        "type": "word",
-        "tags": ["advanced", "writing"],
-        "word_anglicized": "Prolix",
-        "word_native": "Prolix",
-        "image_url": "images/prolix.jpg",
-        "content_payload": {
-          "definition": "Using too many words; tediously long.",
-          "example_sentence": "The report was so prolix that nobody finished reading it.",
-          "image_prompt": "Stylized oil painting of an endlessly long scroll of text unrolling across an office floor, curling around desks and chairs while a tired reader stares at page one, muted colors with a humorous tone, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251223-EN-013",
-        "date": "2025-12-23",
-        "category": "english",
-        "type": "word",
-        "tags": ["trending", "social_media"],
-        "word_anglicized": "Doomscrolling",
-        "word_native": "Doomscrolling",
-        "image_url": "images/doomscrolling.jpg",
-        "content_payload": {
-          "definition": "Compulsively scrolling through bad news on a screen.",
-          "example_sentence": "He stayed up past midnight doomscrolling instead of sleeping.",
-          "image_prompt": "Ghibli-style bedroom at night lit only by a phone screen, person lying in bed with tired eyes as a stream of gloomy news headlines flows out of the phone into the dark room, cool blue tones, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251224-EN-014",
-        "date": "2025-12-24",
-        "category": "english",
-        "type": "word",
-        "tags": ["trending", "relationships"],
-        "word_anglicized": "Situationship",
-        "word_native": "Situationship",
-        "image_url": "images/situationship.jpg",
-        "content_payload": {
-          "definition": "A romantic or semi-romantic relationship without clear labels or commitment.",
-          "example_sentence": "She was tired of their confusing situationship and wanted clarity.",
-          "image_prompt": "Modern anime-style cafe scene with two people sitting together but looking in different directions, their chat bubbles full of question marks instead of hearts, warm interior, soft pastel palette, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251225-EN-015",
-        "date": "2025-12-25",
-        "category": "english",
-        "type": "word",
-        "tags": ["trending", "manipulation"],
-        "word_anglicized": "Gaslighting",
-        "word_native": "Gaslighting",
-        "image_url": "images/gaslighting.jpg",
-        "content_payload": {
-          "definition": "Psychologically manipulating someone so they doubt their own reality.",
-          "example_sentence": "He kept denying her memories, slowly gaslighting her into confusion.",
-          "image_prompt": "Moody oil painting of a dimly lit living room with two figures; one calmly rearranges framed pictures while the other rubs their temples looking confused, some pictures subtly fading, cool and warm light contrast, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251226-EN-016",
-        "date": "2025-12-26",
-        "category": "english",
-        "type": "word",
-        "tags": ["trending", "work"],
-        "word_anglicized": "Quiet quitting",
-        "word_native": "Quiet quitting",
-        "image_url": "images/quiet_quitting.jpg",
-        "content_payload": {
-          "definition": "Doing only the minimum required at work without extra effort or enthusiasm.",
-          "example_sentence": "After months of burnout, she shifted to quiet quitting to protect her sanity.",
-          "image_prompt": "Ghibli-style office scene with two desks: one overflowing with files and frantic energy, the other calm with a simple laptop, plant, and headphones, the relaxed worker logging off exactly at closing time, warm colors, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251227-EN-017",
-        "date": "2025-12-27",
-        "category": "english",
-        "type": "word",
-        "tags": ["trending", "technology"],
-        "word_anglicized": "AI hallucination",
-        "word_native": "AI hallucination",
-        "image_url": "images/ai_hallucination.jpg",
-        "content_payload": {
-          "definition": "When an AI system confidently produces false or made-up information.",
-          "example_sentence": "The chatbot's answer looked convincing, but it was just an AI hallucination.",
-          "image_prompt": "Clean modern anime art of a friendly robot projecting a glowing answer bubble filled with surreal, impossible symbols, while a human tilts their head skeptically and highlights errors on a tablet, futuristic but minimal background, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251228-EN-018",
-        "date": "2025-12-28",
-        "category": "english",
-        "type": "word",
-        "tags": ["trending", "emotion"],
-        "word_anglicized": "FOMO",
-        "word_native": "FOMO",
-        "image_url": "images/fomo.jpg",
-        "content_payload": {
-          "definition": "Fear of missing out; anxiety about not participating in something exciting.",
-          "example_sentence": "His FOMO spiked every time he saw vacation photos on social media.",
-          "image_prompt": "Ghibli-style city apartment at night; a person sits alone on a sofa scrolling their phone while colorful party scenes play on floating screens outside the window, mix of cozy interior and lively outside world, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251229-COD-019",
-        "date": "2025-12-29",
-        "category": "coding",
-        "type": "code",
-        "tags": ["python", "syntax", "productivity"],
-        "word_anglicized": "List comprehension",
-        "word_native": "List comprehension",
-        "image_url": "images/list_comprehension.jpg",
-        "content_payload": {
-          "definition": "A concise way to create lists in Python using a single expressive line.",
-          "example_sentence": "He replaced a clumsy loop with a clean list comprehension.",
-          "code_snippet": "numbers = [1, 2, 3, 4, 5]\nsquares = [n**2 for n in numbers]\nprint(squares)",
-          "image_prompt": "Oil painting inspired visualization of numbers flowing through a sleek glass pipe and emerging as squared numbers, set on a minimalist desk with a laptop showing Python code, cool techy palette, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251230-COD-020",
-        "date": "2025-12-30",
-        "category": "coding",
-        "type": "code",
-        "tags": ["python", "functions", "reusability"],
-        "word_anglicized": "Decorator",
-        "word_native": "Decorator",
-        "image_url": "images/decorator.jpg",
-        "content_payload": {
-          "definition": "A Python feature that lets you modify or enhance functions without changing their code.",
-          "example_sentence": "They used a decorator to log every API call automatically.",
-          "code_snippet": "def log_call(func):\n    def wrapper(*args, **kwargs):\n        print(\"Calling\", func.__name__)\n        return func(*args, **kwargs)\n    return wrapper\n\n@log_call\ndef greet(name):\n    print(f\"Hello {name}\")",
-          "image_prompt": "Ghibli-style art of a plain gift box being wrapped with a glowing decorative ribbon that adds new patterns, symbolizing a function gaining extra powers, set on a coder’s tidy desk with a Python logo mug, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20251231-COD-021",
-        "date": "2025-12-31",
-        "category": "coding",
-        "type": "code",
-        "tags": ["python", "resources"],
-        "word_anglicized": "Context manager",
-        "word_native": "Context manager",
-        "image_url": "images/context_manager.jpg",
-        "content_payload": {
-          "definition": "A Python construct that sets up and cleans up resources automatically.",
-          "example_sentence": "Using a context manager ensured the file always closed properly.",
-          "code_snippet": "with open(\"data.txt\") as f:\n    content = f.read()\n    print(content)",
-          "image_prompt": "Oil painting of a magical doorway that opens to reveal glowing files and then gently closes by itself, with a Python script displayed on a nearby monitor, calm and reassuring mood, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20260101-COD-022",
-        "date": "2026-01-01",
-        "category": "coding",
-        "type": "code",
-        "tags": ["python", "performance"],
-        "word_anglicized": "Generator",
-        "word_native": "Generator",
-        "image_url": "images/generator.jpg",
-        "content_payload": {
-          "definition": "A function that yields values one at a time instead of building a full list in memory.",
-          "example_sentence": "Switching to a generator made processing the huge dataset efficient.",
-          "code_snippet": "def countdown(n):\n    while n > 0:\n        yield n\n        n -= 1\n\nfor num in countdown(3):\n    print(num)",
-          "image_prompt": "Anime-style conveyor belt in a factory releasing glowing numbered orbs one by one instead of dumping them all at once, coder observing statistics on a tablet, simple futuristic background, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20260102-COD-023",
-        "date": "2026-01-02",
-        "category": "coding",
-        "type": "code",
-        "tags": ["python", "environment"],
-        "word_anglicized": "Virtual environment",
-        "word_native": "Virtual environment",
-        "image_url": "images/virtual_environment.jpg",
-        "content_payload": {
-          "definition": "An isolated Python environment with its own dependencies.",
-          "example_sentence": "She created a virtual environment so project libraries wouldn’t clash.",
-          "code_snippet": "python -m venv venv\nsource venv/bin/activate\npip install requests",
-          "image_prompt": "Oil painting of a transparent glass dome on a desk containing a tiny city of Python packages, separate from a messy outside landscape of tangled wires, representing isolation and order, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20260103-COD-024",
-        "date": "2026-01-03",
-        "category": "coding",
-        "type": "code",
-        "tags": ["swift", "state", "ui"],
-        "word_anglicized": "@State",
-        "word_native": "@State",
-        "image_url": "images/state_property.jpg",
-        "content_payload": {
-          "definition": "A SwiftUI property wrapper that lets a view manage its own mutable state.",
-          "example_sentence": "They used @State to track whether the card was flipped.",
-          "code_snippet": "@State private var isFlipped = false\n\nButton(\"Flip\") {\n    isFlipped.toggle()\n}",
-          "image_prompt": "Ghibli-style depiction of a card on a desk with a glowing toggle switch above it labeled 'state', flipping the card from front to back when pressed, gentle teal and orange palette, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20260104-COD-025",
-        "date": "2026-01-04",
-        "category": "coding",
-        "type": "code",
-        "tags": ["swift", "binding", "data_flow"],
-        "word_anglicized": "Binding",
-        "word_native": "Binding",
-        "image_url": "images/binding.jpg",
-        "content_payload": {
-          "definition": "A two-way connection between data and a SwiftUI view.",
-          "example_sentence": "The slider used a binding to update the shared brightness value.",
-          "code_snippet": "Slider(value: $brightness, in: 0...1)\nText(\"Brightness: \\(brightness)\")",
-          "image_prompt": "Modern anime art of two glowing orbs connected by a soft energy ribbon labeled 'data', moving in sync as one is pushed, set against a minimalist SwiftUI-inspired interface, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20260105-COD-026",
-        "date": "2026-01-05",
-        "category": "coding",
-        "type": "code",
-        "tags": ["swift", "ui", "styling"],
-        "word_anglicized": "Modifier",
-        "word_native": "Modifier",
-        "image_url": "images/modifier.jpg",
-        "content_payload": {
-          "definition": "A SwiftUI method that returns a new view with extra styling or behavior applied.",
-          "example_sentence": "Chaining modifiers made the card look polished with just a few lines.",
-          "code_snippet": "Text(\"Jigya\")\n    .font(.largeTitle)\n    .padding()\n    .background(Color.blue)\n    .cornerRadius(16)",
-          "image_prompt": "Oil painting of a simple white card being passed through a series of glowing frames, each adding color, shadows, and rounded corners, like a magical assembly line for UI, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20260106-COD-027",
-        "date": "2026-01-06",
-        "category": "coding",
-        "type": "code",
-        "tags": ["swift", "xcode", "preview"],
-        "word_anglicized": "Preview provider",
-        "word_native": "Preview provider",
-        "image_url": "images/preview_provider.jpg",
-        "content_payload": {
-          "definition": "A SwiftUI type that supplies live previews of views in Xcode.",
-          "example_sentence": "The preview provider let them tweak the card design without rebuilding.",
-          "code_snippet": "struct CardView_Previews: PreviewProvider {\n    static var previews: some View {\n        CardView(...)\n    }\n}",
-          "image_prompt": "Ghibli style scene of an artist at a MacBook surrounded by floating miniature versions of the same card design, each slightly different, representing live previews, cozy workspace lighting, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20260107-DL-028",
-        "date": "2026-01-07",
-        "category": "coding",
-        "type": "code",
-        "tags": ["deep_learning", "training"],
-        "word_anglicized": "Backpropagation",
-        "word_native": "Backpropagation",
-        "image_url": "images/backpropagation.jpg",
-        "content_payload": {
-          "definition": "The algorithm that adjusts neural network weights by propagating errors backward.",
-          "example_sentence": "Backpropagation allowed the model to learn from its mistakes.",
-          "code_snippet": "# Pseudocode\nloss = criterion(pred, target)\nloss.backward()\noptimizer.step()",
-          "image_prompt": "Oil painting of a layered neural network drawn as glowing nodes and arrows, with a bright signal moving forward and a soft red signal flowing backward to adjust them, set on a dark techy background, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20260108-DL-029",
-        "date": "2026-01-08",
-        "category": "coding",
-        "type": "code",
-        "tags": ["deep_learning", "generalization"],
-        "word_anglicized": "Overfitting",
-        "word_native": "Overfitting",
-        "image_url": "images/overfitting.jpg",
-        "content_payload": {
-          "definition": "When a model learns training data too precisely and fails on new data.",
-          "example_sentence": "The model looked perfect in training but clearly overfitted in production.",
-          "code_snippet": "# Symptom: training loss ↓ while validation loss ↑",
-          "image_prompt": "Ghibli-inspired chart where a model character perfectly traces every tiny bump of a squiggly training line, while a separate test line drifts far away, humorous yet clear, soft colors, 4:5 aspect ratio."
-        }
-      },
-      {
-        "id": "20260109-DL-030",
-        "date": "2026-01-09",
-        "category": "coding",
-        "type": "code",
-        "tags": ["deep_learning", "transformers"],
-        "word_anglicized": "Attention mechanism",
-        "word_native": "Attention mechanism",
-        "image_url": "images/attention_mechanism.jpg",
-        "content_payload": {
-          "definition": "A neural network component that focuses on the most relevant parts of the input.",
-          "example_sentence": "The attention mechanism helped the model focus on key words in the sentence.",
-          "code_snippet": "# Conceptual: attention weights highlight important tokens\nscores = softmax(Q @ K.T)\ncontext = scores @ V",
-          "image_prompt": "Anime-style visualization of a sentence as floating word cards, with glowing beams highlighting a few important words while others fade slightly, all connected to a central thinking head icon, elegant and minimal, 4:5 aspect ratio."
-        }
+  "version": 1,
+  "words": [
+    {
+      "id": "20251211-EN-001",
+      "date": "2025-12-11",
+      "category": "english",
+      "type": "idiom",
+      "tags": [
+        "idiom",
+        "majority",
+        "advantage"
+      ],
+      "word_anglicized": "Lion's share",
+      "word_native": "Lion's share",
+      "image_url": "images/lions_share.jpg",
+      "content_payload": {
+        "definition": "The largest or most significant portion of something.",
+        "example_sentence": "At the startup, the founders took the lion's share of the equity.",
+        "image_prompt": "Studio Ghibli style illustration of a confident lion at a round wooden table piled high with coins and documents, taking the biggest slice of a glowing golden pie while smaller animals receive tiny slices, warm indoor lighting, clean modern composition, soft color palette, 4:5 aspect ratio."
       }
-    ]
-  }
-  
+    },
+    {
+      "id": "20251212-EN-002",
+      "date": "2025-12-12",
+      "category": "english",
+      "type": "idiom",
+      "tags": [
+        "idiom",
+        "criticism",
+        "unfair"
+      ],
+      "word_anglicized": "A bit rich",
+      "word_native": "A bit rich",
+      "image_url": "images/a_bit_rich.jpg",
+      "content_payload": {
+        "definition": "Used to say that someone's criticism or demand is hypocritical or unreasonable.",
+        "example_sentence": "It's a bit rich for him to complain about late work when he misses every deadline.",
+        "image_prompt": "Clean modern anime style art of a casual office scene where a man who is obviously late and disorganized points accusingly at a colleague, while a subtle speech bubble shows a clock behind him, warm colors, slight humor, minimalist background, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251213-EN-003",
+      "date": "2025-12-13",
+      "category": "english",
+      "type": "idiom",
+      "tags": [
+        "idiom",
+        "consequences",
+        "unleash"
+      ],
+      "word_anglicized": "Pandora's box",
+      "word_native": "Pandora's box",
+      "image_url": "images/pandoras_box.jpg",
+      "content_payload": {
+        "definition": "A source of many unforeseen troubles once opened or triggered.",
+        "example_sentence": "Turning on anonymous comments opened a Pandora's box of abuse for the creator.",
+        "image_prompt": "Oil painting style scene of a curious person opening a small ornate box on a desk, with swirling dark shapes, emails, and notification icons escaping like spirits, contrasted against a tidy modern room, cinematic lighting, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251214-EN-004",
+      "date": "2025-12-14",
+      "category": "english",
+      "type": "idiom",
+      "tags": [
+        "idiom",
+        "agreement",
+        "wasted_effort"
+      ],
+      "word_anglicized": "Preaching to the choir",
+      "word_native": "Preaching to the choir",
+      "image_url": "images/preaching_to_the_choir.jpg",
+      "content_payload": {
+        "definition": "Trying to convince people who already agree with you.",
+        "example_sentence": "Telling that team to care about clean code is preaching to the choir.",
+        "image_prompt": "Ghibli style image of a friendly speaker enthusiastically presenting best practices on a big screen to an audience already nodding, holding checklists titled 'Clean Code', cozy modern auditorium, soft colors, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251215-EN-005",
+      "date": "2025-12-15",
+      "category": "english",
+      "type": "idiom",
+      "tags": [
+        "idiom",
+        "hard_work",
+        "late_night"
+      ],
+      "word_anglicized": "Burning the midnight oil",
+      "word_native": "Burning the midnight oil",
+      "image_url": "images/burning_the_midnight_oil.jpg",
+      "content_payload": {
+        "definition": "Working late into the night.",
+        "example_sentence": "She was burning the midnight oil to finish her thesis before the deadline.",
+        "image_prompt": "Soft oil painting of a student at a small desk by a window at night, warm desk lamp light contrasting with cool moonlight outside, coffee mug, open laptop and papers scattered, Ghibli-inspired cozy vibe, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251216-EN-006",
+      "date": "2025-12-16",
+      "category": "english",
+      "type": "idiom",
+      "tags": [
+        "idiom",
+        "exaggeration",
+        "overreaction"
+      ],
+      "word_anglicized": "Storm in a teacup",
+      "word_native": "Storm in a teacup",
+      "image_url": "images/storm_in_a_teacup.jpg",
+      "content_payload": {
+        "definition": "A lot of unnecessary anger or worry about a small problem.",
+        "example_sentence": "The argument over font size was just a storm in a teacup.",
+        "image_prompt": "Whimsical anime style close-up of a teacup on a desk with a tiny dramatic storm swirling inside—clouds, lightning, waves—while the rest of the workspace stays calm and minimal, pastel color palette, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251217-EN-007",
+      "date": "2025-12-17",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "advanced",
+        "tharoorian",
+        "appearance"
+      ],
+      "word_anglicized": "Pulchritudinous",
+      "word_native": "Pulchritudinous",
+      "image_url": "images/pulchritudinous.jpg",
+      "content_payload": {
+        "definition": "Beautiful, especially physically attractive.",
+        "example_sentence": "The pulchritudinous landscape left the hikers completely speechless.",
+        "image_prompt": "Lush Ghibli-style valley at golden hour, mountains, flowers, a river reflecting the sky, two tiny hikers admiring the view, saturated colors and painterly detail, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251218-EN-008",
+      "date": "2025-12-18",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "advanced",
+        "tharoorian",
+        "intelligence"
+      ],
+      "word_anglicized": "Perspicacious",
+      "word_native": "Perspicacious",
+      "image_url": "images/perspicacious.png",
+      "content_payload": {
+        "definition": "Having a ready insight into things; mentally sharp.",
+        "example_sentence": "Her perspicacious questions exposed the weakness in the proposal.",
+        "image_prompt": "Oil painting of a person in a modern meeting room, calmly highlighting a flaw on a projected chart while others look surprised, subtle halo of light around their head symbolizing insight, clean composition, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251219-EN-009",
+      "date": "2025-12-19",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "advanced",
+        "tharoorian",
+        "language"
+      ],
+      "word_anglicized": "Sesquipedalian",
+      "word_native": "Sesquipedalian",
+      "image_url": "images/sesquipedalian.jpg",
+      "content_payload": {
+        "definition": "Characterized by long, complex words; long-winded.",
+        "example_sentence": "His sesquipedalian speeches impressed more than they informed.",
+        "image_prompt": "Ghibli-like art of a speaker on a small stage surrounded by floating oversized dictionary pages and tangled word balloons full of long words, audience looking amused and slightly confused, warm theater lighting, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251220-EN-010",
+      "date": "2025-12-20",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "advanced",
+        "tharoorian",
+        "mood"
+      ],
+      "word_anglicized": "Lugubrious",
+      "word_native": "Lugubrious",
+      "image_url": "images/lugubrious.jpg",
+      "content_payload": {
+        "definition": "Looking or sounding sad and gloomy.",
+        "example_sentence": "The office felt lugubrious after the layoffs were announced.",
+        "image_prompt": "Oil painting style open-plan office in cool blue tones, empty chairs and dim monitors, a single person sitting alone at a desk with slumped shoulders, rainy window in the background, cinematic mood, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251221-EN-011",
+      "date": "2025-12-21",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "advanced",
+        "tharoorian",
+        "behavior"
+      ],
+      "word_anglicized": "Obstreperous",
+      "word_native": "Obstreperous",
+      "image_url": "images/obstreperous.jpg",
+      "content_payload": {
+        "definition": "Noisy and difficult to control.",
+        "example_sentence": "The obstreperous crowd drowned out the speaker entirely.",
+        "image_prompt": "Dynamic anime-style crowd outside in a city square, people shouting and waving signs, sound waves drawn as bright lines, a tiny frustrated speaker with a megaphone barely visible, bold colors, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251222-EN-012",
+      "date": "2025-12-22",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "advanced",
+        "writing"
+      ],
+      "word_anglicized": "Prolix",
+      "word_native": "Prolix",
+      "image_url": "images/prolix.jpg",
+      "content_payload": {
+        "definition": "Using too many words; tediously long.",
+        "example_sentence": "The report was so prolix that nobody finished reading it.",
+        "image_prompt": "Stylized oil painting of an endlessly long scroll of text unrolling across an office floor, curling around desks and chairs while a tired reader stares at page one, muted colors with a humorous tone, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251223-EN-013",
+      "date": "2025-12-23",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "trending",
+        "social_media"
+      ],
+      "word_anglicized": "Doomscrolling",
+      "word_native": "Doomscrolling",
+      "image_url": "images/doomscrolling.jpg",
+      "content_payload": {
+        "definition": "Compulsively scrolling through bad news on a screen.",
+        "example_sentence": "He stayed up past midnight doomscrolling instead of sleeping.",
+        "image_prompt": "Ghibli-style bedroom at night lit only by a phone screen, person lying in bed with tired eyes as a stream of gloomy news headlines flows out of the phone into the dark room, cool blue tones, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251224-EN-014",
+      "date": "2025-12-24",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "trending",
+        "relationships"
+      ],
+      "word_anglicized": "Situationship",
+      "word_native": "Situationship",
+      "image_url": "images/situationship.jpg",
+      "content_payload": {
+        "definition": "A romantic or semi-romantic relationship without clear labels or commitment.",
+        "example_sentence": "She was tired of their confusing situationship and wanted clarity.",
+        "image_prompt": "Modern anime-style cafe scene with two people sitting together but looking in different directions, their chat bubbles full of question marks instead of hearts, warm interior, soft pastel palette, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251225-EN-015",
+      "date": "2025-12-25",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "trending",
+        "manipulation"
+      ],
+      "word_anglicized": "Gaslighting",
+      "word_native": "Gaslighting",
+      "image_url": "images/gaslighting.jpg",
+      "content_payload": {
+        "definition": "Psychologically manipulating someone so they doubt their own reality.",
+        "example_sentence": "He kept denying her memories, slowly gaslighting her into confusion.",
+        "image_prompt": "Moody oil painting of a dimly lit living room with two figures; one calmly rearranges framed pictures while the other rubs their temples looking confused, some pictures subtly fading, cool and warm light contrast, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251226-EN-016",
+      "date": "2025-12-26",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "trending",
+        "work"
+      ],
+      "word_anglicized": "Quiet quitting",
+      "word_native": "Quiet quitting",
+      "image_url": "images/quiet_quitting.jpg",
+      "content_payload": {
+        "definition": "Doing only the minimum required at work without extra effort or enthusiasm.",
+        "example_sentence": "After months of burnout, she shifted to quiet quitting to protect her sanity.",
+        "image_prompt": "Ghibli-style office scene with two desks: one overflowing with files and frantic energy, the other calm with a simple laptop, plant, and headphones, the relaxed worker logging off exactly at closing time, warm colors, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251227-EN-017",
+      "date": "2025-12-27",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "trending",
+        "technology"
+      ],
+      "word_anglicized": "AI hallucination",
+      "word_native": "AI hallucination",
+      "image_url": "images/ai_hallucination.jpg",
+      "content_payload": {
+        "definition": "When an AI system confidently produces false or made-up information.",
+        "example_sentence": "The chatbot's answer looked convincing, but it was just an AI hallucination.",
+        "image_prompt": "Clean modern anime art of a friendly robot projecting a glowing answer bubble filled with surreal, impossible symbols, while a human tilts their head skeptically and highlights errors on a tablet, futuristic but minimal background, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251228-EN-018",
+      "date": "2025-12-28",
+      "category": "english",
+      "type": "word",
+      "tags": [
+        "trending",
+        "emotion"
+      ],
+      "word_anglicized": "FOMO",
+      "word_native": "FOMO",
+      "image_url": "images/fomo.jpg",
+      "content_payload": {
+        "definition": "Fear of missing out; anxiety about not participating in something exciting.",
+        "example_sentence": "His FOMO spiked every time he saw vacation photos on social media.",
+        "image_prompt": "Ghibli-style city apartment at night; a person sits alone on a sofa scrolling their phone while colorful party scenes play on floating screens outside the window, mix of cozy interior and lively outside world, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251229-COD-019",
+      "date": "2025-12-29",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "python",
+        "syntax",
+        "productivity"
+      ],
+      "word_anglicized": "List comprehension",
+      "word_native": "List comprehension",
+      "image_url": "images/list_comprehension.jpg",
+      "content_payload": {
+        "definition": "A concise way to create lists in Python using a single expressive line.",
+        "example_sentence": "He replaced a clumsy loop with a clean list comprehension.",
+        "code_snippet": "numbers = [1, 2, 3, 4, 5]\nsquares = [n**2 for n in numbers]\nprint(squares)",
+        "image_prompt": "Oil painting inspired visualization of numbers flowing through a sleek glass pipe and emerging as squared numbers, set on a minimalist desk with a laptop showing Python code, cool techy palette, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251230-COD-020",
+      "date": "2025-12-30",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "python",
+        "functions",
+        "reusability"
+      ],
+      "word_anglicized": "Decorator",
+      "word_native": "Decorator",
+      "image_url": "images/decorator.jpg",
+      "content_payload": {
+        "definition": "A Python feature that lets you modify or enhance functions without changing their code.",
+        "example_sentence": "They used a decorator to log every API call automatically.",
+        "code_snippet": "def log_call(func):\n    def wrapper(*args, **kwargs):\n        print(\"Calling\", func.__name__)\n        return func(*args, **kwargs)\n    return wrapper\n\n@log_call\ndef greet(name):\n    print(f\"Hello {name}\")",
+        "image_prompt": "Ghibli-style art of a plain gift box being wrapped with a glowing decorative ribbon that adds new patterns, symbolizing a function gaining extra powers, set on a coder’s tidy desk with a Python logo mug, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20251231-COD-021",
+      "date": "2025-12-31",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "python",
+        "resources"
+      ],
+      "word_anglicized": "Context manager",
+      "word_native": "Context manager",
+      "image_url": "images/context_manager.jpg",
+      "content_payload": {
+        "definition": "A Python construct that sets up and cleans up resources automatically.",
+        "example_sentence": "Using a context manager ensured the file always closed properly.",
+        "code_snippet": "with open(\"data.txt\") as f:\n    content = f.read()\n    print(content)",
+        "image_prompt": "Oil painting of a magical doorway that opens to reveal glowing files and then gently closes by itself, with a Python script displayed on a nearby monitor, calm and reassuring mood, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260101-COD-022",
+      "date": "2026-01-01",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "python",
+        "performance"
+      ],
+      "word_anglicized": "Generator",
+      "word_native": "Generator",
+      "image_url": "images/generator.jpg",
+      "content_payload": {
+        "definition": "A function that yields values one at a time instead of building a full list in memory.",
+        "example_sentence": "Switching to a generator made processing the huge dataset efficient.",
+        "code_snippet": "def countdown(n):\n    while n > 0:\n        yield n\n        n -= 1\n\nfor num in countdown(3):\n    print(num)",
+        "image_prompt": "Anime-style conveyor belt in a factory releasing glowing numbered orbs one by one instead of dumping them all at once, coder observing statistics on a tablet, simple futuristic background, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260102-COD-023",
+      "date": "2026-01-02",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "python",
+        "environment"
+      ],
+      "word_anglicized": "Virtual environment",
+      "word_native": "Virtual environment",
+      "image_url": "images/virtual_environment.jpg",
+      "content_payload": {
+        "definition": "An isolated Python environment with its own dependencies.",
+        "example_sentence": "She created a virtual environment so project libraries wouldn’t clash.",
+        "code_snippet": "python -m venv venv\nsource venv/bin/activate\npip install requests",
+        "image_prompt": "Oil painting of a transparent glass dome on a desk containing a tiny city of Python packages, separate from a messy outside landscape of tangled wires, representing isolation and order, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260103-COD-024",
+      "date": "2026-01-03",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "swift",
+        "state",
+        "ui"
+      ],
+      "word_anglicized": "@State",
+      "word_native": "@State",
+      "image_url": "images/state_property.jpg",
+      "content_payload": {
+        "definition": "A SwiftUI property wrapper that lets a view manage its own mutable state.",
+        "example_sentence": "They used @State to track whether the card was flipped.",
+        "code_snippet": "@State private var isFlipped = false\n\nButton(\"Flip\") {\n    isFlipped.toggle()\n}",
+        "image_prompt": "Ghibli-style depiction of a card on a desk with a glowing toggle switch above it labeled 'state', flipping the card from front to back when pressed, gentle teal and orange palette, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260104-COD-025",
+      "date": "2026-01-04",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "swift",
+        "binding",
+        "data_flow"
+      ],
+      "word_anglicized": "Binding",
+      "word_native": "Binding",
+      "image_url": "images/binding.jpg",
+      "content_payload": {
+        "definition": "A two-way connection between data and a SwiftUI view.",
+        "example_sentence": "The slider used a binding to update the shared brightness value.",
+        "code_snippet": "Slider(value: $brightness, in: 0...1)\nText(\"Brightness: \\(brightness)\")",
+        "image_prompt": "Modern anime art of two glowing orbs connected by a soft energy ribbon labeled 'data', moving in sync as one is pushed, set against a minimalist SwiftUI-inspired interface, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260105-COD-026",
+      "date": "2026-01-05",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "swift",
+        "ui",
+        "styling"
+      ],
+      "word_anglicized": "Modifier",
+      "word_native": "Modifier",
+      "image_url": "images/modifier.jpg",
+      "content_payload": {
+        "definition": "A SwiftUI method that returns a new view with extra styling or behavior applied.",
+        "example_sentence": "Chaining modifiers made the card look polished with just a few lines.",
+        "code_snippet": "Text(\"Jigya\")\n    .font(.largeTitle)\n    .padding()\n    .background(Color.blue)\n    .cornerRadius(16)",
+        "image_prompt": "Oil painting of a simple white card being passed through a series of glowing frames, each adding color, shadows, and rounded corners, like a magical assembly line for UI, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260106-COD-027",
+      "date": "2026-01-06",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "swift",
+        "xcode",
+        "preview"
+      ],
+      "word_anglicized": "Preview provider",
+      "word_native": "Preview provider",
+      "image_url": "images/preview_provider.jpg",
+      "content_payload": {
+        "definition": "A SwiftUI type that supplies live previews of views in Xcode.",
+        "example_sentence": "The preview provider let them tweak the card design without rebuilding.",
+        "code_snippet": "struct CardView_Previews: PreviewProvider {\n    static var previews: some View {\n        CardView(...)\n    }\n}",
+        "image_prompt": "Ghibli style scene of an artist at a MacBook surrounded by floating miniature versions of the same card design, each slightly different, representing live previews, cozy workspace lighting, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260107-DL-028",
+      "date": "2026-01-07",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "deep_learning",
+        "training"
+      ],
+      "word_anglicized": "Backpropagation",
+      "word_native": "Backpropagation",
+      "image_url": "images/backpropagation.jpg",
+      "content_payload": {
+        "definition": "The algorithm that adjusts neural network weights by propagating errors backward.",
+        "example_sentence": "Backpropagation allowed the model to learn from its mistakes.",
+        "code_snippet": "# Pseudocode\nloss = criterion(pred, target)\nloss.backward()\noptimizer.step()",
+        "image_prompt": "Oil painting of a layered neural network drawn as glowing nodes and arrows, with a bright signal moving forward and a soft red signal flowing backward to adjust them, set on a dark techy background, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260108-DL-029",
+      "date": "2026-01-08",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "deep_learning",
+        "generalization"
+      ],
+      "word_anglicized": "Overfitting",
+      "word_native": "Overfitting",
+      "image_url": "images/overfitting.jpg",
+      "content_payload": {
+        "definition": "When a model learns training data too precisely and fails on new data.",
+        "example_sentence": "The model looked perfect in training but clearly overfitted in production.",
+        "code_snippet": "# Symptom: training loss ↓ while validation loss ↑",
+        "image_prompt": "Ghibli-inspired chart where a model character perfectly traces every tiny bump of a squiggly training line, while a separate test line drifts far away, humorous yet clear, soft colors, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260109-DL-030",
+      "date": "2026-01-09",
+      "category": "coding",
+      "type": "code",
+      "tags": [
+        "deep_learning",
+        "transformers"
+      ],
+      "word_anglicized": "Attention mechanism",
+      "word_native": "Attention mechanism",
+      "image_url": "images/attention_mechanism.jpg",
+      "content_payload": {
+        "definition": "A neural network component that focuses on the most relevant parts of the input.",
+        "example_sentence": "The attention mechanism helped the model focus on key words in the sentence.",
+        "code_snippet": "# Conceptual: attention weights highlight important tokens\nscores = softmax(Q @ K.T)\ncontext = scores @ V",
+        "image_prompt": "Anime-style visualization of a sentence as floating word cards, with glowing beams highlighting a few important words while others fade slightly, all connected to a central thinking head icon, elegant and minimal, 4:5 aspect ratio."
+      }
+    },
+    {
+      "id": "20260111-EN-031",
+      "date": "2026-01-11",
+      "category": "english",
+      "type": "vocabulary",
+      "tags": [
+        "dissolute",
+        "english",
+        "vocabulary"
+      ],
+      "word_anglicized": "dissolute",
+      "word_native": "dissolute",
+      "image_url": "images/dissolute.png",
+      "content_payload": {
+        "definition": "A person living a wild, unrestrained lifestyle.",
+        "example_sentence": "The dissolute students threw parties every weekend.",
+        "image_prompt": "Studio Ghibli style illustration of dissolute college students partying in messy dorm, no studying, 4:5 aspect ratio"
+      }
+    }
+  ]
+}
