@@ -2,7 +2,7 @@
   "version": 1,
   "words": [
     {
-      "id": "20251211-EN-00001",
+      "id": "20251211-EN-001",
       "date": "2025-12-11",
       "category": "english",
       "type": "idiom",
@@ -21,7 +21,7 @@
       }
     },
     {
-      "id": "20251212-EN-00002",
+      "id": "20251212-EN-002",
       "date": "2025-12-12",
       "category": "english",
       "type": "idiom",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "id": "20251213-EN-00003",
+      "id": "20251213-EN-003",
       "date": "2025-12-13",
       "category": "english",
       "type": "idiom",
@@ -59,7 +59,7 @@
       }
     },
     {
-      "id": "20251214-EN-00004",
+      "id": "20251214-EN-004",
       "date": "2025-12-14",
       "category": "english",
       "type": "idiom",
@@ -78,7 +78,7 @@
       }
     },
     {
-      "id": "20251215-EN-00005",
+      "id": "20251215-EN-005",
       "date": "2025-12-15",
       "category": "english",
       "type": "idiom",
@@ -97,7 +97,7 @@
       }
     },
     {
-      "id": "20251216-EN-00006",
+      "id": "20251216-EN-006",
       "date": "2025-12-16",
       "category": "english",
       "type": "idiom",
@@ -116,7 +116,7 @@
       }
     },
     {
-      "id": "20251217-EN-00007",
+      "id": "20251217-EN-007",
       "date": "2025-12-17",
       "category": "english",
       "type": "word",
@@ -135,7 +135,7 @@
       }
     },
     {
-      "id": "20251218-EN-00008",
+      "id": "20251218-EN-008",
       "date": "2025-12-18",
       "category": "english",
       "type": "word",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": "20251219-EN-00009",
+      "id": "20251219-EN-009",
       "date": "2025-12-19",
       "category": "english",
       "type": "word",
@@ -173,7 +173,7 @@
       }
     },
     {
-      "id": "20251220-EN-00010",
+      "id": "20251220-EN-010",
       "date": "2025-12-20",
       "category": "english",
       "type": "word",
@@ -192,7 +192,7 @@
       }
     },
     {
-      "id": "20251221-EN-00011",
+      "id": "20251221-EN-011",
       "date": "2025-12-21",
       "category": "english",
       "type": "word",
@@ -211,7 +211,7 @@
       }
     },
     {
-      "id": "20251222-EN-00012",
+      "id": "20251222-EN-012",
       "date": "2025-12-22",
       "category": "english",
       "type": "word",
@@ -229,7 +229,7 @@
       }
     },
     {
-      "id": "20251223-EN-00013",
+      "id": "20251223-EN-013",
       "date": "2025-12-23",
       "category": "english",
       "type": "word",
@@ -247,7 +247,7 @@
       }
     },
     {
-      "id": "20251224-EN-00014",
+      "id": "20251224-EN-014",
       "date": "2025-12-24",
       "category": "english",
       "type": "word",
@@ -265,7 +265,7 @@
       }
     },
     {
-      "id": "20251225-EN-00015",
+      "id": "20251225-EN-015",
       "date": "2025-12-25",
       "category": "english",
       "type": "word",
@@ -283,7 +283,7 @@
       }
     },
     {
-      "id": "20251226-EN-00016",
+      "id": "20251226-EN-016",
       "date": "2025-12-26",
       "category": "english",
       "type": "word",
@@ -301,7 +301,7 @@
       }
     },
     {
-      "id": "20251227-EN-00017",
+      "id": "20251227-EN-017",
       "date": "2025-12-27",
       "category": "english",
       "type": "word",
@@ -319,7 +319,7 @@
       }
     },
     {
-      "id": "20251228-EN-00018",
+      "id": "20251228-EN-018",
       "date": "2025-12-28",
       "category": "english",
       "type": "word",
@@ -337,7 +337,7 @@
       }
     },
     {
-      "id": "20251229-COD-00019",
+      "id": "20251229-COD-019",
       "date": "2025-12-29",
       "category": "coding",
       "type": "code",
@@ -352,11 +352,12 @@
       "content_payload": {
         "definition": "A concise way to create lists in Python using a single expressive line.",
         "example_sentence": "He replaced a clumsy loop with a clean list comprehension.",
+        "code_snippet": "numbers = [1, 2, 3, 4, 5]\nsquares = [n**2 for n in numbers]\nprint(squares)",
         "image_prompt": "Oil painting inspired visualization of numbers flowing through a sleek glass pipe and emerging as squared numbers, set on a minimalist desk with a laptop showing Python code, cool techy palette, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20251230-COD-00020",
+      "id": "20251230-COD-020",
       "date": "2025-12-30",
       "category": "coding",
       "type": "code",
@@ -371,11 +372,12 @@
       "content_payload": {
         "definition": "A Python feature that lets you modify or enhance functions without changing their code.",
         "example_sentence": "They used a decorator to log every API call automatically.",
+        "code_snippet": "def log_call(func):\n    def wrapper(*args, **kwargs):\n        print(\"Calling\", func.__name__)\n        return func(*args, **kwargs)\n    return wrapper\n\n@log_call\ndef greet(name):\n    print(f\"Hello {name}\")",
         "image_prompt": "Ghibli-style art of a plain gift box being wrapped with a glowing decorative ribbon that adds new patterns, symbolizing a function gaining extra powers, set on a coder’s tidy desk with a Python logo mug, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20251231-COD-00021",
+      "id": "20251231-COD-021",
       "date": "2025-12-31",
       "category": "coding",
       "type": "code",
@@ -389,11 +391,12 @@
       "content_payload": {
         "definition": "A Python construct that sets up and cleans up resources automatically.",
         "example_sentence": "Using a context manager ensured the file always closed properly.",
+        "code_snippet": "with open(\"data.txt\") as f:\n    content = f.read()\n    print(content)",
         "image_prompt": "Oil painting of a magical doorway that opens to reveal glowing files and then gently closes by itself, with a Python script displayed on a nearby monitor, calm and reassuring mood, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260101-COD-00022",
+      "id": "20260101-COD-022",
       "date": "2026-01-01",
       "category": "coding",
       "type": "code",
@@ -407,11 +410,12 @@
       "content_payload": {
         "definition": "A function that yields values one at a time instead of building a full list in memory.",
         "example_sentence": "Switching to a generator made processing the huge dataset efficient.",
+        "code_snippet": "def countdown(n):\n    while n > 0:\n        yield n\n        n -= 1\n\nfor num in countdown(3):\n    print(num)",
         "image_prompt": "Anime-style conveyor belt in a factory releasing glowing numbered orbs one by one instead of dumping them all at once, coder observing statistics on a tablet, simple futuristic background, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260102-COD-00023",
+      "id": "20260102-COD-023",
       "date": "2026-01-02",
       "category": "coding",
       "type": "code",
@@ -425,11 +429,12 @@
       "content_payload": {
         "definition": "An isolated Python environment with its own dependencies.",
         "example_sentence": "She created a virtual environment so project libraries wouldn’t clash.",
+        "code_snippet": "python -m venv venv\nsource venv/bin/activate\npip install requests",
         "image_prompt": "Oil painting of a transparent glass dome on a desk containing a tiny city of Python packages, separate from a messy outside landscape of tangled wires, representing isolation and order, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260103-COD-00024",
+      "id": "20260103-COD-024",
       "date": "2026-01-03",
       "category": "coding",
       "type": "code",
@@ -444,11 +449,12 @@
       "content_payload": {
         "definition": "A SwiftUI property wrapper that lets a view manage its own mutable state.",
         "example_sentence": "They used @State to track whether the card was flipped.",
+        "code_snippet": "@State private var isFlipped = false\n\nButton(\"Flip\") {\n    isFlipped.toggle()\n}",
         "image_prompt": "Ghibli-style depiction of a card on a desk with a glowing toggle switch above it labeled 'state', flipping the card from front to back when pressed, gentle teal and orange palette, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260104-COD-00025",
+      "id": "20260104-COD-025",
       "date": "2026-01-04",
       "category": "coding",
       "type": "code",
@@ -463,11 +469,12 @@
       "content_payload": {
         "definition": "A two-way connection between data and a SwiftUI view.",
         "example_sentence": "The slider used a binding to update the shared brightness value.",
+        "code_snippet": "Slider(value: $brightness, in: 0...1)\nText(\"Brightness: \\(brightness)\")",
         "image_prompt": "Modern anime art of two glowing orbs connected by a soft energy ribbon labeled 'data', moving in sync as one is pushed, set against a minimalist SwiftUI-inspired interface, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260105-COD-00026",
+      "id": "20260105-COD-026",
       "date": "2026-01-05",
       "category": "coding",
       "type": "code",
@@ -482,11 +489,12 @@
       "content_payload": {
         "definition": "A SwiftUI method that returns a new view with extra styling or behavior applied.",
         "example_sentence": "Chaining modifiers made the card look polished with just a few lines.",
+        "code_snippet": "Text(\"Jigya\")\n    .font(.largeTitle)\n    .padding()\n    .background(Color.blue)\n    .cornerRadius(16)",
         "image_prompt": "Oil painting of a simple white card being passed through a series of glowing frames, each adding color, shadows, and rounded corners, like a magical assembly line for UI, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260106-COD-00027",
+      "id": "20260106-COD-027",
       "date": "2026-01-06",
       "category": "coding",
       "type": "code",
@@ -501,11 +509,12 @@
       "content_payload": {
         "definition": "A SwiftUI type that supplies live previews of views in Xcode.",
         "example_sentence": "The preview provider let them tweak the card design without rebuilding.",
+        "code_snippet": "struct CardView_Previews: PreviewProvider {\n    static var previews: some View {\n        CardView(...)\n    }\n}",
         "image_prompt": "Ghibli style scene of an artist at a MacBook surrounded by floating miniature versions of the same card design, each slightly different, representing live previews, cozy workspace lighting, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260107-COD-00028",
+      "id": "20260107-DL-028",
       "date": "2026-01-07",
       "category": "coding",
       "type": "code",
@@ -519,11 +528,12 @@
       "content_payload": {
         "definition": "The algorithm that adjusts neural network weights by propagating errors backward.",
         "example_sentence": "Backpropagation allowed the model to learn from its mistakes.",
+        "code_snippet": "# Pseudocode\nloss = criterion(pred, target)\nloss.backward()\noptimizer.step()",
         "image_prompt": "Oil painting of a layered neural network drawn as glowing nodes and arrows, with a bright signal moving forward and a soft red signal flowing backward to adjust them, set on a dark techy background, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260108-COD-00029",
+      "id": "20260108-DL-029",
       "date": "2026-01-08",
       "category": "coding",
       "type": "code",
@@ -537,11 +547,12 @@
       "content_payload": {
         "definition": "When a model learns training data too precisely and fails on new data.",
         "example_sentence": "The model looked perfect in training but clearly overfitted in production.",
+        "code_snippet": "# Symptom: training loss ↓ while validation loss ↑",
         "image_prompt": "Ghibli-inspired chart where a model character perfectly traces every tiny bump of a squiggly training line, while a separate test line drifts far away, humorous yet clear, soft colors, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260109-COD-00030",
+      "id": "20260109-DL-030",
       "date": "2026-01-09",
       "category": "coding",
       "type": "code",
@@ -555,12 +566,13 @@
       "content_payload": {
         "definition": "A neural network component that focuses on the most relevant parts of the input.",
         "example_sentence": "The attention mechanism helped the model focus on key words in the sentence.",
+        "code_snippet": "# Conceptual: attention weights highlight important tokens\nscores = softmax(Q @ K.T)\ncontext = scores @ V",
         "image_prompt": "Anime-style visualization of a sentence as floating word cards, with glowing beams highlighting a few important words while others fade slightly, all connected to a central thinking head icon, elegant and minimal, 4:5 aspect ratio."
       }
     },
     {
-      "id": "20260110-EN-00031",
-      "date": "2026-01-10",
+      "id": "20260111-EN-031",
+      "date": "2026-01-11",
       "category": "english",
       "type": "vocabulary",
       "tags": [
@@ -575,6 +587,785 @@
         "definition": "A person living a wild, unrestrained lifestyle.",
         "example_sentence": "The dissolute students threw parties every weekend.",
         "image_prompt": "Studio Ghibli style illustration of dissolute college students partying in messy dorm, no studying, 4:5 aspect ratio"
+      }
+    },
+    {
+      "id": "20260112-EN-032",
+      "date": "2026-01-12",
+      "category": "english",
+      "type": "word",
+      "tags": ["behavior", "discipline"],
+      "word_anglicized": "Truant",
+      "word_native": "Truant",
+      "image_url": "images/truant.jpg",
+      "content_payload": {
+        "definition": "A person who stays away from school or duty without permission.",
+        "example_sentence": "While classrooms buzzed with lessons, the truant wandered through empty streets, feeling freedom laced with quiet unease.",
+        "image_prompt": "Studio Ghibli style illustration of a teen walking alone through sunlit empty streets during school hours, distant school building behind, reflective mood, 4:5."
+      }
+    },
+    {
+      "id": "20260113-EN-033",
+      "date": "2026-01-13",
+      "category": "english",
+      "type": "word",
+      "tags": ["deception", "work"],
+      "word_anglicized": "Malingerer",
+      "word_native": "Malingerer",
+      "image_url": "images/malingerer.jpg",
+      "content_payload": {
+        "definition": "A person who pretends to be ill to avoid responsibilities.",
+        "example_sentence": "The malingerer lay wrapped in blankets, fake coughing while secretly checking work messages, relieved he had escaped another demanding day.",
+        "image_prompt": "Studio Ghibli style illustration of a person lounging on couch with fake illness props while office skyline glows outside window, ironic contrast, 4:5."
+      }
+    },
+    {
+      "id": "20260114-EN-034",
+      "date": "2026-01-14",
+      "category": "english",
+      "type": "word",
+      "tags": ["purity", "condition"],
+      "word_anglicized": "Pristine",
+      "word_native": "Pristine",
+      "image_url": "images/pristine.jpg",
+      "content_payload": {
+        "definition": "In perfect, untouched condition.",
+        "example_sentence": "The pristine snowfield stretched endlessly, unmarred by footprints, glowing softly under the early morning sun.",
+        "image_prompt": "Studio Ghibli style illustration of untouched snowy landscape under golden sunrise, smooth surface, serene stillness, 4:5."
+      }
+    },
+    {
+      "id": "20260115-EN-035",
+      "date": "2026-01-15",
+      "category": "english",
+      "type": "word",
+      "tags": ["emotion", "curiosity"],
+      "word_anglicized": "Agog",
+      "word_native": "Agog",
+      "image_url": "images/agog.jpg",
+      "content_payload": {
+        "definition": "Filled with eager curiosity or amazement.",
+        "example_sentence": "The crowd stood agog as the massive curtain lifted, revealing a glowing stage set unlike anything they had imagined.",
+        "image_prompt": "Studio Ghibli style illustration of audience frozen in awe as curtain rises to reveal brilliant stage, wide eyes, dramatic lighting, 4:5."
+      }
+    },
+    {
+      "id": "20260116-EN-036",
+      "date": "2026-01-16",
+      "category": "english",
+      "type": "word",
+      "tags": ["courage", "character"],
+      "word_anglicized": "Doughty",
+      "word_native": "Doughty",
+      "image_url": "images/doughty.jpg",
+      "content_payload": {
+        "definition": "Brave and persistent despite difficulties.",
+        "example_sentence": "The doughty firefighter charged through smoke and collapsing beams, driven solely by the hope of saving trapped lives.",
+        "image_prompt": "Studio Ghibli style illustration of firefighter advancing through smoke and flames, strong posture, heroic tone, cinematic light, 4:5."
+      }
+    },
+
+    {
+      "id": "20260117-EN-037",
+      "date": "2026-01-17",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["risk", "idiom"],
+      "word_anglicized": "Walking on thin ice",
+      "word_native": "Walking on thin ice",
+      "image_url": "images/thin_ice.jpg",
+      "content_payload": {
+        "definition": "Being in a risky situation that could easily lead to trouble.",
+        "example_sentence": "By openly challenging leadership during the meeting, she knew she was walking on thin ice.",
+        "image_prompt": "Studio Ghibli style illustration of a person cautiously stepping over cracked ice above dark water, tense balance, cold tones, 4:5."
+      }
+    },
+
+    {
+      "id": "20260118-EN-038",
+      "date": "2026-01-18",
+      "category": "english",
+      "type": "word",
+      "tags": ["clarity", "speech"],
+      "word_anglicized": "Obfuscate",
+      "word_native": "Obfuscate",
+      "image_url": "images/obfuscate.jpg",
+      "content_payload": {
+        "definition": "To deliberately make something unclear.",
+        "example_sentence": "The report was filled with dense charts and vague language meant to obfuscate the uncomfortable truth.",
+        "image_prompt": "Studio Ghibli style illustration of documents dissolving into foggy symbols, confused figures in background, muted colors, 4:5."
+      }
+    },
+
+    {
+      "id": "20260119-EN-039",
+      "date": "2026-01-19",
+      "category": "english",
+      "type": "word",
+      "tags": ["emotion", "atmosphere"],
+      "word_anglicized": "Palpable",
+      "word_native": "Palpable",
+      "image_url": "images/palpable.jpg",
+      "content_payload": {
+        "definition": "So intense it feels tangible.",
+        "example_sentence": "The disappointment was palpable as the final results appeared on the screen.",
+        "image_prompt": "Studio Ghibli style illustration of crowd watching screen with heavy emotional tension visible in posture and expressions, dim lighting, 4:5."
+      }
+    },
+
+    {
+      "id": "20260120-EN-040",
+      "date": "2026-01-20",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["work", "idiom"],
+      "word_anglicized": "Burn the midnight oil",
+      "word_native": "Burn the midnight oil",
+      "image_url": "images/midnight_oil.jpg",
+      "content_payload": {
+        "definition": "To work late into the night.",
+        "example_sentence": "She burned the midnight oil, surrounded by empty coffee cups and glowing screens.",
+        "image_prompt": "Studio Ghibli style illustration of a late-night desk scene with lamp, coffee cups, dark city outside window, focused mood, 4:5."
+      }
+    },
+
+    {
+      "id": "20260121-EN-041",
+      "date": "2026-01-21",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "emotion"],
+      "word_anglicized": "Austere",
+      "word_native": "Austere",
+      "image_url": "images/austere.jpg",
+      "content_payload": {
+        "definition": "Severely simple or strict.",
+        "example_sentence": "The austere room contained only a bed, a desk, and a single window overlooking a gray courtyard.",
+        "image_prompt": "Studio Ghibli style illustration of minimalist empty room with cold light and bare furniture, stark mood, 4:5."
+      }
+    },
+
+    {
+      "id": "20260122-EN-042",
+      "date": "2026-01-22",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "speech"],
+      "word_anglicized": "Perspicacious",
+      "word_native": "Perspicacious",
+      "image_url": "images/perspicacious.jpg",
+      "content_payload": {
+        "definition": "Having keen insight and understanding.",
+        "example_sentence": "Her perspicacious questions cut through the confusion, instantly revealing the flaw in the plan.",
+        "image_prompt": "Studio Ghibli style illustration of person pointing calmly at chart flaw while others look surprised, spotlight effect, 4:5."
+      }
+    },
+
+    {
+      "id": "20260123-EN-043",
+      "date": "2026-01-23",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "action"],
+      "word_anglicized": "Deracinate",
+      "word_native": "Deracinate",
+      "image_url": "images/deracinate.jpg",
+      "content_payload": {
+        "definition": "To uproot or remove completely.",
+        "example_sentence": "Urban expansion threatened to deracinate centuries-old communities from their ancestral land.",
+        "image_prompt": "Studio Ghibli style illustration of old houses and trees being uprooted by construction machinery, emotional contrast, 4:5."
+      }
+    },
+
+    {
+      "id": "20260124-EN-044",
+      "date": "2026-01-24",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "honesty"],
+      "word_anglicized": "Lay all cards on the table",
+      "word_native": "Lay all cards on the table",
+      "image_url": "images/cards_table.jpg",
+      "content_payload": {
+        "definition": "To be completely honest and transparent.",
+        "example_sentence": "Tired of misunderstandings, she laid all her cards on the table during the late-night conversation.",
+        "image_prompt": "Studio Ghibli style illustration of person revealing playing cards on table during intense conversation, warm intimate lighting, 4:5."
+      }
+    },
+
+    {
+      "id": "20260125-EN-045",
+      "date": "2026-01-25",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "emotion"],
+      "word_anglicized": "Languid",
+      "word_native": "Languid",
+      "image_url": "images/languid.jpg",
+      "content_payload": {
+        "definition": "Slow and relaxed.",
+        "example_sentence": "The languid afternoon drifted by as curtains fluttered lazily in the warm breeze.",
+        "image_prompt": "Studio Ghibli style illustration of sunlit room with soft curtains and relaxed posture, calm summer mood, 4:5."
+      }
+    },
+
+    {
+      "id": "20260126-EN-046",
+      "date": "2026-01-26",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "judgment"],
+      "word_anglicized": "Fastidious",
+      "word_native": "Fastidious",
+      "image_url": "images/fastidious.jpg",
+      "content_payload": {
+        "definition": "Very attentive to detail.",
+        "example_sentence": "The fastidious editor adjusted margins and punctuation until the page was flawless.",
+        "image_prompt": "Studio Ghibli style illustration of person meticulously aligning text on page with ruler and pen, neat workspace, 4:5."
+      }
+    },
+
+    {
+      "id": "20260127-EN-047",
+      "date": "2026-01-27",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "decision"],
+      "word_anglicized": "Cross that bridge when you come to it",
+      "word_native": "Cross that bridge when you come to it",
+      "image_url": "images/bridge_future.jpg",
+      "content_payload": {
+        "definition": "Deal with a problem only when it arises.",
+        "example_sentence": "He chose not to worry about future risks, deciding to cross that bridge when he came to it.",
+        "image_prompt": "Studio Ghibli style illustration of person standing calmly before distant bridge over misty valley, contemplative mood, 4:5."
+      }
+    },
+
+    {
+      "id": "20260128-EN-048",
+      "date": "2026-01-28",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "conflict"],
+      "word_anglicized": "Contentious",
+      "word_native": "Contentious",
+      "image_url": "images/contentious.jpg",
+      "content_payload": {
+        "definition": "Likely to cause disagreement.",
+        "example_sentence": "The meeting turned contentious as opposing viewpoints clashed openly.",
+        "image_prompt": "Studio Ghibli style illustration of heated discussion around conference table, tense body language, sharp lighting, 4:5."
+      }
+    },
+
+    {
+      "id": "20260129-EN-049",
+      "date": "2026-01-29",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "emotion"],
+      "word_anglicized": "Ebullient",
+      "word_native": "Ebullient",
+      "image_url": "images/ebullient.jpg",
+      "content_payload": {
+        "definition": "Cheerful and energetic.",
+        "example_sentence": "Her ebullient laughter filled the room, lifting everyone’s spirits instantly.",
+        "image_prompt": "Studio Ghibli style illustration of person laughing joyfully in bright room, energy radiating outward, vibrant light, 4:5."
+      }
+    },
+
+    {
+      "id": "20260130-EN-050",
+      "date": "2026-01-30",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "effort"],
+      "word_anglicized": "Against the clock",
+      "word_native": "Against the clock",
+      "image_url": "images/against_clock.jpg",
+      "content_payload": {
+        "definition": "Working urgently under time pressure.",
+        "example_sentence": "The team worked against the clock as the countdown timer flashed red.",
+        "image_prompt": "Studio Ghibli style illustration of people racing to finish work as large digital timer looms overhead, urgency, 4:5."
+      }
+    },
+
+    {
+      "id": "20260131-EN-051",
+      "date": "2026-01-31",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "mindset"],
+      "word_anglicized": "Stoic",
+      "word_native": "Stoic",
+      "image_url": "images/stoic.jpg",
+      "content_payload": {
+        "definition": "Enduring pain without showing emotion.",
+        "example_sentence": "He remained stoic through the criticism, his expression unchanged.",
+        "image_prompt": "Studio Ghibli style illustration of person standing firm amid verbal storm, calm face, dramatic contrast, 4:5."
+      }
+    },
+
+    {
+      "id": "20260201-EN-052",
+      "date": "2026-02-01",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "memory"],
+      "word_anglicized": "Ephemeral",
+      "word_native": "Ephemeral",
+      "image_url": "images/ephemeral.jpg",
+      "content_payload": {
+        "definition": "Lasting for a very short time.",
+        "example_sentence": "The beauty of the fireworks was ephemeral, fading as quickly as it appeared.",
+        "image_prompt": "Studio Ghibli style illustration of fireworks dissolving into night sky, fleeting glow, poetic tone, 4:5."
+      }
+    },
+
+    {
+      "id": "20260202-EN-053",
+      "date": "2026-02-02",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "mistake"],
+      "word_anglicized": "Shoot oneself in the foot",
+      "word_native": "Shoot oneself in the foot",
+      "image_url": "images/foot_shoot.jpg",
+      "content_payload": {
+        "definition": "To harm oneself by one's own actions.",
+        "example_sentence": "By revealing confidential details, he shot himself in the foot.",
+        "image_prompt": "Studio Ghibli style illustration of person realizing mistake as broken tool lies near foot, metaphorical injury, 4:5."
+      }
+    },
+
+    {
+      "id": "20260203-EN-054",
+      "date": "2026-02-03",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "speech"],
+      "word_anglicized": "Loquacious",
+      "word_native": "Loquacious",
+      "image_url": "images/loquacious.jpg",
+      "content_payload": {
+        "definition": "Very talkative.",
+        "example_sentence": "The loquacious host filled every silence with lively anecdotes.",
+        "image_prompt": "Studio Ghibli style illustration of person animatedly talking while others listen quietly, expressive gestures, 4:5."
+      }
+    },
+
+    {
+      "id": "20260204-EN-055",
+      "date": "2026-02-04",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "emotion"],
+      "word_anglicized": "Morose",
+      "word_native": "Morose",
+      "image_url": "images/morose.jpg",
+      "content_payload": {
+        "definition": "Sullen or gloomy.",
+        "example_sentence": "He sat morose by the rain-streaked window, lost in heavy thoughts.",
+        "image_prompt": "Studio Ghibli style illustration of person sitting alone by rainy window, muted tones, introspective mood, 4:5."
+      }
+    },
+
+    {
+      "id": "20260205-EN-056",
+      "date": "2026-02-05",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "decision"],
+      "word_anglicized": "The ball is in your court",
+      "word_native": "The ball is in your court",
+      "image_url": "images/your_court.jpg",
+      "content_payload": {
+        "definition": "It is your responsibility to act next.",
+        "example_sentence": "After presenting all options, she paused, knowing the ball was now in his court.",
+        "image_prompt": "Studio Ghibli style illustration of tennis court with ball resting near one player, moment of decision, 4:5."
+      }
+    },
+
+    {
+      "id": "20260206-EN-057",
+      "date": "2026-02-06",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "conflict"],
+      "word_anglicized": "Belligerent",
+      "word_native": "Belligerent",
+      "image_url": "images/belligerent.jpg",
+      "content_payload": {
+        "definition": "Hostile or aggressive.",
+        "example_sentence": "His belligerent tone escalated the argument instantly.",
+        "image_prompt": "Studio Ghibli style illustration of person leaning forward aggressively in argument, sharp expressions, harsh lighting, 4:5."
+      }
+    },
+
+    {
+      "id": "20260207-EN-058",
+      "date": "2026-02-07",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "thought"],
+      "word_anglicized": "Cerebral",
+      "word_native": "Cerebral",
+      "image_url": "images/cerebral.jpg",
+      "content_payload": {
+        "definition": "Intellectual rather than emotional.",
+        "example_sentence": "The film was cerebral, demanding deep reflection rather than emotional reaction.",
+        "image_prompt": "Studio Ghibli style illustration of person surrounded by floating symbols and ideas, calm analytical expression, 4:5."
+      }
+    },
+
+    {
+      "id": "20260208-EN-059",
+      "date": "2026-02-08",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "surprise"],
+      "word_anglicized": "Out of the blue",
+      "word_native": "Out of the blue",
+      "image_url": "images/out_blue.jpg",
+      "content_payload": {
+        "definition": "Completely unexpected.",
+        "example_sentence": "Out of the blue, she received an offer that changed everything.",
+        "image_prompt": "Studio Ghibli style illustration of bright letter falling from clear blue sky, sense of surprise, 4:5."
+      }
+    },
+
+    {
+      "id": "20260209-EN-060",
+      "date": "2026-02-09",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "character"],
+      "word_anglicized": "Implacable",
+      "word_native": "Implacable",
+      "image_url": "images/implacable.jpg",
+      "content_payload": {
+        "definition": "Unable to be calmed or persuaded.",
+        "example_sentence": "His implacable stance left no room for negotiation.",
+        "image_prompt": "Studio Ghibli style illustration of figure standing firm against opposing crowd, immovable posture, 4:5."
+      }
+    },
+
+    {
+      "id": "20260210-EN-061",
+      "date": "2026-02-10",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "simplicity"],
+      "word_anglicized": "Artless",
+      "word_native": "Artless",
+      "image_url": "images/artless.jpg",
+      "content_payload": {
+        "definition": "Simple and without deception.",
+        "example_sentence": "Her artless honesty disarmed even the harshest critics.",
+        "image_prompt": "Studio Ghibli style illustration of person speaking openly with calm sincerity, soft light, 4:5."
+      }
+    },
+
+    {
+      "id": "20260211-EN-062",
+      "date": "2026-02-11",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "failure"],
+      "word_anglicized": "Miss the boat",
+      "word_native": "Miss the boat",
+      "image_url": "images/miss_boat.jpg",
+      "content_payload": {
+        "definition": "To miss an opportunity.",
+        "example_sentence": "By hesitating too long, he missed the boat.",
+        "image_prompt": "Studio Ghibli style illustration of person watching boat depart from dock, regretful posture, sunset tones, 4:5."
+      }
+    },
+
+    {
+      "id": "20260212-EN-063",
+      "date": "2026-02-12",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "behavior"],
+      "word_anglicized": "Surreptitious",
+      "word_native": "Surreptitious",
+      "image_url": "images/surreptitious.jpg",
+      "content_payload": {
+        "definition": "Kept secret, especially because it is disapproved of.",
+        "example_sentence": "He cast a surreptitious glance at the hidden document.",
+        "image_prompt": "Studio Ghibli style illustration of person sneaking a glance at hidden papers, shadows and secrecy, 4:5."
+      }
+    },
+
+    {
+      "id": "20260213-EN-064",
+      "date": "2026-02-13",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "emotion"],
+      "word_anglicized": "Enervated",
+      "word_native": "Enervated",
+      "image_url": "images/enervated.jpg",
+      "content_payload": {
+        "definition": "Physically or mentally drained.",
+        "example_sentence": "After weeks of effort, she felt utterly enervated.",
+        "image_prompt": "Studio Ghibli style illustration of person slumped at desk, drained posture, dim light, 4:5."
+      }
+    },
+
+    {
+      "id": "20260214-EN-065",
+      "date": "2026-02-14",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "conflict"],
+      "word_anglicized": "Add fuel to the fire",
+      "word_native": "Add fuel to the fire",
+      "image_url": "images/fuel_fire.jpg",
+      "content_payload": {
+        "definition": "To make a bad situation worse.",
+        "example_sentence": "His sarcastic remark only added fuel to the fire.",
+        "image_prompt": "Studio Ghibli style illustration of person throwing fuel onto already blazing fire, chaos intensifies, 4:5."
+      }
+    },
+
+    {
+      "id": "20260215-EN-066",
+      "date": "2026-02-15",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "judgment"],
+      "word_anglicized": "Equanimity",
+      "word_native": "Equanimity",
+      "image_url": "images/equanimity.jpg",
+      "content_payload": {
+        "definition": "Calmness under pressure.",
+        "example_sentence": "She faced the crisis with remarkable equanimity.",
+        "image_prompt": "Studio Ghibli style illustration of person meditating calmly amid surrounding chaos, centered glow, 4:5."
+      }
+    },
+
+    {
+      "id": "20260216-EN-067",
+      "date": "2026-02-16",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "behavior"],
+      "word_anglicized": "Quixotic",
+      "word_native": "Quixotic",
+      "image_url": "images/quixotic.jpg",
+      "content_payload": {
+        "definition": "Unrealistically idealistic.",
+        "example_sentence": "His quixotic plan ignored practical limitations.",
+        "image_prompt": "Studio Ghibli style illustration of dreamer reaching for stars while standing on fragile ground, poetic tone, 4:5."
+      }
+    },
+
+    {
+      "id": "20260217-EN-068",
+      "date": "2026-02-17",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "insight"],
+      "word_anglicized": "Read between the lines",
+      "word_native": "Read between the lines",
+      "image_url": "images/between_lines.jpg",
+      "content_payload": {
+        "definition": "To understand the hidden meaning.",
+        "example_sentence": "She read between the lines and sensed the warning.",
+        "image_prompt": "Studio Ghibli style illustration of text dissolving to reveal hidden symbols between lines, subtle glow, 4:5."
+      }
+    },
+
+    {
+      "id": "20260218-EN-069",
+      "date": "2026-02-18",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "intellect"],
+      "word_anglicized": "Sagacious",
+      "word_native": "Sagacious",
+      "image_url": "images/sagacious.jpg",
+      "content_payload": {
+        "definition": "Wise and perceptive.",
+        "example_sentence": "The sagacious mentor offered advice shaped by experience.",
+        "image_prompt": "Studio Ghibli style illustration of wise elder speaking calmly in warm light, attentive listener nearby, 4:5."
+      }
+    },
+
+    {
+      "id": "20260219-EN-070",
+      "date": "2026-02-19",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "emotion"],
+      "word_anglicized": "Despondent",
+      "word_native": "Despondent",
+      "image_url": "images/despondent.jpg",
+      "content_payload": {
+        "definition": "Feeling hopeless.",
+        "example_sentence": "He sat despondent after the rejection letter arrived.",
+        "image_prompt": "Studio Ghibli style illustration of person holding letter, slumped posture, gray tones, 4:5."
+      }
+    },
+
+    {
+      "id": "20260220-EN-071",
+      "date": "2026-02-20",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "change"],
+      "word_anglicized": "Turn over a new leaf",
+      "word_native": "Turn over a new leaf",
+      "image_url": "images/new_leaf.jpg",
+      "content_payload": {
+        "definition": "To make a fresh start.",
+        "example_sentence": "After the setback, she resolved to turn over a new leaf.",
+        "image_prompt": "Studio Ghibli style illustration of fresh green leaf turning in sunlight, hopeful tone, 4:5."
+      }
+    },
+
+    {
+      "id": "20260221-EN-072",
+      "date": "2026-02-21",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "speech"],
+      "word_anglicized": "Taciturn",
+      "word_native": "Taciturn",
+      "image_url": "images/taciturn.jpg",
+      "content_payload": {
+        "definition": "Reserved and quiet.",
+        "example_sentence": "The taciturn colleague spoke only when necessary.",
+        "image_prompt": "Studio Ghibli style illustration of quiet figure sitting apart, minimal expression, subdued lighting, 4:5."
+      }
+    },
+
+    {
+      "id": "20260222-EN-073",
+      "date": "2026-02-22",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "emotion"],
+      "word_anglicized": "Exultant",
+      "word_native": "Exultant",
+      "image_url": "images/exultant.jpg",
+      "content_payload": {
+        "definition": "Joyful and triumphant.",
+        "example_sentence": "The team was exultant after the final victory.",
+        "image_prompt": "Studio Ghibli style illustration of group celebrating victory, raised arms, bright energy, 4:5."
+      }
+    },
+
+    {
+      "id": "20260223-EN-074",
+      "date": "2026-02-23",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "honesty"],
+      "word_anglicized": "Come clean",
+      "word_native": "Come clean",
+      "image_url": "images/come_clean.jpg",
+      "content_payload": {
+        "definition": "To confess honestly.",
+        "example_sentence": "He finally came clean about the mistake.",
+        "image_prompt": "Studio Ghibli style illustration of person speaking truth with relieved expression, soft light, 4:5."
+      }
+    },
+
+    {
+      "id": "20260224-EN-075",
+      "date": "2026-02-24",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "mood"],
+      "word_anglicized": "Capricious",
+      "word_native": "Capricious",
+      "image_url": "images/capricious.jpg",
+      "content_payload": {
+        "definition": "Impulsive and unpredictable.",
+        "example_sentence": "The weather turned capricious without warning.",
+        "image_prompt": "Studio Ghibli style illustration of sky shifting rapidly from sun to storm, dramatic contrast, 4:5."
+      }
+    },
+
+    {
+      "id": "20260225-EN-076",
+      "date": "2026-02-25",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "thinking"],
+      "word_anglicized": "Pedantic",
+      "word_native": "Pedantic",
+      "image_url": "images/pedantic.jpg",
+      "content_payload": {
+        "definition": "Overly concerned with minor details.",
+        "example_sentence": "His pedantic corrections disrupted the flow of discussion.",
+        "image_prompt": "Studio Ghibli style illustration of person pointing at tiny text details while others look impatient, 4:5."
+      }
+    },
+
+    {
+      "id": "20260226-EN-077",
+      "date": "2026-02-26",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "risk"],
+      "word_anglicized": "Bite off more than you can chew",
+      "word_native": "Bite off more than you can chew",
+      "image_url": "images/bite_more.jpg",
+      "content_payload": {
+        "definition": "To take on too much.",
+        "example_sentence": "By agreeing to lead all projects, she bit off more than she could chew.",
+        "image_prompt": "Studio Ghibli style illustration of person overwhelmed by oversized task load, symbolic imagery, 4:5."
+      }
+    },
+
+    {
+      "id": "20260227-EN-078",
+      "date": "2026-02-27",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "logic"],
+      "word_anglicized": "Specious",
+      "word_native": "Specious",
+      "image_url": "images/specious.jpg",
+      "content_payload": {
+        "definition": "Appearing true but actually false.",
+        "example_sentence": "The argument sounded convincing but was ultimately specious.",
+        "image_prompt": "Studio Ghibli style illustration of shiny façade cracking to reveal weakness underneath, metaphorical logic, 4:5."
+      }
+    },
+
+    {
+      "id": "20260228-EN-079",
+      "date": "2026-02-28",
+      "category": "english",
+      "type": "word",
+      "tags": ["gre", "speech"],
+      "word_anglicized": "Garrulous",
+      "word_native": "Garrulous",
+      "image_url": "images/garrulous.jpg",
+      "content_payload": {
+        "definition": "Excessively talkative.",
+        "example_sentence": "The garrulous passenger spoke nonstop throughout the flight.",
+        "image_prompt": "Studio Ghibli style illustration of person talking animatedly while others look exhausted, confined setting, 4:5."
+      }
+    },
+
+    {
+      "id": "20260229-EN-080",
+      "date": "2026-02-29",
+      "category": "english",
+      "type": "idiom",
+      "tags": ["idiom", "success"],
+      "word_anglicized": "On cloud nine",
+      "word_native": "On cloud nine",
+      "image_url": "images/cloud_nine.jpg",
+      "content_payload": {
+        "definition": "Extremely happy.",
+        "example_sentence": "She was on cloud nine after hearing the long-awaited news.",
+        "image_prompt": "Studio Ghibli style illustration of person standing joyfully atop glowing clouds, sky bathed in light, dreamy mood, 4:5."
       }
     }
   ]
