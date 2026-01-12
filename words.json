@@ -673,7 +673,7 @@
       "tags": ["risk", "idiom"],
       "word_anglicized": "Walking on thin ice",
       "word_native": "Walking on thin ice",
-      "image_url": "images/thin_ice.jpg",
+      "image_url": "images/walking_on_thin_ice.jpg",
       "content_payload": {
         "definition": "Being in a risky situation that could easily lead to trouble.",
         "example_sentence": "By openly challenging leadership during the meeting, she knew she was walking on thin ice.",
@@ -717,15 +717,15 @@
       "id": "20260120-EN-040",
       "date": "2026-01-20",
       "category": "english",
-      "type": "idiom",
-      "tags": ["work", "idiom"],
-      "word_anglicized": "Burn the midnight oil",
-      "word_native": "Burn the midnight oil",
-      "image_url": "images/midnight_oil.jpg",
+      "type": "word",
+      "tags": ["experiment", "creativity"],
+      "word_anglicized": "Dabbled",
+      "word_native": "Dabbled",
+      "image_url": "images/dabbled.jpg",
       "content_payload": {
-        "definition": "To work late into the night.",
-        "example_sentence": "She burned the midnight oil, surrounded by empty coffee cups and glowing screens.",
-        "image_prompt": "Studio Ghibli style illustration of a late-night desk scene with lamp, coffee cups, dark city outside window, focused mood, 4:5."
+        "definition": "To take part in an activity in a casual or superficial way.",
+        "example_sentence": "She had dabbled in painting for years before deciding to exhibit her work professionally.",
+        "image_prompt": "Studio Ghibli style illustration of a person experimenting with watercolor paints near a bright window, relaxed creative mood, 4:5."
       }
     },
 
@@ -734,14 +734,14 @@
       "date": "2026-01-21",
       "category": "english",
       "type": "word",
-      "tags": ["gre", "emotion"],
-      "word_anglicized": "Austere",
-      "word_native": "Austere",
-      "image_url": "images/austere.jpg",
+      "tags": ["courage", "initiative"],
+      "word_anglicized": "Gumption",
+      "word_native": "Gumption",
+      "image_url": "images/gumption.jpg",
       "content_payload": {
-        "definition": "Severely simple or strict.",
-        "example_sentence": "The austere room contained only a bed, a desk, and a single window overlooking a gray courtyard.",
-        "image_prompt": "Studio Ghibli style illustration of minimalist empty room with cold light and bare furniture, stark mood, 4:5."
+        "definition": "Resourcefulness and determination; spirited initiative.",
+        "example_sentence": "It took real gumption for him to rebuild the startup after the first major failure.",
+        "image_prompt": "Studio Ghibli style illustration of a determined young inventor working late under warm lamp light, tools and sketches scattered, hopeful tone, 4:5."
       }
     },
 
@@ -750,14 +750,14 @@
       "date": "2026-01-22",
       "category": "english",
       "type": "word",
-      "tags": ["gre", "speech"],
-      "word_anglicized": "Perspicacious",
-      "word_native": "Perspicacious",
-      "image_url": "images/perspicacious.jpg",
+      "tags": ["light", "beauty"],
+      "word_anglicized": "Glistening",
+      "word_native": "Glistening",
+      "image_url": "images/glistening.jpg",
       "content_payload": {
-        "definition": "Having keen insight and understanding.",
-        "example_sentence": "Her perspicacious questions cut through the confusion, instantly revealing the flaw in the plan.",
-        "image_prompt": "Studio Ghibli style illustration of person pointing calmly at chart flaw while others look surprised, spotlight effect, 4:5."
+        "definition": "Shining with a sparkling light, often because of wetness or smoothness.",
+        "example_sentence": "Rain had left the streets glistening under the soft glow of lamplight.",
+        "image_prompt": "Studio Ghibli style illustration of a rainy street reflecting city lights, puddles shimmering gently, peaceful night atmosphere, 4:5."
       }
     },
 
