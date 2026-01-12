@@ -337,237 +337,183 @@
       }
     },
     {
-      "id": "20251229-COD-019",
+      "id": "20251229-EN-019",
       "date": "2025-12-29",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "python",
-        "syntax",
-        "productivity"
-      ],
-      "word_anglicized": "List comprehension",
-      "word_native": "List comprehension",
-      "image_url": "images/list_comprehension.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["persuasion", "debate"],
+      "word_anglicized": "Eloquent",
+      "word_native": "Eloquent",
+      "image_url": "images/eloquent.jpg",
       "content_payload": {
-        "definition": "A concise way to create lists in Python using a single expressive line.",
-        "example_sentence": "He replaced a clumsy loop with a clean list comprehension.",
-        "code_snippet": "numbers = [1, 2, 3, 4, 5]\nsquares = [n**2 for n in numbers]\nprint(squares)",
-        "image_prompt": "Oil painting inspired visualization of numbers flowing through a sleek glass pipe and emerging as squared numbers, set on a minimalist desk with a laptop showing Python code, cool techy palette, 4:5 aspect ratio."
+        "definition": "Fluent or persuasive in speaking or writing.",
+        "example_sentence": "Her eloquent defense of the policy swayed even the harshest critics.",
+        "image_prompt": "Oil painting anime style of a speaker on stage with words flowing like golden ribbons from their mouth, captivating a diverse audience in a grand hall, dramatic lighting, Disney Pixar emotional depth, 4:5."
       }
     },
     {
-      "id": "20251230-COD-020",
+      "id": "20251230-EN-020",
       "date": "2025-12-30",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "python",
-        "functions",
-        "reusability"
-      ],
-      "word_anglicized": "Decorator",
-      "word_native": "Decorator",
-      "image_url": "images/decorator.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["deception", "rhetoric"],
+      "word_anglicized": "Rhetoric",
+      "word_native": "Rhetoric",
+      "image_url": "images/rhetoric.jpg",
       "content_payload": {
-        "definition": "A Python feature that lets you modify or enhance functions without changing their code.",
-        "example_sentence": "They used a decorator to log every API call automatically.",
-        "code_snippet": "def log_call(func):\n    def wrapper(*args, **kwargs):\n        print(\"Calling\", func.__name__)\n        return func(*args, **kwargs)\n    return wrapper\n\n@log_call\ndef greet(name):\n    print(f\"Hello {name}\")",
-        "image_prompt": "Ghibli-style art of a plain gift box being wrapped with a glowing decorative ribbon that adds new patterns, symbolizing a function gaining extra powers, set on a coder’s tidy desk with a Python logo mug, 4:5 aspect ratio."
+        "definition": "The art of persuasive speaking or writing, sometimes empty or insincere.",
+        "example_sentence": "His speech was full of stirring rhetoric but lacked concrete solutions.",
+        "image_prompt": "Disney Pixar style illustration of a politician weaving colorful speech bubbles that sparkle enticingly but dissolve into smoke upon touch, worried crowd below, vibrant modern palette, 4:5."
       }
     },
     {
-      "id": "20251231-COD-021",
+      "id": "20251231-EN-021",
       "date": "2025-12-31",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "python",
-        "resources"
-      ],
-      "word_anglicized": "Context manager",
-      "word_native": "Context manager",
-      "image_url": "images/context_manager.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["context", "analysis"],
+      "word_anglicized": "Nuance",
+      "word_native": "Nuance",
+      "image_url": "images/nuance.jpg",
       "content_payload": {
-        "definition": "A Python construct that sets up and cleans up resources automatically.",
-        "example_sentence": "Using a context manager ensured the file always closed properly.",
-        "code_snippet": "with open(\"data.txt\") as f:\n    content = f.read()\n    print(content)",
-        "image_prompt": "Oil painting of a magical doorway that opens to reveal glowing files and then gently closes by itself, with a Python script displayed on a nearby monitor, calm and reassuring mood, 4:5 aspect ratio."
+        "definition": "A subtle difference in meaning, expression, or sound.",
+        "example_sentence": "The skilled translator understood the nuance in the original poem and captured every subtle shade of meaning in her version.",
+        "image_prompt": "Oil painting anime style of translator carefully examining words in dim library light, with subtle gradient shifts between shades showing fine distinctions, Disney Pixar thoughtful expression, Ghibli delicate hand gestures, modern beautiful palette of grays and soft golds, 4:5."
       }
     },
     {
-      "id": "20260101-COD-022",
+      "id": "20260101-EN-022",
       "date": "2026-01-01",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "python",
-        "performance"
-      ],
-      "word_anglicized": "Generator",
-      "word_native": "Generator",
-      "image_url": "images/generator.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["innovation", "exams"],
+      "word_anglicized": "Paradigm",
+      "word_native": "Paradigm",
+      "image_url": "images/paradigm.jpg",
       "content_payload": {
-        "definition": "A function that yields values one at a time instead of building a full list in memory.",
-        "example_sentence": "Switching to a generator made processing the huge dataset efficient.",
-        "code_snippet": "def countdown(n):\n    while n > 0:\n        yield n\n        n -= 1\n\nfor num in countdown(3):\n    print(num)",
-        "image_prompt": "Anime-style conveyor belt in a factory releasing glowing numbered orbs one by one instead of dumping them all at once, coder observing statistics on a tablet, simple futuristic background, 4:5 aspect ratio."
+        "definition": "A typical example or pattern of something; a model.",
+        "example_sentence": "Renewable energy represents a new paradigm in power generation.",
+        "image_prompt": "Modern anime style with oil painting textures showing a massive puzzle framework shifting from coal factories to wind turbines under dramatic skies, symbolic transformation, Pixar-level detail, 4:5."
       }
     },
     {
-      "id": "20260102-COD-023",
+      "id": "20260102-EN-023",
       "date": "2026-01-02",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "python",
-        "environment"
-      ],
-      "word_anglicized": "Virtual environment",
-      "word_native": "Virtual environment",
-      "image_url": "images/virtual_environment.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["isolation", "debate"],
+      "word_anglicized": "Siloed",
+      "word_native": "Siloed",
+      "image_url": "images/siloed.jpg",
       "content_payload": {
-        "definition": "An isolated Python environment with its own dependencies.",
-        "example_sentence": "She created a virtual environment so project libraries wouldn’t clash.",
-        "code_snippet": "python -m venv venv\nsource venv/bin/activate\npip install requests",
-        "image_prompt": "Oil painting of a transparent glass dome on a desk containing a tiny city of Python packages, separate from a messy outside landscape of tangled wires, representing isolation and order, 4:5 aspect ratio."
+        "definition": "Isolated from others, especially in organizational contexts.",
+        "example_sentence": "Siloed departments struggled to coordinate during the crisis response.",
+        "image_prompt": "Disney Pixar 3D render of office buildings as literal grain silos disconnected across a barren landscape, workers waving from windows wanting connection, modern architectural style, 4:5."
       }
     },
     {
-      "id": "20260103-COD-024",
+      "id": "20260103-EN-024",
       "date": "2026-01-03",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "swift",
-        "state",
-        "ui"
-      ],
-      "word_anglicized": "@State",
-      "word_native": "@State",
-      "image_url": "images/state_property.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["ambition", "leadership"],
+      "word_anglicized": "Audacious",
+      "word_native": "Audacious",
+      "image_url": "images/audacious.jpg",
       "content_payload": {
-        "definition": "A SwiftUI property wrapper that lets a view manage its own mutable state.",
-        "example_sentence": "They used @State to track whether the card was flipped.",
-        "code_snippet": "@State private var isFlipped = false\n\nButton(\"Flip\") {\n    isFlipped.toggle()\n}",
-        "image_prompt": "Ghibli-style depiction of a card on a desk with a glowing toggle switch above it labeled 'state', flipping the card from front to back when pressed, gentle teal and orange palette, 4:5 aspect ratio."
+        "definition": "Boldly daring; recklessly brave.",
+        "example_sentence": "The audacious proposal to colonize Mars captured global imagination.",
+        "image_prompt": "Studio Ghibli inspired oil painting of a lone astronaut leaping toward a massive red planet, rocket trail blazing behind, epic scale and heroic composition, warm Martian tones, 4:5."
       }
     },
     {
-      "id": "20260104-COD-025",
+      "id": "20260104-EN-025",
       "date": "2026-01-04",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "swift",
-        "binding",
-        "data_flow"
-      ],
-      "word_anglicized": "Binding",
-      "word_native": "Binding",
-      "image_url": "images/binding.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["connection", "exams"],
+      "word_anglicized": "Synthesis",
+      "word_native": "Synthesis",
+      "image_url": "images/synthesis.jpg",
       "content_payload": {
-        "definition": "A two-way connection between data and a SwiftUI view.",
-        "example_sentence": "The slider used a binding to update the shared brightness value.",
-        "code_snippet": "Slider(value: $brightness, in: 0...1)\nText(\"Brightness: \\(brightness)\")",
-        "image_prompt": "Modern anime art of two glowing orbs connected by a soft energy ribbon labeled 'data', moving in sync as one is pushed, set against a minimalist SwiftUI-inspired interface, 4:5 aspect ratio."
+        "definition": "The combination of ideas to form a coherent whole.",
+        "example_sentence": "Her essay's strength lay in its synthesis of historical and economic perspectives.",
+        "image_prompt": "Anime oil painting fusion of scattered idea fragments (books, gears, lightbulbs) swirling together into a glowing crystal orb, magical alchemy process, modern ethereal lighting, 4:5."
       }
     },
     {
-      "id": "20260105-COD-026",
+      "id": "20260105-EN-026",
       "date": "2026-01-05",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "swift",
-        "ui",
-        "styling"
-      ],
-      "word_anglicized": "Modifier",
-      "word_native": "Modifier",
-      "image_url": "images/modifier.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["flattery", "debate"],
+      "word_anglicized": "Adulation",
+      "word_native": "Adulation",
+      "image_url": "images/adulation.jpg",
       "content_payload": {
-        "definition": "A SwiftUI method that returns a new view with extra styling or behavior applied.",
-        "example_sentence": "Chaining modifiers made the card look polished with just a few lines.",
-        "code_snippet": "Text(\"Jigya\")\n    .font(.largeTitle)\n    .padding()\n    .background(Color.blue)\n    .cornerRadius(16)",
-        "image_prompt": "Oil painting of a simple white card being passed through a series of glowing frames, each adding color, shadows, and rounded corners, like a magical assembly line for UI, 4:5 aspect ratio."
+        "definition": "Excessive praise or admiration.",
+        "example_sentence": "The celebrity's every move was met with mindless adulation from fans.",
+        "image_prompt": "Disney Pixar style crowd scene with golden hearts and sparkles rising toward a distant star figure on pedestal, cartoonish exaggeration of worship, vibrant celebratory colors, 4:5."
       }
     },
     {
-      "id": "20260106-COD-027",
+      "id": "20260106-EN-027",
       "date": "2026-01-06",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "swift",
-        "xcode",
-        "preview"
-      ],
-      "word_anglicized": "Preview provider",
-      "word_native": "Preview provider",
-      "image_url": "images/preview_provider.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["foresight", "exams"],
+      "word_anglicized": "Prescient",
+      "word_native": "Prescient",
+      "image_url": "images/prescient.jpg",
       "content_payload": {
-        "definition": "A SwiftUI type that supplies live previews of views in Xcode.",
-        "example_sentence": "The preview provider let them tweak the card design without rebuilding.",
-        "code_snippet": "struct CardView_Previews: PreviewProvider {\n    static var previews: some View {\n        CardView(...)\n    }\n}",
-        "image_prompt": "Ghibli style scene of an artist at a MacBook surrounded by floating miniature versions of the same card design, each slightly different, representing live previews, cozy workspace lighting, 4:5 aspect ratio."
+        "definition": "Having knowledge of events before they take place.",
+        "example_sentence": "Her prescient warning about market volatility saved the firm millions.",
+        "image_prompt": "Oil painting anime style of a wise figure gazing into crystal ball showing future cityscape with flying cars, surrounded by amazed onlookers, Studio Ghibli mystical atmosphere, 4:5."
       }
     },
     {
-      "id": "20260107-DL-028",
+      "id": "20260107-EN-028",
       "date": "2026-01-07",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "deep_learning",
-        "training"
-      ],
-      "word_anglicized": "Backpropagation",
-      "word_native": "Backpropagation",
-      "image_url": "images/backpropagation.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["contradiction", "logic"],
+      "word_anglicized": "Paradox",
+      "word_native": "Paradox",
+      "image_url": "images/paradox.jpg",
       "content_payload": {
-        "definition": "The algorithm that adjusts neural network weights by propagating errors backward.",
-        "example_sentence": "Backpropagation allowed the model to learn from its mistakes.",
-        "code_snippet": "# Pseudocode\nloss = criterion(pred, target)\nloss.backward()\noptimizer.step()",
-        "image_prompt": "Oil painting of a layered neural network drawn as glowing nodes and arrows, with a bright signal moving forward and a soft red signal flowing backward to adjust them, set on a dark techy background, 4:5 aspect ratio."
+        "definition": "A statement that seems self-contradictory but may be true.",
+        "example_sentence": "The paradox of thrift suggests that everyone saving more can harm the economy.",
+        "image_prompt": "Modern Pixar-inspired 3D art of two hands holding opposite-facing mirrors creating infinite contradictory reflections, surreal geometric patterns, thought-provoking composition, 4:5."
       }
     },
     {
-      "id": "20260108-DL-029",
+      "id": "20260108-EN-029",
       "date": "2026-01-08",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "deep_learning",
-        "generalization"
-      ],
-      "word_anglicized": "Overfitting",
-      "word_native": "Overfitting",
-      "image_url": "images/overfitting.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["bias", "debate"],
+      "word_anglicized": "Confirmation bias",
+      "word_native": "Confirmation bias",
+      "image_url": "images/confirmation_bias.jpg",
       "content_payload": {
-        "definition": "When a model learns training data too precisely and fails on new data.",
-        "example_sentence": "The model looked perfect in training but clearly overfitted in production.",
-        "code_snippet": "# Symptom: training loss ↓ while validation loss ↑",
-        "image_prompt": "Ghibli-inspired chart where a model character perfectly traces every tiny bump of a squiggly training line, while a separate test line drifts far away, humorous yet clear, soft colors, 4:5 aspect ratio."
+        "definition": "Tendency to seek evidence confirming preexisting beliefs.",
+        "example_sentence": "Confirmation bias led investors to ignore warning signs about the bubble.",
+        "image_prompt": "Oil painting anime of a person wearing glasses that only let green checkmarks through while red warning signs shatter against the lenses, dramatic psychological tension, 4:5."
       }
     },
     {
-      "id": "20260109-DL-030",
+      "id": "20260109-EN-030",
       "date": "2026-01-09",
-      "category": "coding",
-      "type": "code",
-      "tags": [
-        "deep_learning",
-        "transformers"
-      ],
-      "word_anglicized": "Attention mechanism",
-      "word_native": "Attention mechanism",
-      "image_url": "images/attention_mechanism.jpg",
+      "category": "english",
+      "type": "word",
+      "tags": ["focus", "psychology"],
+      "word_anglicized": "Salient",
+      "word_native": "Salient",
+      "image_url": "images/salient.jpg",
       "content_payload": {
-        "definition": "A neural network component that focuses on the most relevant parts of the input.",
-        "example_sentence": "The attention mechanism helped the model focus on key words in the sentence.",
-        "code_snippet": "# Conceptual: attention weights highlight important tokens\nscores = softmax(Q @ K.T)\ncontext = scores @ V",
-        "image_prompt": "Anime-style visualization of a sentence as floating word cards, with glowing beams highlighting a few important words while others fade slightly, all connected to a central thinking head icon, elegant and minimal, 4:5 aspect ratio."
+        "definition": "Most noticeable or important.",
+        "example_sentence": "Climate change was the most salient issue in the election cycle.",
+        "image_prompt": "Disney Pixar render of one bright glowing object amidst dull gray shapes, all eyes and spotlights converging on it, high contrast modern minimalist style, 4:5."
       }
     },
     {
@@ -785,7 +731,7 @@
       "tags": ["idiom", "honesty"],
       "word_anglicized": "Lay all cards on the table",
       "word_native": "Lay all cards on the table",
-      "image_url": "images/cards_table.jpg",
+      "image_url": "images/lay_all_cards_on_the_table.jpg",
       "content_payload": {
         "definition": "To be completely honest and transparent.",
         "example_sentence": "Tired of misunderstandings, she laid all her cards on the table during the late-night conversation.",
@@ -833,7 +779,7 @@
       "tags": ["idiom", "decision"],
       "word_anglicized": "Cross that bridge when you come to it",
       "word_native": "Cross that bridge when you come to it",
-      "image_url": "images/bridge_future.jpg",
+      "image_url": "images/cross_that_bridge_when_you_come_to_it.jpg",
       "content_payload": {
         "definition": "Deal with a problem only when it arises.",
         "example_sentence": "He chose not to worry about future risks, deciding to cross that bridge when he came to it.",
@@ -881,7 +827,7 @@
       "tags": ["idiom", "effort"],
       "word_anglicized": "Against the clock",
       "word_native": "Against the clock",
-      "image_url": "images/against_clock.jpg",
+      "image_url": "images/against_the_clock.jpg",
       "content_payload": {
         "definition": "Working urgently under time pressure.",
         "example_sentence": "The team worked against the clock as the countdown timer flashed red.",
@@ -929,7 +875,7 @@
       "tags": ["idiom", "mistake"],
       "word_anglicized": "Shoot oneself in the foot",
       "word_native": "Shoot oneself in the foot",
-      "image_url": "images/foot_shoot.jpg",
+      "image_url": "images/shoot_oneself_in_the_foot.jpg",
       "content_payload": {
         "definition": "To harm oneself by one's own actions.",
         "example_sentence": "By revealing confidential details, he shot himself in the foot.",
@@ -977,7 +923,7 @@
       "tags": ["idiom", "decision"],
       "word_anglicized": "The ball is in your court",
       "word_native": "The ball is in your court",
-      "image_url": "images/your_court.jpg",
+      "image_url": "images/the_ball_is_in_your_court.jpg",
       "content_payload": {
         "definition": "It is your responsibility to act next.",
         "example_sentence": "After presenting all options, she paused, knowing the ball was now in his court.",
@@ -1025,7 +971,7 @@
       "tags": ["idiom", "surprise"],
       "word_anglicized": "Out of the blue",
       "word_native": "Out of the blue",
-      "image_url": "images/out_blue.jpg",
+      "image_url": "images/out_of_the_blue.jpg",
       "content_payload": {
         "definition": "Completely unexpected.",
         "example_sentence": "Out of the blue, she received an offer that changed everything.",
@@ -1073,7 +1019,7 @@
       "tags": ["idiom", "failure"],
       "word_anglicized": "Miss the boat",
       "word_native": "Miss the boat",
-      "image_url": "images/miss_boat.jpg",
+      "image_url": "images/miss_the_boat.jpg",
       "content_payload": {
         "definition": "To miss an opportunity.",
         "example_sentence": "By hesitating too long, he missed the boat.",
@@ -1121,7 +1067,7 @@
       "tags": ["idiom", "conflict"],
       "word_anglicized": "Add fuel to the fire",
       "word_native": "Add fuel to the fire",
-      "image_url": "images/fuel_fire.jpg",
+      "image_url": "images/add_fuel_to_the_fire.jpg",
       "content_payload": {
         "definition": "To make a bad situation worse.",
         "example_sentence": "His sarcastic remark only added fuel to the fire.",
@@ -1169,7 +1115,7 @@
       "tags": ["idiom", "insight"],
       "word_anglicized": "Read between the lines",
       "word_native": "Read between the lines",
-      "image_url": "images/between_lines.jpg",
+      "image_url": "images/read_between_the_lines.jpg",
       "content_payload": {
         "definition": "To understand the hidden meaning.",
         "example_sentence": "She read between the lines and sensed the warning.",
@@ -1217,7 +1163,7 @@
       "tags": ["idiom", "change"],
       "word_anglicized": "Turn over a new leaf",
       "word_native": "Turn over a new leaf",
-      "image_url": "images/new_leaf.jpg",
+      "image_url": "images/turn_over_a_new_leaf.jpg",
       "content_payload": {
         "definition": "To make a fresh start.",
         "example_sentence": "After the setback, she resolved to turn over a new leaf.",
@@ -1313,7 +1259,7 @@
       "tags": ["idiom", "risk"],
       "word_anglicized": "Bite off more than you can chew",
       "word_native": "Bite off more than you can chew",
-      "image_url": "images/bite_more.jpg",
+      "image_url": "images/bite_off_more_than_you_can_chew.jpg",
       "content_payload": {
         "definition": "To take on too much.",
         "example_sentence": "By agreeing to lead all projects, she bit off more than she could chew.",
@@ -1361,7 +1307,7 @@
       "tags": ["idiom", "success"],
       "word_anglicized": "On cloud nine",
       "word_native": "On cloud nine",
-      "image_url": "images/cloud_nine.jpg",
+      "image_url": "images/on_cloud_nine.jpg",
       "content_payload": {
         "definition": "Extremely happy.",
         "example_sentence": "She was on cloud nine after hearing the long-awaited news.",
