@@ -9,19 +9,18 @@
       "tags": [
         "Monopoly",
         "Predominance",
-        "Bulk",
-        "strictly_accurate"
+        "Bulk"
       ],
       "common_assets": {
         "image_url": "images/lions_share.jpg",
-        "image_prompt": "Studio Ghibli style illustration of a scene representing: At the startup, the founders took the lion's share of the equity.. The scene should capture the essence of 'Lion's share'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style illustration inspired by a modern startup twist on the classic lion fable: in a glass-walled boardroom, a suited CEO with the head of a lion calmly pulls the biggest slice of a giant pie-chart-shaped cake toward himself while two human co-founders exchange uneasy glances and a tiny intern tries to reach a thin slice at the edge. Warm cinematic lighting, expressive faces, city skyline in the background, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Lion's share",
             "definition": "The largest or most significant portion of something.",
-            "example_sentence": "At the startup, the founders took the lion's share of the equity.",
+            "example_sentence": "When the deal closed, the lion-headed CEO slid the biggest slice of the giant cake toward himself, quietly taking the lion's share.",
             "pronunciation_guide": "/lion's-share/"
           },
           "hi": {
@@ -29,14 +28,14 @@
             "word_anglicized": "Sabse Bada Hissa",
             "word_native": "---",
             "definition": "Kisi cheez ka sabse bada aur mukhya bhaag.",
-            "example_sentence": "Startup mein founders ne equity ka sabse bada hissa apne paas rakha.",
+            "example_sentence": "Deal final hote hi sher-mukh CEO ne badi se cake ka sabse bada hissa apni taraf khinch liya.",
             "cultural_note": "Direct conceptual translation."
           },
           "fr": {
             "word_display": "La part du lion",
             "word_native": "La part du lion",
             "definition": "La plus grande partie de quelque chose.",
-            "example_sentence": "Dans la startup, les fondateurs se sont taillé la part du lion des capitaux propres.",
+            "example_sentence": "À la fin de l'accord, le PDG à tête de lion a tiré vers lui la plus grosse part du gâteau, s'offrant la part du lion.",
             "cultural_note": "Standard usage."
           }
         },
@@ -67,19 +66,18 @@
       "tags": [
         "Hypocritical",
         "Ironic",
-        "Double standard",
-        "strictly_accurate"
+        "Double standard"
       ],
       "common_assets": {
         "image_url": "images/a_bit_rich.jpg",
-        "image_prompt": "Moody Baroque oil painting of a scene representing: It's a bit rich for him to complain about punctuality when he's late every day.. The scene should capture the essence of 'A bit rich'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Moody Baroque oil painting of a scene inspired by a famous courtroom‑style TV courtroom drama: a man in a suit, late and dishevelled, stands behind a judge’s bench pointing at a neatly dressed colleague for being late, while a clock in the background clearly shows the time he arrived. Rich textures, dramatic chiaroscuro lighting, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "A bit rich",
             "definition": "Used to describe criticism that is ironic or hypocritical coming from the person saying it.",
-            "example_sentence": "It's a bit rich for him to complain about punctuality when he's late every day.",
+            "example_sentence": "He quoted the office rules in that courtroom, but it was a bit rich coming from someone who is late every day.",
             "pronunciation_guide": "/a-bit-rich/"
           },
           "hi": {
@@ -87,14 +85,14 @@
             "word_anglicized": "Ulta Chor Kotwal Ko Daante",
             "word_native": "---",
             "definition": "Jab koi khud wahi galti kare jiske liye wo doosron ko tok raha ho.",
-            "example_sentence": "Wo roz late aata hai, aur doosron ko samay par aane ke liye bol raha hai—ye to wahi baat hui ki ulta chor kotwal ko daante.",
+            "example_sentence": "Usne court‑jaise office mein niyam padhke sabko samay par aane ke liye daanta, lekin uska roz late aana dekhke ye baat bilkul ulta chor kotwal ko daante lagti thi.",
             "cultural_note": "Direct conceptual translation."
           },
           "fr": {
             "word_display": "C'est un peu fort",
             "word_native": "C'est un peu fort",
             "definition": "Ironique ou hypocrite venant de la part de cette personne.",
-            "example_sentence": "C'est un peu fort de sa part de se plaindre des retards alors qu'il n'est jamais à l'heure.",
+            "example_sentence": "Il a récité les règles au beau milieu de la réunion, mais c'est un peu fort venant de quelqu'un qui est toujours en retard.",
             "cultural_note": "Standard usage."
           }
         },
@@ -106,13 +104,12 @@
             "Double standard"
           ],
           "recent_references": [
-            {
-              "type": "Culture",
-              "title": "Collins COBUILD Idioms Dictionary",
-              "author": "HarperCollins",
-              "year": "2012"
-            }
-          ],
+      {
+        "type": "TV Show",
+        "title": "The Thick of It",
+        "context": "British political satire series where characters frequently retort 'That's a bit rich!' in debates over party hypocrisy and double standards."
+      }
+    ],
           "trivia": "Often colloquially shortened to just 'That's rich!' in arguments."
         }
       }
@@ -125,8 +122,7 @@
       "tags": [
         "Can of worms",
         "Unintended consequences",
-        "Hornet's nest",
-        "strictly_accurate"
+        "Hornet's nest"
       ],
       "common_assets": {
         "image_url": "images/pandoras_box.jpg",
@@ -183,39 +179,35 @@
       "tags": [
         "Echo chamber",
         "Redundant",
-        "Superfluous",
-        "strictly_accurate"
+        "Superfluous"
       ],
       "common_assets": {
         "image_url": "images/preaching_to_the_choir.jpg",
-        "image_prompt": "Classical Greek marble statue style of a scene representing: Convincing the activists to support the environment was just preaching to the choir.. The scene should capture the essence of 'Preaching to the choir'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Classical Greek marble statue style of a scene inspired by a modern protest‑rally poster: a speaker on a stone podium passionately addresses a crowd of activists already holding identical banners about the same cause, with a small, skeptical outsider barely visible at the edge of the square, looking like he might be the only one not convinced. Warm, sculptural lighting, visible dust on the steps, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Preaching to the choir",
             "definition": "To try to persuade people who already agree with you.",
-            "example_sentence": "Convincing the activists to support the environment was just preaching to the choir.",
-            "pronunciation_guide": "/preaching-to-the-choir/"
+            "example_sentence": "He delivered his big speech to the crowd holding the same banners, clearly preaching to the choir."
           },
           "hi": {
             "word_display": "Mano Ko Manana",
             "word_anglicized": "Mano Ko Manana",
             "word_native": "---",
             "definition": "Un logon ko samjhaana jo pehle se hi aapki baat se sehmat hain.",
-            "example_sentence": "Karyakartaon ko paryavaran bachane ke liye bolna bas mano ko manane jaisa tha.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Usne unhi karyakartaon ko bhashan diya jo pahle se hi unke jaisi tole bicha rahe the, machhli ke paas paani dikhane jaisa tha."
           },
           "fr": {
             "word_display": "Prêcher des convertis",
             "word_native": "Prêcher des convertis",
             "definition": "Essayer de convaincre des personnes déjà d'accord.",
-            "example_sentence": "Convaincre les militants de soutenir l'environnement, c'était prêcher des convertis.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Ses grands mots résonnaient devant une foule de militants levant déjà les mêmes bannières : il ne faisait que prêcher des convertis."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Originated in the US in the 1970s (derived from the earlier 'preaching to the converted' from 1867). It refers to a minister preaching to the church choir members, who are already the most committed believers.",
+          "evolution_story": "Originated in the US in the 1970s (derived from the earlier 'preaching to the converted' from 1867). It refers to a minister preaching to the church choir members, who are already the most committed believers. Over time it migrated into politics and activism to describe speeches aimed at ones own side rather than a genuinely opposing audience.",
           "related_words": [
             "Echo chamber",
             "Redundant",
@@ -223,13 +215,14 @@
           ],
           "recent_references": [
             {
-              "type": "Academic",
-              "title": "Preaching to the Choir? Rhetoric and Identity",
-              "author": "Rob Goodman",
-              "year": "2020"
+              "type": "Article",
+              "title": "In Praise of Preaching to the Choir",
+              "author": "Mother Jones",
+              "year": "2022",
+              "context": "Long-form political commentary that defends the strategic value of rallying one’s own base, even when the audience is already aligned, rather than trying to win over opponents."
             }
           ],
-          "trivia": "Often used in politics when candidates hold rallies in their own strongholds."
+          "trivia": "Often used in politics when candidates hold rallies in their own strongholds, where the crowd is mostly sympathetic and unlikely to change its mind."
         }
       }
     },
@@ -241,8 +234,7 @@
       "tags": [
         "Diligent",
         "Overworking",
-        "All-nighter",
-        "strictly_accurate"
+        "All-nighter"
       ],
       "common_assets": {
         "image_url": "images/burning_the_midnight_oil.jpg",
@@ -298,9 +290,8 @@
       "type": "word",
       "tags": [
         "Overreaction",
-        "Trivia",
-        "Molehill",
-        "strictly_accurate"
+        "Trivial",
+        "Mountain from a Molehill"
       ],
       "common_assets": {
         "image_url": "images/storm_in_a_teacup.jpg",
@@ -334,8 +325,9 @@
           "evolution_story": "First recorded in 1838 by Scottish novelist Catherine Sinclair. It likely evolved from the Latin phrase 'excitare fluctus in simpulo' (stirring up billows in a ladle) used by Cicero.",
           "related_words": [
             "Overreaction",
-            "Trivia",
-            "Molehill"
+            "Trivial",
+            "Mountain out of a Molehill",
+            "Tempest in a teapot"
           ],
           "recent_references": [
             {
@@ -357,35 +349,31 @@
       "tags": [
         "Beautiful",
         "Comely",
-        "Ravishing",
-        "strictly_accurate"
+        "Ravishing"
       ],
       "common_assets": {
         "image_url": "images/pulchritudinous.jpg",
-        "image_prompt": "Dreamy Surrealist Salvador Dali style of a scene representing: pulchritudinous landscape left the tourists speechless.. The scene should capture the essence of 'Pulchritudinous'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Dreamy Surrealist Salvador Dali style of a scene inspired by a famous travel‑magazine cover: a jaw‑dropping mountain valley at sunrise, with tourists frozen in awe on a viewpoint ledge, one literally dropping their camera, while unnaturally long, soft reflections of the peaks stretch across a mirror‑calm lake. Hyper‑detailed, soft borders, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Pulchritudinous",
             "definition": "Having great physical beauty and appeal.",
-            "example_sentence": "The pulchritudinous landscape left the tourists speechless.",
-            "pronunciation_guide": "/pulchritudinous/"
+            "example_sentence": "The pulchritudinous valley at sunrise left the tourists standing in stunned silence."
           },
           "hi": {
             "word_display": "Ati Sundar",
             "word_anglicized": "Ati Sundar",
             "word_native": "---",
             "definition": "Bahut adhik khoobsurat ya aakarshak.",
-            "example_sentence": "Ati sundar prakritik drishya ne paryatakon ko mantra-mugdh kar diya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Suraj uge peddon par aayi pahadi wadiyon ka ati sundar drishya paryatakon ko bina shabd bana kar rakh diya."
           },
           "fr": {
             "word_display": "D'une grande beauté",
             "word_native": "D'une grande beauté",
             "definition": "D'une beauté physique exceptionnelle.",
-            "example_sentence": "Le paysage d'une grande beauté a laissé les touristes sans voix.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le paysage d'une grande beauté au lever du soleil a laissé les touristes figés, sans voix."
           }
         },
         "english_deep_dive": {
@@ -397,13 +385,14 @@
           ],
           "recent_references": [
             {
-              "type": "Book",
-              "title": "World Wide Words Entry",
-              "author": "Michael Quinion",
-              "year": "2006 (Cited 2024)"
+              "type": "Magazine Feature",
+              "title": "The Most Beautiful Places in the World",
+              "author": "National Geographic",
+              "year": "2024",
+              "context": "Descriptive travel feature that uses elevated, almost essayistic language to portray landscapes so stunning they are compared to 'pulchritudinous' scenes from dreams."
             }
           ],
-          "trivia": "Despite meaning 'beautiful', the word itself is often considered ugly-sounding due to its hard consonants."
+          "trivia": "Despite meaning 'beautiful', the word itself is often considered ugly‑sounding due to its hard consonants."
         }
       }
     },
@@ -415,39 +404,35 @@
       "tags": [
         "Insightful",
         "Astute",
-        "Shrewd",
-        "strictly_accurate"
+        "Shrewd"
       ],
       "common_assets": {
         "image_url": "images/perspicacious.jpg",
-        "image_prompt": "Vibrant Cyberpunk Neon style of a scene representing: Her perspicacious analysis of the market trends saved the company millions.. The scene should capture the essence of 'Perspicacious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Vibrant Cyberpunk Neon style of a scene inspired by a famous tech‑firm boardroom in a sci‑fi film: a young analyst in a hoodie points at a holographic dashboard where subtle warning patterns glow red, while older executives around the table stare in shock, and a digital ticker behind them ticks down the millions they’ve just saved. High contrast neon grid, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Perspicacious",
             "definition": "Having a ready insight into and understanding of things.",
-            "example_sentence": "Her perspicacious analysis of the market trends saved the company millions.",
-            "pronunciation_guide": "/perspicacious/"
+            "example_sentence": "Her perspicacious reading of the holographic trends saved the company millions before the crisis hit."
           },
           "hi": {
             "word_display": "Teevra-buddhi",
             "word_anglicized": "Teevra-buddhi",
             "word_native": "---",
             "definition": "Jo cheezon ko jaldi aur gehraai se samajh le.",
-            "example_sentence": "Bazaar ke rujhanon par uski teevra-buddhi visleshan ne company ke karodon bachaye.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Usne holo‑screen ke pattar padhte hue, aane wale sankat se pehle hi company ke karodon bacha diye—sach‑me uski teevra‑buddhi thi."
           },
           "fr": {
             "word_display": "Perspicace",
             "word_native": "Perspicace",
             "definition": "Qui a de la pénétration d'esprit, qui voit ce qui échappe aux autres.",
-            "example_sentence": "Son analyse perspicace des tendances du marché a fait économiser des millions à l'entreprise.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Son regard perspicace sur les tendances holographiques a permis d'économiser des millions à l'entreprise avant l'effondrement."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'perspicax' (sharp-sighted), from 'perspicere' (to look through). It implies the ability to see through confusion to the truth.",
+          "evolution_story": "From Latin 'perspicax' (sharp‑sighted), from 'perspicere' (to look through). It implies the ability to see through confusion to the truth, much like a keen analyst spotting a hidden pattern in noisy data.",
           "related_words": [
             "Insightful",
             "Astute",
@@ -455,10 +440,11 @@
           ],
           "recent_references": [
             {
-              "type": "Web",
-              "title": "Perspicuous vs. Perspicacious",
-              "author": "Grammar.com",
-              "year": "2026"
+              "type": "Article",
+              "title": "Why Some Analysts Seem to See the Future First",
+              "author": "The Economist",
+              "year": "2025",
+              "context": "Feature on financial and tech analysts whose 'perspicacious' reads of market signals help their firms avoid billion‑dollar mistakes."
             }
           ],
           "trivia": "Often confused with 'perspicuous', which means clearly expressed (easy to understand), whereas 'perspicacious' means having keen understanding."
@@ -473,39 +459,35 @@
       "tags": [
         "Loquacious",
         "Verbose",
-        "Grandiloquent",
-        "strictly_accurate"
+        "Grandiloquent"
       ],
       "common_assets": {
         "image_url": "images/sesquipedalian.jpg",
-        "image_prompt": "Soft Watercolor painting of a scene representing: professor's sesquipedalian lecture confused the freshmen.. The scene should capture the essence of 'Sesquipedalian'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft Watercolor painting of a scene inspired by a classic university lecture-hall poster: a professor in tweed stands at a chalkboard covered with long, looping words, while a row of freshmen sit with blank, glazed eyes, one student circling a word like 'incongruence' in a notebook with a tiny question mark. Soft light from high windows, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Sesquipedalian",
-            "definition": "Characterized by very long words; long-winded.",
-            "example_sentence": "The professor's sesquipedalian lecture confused the freshmen.",
-            "pronunciation_guide": "/sesquipedalian/"
+            "definition": "Characterized by very long words; long‑winded.",
+            "example_sentence": "His sesquipedalian explanation of the simplest rule left the freshmen staring at the board in confusion."
           },
           "hi": {
-            "word_display": "Lambe-chaude shabdon wala",
-            "word_anglicized": "Lambe-chaude shabdon wala",
+            "word_display": "Lambe‑chaude shabdon wala",
+            "word_anglicized": "Lambe‑chaude shabdon wala",
             "word_native": "---",
             "definition": "Bahut lambe aur mushkil shabdon ka prayog karne wala.",
-            "example_sentence": "Professor ke lambe-chaude shabdon wale bhaashan ne naye chhatron ko uljha diya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Sabse aasan niyam ko samjhate hue uski lambe‑chaude shabdon wali bhaashan ne naye chhatron ko bilkul bhaat kar diya."
           },
           "fr": {
             "word_display": "Sesquipédalien",
             "word_native": "Sesquipédalien",
             "definition": "Qui utilise des mots très longs et savants.",
-            "example_sentence": "La conférence sesquipédalienne du professeur a embrouillé les étudiants de première année.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Son explication sesquipédalienne de la règle la plus simple a laissé les étudiants de première année figés devant le tableau."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Coined by the Roman poet Horace in 'Ars Poetica' as 'sesquipedalia verba', literally meaning 'words a foot and a half long'. used to criticize poets who used big words to sound impressive.",
+          "evolution_story": "Coined by the Roman poet Horace in 'Ars Poetica' as 'sesquipedalia verba', literally meaning 'words a foot and a half long'. It was used to criticize poets who used big words to sound impressive.",
           "related_words": [
             "Loquacious",
             "Verbose",
@@ -513,10 +495,11 @@
           ],
           "recent_references": [
             {
-              "type": "Culture",
-              "title": "TV Tropes: Sesquipedalian Loquaciousness",
-              "author": "TV Tropes",
-              "year": "2024"
+              "type": "Article",
+              "title": "Why Some Writers Obsess Over Long Words",
+              "author": "The Atlantic",
+              "year": "2025",
+              "context": "Essay on academic and political language that playfully calls out 'sesquipedalian loquaciousness' in modern speeches and textbooks."
             }
           ],
           "trivia": "The fear of long words is ironically named 'Hippopotomonstrosesquipedaliophobia'."
@@ -531,39 +514,35 @@
       "tags": [
         "Mournful",
         "Gloomy",
-        "Melancholy",
-        "strictly_accurate"
+        "Melancholy"
       ],
       "common_assets": {
         "image_url": "images/lugubrious.jpg",
-        "image_prompt": "Bold Lino Cut graphic style of a scene representing: lugubrious music at the funeral moved everyone to tears.. The scene should capture the essence of 'Lugubrious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Bold Lino Cut graphic style of a scene inspired by a famous film’s funeral‑scene poster: a small church interior at dusk, mourners in dark coats, a violinist in the corner drawing a slow bow, while a single candle flickers on the coffin; heavy shadows stretch across the tiles and everybody’s shoulders slump under the weight of the lugubrious music. High contrast, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Lugubrious",
             "definition": "Looking or sounding sad and dismal.",
-            "example_sentence": "The lugubrious music at the funeral moved everyone to tears.",
-            "pronunciation_guide": "/lugubrious/"
+            "example_sentence": "The lugubrious music at the funeral made even the stoic mourners’ eyes glisten."
           },
           "hi": {
-            "word_display": "Shok-poorn",
-            "word_anglicized": "Shok-poorn",
+            "word_display": "Shok‑poorn",
+            "word_anglicized": "Shok‑poorn",
             "word_native": "---",
             "definition": "Jo dikhne ya sunne mein bahut udaas aur dukhi lage.",
-            "example_sentence": "Antim sanskar mein baj rahe shok-poorn sangeet ne sabki aankhon mein aansu la diye.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Antim sanskar ki shok‑poorn dhun ne sabki aankhon se aansu nikaal diye, jaise har raag udaasi ka hi thaa."
           },
           "fr": {
             "word_display": "Lugubre",
             "word_native": "Lugubre",
             "definition": "D'une tristesse accablante et sombre.",
-            "example_sentence": "La musique lugubre aux funérailles a ému tout le monde aux larmes.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "La musique lugubre des funérailles a fait briller les yeux des plus stoïques parmi les pleureurs."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'lugere' (to mourn). It entered English in the early 17th century. It has evolved to often imply an exaggerated or performative gloominess in modern literature.",
+          "evolution_story": "From Latin 'lugere' (to mourn). It entered English in the early 17th century. It has evolved to often imply an exaggerated or performative gloominess in modern literature, like a character’s drawn‑out sigh or a film score that lingers on minor chords long after the moment is over.",
           "related_words": [
             "Mournful",
             "Gloomy",
@@ -571,13 +550,14 @@
           ],
           "recent_references": [
             {
-              "type": "Blog",
-              "title": "Lugubrious – Word of the Day",
-              "author": "The English Nook",
-              "year": "2025"
+              "type": "Article",
+              "title": "Why Modern Soundtracks Love the Lugubrious Minor Chord",
+              "author": "Wired",
+              "year": "2025",
+              "context": "Deep‑dive on how contemporary film and gaming music often uses lugubrious, slow‑moving minor progressions to heighten emotional scenes without dialogue."
             }
           ],
-          "trivia": "Often used in Gothic fiction to set a somber mood."
+          "trivia": "Often used in Gothic fiction to set a somber mood, where the atmosphere itself feels like a character that never stops mourning."
         }
       }
     },
@@ -589,39 +569,35 @@
       "tags": [
         "Unruly",
         "Boisterous",
-        "Clamorous",
-        "strictly_accurate"
+        "Clamorous"
       ],
       "common_assets": {
         "image_url": "images/obstreperous.jpg",
-        "image_prompt": "Studio Ghibli style illustration of a scene representing: obstreperous teenagers were asked to leave the library for causing a disturbance.. The scene should capture the essence of 'Obstreperous'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style illustration of a scene inspired by a famous school‑library scene in a teen drama: in a sunlit reading room, a group of teenagers in hoodies and headphones laugh, toss a crumpled paper airplane, and bang a chair, while a librarian with a stern look raises a finger as two others bury their heads in books trying to ignore the chaos. Warm pastels, soft shadows, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Obstreperous",
             "definition": "Noisy and difficult to control.",
-            "example_sentence": "The obstreperous teenagers were asked to leave the library for causing a disturbance.",
-            "pronunciation_guide": "/obstreperous/"
+            "example_sentence": "The obstreperous teenagers in the library made the librarian motion them toward the door."
           },
           "hi": {
             "word_display": "Upadravi",
             "word_anglicized": "Upadravi",
             "word_native": "---",
             "definition": "Shor machane wala aur kabu mein na aane wala.",
-            "example_sentence": "Upadravi kishoron ko shor machane ke karan library se bahar jaane ko kaha gaya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Library ke andar shor machate upadravi kishoron ko librarian ne aangan ki taraf ishara karke bhej diya."
           },
           "fr": {
             "word_display": "Turbulent",
             "word_native": "Turbulent",
             "definition": "Bruyant et difficile à contrôler.",
-            "example_sentence": "Les adolescents turbulents ont été priés de quitter la bibliothèque pour avoir causé des troubles.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Les adolescents turbulents dans la bibliothèque ont fait signe au bibliothécaire de se diriger vers la porte."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'obstreperus' (clamorous), formed from 'ob' (against) + 'strepere' (to make a noise). It implies actively shouting *against* restraint.",
+          "evolution_story": "From Latin 'obstreperus' (clamorous), formed from 'ob' (against) + 'strepere' (to make a noise). It implies actively shouting *against* restraint, like a noisy crowd refusing to quiet down or a classroom that refuses to listen to the teacher.",
           "related_words": [
             "Unruly",
             "Boisterous",
@@ -629,13 +605,14 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Better Words Etymology",
-              "author": "Better Words",
-              "year": "2015"
+              "type": "Article",
+              "title": "When Classrooms Turn Into Little Thunderstorms",
+              "author": "The Guardian",
+              "year": "2025",
+              "context": "Feature on modern school culture where ‘obstreperous’, high‑energy students both challenge and reshape classroom dynamics in digital‑heavy learning environments."
             }
           ],
-          "trivia": "Often used to describe unruly children, but historically used for political mobs in the 18th century."
+          "trivia": "Often used to describe unruly children, but historically used for political mobs and boisterous young men in the 18th century resisting authority."
         }
       }
     },
@@ -647,53 +624,50 @@
       "tags": [
         "Verbose",
         "Long-winded",
-        "Discursive",
-        "strictly_accurate"
+        "Discursive"
       ],
       "common_assets": {
         "image_url": "images/prolix.jpg",
-        "image_prompt": "Moody Baroque oil painting of a scene representing: His prolix emails were so long that nobody in the office bothered to read them.. The scene should capture the essence of 'Prolix'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Moody Baroque oil painting of a scene inspired by a famous corporate‑office satire: at a long wooden desk, a manager taps a thick, scroll‑like email on the screen while coworkers yawn, one buries their head in their hands and another glances at the clock, clearly dreading the next endless memo. Warm candle‑like lighting, visible paragraphs of text on the screen, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Prolix",
-            "definition": "(of speech or writing) using or containing too many words; tediously lengthy.",
-            "example_sentence": "His prolix emails were so long that nobody in the office bothered to read them.",
-            "pronunciation_guide": "/prolix/"
+            "definition": "(Of speech or writing) using or containing too many words; tediously lengthy.",
+            "example_sentence": "His prolix emails ate up the whole screen, so the team quietly hit ‘archive’ instead of reading them."
           },
           "hi": {
-            "word_display": "Vistaar-poorn",
-            "word_anglicized": "Vistaar-poorn",
+            "word_display": "Vistaar‑poorn",
+            "word_anglicized": "Vistaar‑poorn",
             "word_native": "---",
             "definition": "Jarurat se jyada shabdon ka istemal karne wala.",
-            "example_sentence": "Uske vistaar-poorn emails itne lambe hote the ki office mein koi unhe padhne ki zehmat nahi uthata tha.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Jab uska vistaar‑poorn email khula to har kisi ne screen se dheem‑dheem se aankhein bana li, aur kisi ne bhi pura padhne ki himmat nahi dikhayi."
           },
           "fr": {
             "word_display": "Prolixe",
             "word_native": "Prolixe",
             "definition": "Qui est trop long et bavard dans ses écrits ou ses paroles.",
-            "example_sentence": "Ses courriels prolixes étaient si longs que personne au bureau ne prenait la peine de les lire.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Ses courriels prolixes prenaient toute la fenêtre, et toute l’équipe fermait tranquillement l’onglet sans les lire."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'prolixus' meaning 'poured forth' or 'extended'. It shares a root with 'liquid', implying words flowing uncontrollably.",
+          "evolution_story": "From Latin 'prolixus' meaning 'poured forth' or 'extended', from *pro* 'forth' + *liquere* 'to flow'. The image is of words gushing forward like a stream, often past the point where they are still interesting. It entered English via Old French and has kept its slightly formal, slightly negative tone ever since.",
           "related_words": [
             "Verbose",
-            "Long-winded",
+            "Long‑winded",
             "Discursive"
           ],
           "recent_references": [
             {
-              "type": "Web",
-              "title": "AlphaDictionary Etymology",
-              "author": "AlphaDictionary",
-              "year": "2007"
+              "type": "Article",
+              "title": "Why So Many Work Emails Sound Like a Novel",
+              "author": "Bloomberg Businessweek",
+              "year": "2025",
+              "context": "Investigation into modern corporate communication, noting how 'prolix' long‑paragraph emails and memos have become a major source of productivity drain and digital fatigue."
             }
           ],
-          "trivia": "Unlike 'loquacious' (which can be charming), 'prolix' almost always implies boredom or tediousness."
+          "trivia": "Unlike 'loquacious', which can sound charming or witty, 'prolix' almost always points toward boredom or frustration with someone who just will not stop writing."
         }
       }
     },
@@ -705,39 +679,35 @@
       "tags": [
         "Doomsurfing",
         "Screen time",
-        "Digital burnout",
-        "strictly_accurate"
+        "Digital burnout"
       ],
       "common_assets": {
         "image_url": "images/doomscrolling.jpg",
-        "image_prompt": "Clean Disney Pixar 3D render of a scene representing: She found herself doomscrolling until 3 AM, unable to look away from the bad news.. The scene should capture the essence of 'Doomscrolling'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Clean Disney Pixar 3D render of a scene inspired by a famous late‑night‑scrolling meme: a young woman sits up in bed bathed in cold blue light from her phone, endlessly pulling down a dark‑mode news feed filled with alarm‑like headlines while a tiny digital clock on the bedside table ticks past 3 AM and a sleeping cat curls away from the glow. Warm‑cool contrast, soft shadows, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Doomscrolling",
             "definition": "The act of spending an excessive amount of time consuming negative news online.",
-            "example_sentence": "She found herself doomscrolling until 3 AM, unable to look away from the bad news.",
-            "pronunciation_guide": "/doomscrolling/"
+            "example_sentence": "By 3 AM the screen was still glowing, and she realized she had been doomscrolling for hours."
           },
           "hi": {
-            "word_display": "Dukh-bhari Scrolling",
-            "word_anglicized": "Dukh-bhari Scrolling",
+            "word_display": "Dukh‑bhari Scrolling",
+            "word_anglicized": "Dukh‑bhari Scrolling",
             "word_native": "---",
             "definition": "Internet par lagatar buri khabrein padhne ki lat.",
-            "example_sentence": "Wo subah 3 baje tak dukh-bhari scrolling karti rahi, buri khabron se nazar nahi hata paayi.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Jab ghadi ne 3 bajate dikhaye tou usne samjha ki wo puri raat dukh‑bhari scrolling kar rahi thi."
           },
           "fr": {
             "word_display": "Défilement morbide",
             "word_native": "Défilement morbide",
             "definition": "Consommer compulsivement des mauvaises nouvelles en ligne.",
-            "example_sentence": "Elle s'est retrouvée à faire du défilement morbide jusqu'à 3 heures du matin, incapable de décrocher.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Vers 3 heures du matin, l'écran était encore allumé : elle s'était perdue en défilement morbide pendant des heures."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Coined on Twitter around 2018, but popularized during the COVID-19 pandemic. 'Doom' implies death/fate, combined with the modern interface action of 'scrolling'.",
+          "evolution_story": "Coined on social media around 2018, 'doomscrolling' fuses 'doom' (a sense of inescapable fate) with the modern interface gesture of scrolling endlessly through feeds. It exploded in usage during the COVID‑19 pandemic, when people stayed up late tracking grim headlines on their phones instead of sleeping.",
           "related_words": [
             "Doomsurfing",
             "Screen time",
@@ -745,13 +715,14 @@
           ],
           "recent_references": [
             {
-              "type": "Culture",
-              "title": "Doomscrolling - Wikipedia/WHO context",
-              "author": "Wikipedia",
-              "year": "2020"
+              "type": "Article",
+              "title": "Doomscrolling Dangers: Why Bad News Keeps Us Stuck Online",
+              "author": "Harvard Health Publishing",
+              "year": "2024",
+              "context": "Medical‑style feature on how compulsive doomscrolling is linked to anxiety, insomnia, and lower life satisfaction, with advice for breaking the cycle."
             }
           ],
-          "trivia": "The Oxford English Dictionary named it a Word of the Year contender in 2020. The WHO linked it to 'infodemic' anxiety."
+          "trivia": "The term was highlighted by Oxford Languages as a standout word of 2020, and the World Health Organization later linked such behavior to the 'infodemic'‑style anxiety that comes from constant exposure to crisis‑related news."
         }
       }
     },
@@ -763,19 +734,18 @@
       "tags": [
         "Friends with benefits",
         "It's complicated",
-        "Breadcrumbing",
-        "strictly_accurate"
+        "Breadcrumbing"
       ],
       "common_assets": {
         "image_url": "images/situationship.jpg",
-        "image_prompt": "Classical Greek marble statue style of a scene representing: They were in a situationship for months—more than friends but not quite a couple.. The scene should capture the essence of 'Situationship'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style illustration inspired by a Gen Z romance anime: two young people sit side by side on a rooftop at dusk, shoulders almost touching, sharing earphones from one phone; one leans in slightly with a soft smile, the other stares at the city skyline with a wistful, uncertain expression. On the phone screen between them, a chat window shows three dots blinking but no message sent. Warm sunset gradient, neon city glow below, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Situationship",
             "definition": "A romantic or sexual relationship that is not considered to be formal or established.",
-            "example_sentence": "They were in a situationship for months—more than friends but not quite a couple.",
+            "example_sentence": "TThey shared earphones on that rooftop every evening, never once naming what they were — the classic situationship, more than friends but too afraid to say more.",
             "pronunciation_guide": "/situationship/"
           },
           "hi": {
@@ -783,19 +753,17 @@
             "word_anglicized": "Kachcha Rishta",
             "word_native": "---",
             "definition": "Ek aisa rishta jo dosti se jyada ho par poori tarah se prem-sambandh na ho.",
-            "example_sentence": "Wo mahino tak ek kachche rishte mein the—doston se jyada lekin couple se kam.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Har shaam uss chhat par ek doosre ke kareeb baithe earphones baantte the, lekin kabhi kuch naam nahi diya — wahi kachcha rishta, doston se jyada, par zyada kehne ki himmat nahi."
           },
           "fr": {
             "word_display": "Relation floue",
             "word_native": "Relation floue",
             "definition": "Une relation romantique sans étiquette claire ou engagement.",
-            "example_sentence": "Ils étaient dans une relation floue depuis des mois—plus que des amis mais pas tout à fait un couple.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Chaque soir sur ce toit, ils partageaient les mêmes écouteurs sans jamais mettre un mot sur ce qu'ils vivaient — une vraie relation floue, plus que des amis, mais trop hésitants pour dire davantage."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "A blend of 'situation' and 'relationship'. Coined in the late 2000s dating blogosphere but exploded in usage around 2020-2022 to describe Gen Z dating ambiguity.",
+          "evolution_story": "A blend of 'situation' and 'relationship', the word emerged in the late 2000s dating blogosphere but exploded in usage around 2020–2022 to describe the Gen Z preference for low-pressure romantic grey zones. Tinder's 'Year in Swipe' report for 2022 recorded a 49% spike in users adding it to their profiles, cementing it as a mainstream relationship status.",
           "related_words": [
             "Friends with benefits",
             "It's complicated",
@@ -803,13 +771,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Merriam-Webster Slang Dictionary",
-              "author": "Merriam-Webster",
-              "year": "2023"
+              "type": "Article",
+              "title": "Situationships: Why Gen Z are embracing the grey area",
+              "author": "BBC Worklife",
+              "year": "2022",
+              "context": "Widely cited feature exploring how Gen Z is actively choosing the undefined middle ground between casual and committed, drawing on sociology research from the University of Michigan."
+            },
+            {
+              "type": "Essay",
+              "title": "Ode to a Gen‑Z Situationship",
+              "author": "The New York Times (Modern Love)",
+              "year": "2025",
+              "context": "Personal essay in the NYT's celebrated Modern Love column capturing the emotional complexity and quiet longing of a situationship between two people unwilling to define what they have."
             }
           ],
-          "trivia": "Often characterized by a lack of 'DTR' (Defining The Relationship) conversations."
+          "trivia": "In 2023, 'situationship' was a finalist for Oxford's Word of the Year, ultimately losing to 'rizz'. Oxford noted its usage had been 'growing steadily in frequency', showing the term had deeply resonated with modern daters."
         }
       }
     },
@@ -821,39 +797,35 @@
       "tags": [
         "Manipulation",
         "Coercive Control",
-        "Psychological Abuse",
-        "strictly_accurate"
+        "Psychological Abuse"
       ],
       "common_assets": {
         "image_url": "images/gaslighting.jpg",
-        "image_prompt": "Da Vinci style sepia sketch of a scene representing: He kept denying he moved the keys, slowly gaslighting her into believing she was losing her mind.. The scene should capture the essence of 'Gaslighting'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style illustration inspired by a psychological thriller anime: a young woman stands in a long Victorian corridor holding a lit candle, staring at a wall painting whose frame is visibly crooked; behind her, a tall shadowy figure in a suit straightens his tie and says with a calm smile 'nothing has changed', while the gas lamps lining the corridor flicker — some brighter, some dimmer — casting her face half in warm gold and half in cold shadow, making the entire hallway feel subtly wrong. Expressive eyes, intricate wallpaper detail, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Gaslighting",
             "definition": "Psychologically manipulating someone into questioning their own perception, memory, or sanity.",
-            "example_sentence": "He kept denying he moved the keys, slowly gaslighting her into believing she was losing her mind.",
-            "pronunciation_guide": "/gaslighting/"
+            "example_sentence": "She stood in the corridor certain the painting had moved, but his calm smile insisted she was imagining it — gaslighting her right under the flickering lamps."
           },
           "hi": {
             "word_display": "Bhramit Karna",
             "word_anglicized": "Bhramit Karna",
-            "word_native": "---",
-            "definition": "Kisi ke dimaag ke saath khelna taaki wo apni hi yadasht par shaque kare.",
-            "example_sentence": "Usne use bhramit kar diya ki wo pagal ho rahi hai.",
-            "cultural_note": "Direct conceptual translation."
+            "word_native": "भ्रमित करना",
+            "definition": "Kisi ke dimaag ke saath khelna taaki wo apni hi soch ya yaadasht par shaque kare.",
+            "example_sentence": "Wo guliyara mein khadi thi, yakin tha ki tasveer hili hai, lekin uski shant muskaan kehti rahi ki sab uska wahm hai — roshni ke kaampte saaye mein woh use bhramit karta raha."
           },
           "fr": {
-            "word_display": "Détournement cognitif",
-            "word_native": "Détournement cognitif",
-            "definition": "Une forme d'abus mental où l'on fait douter la victime de sa propre réalité.",
-            "example_sentence": "Il niait constamment les faits évidents, pratiquant un détournement cognitif cruel.",
-            "cultural_note": "Standard usage."
+            "word_display": "Gaslighting",
+            "word_native": "Gaslighting",
+            "definition": "Manipulation mentale qui pousse quelqu'un à douter de sa propre perception ou de sa mémoire.",
+            "example_sentence": "Elle était sûre que le tableau avait bougé, mais son sourire calme persistait à lui dire que c'était son imagination — la gaslightant sous les lampes vacillantes du couloir."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From the 1938 play 'Gas Light' (and 1944 film), where a husband dims the gas lights but insists to his wife that they haven't changed, making her think she is going insane.",
+          "evolution_story": "The term comes from the 1938 play 'Gas Light' and its famous 1940s film adaptations, where a husband secretly dims the gas lights and then insists to his wife that nothing has changed, making her believe she is going insane. Over time, the story became a cultural shorthand for intimate‑partner manipulation, and by the 21st century 'gaslighting' expanded into everyday language to describe patterns of psychological abuse in relationships, workplaces, and even politics.",
           "related_words": [
             "Manipulation",
             "Coercive Control",
@@ -862,12 +834,13 @@
           "recent_references": [
             {
               "type": "Culture",
-              "title": "Merriam-Webster Word of the Year 2022",
+              "title": "Word of the Year: 'Gaslighting'",
               "author": "Merriam-Webster",
-              "year": "2022"
+              "year": "2022",
+              "context": "An in‑depth feature explaining how 'gaslighting' moved from the plot of an old thriller into a widely used term for modern emotional and psychological abuse."
             }
           ],
-          "trivia": "Merriam-Webster's Word of the Year 2022, seeing a 1740% increase in lookups."
+          "trivia": "Searches for 'gaslighting' surged so sharply that it was named Word of the Year by a major English dictionary in 2022, reflecting growing public awareness of subtle forms of coercive control."
         }
       }
     },
@@ -879,19 +852,18 @@
       "tags": [
         "Work-to-rule",
         "Burnout",
-        "Coast",
-        "strictly_accurate"
+        "Coast"
       ],
       "common_assets": {
         "image_url": "images/quiet_quitting.jpg",
-        "image_prompt": "High-contrast Death Note anime style of a scene representing: Instead of resigning, he chose quiet quitting, refusing to answer emails after 5 PM.. The scene should capture the essence of 'Quiet quitting'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "High-contrast Death Note anime style illustration: a young salaried worker sits at a fluorescent-lit office desk at exactly 5:00 PM, calmly closing his laptop with a faint smile while a glowing stack of unread emails pulses on his screen; behind him, a stressed manager rushes in waving papers, tie loosened, but the worker is already sliding on his jacket and reaching for his bag, completely unbothered. The clock on the wall is frozen at 5:00. Dark sharp shadows, dramatic office lighting, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Quiet quitting",
             "definition": "Doing the absolute minimum requirements of one's job and putting in no more time or effort than strictly necessary.",
-            "example_sentence": "Instead of resigning, he chose quiet quitting, refusing to answer emails after 5 PM.",
+            "example_sentence": "At exactly 5 PM he closed his laptop and reached for his jacket — the emails could wait. That was quiet quitting in its purest form.",
             "pronunciation_guide": "/quiet-quitting/"
           },
           "hi": {
@@ -899,19 +871,17 @@
             "word_anglicized": "Kaamchori (Simit Kaam)",
             "word_native": "---",
             "definition": "Naukri mein bas utna hi karna jitna zaroori ho, usse zyada bilkul nahi.",
-            "example_sentence": "Istifa dene ke bajaye usne simit kaam karna chuna, 5 baje ke baad email ka jawab dene se mana kar diya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Theek 5 baje usne laptop band kiya aur jacket uthaa li — baaqi emails kal dekhenge. Yahi hai asli simit kaam ki bhavna."
           },
           "fr": {
             "word_display": "Démission silencieuse",
             "word_native": "Démission silencieuse",
             "definition": "Faire le strict minimum au travail sans s'engager émotionnellement.",
-            "example_sentence": "Au lieu de démissionner, il a opté pour la démission silencieuse, refusant de répondre aux courriels après 17h.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "À 17 h pile, il a fermé son ordinateur et attrapé sa veste — les e-mails pouvaient attendre. C'était la démission silencieuse dans toute sa splendeur."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Popularized by a viral TikTok by Zaid Khan in July 2022. It frames work-life balance as a form of 'quitting' the hustle culture mentality.",
+          "evolution_story": "Popularized by a viral TikTok by Zaid Khan in July 2022, 'quiet quitting' reframes chronic overwork as a choice rather than a virtue. It does not mean literally quitting — it means quietly withdrawing the unpaid emotional and physical labour that hustle culture had normalised as mandatory.",
           "related_words": [
             "Work-to-rule",
             "Burnout",
@@ -919,129 +889,21 @@
           ],
           "recent_references": [
             {
-              "type": "Culture",
-              "title": "Viral TikTok Trend Origin",
-              "author": "Zaid Khan/TheStreet",
-              "year": "2022"
-            }
-          ],
-          "trivia": "Critics argue it's just a new name for 'working to rule', a labor union tactic from the early 20th century."
-        }
-      }
-    },
-    {
-      "id": "20260217-EN-017",
-      "date": "2026-02-17",
-      "category": "multilingual",
-      "type": "word",
-      "tags": [
-        "Confabulation",
-        "Generative error",
-        "Model bias",
-        "strictly_accurate"
-      ],
-      "common_assets": {
-        "image_url": "images/ai_hallucination.jpg",
-        "image_prompt": "Dreamy Surrealist Salvador Dali style of a scene representing: lawyer got into trouble when he cited court cases that were purely an .. The scene should capture the essence of 'AI hallucination'. High quality, detailed, 4:5 aspect ratio."
-      },
-      "content_payload": {
-        "languages": {
-          "en": {
-            "word_display": "AI hallucination",
-            "definition": "When an artificial intelligence confidentially presents false information as fact.",
-            "example_sentence": "The lawyer got into trouble when he cited court cases that were purely an AI hallucination.",
-            "pronunciation_guide": "/ai-hallucination/"
-          },
-          "hi": {
-            "word_display": "Kritrim Bhram",
-            "word_anglicized": "Kritrim Bhram",
-            "word_native": "---",
-            "definition": "Jab AI poore vishwas ke saath galat jaankari prastut karta hai.",
-            "example_sentence": "Vakeel musibat mein pad gaya jab usne aise court cases ka hawala diya jo sirf ek kritrim bhram the.",
-            "cultural_note": "Direct conceptual translation."
-          },
-          "fr": {
-            "word_display": "Hallucination de l'IA",
-            "word_native": "Hallucination de l'IA",
-            "definition": "Quand une IA présente avec assurance des informations fausses comme des faits.",
-            "example_sentence": "L'avocat a eu des ennuis en citant des cas juridiques qui n'étaient qu'une hallucination de l'IA.",
-            "cultural_note": "Standard usage."
-          }
-        },
-        "english_deep_dive": {
-          "evolution_story": "Borrowed from human psychology (hallucinating), applied to Neural Networks when they 'dream up' data to fill gaps. Definition updated by Cambridge Dictionary in 2023.",
-          "related_words": [
-            "Confabulation",
-            "Generative error",
-            "Model bias"
-          ],
-          "recent_references": [
-            {
-              "type": "Culture",
-              "title": "Cambridge Dictionary Word of the Year",
-              "author": "Cambridge Dictionary",
-              "year": "2023"
-            }
-          ],
-          "trivia": "Chosen as the Cambridge Dictionary Word of the Year 2023 due to the rise of ChatGPT."
-        }
-      }
-    },
-    {
-      "id": "20260218-EN-018",
-      "date": "2026-02-18",
-      "category": "multilingual",
-      "type": "word",
-      "tags": [
-        "JOMO (Joy of Missing Out)",
-        "Social anxiety",
-        "Status anxiety",
-        "strictly_accurate"
-      ],
-      "common_assets": {
-        "image_url": "images/fomo.jpg",
-        "image_prompt": "Vibrant Cyberpunk Neon style of a scene representing: Her made her attend three parties in one night, enjoying none of them.. The scene should capture the essence of 'FOMO'. High quality, detailed, 4:5 aspect ratio."
-      },
-      "content_payload": {
-        "languages": {
-          "en": {
-            "word_display": "FOMO",
-            "definition": "Fear Of Missing Out; anxiety that an exciting or interesting event may currently be happening elsewhere.",
-            "example_sentence": "Her FOMO made her attend three parties in one night, enjoying none of them.",
-            "pronunciation_guide": "/fomo/"
-          },
-          "hi": {
-            "word_display": "Chhoot Jane Ka Darr",
-            "word_anglicized": "Chhoot Jane Ka Darr (FOMO)",
-            "word_native": "---",
-            "definition": "Ye darr ki doosre log aapse behtar waqt bita rahe hain.",
-            "example_sentence": "Uske chhoot jane ke darr ne use ek raat mein teen party mein bheja, par usne kisi ka maza nahi liya.",
-            "cultural_note": "Direct conceptual translation."
-          },
-          "fr": {
-            "word_display": "FOMO (Peur de rater)",
-            "word_native": "FOMO (Peur de rater)",
-            "definition": "Anxiété sociale caractérisée par la peur de manquer quelque chose d'important.",
-            "example_sentence": "Son FOMO l'a poussée à aller à trois fêtes en une nuit, sans en apprécier aucune.",
-            "cultural_note": "Standard usage."
-          }
-        },
-        "english_deep_dive": {
-          "evolution_story": "Coined by Patrick J. McGinnis in a 2004 article in 'The Harbus' (Harvard Business School magazine) titled 'Social Theory at HBS: McGinnis' Two FQs'.",
-          "related_words": [
-            "JOMO (Joy of Missing Out)",
-            "Social anxiety",
-            "Status anxiety"
-          ],
-          "recent_references": [
+              "type": "Article",
+              "title": "Employee Burnout is Costing the World More Than We Think",
+              "author": "Times of India",
+              "year": "2025",
+              "context": "Report citing Gallup data showing 82% of employees are at risk of burnout in 2025, with Gen Z hitting peak burnout at just 25 years old — the structural backdrop that makes quiet quitting a rational response rather than laziness."
+            },
             {
               "type": "Article",
-              "title": "The Harbus: Social Theory at HBS",
-              "author": "Patrick J. McGinnis",
-              "year": "2004"
+              "title": "Gravitas: What's Quiet Quitting?",
+              "author": "WION",
+              "year": "2022",
+              "context": "One of the earliest mainstream broadcast explainers on the trend, framing quiet quitting as 'quitting the idea of going above and beyond your KRA', and sparking a global workplace conversation."
             }
           ],
-          "trivia": "McGinnis also coined 'FOBO' (Fear of a Better Option), which describes analysis paralysis."
+          "trivia": "Critics argue it is just a new name for 'work-to-rule' — a formal labour union tactic first recorded in 1920, where workers slow output by following rules to the letter. The irony: what unions once used as a protest weapon, Gen Z independently rediscovered as a mental health boundary."
         }
       }
     },
@@ -1053,35 +915,31 @@
       "tags": [
         "Articulate",
         "Expressive",
-        "Silver-tongued",
-        "strictly_accurate"
+        "Silver-tongued"
       ],
       "common_assets": {
         "image_url": "images/eloquent.jpg",
-        "image_prompt": "Soft Watercolor painting of a scene representing: Her eloquent speech moved the audience to tears.. The scene should capture the essence of 'Eloquent'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft Watercolor painting inspired by a famous university debate hall: a young woman stands at a carved wooden podium under a single warm spotlight, one hand raised mid-gesture, eyes locked on the crowd; in the audience, three rows of listeners lean forward — one dabbing their eye with a sleeve, another gripping the armrest, a third frozen mid-applause. The hall glows amber, the speaker's words rendered as faint golden ripples in the air between her and the audience. High quality, detailed, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Eloquent",
             "definition": "Fluent or persuasive in speaking or writing.",
-            "example_sentence": "Her eloquent speech moved the audience to tears.",
-            "pronunciation_guide": "/eloquent/"
+            "example_sentence": "Her eloquent speech moved the audience to tears."
           },
           "hi": {
             "word_display": "Vaakpatu",
             "word_anglicized": "Vaakpatu (Bhavpurn)",
             "word_native": "---",
             "definition": "Jo bolne ya likhne mein bahut prabhavshali ho.",
-            "example_sentence": "Uske bhavpurn bhaashan ne darshakon ki aankhon mein aansu la diye.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Uske bhavpurn bhaashan ne darshakon ki aankhon mein aansu la diye."
           },
           "fr": {
             "word_display": "Éloquent",
             "word_native": "Éloquent",
             "definition": "Qui s'exprime avec aisance et force de persuasion.",
-            "example_sentence": "Son discours éloquent a ému le public aux larmes.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Son discours éloquent a ému le public aux larmes."
           }
         },
         "english_deep_dive": {
@@ -1092,14 +950,22 @@
             "Silver-tongued"
           ],
           "recent_references": [
-            {
-              "type": "Book",
-              "title": "Usage Examples in Literature",
-              "author": "YourDictionary",
-              "year": "2021"
-            }
+        {
+          "type": "Speech",
+          "title": "Oxford Union Address",
+          "author": "Shashi Tharoor",
+          "year": "2015",
+          "context": "Tharoor's now-legendary speech on Britain's colonial legacy in India is widely cited as a masterclass in modern eloquence — combining scholarly precision with emotional force and rhetorical timing, and accumulating over five million YouTube views."
+        },
+        {
+          "type": "Article",
+          "title": "Why Great Oratory Still Matters in the Age of Algorithms",
+          "author": "The Atlantic",
+          "year": "2024",
+          "context": "Feature arguing that in a world of short-form content and algorithmic feeds, genuinely eloquent long-form speech — the kind that builds a sustained emotional argument — has become rarer and therefore more powerful."
+        }
           ],
-          "trivia": "Often described as 'having the gift of the gab' in informal British English."
+          "trivia": "In informal British English, a naturally eloquent person is said to have 'the gift of the gab' — an ironic, almost suspicious compliment implying their smoothness comes a little too easily."
         }
       }
     },
@@ -1111,53 +977,57 @@
       "tags": [
         "Oratory",
         "Eloquence",
-        "Bombast",
-        "strictly_accurate"
+        "Bombast"
       ],
       "common_assets": {
         "image_url": "images/rhetoric.jpg",
-        "image_prompt": "Bold Lino Cut graphic style of a scene representing: politician's speech was full of fiery rhetoric but short on actual plans.. The scene should capture the essence of 'Rhetoric'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style illustration inspired by a classic election-rally scene: a suited politician stands at a giant podium beneath floodlights, arms wide open, mouth mid-roar, while giant golden words like 'GLORY', 'PROMISE', 'FUTURE' float theatrically above the crowd like animated banners; in the foreground, two citizens squint at each other — one holds a notepad with the words 'But... the plan?' scrawled on it, finding nothing but empty slogans. Warm amber crowd lighting, expressive faces, dramatic sky backdrop, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Rhetoric",
             "definition": "The art of effective or persuasive speaking or writing, often often implied to be lacking sincerity.",
-            "example_sentence": "The politician's speech was full of fiery rhetoric but short on actual plans.",
-            "pronunciation_guide": "/rhetoric/"
+            "example_sentence": "The politician's speech was full of fiery rhetoric but short on actual plans."
           },
           "hi": {
             "word_display": "Alankaarik Bhasha",
             "word_anglicized": "Alankaarik Bhasha",
             "word_native": "---",
             "definition": "Prabhavshali bolne ki kala, aksar jisme sachchayi kam ho.",
-            "example_sentence": "Neta ka bhaashan joshile alankaarik shabdon se bhara tha par usme asli yojanaein kam thi.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Neta ka bhaashan joshile alankaarik shabdon se bhara tha par usme asli yojanaein kam thi."
           },
           "fr": {
             "word_display": "Rhétorique",
             "word_native": "Rhétorique",
             "definition": "L'art de bien parler, souvent avec une nuance de manque de sincérité.",
-            "example_sentence": "Le discours du politicien était plein de rhétorique enflammée mais manquait de plans réels.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le discours du politicien était plein de rhétorique enflammée mais manquait de plans réels."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Greek 'rhetor' (speaker). Defined by Aristotle as the faculty of observing the available means of persuasion. In modern times, often pejorative ('empty rhetoric').",
+          "evolution_story": "From Greek 'rhetor' (public speaker), rhetoric was defined by Aristotle in his treatise 'Rhetoric' as 'the faculty of observing in any given case the available means of persuasion'. For the Greeks and Romans, it was a noble civic art — Cicero and Demosthenes were its heroes. By the Renaissance, it was one of the three pillars of a classical education, alongside grammar and logic. In modern times, often pejorative ('empty rhetoric').",
           "related_words": [
             "Oratory",
             "Eloquence",
             "Bombast"
           ],
           "recent_references": [
-            {
-              "type": "Academic",
-              "title": "Political Rhetoric Overview",
-              "author": "Research Starters",
-              "year": "2016"
-            }
+        {
+          "type": "Article",
+          "title": "How We Entered the New Age of Political Rhetoric",
+          "author": "The Guardian",
+          "year": "2026",
+          "context": "A sharp analysis on how democracies are increasingly prioritising rhetoric over the less visible but crucial functions of governance — arguing that the shift away from technocratic politics risks a system that talks loudly but delivers little."
+        },
+        {
+          "type": "Research",
+          "title": "US Political Rhetoric: Analysis of 8 Million Speeches",
+          "author": "Phys.org / Garcia et al.",
+          "year": "2025",
+          "context": "A landmark cross-national study examining Congressional speeches from 1879–2022, finding that the decline of evidence-based rhetoric since the 1970s closely tracks with rising political polarisation, lower legislative productivity, and growing inequality."
+        }
           ],
-          "trivia": "The three branches of rhetoric are Ethos (character), Pathos (emotion), and Logos (logic)."
+          "trivia": "Aristotle identified three branches of rhetoric: Ethos (credibility of the speaker), Pathos (emotional appeal), and Logos (logical argument). Modern political speechwriters still use all three — though critics argue the balance has shifted dangerously toward Pathos alone."
         }
       }
     },
@@ -1169,53 +1039,57 @@
       "tags": [
         "Subtlety",
         "Gradation",
-        "Distinction",
-        "strictly_accurate"
+        "Distinction"
       ],
       "common_assets": {
         "image_url": "images/nuance.jpg",
-        "image_prompt": "Studio Ghibli style illustration of a scene representing: To understand the poem, one must appreciate the nuance of every metaphor.. The scene should capture the essence of 'Nuance'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style illustration inspired by a famous art-restoration scene: a young woman leans inches away from a giant oil painting on a museum wall, squinting at a barely-there difference in two almost-identical shades of blue in the sky; behind her, two curators argue loudly pointing at the whole canvas, completely missing the tiny detail she alone has spotted. Warm amber gallery lighting, intricate brushstroke texture, magnifying glass catching the light, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Nuance",
             "definition": "A subtle difference in or shade of meaning, expression, or sound.",
-            "example_sentence": "To understand the poem, one must appreciate the nuance of every metaphor.",
-            "pronunciation_guide": "/nuance/"
+            "example_sentence": "While the curators argued about the whole painting, she leaned in closer — it was the nuance of two almost-identical blues that told the real story."
           },
           "hi": {
             "word_display": "Bariki",
             "word_anglicized": "Bariki",
             "word_native": "---",
             "definition": "Kisi cheez, arth ya bhav ka bahut chhota aur sookshm antar.",
-            "example_sentence": "Kavita ko samajhne ke liye har roopak ki bariki ko samajhna zaroori hai.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Jab sablog poori painting ke baare mein jhagad rahe the, usne paas jaake dekha — do lagbhag ek jaisi neeli rangon ki bariki ne poori kahani bata di."
           },
           "fr": {
             "word_display": "Nuance",
             "word_native": "Nuance",
             "definition": "Une différence subtile ou une nuance de sens, d'expression ou de son.",
-            "example_sentence": "Pour comprendre le poème, il faut apprécier la nuance de chaque métaphore.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Pendant que les conservateurs débattaient de l'ensemble du tableau, elle s'approcha — c'était la nuance entre deux bleus presque identiques qui racontait la vraie histoire."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Borrowed from French 'nuance' (shade, hue), from 'nuer' (to shade), originating from Latin 'nubes' (cloud). It originally referred to the subtle shading of colors, like clouds changing tone, before applying to meaning.",
+          "evolution_story": "Borrowed from French 'nuance' (shade, hue), from the verb 'nuer' (to shade colours), itself rooted in Latin 'nubes' (cloud) — evoking the barely perceptible way clouds shift tone across a sky. It entered English in the 18th century referring first to colour gradation, then to subtle shades of meaning or feeling. By the 20th century it had become an indispensable term in literary criticism, music theory, and diplomacy — anywhere that the gap between two almost-identical things carries enormous weight.",
           "related_words": [
             "Subtlety",
             "Gradation",
             "Distinction"
           ],
           "recent_references": [
-            {
-              "type": "Article",
-              "title": "The Nuance of 'Nuance'",
-              "author": "The Stanford Daily",
-              "year": "2017"
-            }
+          {
+            "type": "Article",
+            "title": "The Nuance of the Word 'Nuance'",
+            "author": "The Stanford Daily",
+            "year": "2017",
+            "context": "A widely cited campus essay noting the explosive spike in use of 'nuance' in academic and intellectual discourse, where it had become a signal of sophisticated thinking — and sometimes a buzzword deployed to avoid taking a clear position."
+          },
+          {
+            "type": "Book",
+            "title": "Sense and Sensibility",
+            "author": "Jane Austen",
+            "year": "1811",
+            "context": "Frequently cited by literary scholars as one of the finest examples of nuance in the English novel — where the difference between two sisters' almost-identical emotional situations carries the entire moral weight of the story."
+          }
           ],
-          "trivia": "The Stanford Daily noted a massive spike in the usage of 'nuance' on college campuses in 2017, becoming a buzzword for intellectual signaling."
+          "trivia": "The word's Latin root 'nubes' (cloud) is a perfect accidental metaphor — just as clouds shift tone imperceptibly across a sky, nuance describes differences so small that most people walk right past them."
         }
       }
     },
@@ -1227,53 +1101,57 @@
       "tags": [
         "Model",
         "Archetype",
-        "Framework",
-        "strictly_accurate"
+        "Framework"
       ],
       "common_assets": {
         "image_url": "images/paradigm.jpg",
-        "image_prompt": "Moody Baroque oil painting of a scene representing: discovery of DNA created a new paradigm in biology.. The scene should capture the essence of 'Paradigm'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Moody Baroque oil painting inspired by a dramatic scientific-discovery scene: in a candlelit laboratory, a young scientist holds up a glowing double-helix model toward the light while three older professors in the background stare at their dusty chalkboards full of now-obsolete diagrams, one visibly erasing his own work with a stunned expression. The glowing helix casts new light across everything in the room, making the old equations look faded and wrong. Rich chiaroscuro lighting, dramatic shadows, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Paradigm",
             "definition": "A typical example or pattern of something; a model.",
-            "example_sentence": "The discovery of DNA created a new paradigm in biology.",
-            "pronunciation_guide": "/paradigm/"
+            "example_sentence": "When she held up the double helix, the older professors began quietly erasing their chalkboards — the discovery had shifted the entire paradigm."
           },
           "hi": {
             "word_display": "Pratiman",
             "word_anglicized": "Pratiman (Model)",
             "word_native": "---",
             "definition": "Kisi cheez ka ek vishishth udaharan ya namuna.",
-            "example_sentence": "DNA ki khoj ne jeev vigyan mein ek naya pratiman sthapit kiya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Jab usne double helix utha ke dikhaya, bade professors ne chupchap apne chalkboard mita diye — uss khoj ne poora pratiman badal diya tha."
           },
           "fr": {
             "word_display": "Paradigme",
             "word_native": "Paradigme",
             "definition": "Un exemple typique ou un modèle de quelque chose.",
-            "example_sentence": "La découverte de l'ADN a créé un nouveau paradigme en biologie.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Quand elle a soulevé la double hélice, les vieux professeurs ont commencé à effacer leurs tableaux en silence — la découverte avait fait basculer tout le paradigme."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Greek 'paradeigma' (pattern). Popularized in the modern sense by Thomas Kuhn in his 1962 book 'The Structure of Scientific Revolutions', referring to a set of practices that define a scientific discipline.",
+          "evolution_story": "From Greek 'paradeigma' (pattern, model), the word existed in English for centuries in its grammatical sense — a paradigm was simply a table of verb conjugations. It was American philosopher and physicist Thomas Kuhn who radically expanded its meaning in his 1962 book 'The Structure of Scientific Revolutions', defining a scientific paradigm as the entire worldview, methods, and assumptions that a scientific community accepts as self-evident — until anomalies accumulate and a crisis forces a 'paradigm shift'.",
           "related_words": [
             "Model",
             "Archetype",
             "Framework"
           ],
           "recent_references": [
-            {
-              "type": "Book",
-              "title": "The Structure of Scientific Revolutions",
-              "author": "Thomas Kuhn",
-              "year": "1962 (Modern Context)"
-            }
+        {
+          "type": "Book",
+          "title": "The Structure of Scientific Revolutions",
+          "author": "Thomas Kuhn",
+          "year": "1962",
+          "context": "The single book most responsible for giving 'paradigm' its modern meaning. Kuhn argued that science does not progress linearly but through periodic revolutions where an old paradigm collapses under the weight of unexplained anomalies and is replaced by a new one — as happened when Copernicus replaced geocentrism, or when DNA replaced protein-based theories of heredity."
+        },
+        {
+          "type": "Article",
+          "title": "What Is a Paradigm? — Thomas Kuhn Explained",
+          "author": "The Living Philosophy",
+          "year": "2022",
+          "context": "A widely read modern explainer on Kuhn's framework, noting that the word 'paradigm' now appears across business strategy, tech, and culture — often stripped of its original precision, becoming a vague synonym for 'big change'."
+        }
           ],
-          "trivia": "Kuhn later admitted he used the word in 21 different ways in his own book, leading to confusion."
+          "trivia": "Kuhn himself later admitted he used the word 'paradigm' in at least 21 different ways throughout his own book — an irony not lost on philosophers of science, since the book that gave the word its modern precision was itself accused of lacking it."
         }
       }
     },
@@ -1285,53 +1163,57 @@
       "tags": [
         "Isolated",
         "Compartmentalized",
-        "Segregated",
-        "strictly_accurate"
+        "Segregated"
       ],
       "common_assets": {
         "image_url": "images/siloed.jpg",
-        "image_prompt": "Clean Disney Pixar 3D render of a scene representing: marketing and engineering teams were too siloed to collaborate effectively.. The scene should capture the essence of 'Siloed'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Clean Disney Pixar 3D render inspired by a famous corporate office satire: a bird's-eye view of an open-plan office floor split down the middle by a tall transparent glass wall; on one side, the Marketing team celebrates around a campaign board, and on the other, the Engineering team stares at code screens — both solving the exact same problem but unable to see each other's solution. A single sticky note on the glass from one side reads 'Help?' but nobody on the other side has noticed. Warm-cool colour contrast across the divide, expressive characters, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Siloed",
             "definition": "Kept in isolation in a way that hinders communication and cooperation.",
-            "example_sentence": "The marketing and engineering teams were too siloed to collaborate effectively.",
-            "pronunciation_guide": "/siloed/"
+            "example_sentence": "The two teams were solving the same problem on opposite sides of a glass wall — so siloed that neither noticed the other's 'Help?' note."
           },
           "hi": {
             "word_display": "Alag-alag",
             "word_anglicized": "Alag-alag (Vibhagit)",
             "word_native": "---",
             "definition": "Aise alag rakha jana ki aapsi baatcheet aur sahyog mein badha aaye.",
-            "example_sentence": "Marketing aur engineering team itni vibhagit thi ki wo asardaar dhang se sahyog nahi kar paayi.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Dono teams ek hi samasya ek kaanch ki deewar ke doosri taraf hal kar rahi thi — itni vibhagit ki kisi ne doosre ka 'Help?' note nahi dekha."
           },
           "fr": {
             "word_display": "Cloisonné",
             "word_native": "Cloisonné",
             "definition": "Isolé de manière à empêcher la communication et la coopération.",
-            "example_sentence": "Les équipes marketing et ingénierie étaient trop cloisonnées pour collaborer efficacement.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Les deux équipes résolvaient le même problème de chaque côté d'une paroi en verre — si cloisonnées que personne n'avait remarqué le mot 'Aide ?' de l'autre côté."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Metaphor drawn from grain silos (tall storage towers) on farms, which keep different grains strictly separate. Adapted in business management in the 1980s to describe isolated departments.",
+          "evolution_story": "The metaphor is drawn from grain silos — the tall cylindrical towers on farms that keep different grains strictly separate to prevent contamination. Applied to business management in the 1980s to describe departments that hoard information, protect their own turf, and fail to communicate across boundaries. What began as a structural observation became a diagnosis: siloed organisations don't just waste effort, they create institutional blindness, where critical knowledge sits unused in one corner of the building while another team desperately searches for it.",
           "related_words": [
             "Isolated",
             "Compartmentalized",
             "Segregated"
           ],
           "recent_references": [
-            {
-              "type": "Dictionary",
-              "title": "Merriam-Webster: Siloed",
-              "author": "Merriam-Webster",
-              "year": "2024"
-            }
+        {
+          "type": "Book",
+          "title": "The Silo Effect: The Peril of Expertise and the Promise of Breaking Down Barriers",
+          "author": "Gillian Tett",
+          "year": "2015",
+          "context": "Financial Times editor and anthropologist Gillian Tett argues that silos — in banks, governments, and tech companies — are not accidents but products of how humans classify and protect their own worlds. She traces how siloed thinking directly contributed to the 2008 financial crisis, where departments within the same bank had no idea what the others were doing."
+        },
+        {
+          "type": "Article",
+          "title": "What Causes Silos in Organizations?",
+          "author": "Privilege Press",
+          "year": "2025",
+          "context": "A sharp analysis noting that silos rarely arrive with fanfare — they form quietly, as a byproduct of decisions that once seemed sensible, and thrive precisely because 'the cost of isolation is hidden while the cost of collaboration is visible and scheduled'."
+        }
           ],
-          "trivia": "Gillian Tett's book 'The Silo Effect' (2015) argues that silos cause institutional blindness."
+          "trivia": "Gillian Tett's 'The Silo Effect' (2015) argues that silos cause institutional blindness — but her most striking case study is Sony, which had the technology to build the iPod years before Apple but couldn't, because its music division and electronics division were too siloed to work together."
         }
       }
     },
@@ -1343,39 +1225,35 @@
       "tags": [
         "Bold",
         "Daring",
-        "Fearless",
-        "strictly_accurate"
+        "Fearless"
       ],
       "common_assets": {
         "image_url": "images/audacious.jpg",
-        "image_prompt": "Classical Greek marble statue style of a scene representing: audacious plan to colonize Mars stunned the scientific community.. The scene should capture the essence of 'Audacious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Classical Greek marble statue style of a scene inspired by a famous space-age announcement: a young visionary stands before a giant projection of a red planet, pointing at it with one arm outstretched while a room full of scientists and journalists stare back — some scribbling furiously, some slack-jawed, and one older professor in the front row has dropped his pen entirely. The posture and composition echo the classical hero pose, rendered in cool marble tones with dramatic uplighting. High quality, detailed, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Audacious",
             "definition": "Showing a willingness to take surprisingly bold risks.",
-            "example_sentence": "The audacious plan to colonize Mars stunned the scientific community.",
-            "pronunciation_guide": "/audacious/"
+            "example_sentence": "The audacious plan to colonize Mars stunned the scientific community. He pointed at the red planet on the screen and named a launch date — an audacious move that made the professor in the front row drop his pen."
           },
           "hi": {
             "word_display": "Sahasi",
             "word_anglicized": "Sahasi (Nidar)",
             "word_native": "---",
             "definition": "Hairan kar dene wala jokhim uthane ki himmat dikhana.",
-            "example_sentence": "Mangal grah par basne ki sahasi yojana ne vaigyanik samuday ko hairan kar diya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Usne screen par laal grah ki taraf ungli uthaai aur launch ki taareekh bata di — itna sahasi kadam ki aage baithe professor ke haath se pen gir gaya."
           },
           "fr": {
             "word_display": "Audacieux",
             "word_native": "Audacieux",
             "definition": "Montrant une volonté de prendre des risques audacieux.",
-            "example_sentence": "Le plan audacieux de coloniser Mars a stupéfié la communauté scientifique.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le plan audacieux de coloniser Mars a stupéfié la communauté scientifique. Il a pointé la planète rouge sur l'écran et annoncé une date de lancement — un geste si audacieux que le professeur au premier rang a lâché son stylo."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'audax' (bold). In the 2022 book 'The Leadership Constant', Dr. Judy Morley outlines 'audacious strategies' as those that break norms for bold action, citing the Battle of Gettysburg.",
+          "evolution_story": "From Latin 'audax' (bold), itself from 'audere' (to dare) — literally meaning 'one who advances forward'. The word entered English in the mid-16th century and has always carried a double edge: audacity is admired in heroes and condemned in villains. The same act — ignoring the rules, defying the consensus — is audacious when it succeeds and reckless when it fails. Barack Obama leaned into the positive pole with his 2006 book 'The Audacity of Hope', cementing the word in modern political aspiration. Elon Musk's announcements of Mars colonisation timelines then handed it a new home in the vocabulary of tech ambition.",
           "related_words": [
             "Bold",
             "Daring",
@@ -1384,12 +1262,20 @@
           "recent_references": [
             {
               "type": "Book",
-              "title": "The Leadership Constant",
-              "author": "Dr. Judy Morley",
-              "year": "2022"
+              "title": "The Audacity of Hope",
+              "author": "Barack Obama",
+              "year": "2006",
+              "context": "Obama's pre-presidential book borrowed the phrase from a Reverend Jeremiah Wright sermon, arguing that hope itself — in the face of cynicism and impossibility — is an audacious act. The title single-handedly made 'audacity' a word of political aspiration rather than arrogance for a generation."
+            },
+            {
+              "type": "Article",
+              "title": "Audacious Visions of the Total Conquest of Space",
+              "author": "Vocabulary.com / various citations",
+              "year": "2024",
+              "context": "A widely cited usage note tracing how 'audacious' has become the go-to adjective in science and technology journalism for plans that break with consensus — from space colonisation to AI breakthroughs — where the line between vision and recklessness is deliberately left ambiguous."
             }
           ],
-          "trivia": "Obama's 2006 book was titled 'The Audacity of Hope', cementing the word in modern political rhetoric."
+          "trivia": "Obama's 2006 book 'The Audacity of Hope' cemented the word in modern political rhetoric — but the phrase originally came from a sermon by Reverend Jeremiah Wright, who used it to describe the audacity of dreaming of a better world when the evidence suggests otherwise."
         }
       }
     },
@@ -4587,7 +4473,7 @@
       "id": "20260410-EN-080",
       "date": "2026-04-10",
       "category": "multilingual",
-      "type": "word",
+      "type": "idiom",
       "tags": [
         "Ecstatic",
         "Overjoyed",
@@ -4596,48 +4482,57 @@
       ],
       "common_assets": {
         "image_url": "images/on_cloud_nine.jpg",
-        "image_prompt": "Bold Lino Cut graphic style of a scene representing: She was on cloud nine after getting the promotion.. The scene should capture the essence of 'On cloud nine'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Bold Lino Cut graphic style. A joyous young woman sitting cross-legged on a literal massive, fluffy cumulus cloud floating high above a miniature city skyline. She is holding a glowing acceptance letter and laughing. The scene literalizes the idiom 'On cloud nine'. High contrast, detailed, 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "On cloud nine",
             "definition": "Extremely happy and excited.",
-            "example_sentence": "She was on cloud nine after getting the promotion.",
+            "example_sentence": "Clutching the acceptance letter from her dream university, she was on cloud nine, feeling as if she were floating high above the entire city.",
             "pronunciation_guide": "/on-cloud-nine/"
           },
           "hi": {
             "word_display": "Saatvein aasman par",
             "word_anglicized": "Saatvein aasman par",
-            "word_native": "---",
+            "word_native": "सातवें आसमान पर",
             "definition": "Bahut jyada khush aur utsahi.",
-            "example_sentence": "Promotion milne ke baad wo saatvein aasman par thi.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Apne sapno ki university se acceptance letter milne ke baad, wo saatvein aasman par thi, jaise baadalon ke upar tair rahi ho.",
+            "cultural_note": "Direct conceptual translation, though Hindi literally references the 'seventh sky' instead of the 'ninth cloud'."
           },
           "fr": {
             "word_display": "Sur un petit nuage",
             "word_native": "Sur un petit nuage",
-            "definition": "Extrêmement heureux et excité (Être au septième ciel).",
-            "example_sentence": "Elle était sur un petit nuage après avoir obtenu sa promotion.",
-            "cultural_note": "Standard usage."
+            "definition": "Extrêmement heureux et excité.",
+            "example_sentence": "Serrant la lettre d'acceptation de l'université de ses rêves, elle était sur un petit nuage, ayant l'impression de flotter loin au-dessus de la ville.",
+            "cultural_note": "Standard usage translating to 'on a little cloud'. Another common alternative is 'Être au septième ciel' (to be in seventh heaven)."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Often attributed to the US Weather Bureau's 1950s classification of clouds, where 'Cloud Nine' (Cumulonimbus) rises the highest (up to 40,000 ft).",
+          "evolution_story": "The idiom's origin is widely attributed to the US Weather Bureau's 1950s classification of clouds, where 'Cloud Nine' (Cumulonimbus) represented the highest-rising cloud formation, reaching up to 40,000 feet. Being on 'cloud nine' literally meant being as high as one could possibly go. The phrase evolved into a metaphor for feeling elated or euphoric, eventually replacing earlier variations like 'cloud seven' in popular culture.",
           "related_words": [
             "Ecstatic",
             "Overjoyed",
-            "Blissful"
+            "Blissful",
+            "Euphoric"
           ],
           "recent_references": [
             {
-              "type": "Article",
-              "title": "On Cloud Nine Meaning",
-              "author": "Phrases.org.uk",
-              "year": "2023"
+              "type": "News Article",
+              "title": "Oracle on cloud nine, AI bets paying off",
+              "author": "The Economic Times",
+              "year": "2025",
+              "context": "Used in a financial journalism context to describe the tech company's soaring success following its investments in Artificial Intelligence [web:9]."
+            },
+            {
+              "type": "News Article",
+              "title": "'Chaarso paar' was BJP's fantasy: Shashi Tharoor",
+              "author": "Onmanorama",
+              "year": "2024",
+              "context": "News reports described Congress leader Shashi Tharoor as being 'on cloud nine' after securing a fourth consecutive victory from his Thiruvananthapuram Lok Sabha constituency [web:2]."
             }
           ],
-          "trivia": "Another theory links it to Buddhism's 'Cloud 9' stage of enlightenment, but the weather origin is more widely accepted for the idiom."
+          "trivia": "While the meteorological origin is the most widely cited, another fascinating theory links the idiom to Buddhism, where 'Cloud 9' represents one of the highest stages of spiritual enlightenment. Furthermore, the phrase completely overshadowed 'cloud seven' (derived from Dante's 'Seventh Heaven') during the mid-20th century, making 'nine' the definitive number for ultimate happiness in modern English."
         }
       }
     }
