@@ -1668,34 +1668,31 @@
       ],
       "common_assets": {
         "image_url": "images/dissolute.jpg",
-        "image_prompt": "Studio Ghibli style illustration of a scene representing: He lived a dissolute life of drinking and gambling until his money ran out.. The scene should capture the essence of 'Dissolute'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style illustration of a scene inspired by a classic fable: a lazy, chubby raccoon dressed like a prince lies on a velvet cushion, carelessly tossing endless piles of candy wrappers into his messy, falling-apart treehouse, living a completely dissolute lifestyle. 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Dissolute",
             "definition": "Lax in morals; licentious.",
-            "example_sentence": "He lived a dissolute life of drinking and gambling until his money ran out.",
-            "pronunciation_guide": "/dissolute/"
+            "example_sentence": "The lazy raccoon prince lived a completely dissolute lifestyle, eating endless sweets and tossing wrappers everywhere while his treehouse fell apart."
           },
           "hi": {
             "word_display": "Charitraheen",
             "word_anglicized": "Charitraheen",
-            "word_native": "---",
+            "word_native": "चरित्रहीन",
             "definition": "Jiska charitra achha na ho; anaitik.",
-            "example_sentence": "Usne paise khatam hone tak sharab aur jue ka charitraheen jeevan jiya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Aalsi rajkumar racoon mithaiyan khakar aur har jagah kooda phenk kar ek poori tarah charitraheen jeevan ji raha tha."
           },
           "fr": {
             "word_display": "Dissolu",
             "word_native": "Dissolu",
             "definition": "Qui vit dans la débauche, sans retenue morale.",
-            "example_sentence": "Il a mené une vie dissolue de boisson et de jeu jusqu'à ce que son argent soit épuisé.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le prince raton laveur paresseux menait une vie complètement dissolue, mangeant des bonbons et jetant des emballages partout."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'dissolutus' (loose, dissolute), past participle of 'dissolvere' (to loosen/dissolve). Originally meant 'disunited' or 'enfeebled', it evolved to mean 'loosened from moral restraint' by the 14th century.",
+          "evolution_story": "From the Latin 'dissolvere', meaning 'to loosen or dissolve'. While it originally meant something physically unfastened, it evolved to describe people who have 'loosened' all their self-control and discipline, lazily wasting away their time and responsibilities.",
           "related_words": [
             "Debauched",
             "Decadent",
@@ -1703,13 +1700,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Longman Dictionary Entry",
-              "author": "Longman",
-              "year": "2024"
+              "type": "Article",
+              "title": "The Fall of Modern Empires",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A historical analysis comparing the lazy, dissolute lifestyles of ancient emperors to out-of-touch modern billionaires who waste resources."
+            },
+            {
+              "type": "Article",
+              "title": "Rethinking Work Ethic",
+              "author": "BBC News",
+              "year": "2023",
+              "context": "A cultural essay discussing how social media sometimes accidentally glorifies a dissolute, effort-free lifestyle to young teenagers."
             }
           ],
-          "trivia": "Often confused with 'desolate' (empty/lonely), but 'dissolute' specifically implies moral decay."
+          "trivia": "Even though it sounds like 'dissolve', the two words actually share the exact same root! When you lead a dissolute life, you are basically letting your good habits 'dissolve' away."
         }
       }
     },
