@@ -14,8 +14,11 @@ Given a raw JSON entry from words.json, produce an enriched version with:
 
 ## Instructions
 
-### Step 1 — Identify the word/idiom
-Read the `word_display` and `definition` fields from the input JSON.
+### Step 1 — Identify the word/idiom and Check Existence
+Search for the requested word in `words.json`. 
+- If the word exists, read the `word_display` and `definition` fields from its JSON entry and proceed.
+- If the word DOES NOT exist, you MUST pause and confirm with the user if they want to create the data for the word anew. Do not proceed until they confirm.
+- If the user confirms creation, generate a completely new JSON entry for the word from scratch. The new JSON MUST have exactly the same keys and structure as existing individual words in `words.json` (e.g., id, date, category, type, tags, common_assets, content_payload, english_deep_dive). Generate all required fields by following the enrichment rules below.
 
 ### Step 2 — Design the mnemonic skit
 Invent a short, vivid scene (2-3 characters/assets) that:
@@ -66,7 +69,7 @@ For any `word_native` showing "---", fill in the correct script:
 - French: already in Latin script, verify spelling
 
 ### Step 8 — Output
-Return the complete JSON entry with ONLY these fields changed:
+If enriching an EXISTING word, return the complete JSON entry with ONLY these fields changed:
 - `common_assets.image_prompt`
 - `content_payload.languages.en.example_sentence`
 - `content_payload.languages.hi.example_sentence`
@@ -75,6 +78,8 @@ Return the complete JSON entry with ONLY these fields changed:
 - `content_payload.english_deep_dive.evolution_story`
 - `content_payload.english_deep_dive.recent_references`
 Do NOT change: id, date, category, type, tags, definitions, image_url, word_display, word_anglicized, related_words, image style.
+
+If creating a NEW word, return the complete, perfectly formatted JSON block ready to be appended to `words.json`.
 
 ## Constraints
 - Do NOT copy verbatim from any copyrighted source
