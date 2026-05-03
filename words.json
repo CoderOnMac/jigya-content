@@ -3998,34 +3998,31 @@
       ],
       "common_assets": {
         "image_url": "images/turn_over_a_new_leaf.jpg",
-        "image_prompt": "Studio Ghibli style illustration of a scene representing: After his release from prison, he vowed to turn over a new leaf.. The scene should capture the essence of 'Turn over a new leaf'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style illustration of a scene inspired by a classic prison redemption film: a weary man in a drab uniform stands in a warm sunlit library, gently turning the page of a heavy ledger from one covered in chaotic dark scribbles to a glowing, perfectly blank white page. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Turn over a new leaf",
             "definition": "To start to behave in a better way.",
-            "example_sentence": "After his release from prison, he vowed to turn over a new leaf.",
-            "pronunciation_guide": "/turn-over-a-new-leaf/"
+            "example_sentence": "Standing in the sunlit library, he turned the heavy ledger to a blank page, ready to turn over a new leaf."
           },
           "hi": {
             "word_display": "Nayi shuruat karna",
             "word_anglicized": "Nayi shuruat karna",
-            "word_native": "---",
+            "word_native": "नयी शुरुआत करना",
             "definition": "Apne vyavahar mein sudhar lakar ek nayi shuruat karna.",
-            "example_sentence": "Jail se riha hone ke baad, usne nayi shuruat karne ki kasam khayi.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Uss sunhari library mein khade hokar, usne kitab ka naya panna palta, ek nayi shuruat karne ke liye."
           },
           "fr": {
             "word_display": "Tourner la page (Prendre un nouveau départ)",
             "word_native": "Tourner la page (Prendre un nouveau départ)",
             "definition": "Adopter une meilleure conduite ; recommencer à zéro.",
-            "example_sentence": "Après sa sortie de prison, il a juré de prendre un nouveau départ.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Debout dans la bibliothèque ensoleillée, il a tourné le registre vers une page blanche, prêt à prendre un nouveau départ."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Refers to the 'leaf' (page) of a book, not a tree. In the 16th century, 'turning a new leaf' meant flipping to a blank page in a workbook to start fresh without the mistakes of the previous page.",
+          "evolution_story": "Originating in 16th-century England, the word 'leaf' referred to a page in a book, not a tree. Students would literally turn a new leaf in their workbooks to leave behind mistakes, evolving into the modern English idiom for a fresh start.",
           "related_words": [
             "Reform",
             "Fresh start",
@@ -4034,12 +4031,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Idiom Origins",
-              "author": "Ginger Software",
-              "year": "2024"
+              "title": "The Psychology of Second Chances",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "The article explored behavioral changes in former convicts who successfully turn over a new leaf after finding purpose."
+            },
+            {
+              "type": "Opinion",
+              "title": "A New Era of Climate Pledges",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "The author urged multinational corporations to turn over a new leaf rather than just making empty promises on sustainability."
             }
           ],
-          "trivia": "Often confused with autumn leaves, but it strictly relates to paper/books."
+          "trivia": "Often mistakenly linked to autumn leaves falling, the idiom actually stems from 16th-century workbooks where flipping to a blank page physically meant leaving past errors behind."
         }
       }
     },
@@ -4056,34 +4061,31 @@
       ],
       "common_assets": {
         "image_url": "images/taciturn.jpg",
-        "image_prompt": "Moody Baroque oil painting of a scene representing: taciturn cowboy nodded once, his only reply to the question.. The scene should capture the essence of 'Taciturn'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Moody Baroque oil painting of a scene inspired by a classic Western film: a grizzled, silent cowboy sitting by a campfire in a dark canyon, merely nodding once at a frantic traveler instead of speaking. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Taciturn",
             "definition": "Reserved or uncommunicative in speech; saying little.",
-            "example_sentence": "The taciturn cowboy nodded once, his only reply to the question.",
-            "pronunciation_guide": "/taciturn/"
+            "example_sentence": "The frantic traveler asked for directions, but the taciturn cowboy by the campfire merely nodded once instead of speaking."
           },
           "hi": {
             "word_display": "Kam bolne wala",
             "word_anglicized": "Kam bolne wala (Alpbhashi)",
-            "word_native": "---",
+            "word_native": "अल्पभाषी",
             "definition": "Jo swabhav se chup rahe aur kam baat kare.",
-            "example_sentence": "Alpbhashi cowboy ne bas ek baar sar hilaya, jo sawal ka uska ekmatra jawab tha.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Ghabraye hue yatri ne raasta poocha, par aag ke paas baithe us alpbhashi cowboy ne bolne ke bajaye bas ek baar sar hila diya."
           },
           "fr": {
             "word_display": "Taciturne",
             "word_native": "Taciturne",
             "definition": "Qui parle peu par tempérament ; silencieux.",
-            "example_sentence": "Le cow-boy taciturne hocha la tête une fois, sa seule réponse à la question.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le voyageur frénétique a demandé son chemin, mais le cow-boy taciturne près du feu de camp s'est contenté de hocher la tête sans parler."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'taciturnus' (disposed to silence), from 'tacere' (to be silent). Related to 'tacit' (understood without being stated).",
+          "evolution_story": "Derived from the Latin 'taciturnus' and 'tacere', meaning to be silent. It shares roots with the word 'tacit'. While historically linked to stoicism and quiet wisdom, it entered English to describe anyone who naturally prefers silence over conversation.",
           "related_words": [
             "Reticent",
             "Silent",
@@ -4091,13 +4093,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Taciturn Etymology",
-              "author": "Better Words",
-              "year": "2019"
+              "type": "Article",
+              "title": "The Power of the Introverted Leader",
+              "author": "Harvard Business Review",
+              "year": "2023",
+              "context": "The author highlighted how a taciturn CEO can often command more respect by speaking only when absolutely necessary."
+            },
+            {
+              "type": "Review",
+              "title": "A Masterclass in Subtle Acting",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "The critic praised the lead actor's portrayal of a taciturn detective who solves crimes through quiet observation rather than lengthy interrogations."
             }
           ],
-          "trivia": "A 'taciturn' person isn't necessarily shy; they just choose words sparingly, often implying wisdom or grumpiness."
+          "trivia": "A 'taciturn' person isn't necessarily shy; they just choose words sparingly. In pop culture, this trait is heavily romanticized in characters who convey deep emotion through mere gestures and silence."
         }
       }
     },

@@ -30,9 +30,12 @@ Format:
 `[Illustration style from original JSON] of a scene inspired by [famous reference]: [describe the scene with 2-3 named assets/characters, the key action, the key visual metaphor, lighting/atmosphere]. [Aspect ratio: 4:5]`
 
 Rules:
-- Keep the illustration style from the original JSON (Ghibli, Baroque, Lino Cut, Pixar, etc.)
+- Keep the illustration style from the original JSON (Ghibli, Baroque, Pixar, etc.)
 - Reference the famous work/person indirectly (e.g. "a scene inspired by a classic political satire anime" not "a scene from Death Note")
 - Include at least one visual element that IS the definition, not just illustrates it
+- The image prompt should be so vivid that the user can easily understand the meaning of the word just by looking at the image and reading the prompt.
+- Think like a director of a scene and describe the scene in a way that tells a story highlighting the meaning of the word in a fun and creative and memorable way.
+- In some instances you would get idioms and proverbs as words. Build the image using the idiomatic meaning of the word.
 
 ### Step 4 — Write example sentences
 - All three sentences must describe the EXACT same scene from the image_prompt
