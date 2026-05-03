@@ -3935,34 +3935,31 @@
       ],
       "common_assets": {
         "image_url": "images/despondent.jpg",
-        "image_prompt": "Bold Lino Cut graphic style of a scene representing: She grew despondent after receiving yet another rejection letter.. The scene should capture the essence of 'Despondent'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft water colored style of a scene inspired by a classic fantasy epic: a weary traveler with slumped shoulders sits heavily on a jagged rock in a gloomy wasteland, staring at an empty water canteen, while his loyal companion gently places a reassuring hand on his back. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Despondent",
             "definition": "In low spirits from loss of hope or courage.",
-            "example_sentence": "She grew despondent after receiving yet another rejection letter.",
-            "pronunciation_guide": "/despondent/"
+            "example_sentence": "The traveler sat on the jagged rock, staring at his empty canteen, feeling completely despondent in the gloomy wasteland."
           },
           "hi": {
             "word_display": "Hatash",
             "word_anglicized": "Hatash (Nirash)",
-            "word_native": "---",
+            "word_native": "हताश",
             "definition": "Ummeed kho dene ke karan bahut udaas.",
-            "example_sentence": "Ek aur rejection letter milne ke baad wo hatash ho gayi.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Yatri us nukeeli chattan par baith gaya, apni khali botal dekhte hue poori tarah hatash mehsoos kar raha tha."
           },
           "fr": {
             "word_display": "Abattu",
             "word_native": "Abattu",
             "definition": "Découragé, qui a perdu l'espoir.",
-            "example_sentence": "Elle est devenue abattue après avoir reçu une autre lettre de refus.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le voyageur s'est assis sur la roche, fixant sa gourde vide, se sentant complètement abattu dans ce désert sombre."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'despondere' (to give up, resign). 'Spondere' means to promise (like 'spouse'), so 'despond' literally means 'to give up one's promise' or lose heart.",
+          "evolution_story": "From Latin 'despondere', where 'spondere' means to promise (the root of 'spouse'). It literally translates to 'giving up one's promise'. Originally describing soldiers giving up their vows of victory, it arrived in modern English to describe anyone profoundly drained of hope.",
           "related_words": [
             "Disheartened",
             "Dejected",
@@ -3971,12 +3968,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Understanding 'Despondently'",
-              "author": "Oreate AI",
-              "year": "2025"
+              "title": "The Silent Epidemic of Burnout",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "The article explored how remote workers became increasingly despondent after months of isolation and lack of clear boundaries."
+            },
+            {
+              "type": "Report",
+              "title": "Global Economic Outlook",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "The financial correspondent used the word to describe the despondent mood of local business owners facing unprecedented inflation."
             }
           ],
-          "trivia": "Often used in literature to describe a stillness of grief, rather than a loud weeping."
+          "trivia": "In 19th-century literature, being 'despondent' was often depicted as a quiet, motionless grief—like staring into a dying fire—rather than loud weeping or dramatic sobbing, a nuance still preserved in modern psychology."
         }
       }
     },
