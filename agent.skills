@@ -1,0 +1,98 @@
+---
+name: jigyaasa-word-enricher
+description: Enriches a single word/idiom JSON entry for the Jigyaasa app. Updates image_prompt, example_sentence (EN/HI/FR), deep_dive evolution story, and recent_references.
+trigger: enrich jigyaasa word
+---
+
+## Goal
+Given a raw JSON entry from words.json, produce an enriched version with:
+1. A vivid, memorable `image_prompt` anchored to a famous film/show/speech/book/person (indirectly, not verbatim).
+2. Three tightly linked `example_sentence` values (EN, HI, FR) — all describing the same scene, each under 25 words, each using the word in its own language.
+3. A punchy `evolution_story` under 50 words that helps the word stick in memory.
+4. Two strong `recent_references` (no dictionaries, no random etymology sites — use named publications: BBC, The Guardian, The Atlantic, Economic Times, NYT, famous speeches, well-known books, or academic papers).
+5. Fill in any `word_native` fields left as "---" with the correct native script.
+
+## Instructions
+
+### Step 1 — Identify the word/idiom
+Read the `word_display` and `definition` fields from the input JSON.
+
+### Step 2 — Design the mnemonic skit
+Invent a short, vivid scene (2-3 characters/assets) that:
+- Is inspired by (but not copied from) a famous film, anime, book, speech, advertisement, or cultural moment
+- Literalises or dramatises the meaning of the word
+- Blends ancient/classic references with a modern twist where possible
+- Works as a single still image
+- MUST be reasonably simple and intuitively easy to understand for humans, young students and children above 16 years old as an educational illustration (avoid overly complex, dark, or abstract adult themes).
+
+### Step 3 — Write the image_prompt
+Format:
+`[Illustration style from original JSON] of a scene inspired by [famous reference]: [describe the scene with 2-3 named assets/characters, the key action, the key visual metaphor, lighting/atmosphere]. [Aspect ratio: 4:5]`
+
+Rules:
+- Keep the illustration style from the original JSON (Ghibli, Baroque, Lino Cut, Pixar, etc.)
+- Reference the famous work/person indirectly (e.g. "a scene inspired by a classic political satire anime" not "a scene from Death Note")
+- Include at least one visual element that IS the definition, not just illustrates it
+
+### Step 4 — Write example sentences
+- All three sentences must describe the EXACT same scene from the image_prompt
+- The language and concept must be reasonably simple and easy to understand for humans, young students and children above 16 years old as an educational example
+- Each sentence must use the word naturally in its own language
+- Under 25 words each
+- EN sentence uses the English word; HI sentence uses the Hindi equivalent; FR sentence uses the French equivalent
+- HI sentence should sound natural in spoken Hindi (not overly formal)
+- Remove the pronunciation_guide field and cultural_note field from the JSON if present.
+- Use the word in the example as used popularly in the language.
+
+### Step 5 — Write the evolution_story
+Under 50 words. Must:
+- State the language of origin and root word
+- Include one memorable fact or story beat that makes the word stick
+- End with how it arrived in modern English usage
+
+### Step 6 — Find recent_references
+Search for 2 references that are:
+- Named, credible publications or well-known works (BBC, Guardian, Atlantic, NYT, Economic Times, Shashi Tharoor speeches, etc.)
+- From 2020 or later (prefer 2023–2026)
+- NOT dictionaries, etymology sites, or random blogs
+- Each reference needs: type, title, author, year, context (1-2 sentences explaining how the word was used or why the reference is relevant)
+
+### Step 7 — Fill native script fields
+For any `word_native` showing "---", fill in the correct script:
+- Hindi: use Devanagari
+- French: already in Latin script, verify spelling
+
+### Step 8 — Output
+Return the complete JSON entry with ONLY these fields changed:
+- `common_assets.image_prompt`
+- `content_payload.languages.en.example_sentence`
+- `content_payload.languages.hi.example_sentence`
+- `content_payload.languages.hi.word_native`
+- `content_payload.languages.fr.example_sentence`
+- `content_payload.english_deep_dive.evolution_story`
+- `content_payload.english_deep_dive.recent_references`
+Do NOT change: id, date, category, type, tags, definitions, image_url, word_display, word_anglicized, related_words, image style.
+
+## Constraints
+- Do NOT copy verbatim from any copyrighted source
+- Do NOT reference a work by its exact title in the image_prompt (use indirect description)
+- Do NOT use dictionary or etymology sites as recent_references
+- Do NOT change the illustration style in the image_prompt
+- Do NOT exceed 25 words per example sentence
+- Do NOT exceed 50 words for evolution_story
+- Always output valid JSON
+- Do NOT mention the current month or year anywhere in the content or trivia sections.
+
+## Example Input → Output Pattern
+
+**Input word:** "Gaslighting"
+**Mnemonic skit:** Victorian corridor, woman with candle staring at a crooked painting, calm shadowy man insisting nothing changed, gas lamps flickering unevenly
+**image_prompt:** "Studio Ghibli style illustration inspired by a psychological thriller anime: a young woman in a long Victorian corridor holds a lit candle staring at a visibly crooked wall painting, while a tall shadowy figure behind her calmly insists nothing has moved; gas lamps along the corridor flicker — some brighter, some dimmer. 4:5 aspect ratio."
+**EN sentence:** "She stared at the crooked painting while his calm voice insisted nothing had changed — gaslighting her right under the flickering lamps." (23 words ✓)
+**HI sentence:** "Wo tasveer ko ghoor rahi thi, par uski shaant awaaz kehti rahi ki kuch nahi badla — roshni ke kaampte saaye mein use bhramit karte hue." (< 25 words ✓)
+**FR sentence:** "Elle fixait le tableau de travers tandis que sa voix calme insistait que rien n'avait bougé — la gaslightant sous les lampes vacillantes." (< 25 words ✓)
+
+## Lessons Learnt
+- **Enrich the Trivia section**: Even though originally listed to remain unchanged, you must now actively enrich the `trivia` field for every word processing task, making it a highly memorable fact or connecting it to the root history. IMPORTANT: Do NOT mention the current month or year anywhere; instead use indirect references to modern usage.
+- **Educational Simplicity**: Make sure the image prompt narrative and the associated example sentences are reasonably simple, straightforward, and easy to understand for humans, young students and children above 16 years old. Treat it like an engaging educational illustration rather than a dense abstract puzzle.
+- Remove the pronunciation_guide field and cultural_note field from the JSON if present.

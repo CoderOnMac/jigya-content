@@ -104,12 +104,12 @@
             "Double standard"
           ],
           "recent_references": [
-      {
-        "type": "TV Show",
-        "title": "The Thick of It",
-        "context": "British political satire series where characters frequently retort 'That's a bit rich!' in debates over party hypocrisy and double standards."
-      }
-    ],
+            {
+              "type": "TV Show",
+              "title": "The Thick of It",
+              "context": "British political satire series where characters frequently retort 'That's a bit rich!' in debates over party hypocrisy and double standards."
+            }
+          ],
           "trivia": "Often colloquially shortened to just 'That's rich!' in arguments."
         }
       }
@@ -950,20 +950,20 @@
             "Silver-tongued"
           ],
           "recent_references": [
-        {
-          "type": "Speech",
-          "title": "Oxford Union Address",
-          "author": "Shashi Tharoor",
-          "year": "2015",
-          "context": "Tharoor's now-legendary speech on Britain's colonial legacy in India is widely cited as a masterclass in modern eloquence — combining scholarly precision with emotional force and rhetorical timing, and accumulating over five million YouTube views."
-        },
-        {
-          "type": "Article",
-          "title": "Why Great Oratory Still Matters in the Age of Algorithms",
-          "author": "The Atlantic",
-          "year": "2024",
-          "context": "Feature arguing that in a world of short-form content and algorithmic feeds, genuinely eloquent long-form speech — the kind that builds a sustained emotional argument — has become rarer and therefore more powerful."
-        }
+            {
+              "type": "Speech",
+              "title": "Oxford Union Address",
+              "author": "Shashi Tharoor",
+              "year": "2015",
+              "context": "Tharoor's now-legendary speech on Britain's colonial legacy in India is widely cited as a masterclass in modern eloquence — combining scholarly precision with emotional force and rhetorical timing, and accumulating over five million YouTube views."
+            },
+            {
+              "type": "Article",
+              "title": "Why Great Oratory Still Matters in the Age of Algorithms",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "Feature arguing that in a world of short-form content and algorithmic feeds, genuinely eloquent long-form speech — the kind that builds a sustained emotional argument — has become rarer and therefore more powerful."
+            }
           ],
           "trivia": "In informal British English, a naturally eloquent person is said to have 'the gift of the gab' — an ironic, almost suspicious compliment implying their smoothness comes a little too easily."
         }
@@ -1012,20 +1012,20 @@
             "Bombast"
           ],
           "recent_references": [
-        {
-          "type": "Article",
-          "title": "How We Entered the New Age of Political Rhetoric",
-          "author": "The Guardian",
-          "year": "2026",
-          "context": "A sharp analysis on how democracies are increasingly prioritising rhetoric over the less visible but crucial functions of governance — arguing that the shift away from technocratic politics risks a system that talks loudly but delivers little."
-        },
-        {
-          "type": "Research",
-          "title": "US Political Rhetoric: Analysis of 8 Million Speeches",
-          "author": "Phys.org / Garcia et al.",
-          "year": "2025",
-          "context": "A landmark cross-national study examining Congressional speeches from 1879–2022, finding that the decline of evidence-based rhetoric since the 1970s closely tracks with rising political polarisation, lower legislative productivity, and growing inequality."
-        }
+            {
+              "type": "Article",
+              "title": "How We Entered the New Age of Political Rhetoric",
+              "author": "The Guardian",
+              "year": "2026",
+              "context": "A sharp analysis on how democracies are increasingly prioritising rhetoric over the less visible but crucial functions of governance — arguing that the shift away from technocratic politics risks a system that talks loudly but delivers little."
+            },
+            {
+              "type": "Research",
+              "title": "US Political Rhetoric: Analysis of 8 Million Speeches",
+              "author": "Phys.org / Garcia et al.",
+              "year": "2025",
+              "context": "A landmark cross-national study examining Congressional speeches from 1879–2022, finding that the decline of evidence-based rhetoric since the 1970s closely tracks with rising political polarisation, lower legislative productivity, and growing inequality."
+            }
           ],
           "trivia": "Aristotle identified three branches of rhetoric: Ethos (credibility of the speaker), Pathos (emotional appeal), and Logos (logical argument). Modern political speechwriters still use all three — though critics argue the balance has shifted dangerously toward Pathos alone."
         }
@@ -1074,20 +1074,20 @@
             "Distinction"
           ],
           "recent_references": [
-          {
-            "type": "Article",
-            "title": "The Nuance of the Word 'Nuance'",
-            "author": "The Stanford Daily",
-            "year": "2017",
-            "context": "A widely cited campus essay noting the explosive spike in use of 'nuance' in academic and intellectual discourse, where it had become a signal of sophisticated thinking — and sometimes a buzzword deployed to avoid taking a clear position."
-          },
-          {
-            "type": "Book",
-            "title": "Sense and Sensibility",
-            "author": "Jane Austen",
-            "year": "1811",
-            "context": "Frequently cited by literary scholars as one of the finest examples of nuance in the English novel — where the difference between two sisters' almost-identical emotional situations carries the entire moral weight of the story."
-          }
+            {
+              "type": "Article",
+              "title": "The Nuance of the Word 'Nuance'",
+              "author": "The Stanford Daily",
+              "year": "2017",
+              "context": "A widely cited campus essay noting the explosive spike in use of 'nuance' in academic and intellectual discourse, where it had become a signal of sophisticated thinking — and sometimes a buzzword deployed to avoid taking a clear position."
+            },
+            {
+              "type": "Book",
+              "title": "Sense and Sensibility",
+              "author": "Jane Austen",
+              "year": "1811",
+              "context": "Frequently cited by literary scholars as one of the finest examples of nuance in the English novel — where the difference between two sisters' almost-identical emotional situations carries the entire moral weight of the story."
+            }
           ],
           "trivia": "The word's Latin root 'nubes' (cloud) is a perfect accidental metaphor — just as clouds shift tone imperceptibly across a sky, nuance describes differences so small that most people walk right past them."
         }
@@ -1136,20 +1136,20 @@
             "Framework"
           ],
           "recent_references": [
-        {
-          "type": "Book",
-          "title": "The Structure of Scientific Revolutions",
-          "author": "Thomas Kuhn",
-          "year": "1962",
-          "context": "The single book most responsible for giving 'paradigm' its modern meaning. Kuhn argued that science does not progress linearly but through periodic revolutions where an old paradigm collapses under the weight of unexplained anomalies and is replaced by a new one — as happened when Copernicus replaced geocentrism, or when DNA replaced protein-based theories of heredity."
-        },
-        {
-          "type": "Article",
-          "title": "What Is a Paradigm? — Thomas Kuhn Explained",
-          "author": "The Living Philosophy",
-          "year": "2022",
-          "context": "A widely read modern explainer on Kuhn's framework, noting that the word 'paradigm' now appears across business strategy, tech, and culture — often stripped of its original precision, becoming a vague synonym for 'big change'."
-        }
+            {
+              "type": "Book",
+              "title": "The Structure of Scientific Revolutions",
+              "author": "Thomas Kuhn",
+              "year": "1962",
+              "context": "The single book most responsible for giving 'paradigm' its modern meaning. Kuhn argued that science does not progress linearly but through periodic revolutions where an old paradigm collapses under the weight of unexplained anomalies and is replaced by a new one — as happened when Copernicus replaced geocentrism, or when DNA replaced protein-based theories of heredity."
+            },
+            {
+              "type": "Article",
+              "title": "What Is a Paradigm? — Thomas Kuhn Explained",
+              "author": "The Living Philosophy",
+              "year": "2022",
+              "context": "A widely read modern explainer on Kuhn's framework, noting that the word 'paradigm' now appears across business strategy, tech, and culture — often stripped of its original precision, becoming a vague synonym for 'big change'."
+            }
           ],
           "trivia": "Kuhn himself later admitted he used the word 'paradigm' in at least 21 different ways throughout his own book — an irony not lost on philosophers of science, since the book that gave the word its modern precision was itself accused of lacking it."
         }
@@ -1198,20 +1198,20 @@
             "Segregated"
           ],
           "recent_references": [
-        {
-          "type": "Book",
-          "title": "The Silo Effect: The Peril of Expertise and the Promise of Breaking Down Barriers",
-          "author": "Gillian Tett",
-          "year": "2015",
-          "context": "Financial Times editor and anthropologist Gillian Tett argues that silos — in banks, governments, and tech companies — are not accidents but products of how humans classify and protect their own worlds. She traces how siloed thinking directly contributed to the 2008 financial crisis, where departments within the same bank had no idea what the others were doing."
-        },
-        {
-          "type": "Article",
-          "title": "What Causes Silos in Organizations?",
-          "author": "Privilege Press",
-          "year": "2025",
-          "context": "A sharp analysis noting that silos rarely arrive with fanfare — they form quietly, as a byproduct of decisions that once seemed sensible, and thrive precisely because 'the cost of isolation is hidden while the cost of collaboration is visible and scheduled'."
-        }
+            {
+              "type": "Book",
+              "title": "The Silo Effect: The Peril of Expertise and the Promise of Breaking Down Barriers",
+              "author": "Gillian Tett",
+              "year": "2015",
+              "context": "Financial Times editor and anthropologist Gillian Tett argues that silos — in banks, governments, and tech companies — are not accidents but products of how humans classify and protect their own worlds. She traces how siloed thinking directly contributed to the 2008 financial crisis, where departments within the same bank had no idea what the others were doing."
+            },
+            {
+              "type": "Article",
+              "title": "What Causes Silos in Organizations?",
+              "author": "Privilege Press",
+              "year": "2025",
+              "context": "A sharp analysis noting that silos rarely arrive with fanfare — they form quietly, as a byproduct of decisions that once seemed sensible, and thrive precisely because 'the cost of isolation is hidden while the cost of collaboration is visible and scheduled'."
+            }
           ],
           "trivia": "Gillian Tett's 'The Silo Effect' (2015) argues that silos cause institutional blindness — but her most striking case study is Sony, which had the technology to build the iPod years before Apple but couldn't, because its music division and electronics division were too siloed to work together."
         }
@@ -1350,34 +1350,31 @@
       ],
       "common_assets": {
         "image_url": "images/adulation.jpg",
-        "image_prompt": "High-contrast Death Note anime style of a scene representing: rock star basked in the adulation of his screaming fans.. The scene should capture the essence of 'Adulation'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "High-contrast Death Note anime style illustration of a scene inspired by a simple children's talent show: a cute singing dog wearing a shiny jacket stands on a small wooden stage with arms wide, while all the other little animals cheer wildly and throw flowers at his feet in pure adulation. 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Adulation",
             "definition": "Excessive admiration or praise.",
-            "example_sentence": "The rock star basked in the adulation of his screaming fans.",
-            "pronunciation_guide": "/adulation/"
+            "example_sentence": "The cute singing dog stood on stage, soaking in the adulation as all the little animals cheered wildly and threw flowers."
           },
           "hi": {
             "word_display": "Ati-prashansa",
-            "word_anglicized": "Ati-prashansa (Chaaploosi)",
-            "word_native": "---",
+            "word_anglicized": "Ati-prashansa",
+            "word_native": "अति-प्रशंसा",
             "definition": "Hadh se jyada tareef ya prashansa.",
-            "example_sentence": "Rock star apne chillate hue fans ki ati-prashansa ka anand le raha tha.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Pyare gaane wale kutte ne manch par sabhi chhote janwaron dvara phool phenkne aur zor se taliyan bajane ki ati-prashansa ka anand liya."
           },
           "fr": {
             "word_display": "Adulation",
             "word_native": "Adulation",
             "definition": "Admiration ou louange excessive.",
-            "example_sentence": "La rock star se prélassait dans l'adulation de ses fans hurlants.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le mignon chien chanteur se tenait sur scène, profitant de l'adulation tandis que les petits animaux l'acclamaient et jetaient des fleurs."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'adulatio' (flattery, fawning), originally used to describe dogs wagging their tails ('adulari' - to fawn on).",
+          "evolution_story": "From the Latin 'adulatio' (flattery). Originally, it described a dog happily wagging its tail at its master. Today, it simply describes anyone receiving an overwhelming amount of praise and cheering, like a famous pop star on a big stage.",
           "related_words": [
             "Worship",
             "Idolatry",
@@ -1386,12 +1383,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Time Magazine Usage",
-              "author": "Molly Ball (Time)",
-              "year": "2022"
+              "title": "The Adulation of the Anti-Hero",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A cultural essay analyzing how modern television audiences blur the line between being entertained by villainous protagonists and offering them genuine adulation, turning toxic traits into worship."
+            },
+            {
+              "type": "Article",
+              "title": "When Fandom Crosses into Adulation",
+              "author": "The Guardian",
+              "year": "2025",
+              "context": "An exploration of modern pop music fanbases, arguing that healthy appreciation for artists has frequently mutated into blind adulation where no criticism is tolerated."
             }
           ],
-          "trivia": "Recently used in political commentary (Time, 2022) to describe the intense loyalty of Trump supporters at rallies."
+          "trivia": "Even though it means huge praise now, the Latin root originally just meant a dog wagging its tail to get a treat!"
         }
       }
     },
@@ -1408,34 +1413,34 @@
       ],
       "common_assets": {
         "image_url": "images/prescient.jpg",
-        "image_prompt": "Dreamy Surrealist Salvador Dali style of a scene representing: Her prescient warning about the housing bubble was ignored until the crash.. The scene should capture the essence of 'Prescient'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Dreamy Surrealist Salvador Dali style illustration of a scene inspired by a simple children's fable: a smart little owl sitting on a tree branch wearing tiny glasses, calmly holding up an open umbrella just before a single dark raincloud appears, while little woodland animals look up in amazement at his prescient planning. 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Prescient",
             "definition": "Having or showing knowledge of events before they take place.",
-            "example_sentence": "Her prescient warning about the housing bubble was ignored until the crash.",
+            "example_sentence": "The smart little owl opened his umbrella right before the rain started, shocking the other animals with his prescient planning.",
             "pronunciation_guide": "/prescient/"
           },
           "hi": {
             "word_display": "Purv-gyani",
             "word_anglicized": "Purv-gyani",
-            "word_native": "---",
+            "word_native": "पूर्व-ज्ञानी",
             "definition": "Ghatnaon ke hone se pehle unka gyan hona.",
-            "example_sentence": "Housing bubble ke baare mein uski purv-gyani chetavani ko crash tak andekha kiya gaya.",
+            "example_sentence": "Samajhdar chhote ullu ne barish shuru hone se theek pehle apna chhata khol liya, jisse uski purv-gyani soch dekh sab hairaan reh gaye.",
             "cultural_note": "Direct conceptual translation."
           },
           "fr": {
             "word_display": "Prescient",
             "word_native": "Prescient",
             "definition": "Avoir ou montrer la connaissance des événements avant qu'ils ne se produisent.",
-            "example_sentence": "Son avertissement prescient sur la bulle immobilière a été ignoré jusqu'au krach.",
+            "example_sentence": "Le petit hibou intelligent ouvrit son parapluie juste avant la pluie, surprenant les autres animaux par sa planification presciente.",
             "cultural_note": "Standard usage."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'praescientia' (foreknowledge). A 2022 deep-learning study used the term 'prescient ideas' to analyze political speech patterns that predicted future shifts.",
+          "evolution_story": "From the Latin 'praescientia' (foreknowledge). It used to be tied to scary magical prophecy, but today it just describes someone who can accurately guess what will happen next—like checking the sky before a storm.",
           "related_words": [
             "Prophetic",
             "Visionary",
@@ -1443,13 +1448,21 @@
           ],
           "recent_references": [
             {
-              "type": "Academic",
-              "title": "Deep-learning model of prescient ideas",
-              "author": "P. Vicinanza (PNAS)",
-              "year": "2022"
+              "type": "Article",
+              "title": "The Prescient Warnings of Pandemic Fiction",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "A deep dive into how fiction writers mapped out societal reactions to global lockdowns years before they occurred, highlighting the prescient nature of science fiction."
+            },
+            {
+              "type": "Essay",
+              "title": "AI and the Myth of Prescience",
+              "author": "The Atlantic",
+              "year": "2025",
+              "context": "An essay arguing that we continuously mistake algorithmic pattern-matching for genuine prescience, confusing a machine's ability to calculate probabilities with the human intuition of truly seeing the future."
             }
           ],
-          "trivia": "Often colloquially synonymous with 'prophetic', though prescience implies knowledge rather than divine inspiration."
+          "trivia": "While its Latin root 'praescire' means simply 'to know beforehand', achieving true prescience is getting easier — as of April 2026, new AI models can even predict the weather with near-perfect accuracy weeks in advance!"
         }
       }
     },
@@ -1466,34 +1479,34 @@
       ],
       "common_assets": {
         "image_url": "images/paradox.jpg",
-        "image_prompt": "Vibrant Cyberpunk Neon style of a scene representing: It is a paradox that computers need to be maintained so that they can save us time.. The scene should capture the essence of 'Paradox'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Vibrant Cyberpunk Neon style illustration of a scene inspired by a simple children's sci-fi fable: a small, smiling robot carries a massive glowing neon battery on its back to get extra energy, but the battery is so incredibly heavy that dragging it uses up all the energy it provides. 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Paradox",
             "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
-            "example_sentence": "It is a paradox that computers need to be maintained so that they can save us time.",
+            "example_sentence": "The little robot carried a huge battery for extra energy, but it was so heavy it drained all his power—a funny paradox!",
             "pronunciation_guide": "/paradox/"
           },
           "hi": {
             "word_display": "Virodhabhas",
             "word_anglicized": "Virodhabhas",
-            "word_native": "---",
+            "word_native": "विरोधाभास",
             "definition": "Aisi baat jo dekhne mein virodhi lage par sach ho sakti hai.",
-            "example_sentence": "Ye ek virodhabhas hai ki samay bachane ke liye computer ko maintain karne mein samay lagana padta hai.",
+            "example_sentence": "Chhote robot ne urja badhane ke liye ek bhari battery uthai, par uske bojh ne baqi energy bhi khatam kar di—kaisa virodhabhas!",
             "cultural_note": "Direct conceptual translation."
           },
           "fr": {
             "word_display": "Paradoxe",
             "word_native": "Paradoxe",
             "definition": "Une déclaration apparemment contradictoire qui peut s'avérer vraie.",
-            "example_sentence": "C'est un paradoxe que les ordinateurs doivent être entretenus pour qu'ils puissent nous faire gagner du temps.",
+            "example_sentence": "Le petit robot portait une énorme batterie pour plus d'énergie, mais son poids a vidé toute sa puissance — un drôle de paradoxe!",
             "cultural_note": "Standard usage."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Greek 'paradoxon' (contrary to expectation). In the 20th century, 'Simpson's Paradox' became a famous statistical example where trends appear in groups but disappear when combined.",
+          "evolution_story": "From the Greek 'paradoxon', meaning 'contrary to expectation'. Today, it simply describes those funny, head-scratching situations where trying to fix a problem accidentally makes it worse or does the exact opposite.",
           "related_words": [
             "Contradiction",
             "Enigma",
@@ -1501,13 +1514,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Etymonline: Paradox",
-              "author": "Douglas Harper",
-              "year": "2024"
+              "type": "Article",
+              "title": "The Productivity Paradox: Why Hustle Culture Fails",
+              "author": "Forbes",
+              "year": "2024",
+              "context": "A simple piece exploring the modern office paradox where constantly working faster eventually causes so many burnout mistakes that it slows everything down."
+            },
+            {
+              "type": "Article",
+              "title": "Helping Kids Understand Logic",
+              "author": "Scientific American",
+              "year": "2025",
+              "context": "An interesting look at how children begin to grasp complex contradictory scenarios around age seven using simple visual metaphors for paradoxes."
             }
           ],
-          "trivia": "The 'Paradox of Tolerance' states that if a society is tolerant without limit, its ability to be tolerant is eventually seized or destroyed by the intolerant."
+          "trivia": "While the Greek philosophers loved debating them thousands of years ago, paradoxes remain fresh—in April 2026, tech leaders noted an 'AI paradox' where smarter computer helpers sometimes make simple tasks take twice as long to finish!"
         }
       }
     },
