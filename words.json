@@ -1479,30 +1479,27 @@
       ],
       "common_assets": {
         "image_url": "images/paradox.jpg",
-        "image_prompt": "Vibrant Cyberpunk Neon style illustration of a scene inspired by a simple children's sci-fi fable: a small, smiling robot carries a massive glowing neon battery on its back to get extra energy, but the battery is so incredibly heavy that dragging it uses up all the energy it provides. 4:5 aspect ratio."
+        "image_prompt": "Photorealistic sci-fi style illustration of a scene inspired by a futuristic children's story: a sleek, high-tech cleaning robot aggressively sweeping a dusty futuristic room, but its own powerful exhaust vents are blowing massive clouds of dust back into the air, creating a paradox where cleaning makes it dirtier. 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Paradox",
             "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
-            "example_sentence": "The little robot carried a huge battery for extra energy, but it was so heavy it drained all his power—a funny paradox!",
-            "pronunciation_guide": "/paradox/"
+            "example_sentence": "The sleek robot tried to clean the room, but its exhaust blew dust everywhere, creating a funny paradox where cleaning made things dirtier!"
           },
           "hi": {
             "word_display": "Virodhabhas",
             "word_anglicized": "Virodhabhas",
             "word_native": "विरोधाभास",
             "definition": "Aisi baat jo dekhne mein virodhi lage par sach ho sakti hai.",
-            "example_sentence": "Chhote robot ne urja badhane ke liye ek bhari battery uthai, par uske bojh ne baqi energy bhi khatam kar di—kaisa virodhabhas!",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Aadhunik robot ne kamra saaf karne ki koshish ki, par uske dhuein ne itni dhool udayi ki kamra aur ganda ho gaya—kaisa virodhabhas!"
           },
           "fr": {
             "word_display": "Paradoxe",
             "word_native": "Paradoxe",
             "definition": "Une déclaration apparemment contradictoire qui peut s'avérer vraie.",
-            "example_sentence": "Le petit robot portait une énorme batterie pour plus d'énergie, mais son poids a vidé toute sa puissance — un drôle de paradoxe!",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le robot élégant essayait de nettoyer la pièce, mais son échappement soufflait de la poussière partout, créant un drôle de paradoxe!"
           }
         },
         "english_deep_dive": {
@@ -1528,7 +1525,7 @@
               "context": "An interesting look at how children begin to grasp complex contradictory scenarios around age seven using simple visual metaphors for paradoxes."
             }
           ],
-          "trivia": "While the Greek philosophers loved debating them thousands of years ago, paradoxes remain fresh—in April 2026, tech leaders noted an 'AI paradox' where smarter computer helpers sometimes make simple tasks take twice as long to finish!"
+          "trivia": "While the Greek philosophers loved debating them thousands of years ago, paradoxes remain fresh—recently, tech leaders noted an 'AI paradox' where smarter computer helpers sometimes make simple tasks take twice as long to finish!"
         }
       }
     },
@@ -1545,34 +1542,31 @@
       ],
       "common_assets": {
         "image_url": "images/confirmation_bias.jpg",
-        "image_prompt": "Soft Watercolor painting of a scene representing: He only read news sources that aligned with his views, a clear case of confirmation bias.. The scene should capture the essence of 'Confirmation bias'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft Watercolor painting style illustration of a scene inspired by a simple children's detective story: a cute, furry bear detective with a magnifying glass is carefully examining tiny blue footprints that match his own fur, completely ignoring the giant, scary monster footprints right next to them. 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Confirmation bias",
             "definition": "The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.",
-            "example_sentence": "He only read news sources that aligned with his views, a clear case of confirmation bias.",
-            "pronunciation_guide": "/confirmation-bias/"
+            "example_sentence": "The cute detective bear only examined the tiny blue paw prints that matched his own fur, completely ignoring the giant monster tracks."
           },
           "hi": {
             "word_display": "Pushti Purvagrah",
             "word_anglicized": "Pushti Purvagrah",
-            "word_native": "---",
+            "word_native": "पुष्टि-पूर्वाग्रह",
             "definition": "Nayi jaankari ko apne purane vishwas ko sahi saabit karne ke nazariye se dekhna.",
-            "example_sentence": "Wo sirf wahi khabrein padhta tha jo uske vicharon se mail khaati thi, jo pushti purvagrah ka saaf udaharan hai.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Jasoos bhalu ne sirf apne nile rang jaise nishanon ko dekha, aur bade danav ke pairon ke nishanon ko puri tarah andekha kar diya."
           },
           "fr": {
             "word_display": "Biais de confirmation",
             "word_native": "Biais de confirmation",
             "definition": "La tendance à interpréter de nouvelles preuves comme une confirmation de ses croyances existantes.",
-            "example_sentence": "Il ne lisait que des sources d'information conformes à ses opinions, un cas clair de biais de confirmation.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le mignon ours détective n'a examiné que les empreintes bleues correspondant à sa fourrure, ignorant complètement les énormes traces de monstre."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Coined by English psychologist Peter Wason in 1960. While earlier observers noted the phenomenon, Wason's experiments gave it the modern name.",
+          "evolution_story": "Coined by psychologist Peter Wason in the 1960s. It describes our brain's lazy habit of only paying attention to facts that prove us right, while throwing away anything that proves us wrong. Today, it perfectly explains why internet arguments never seem to end!",
           "related_words": [
             "Echo chamber",
             "Cherry-picking",
@@ -1580,13 +1574,21 @@
           ],
           "recent_references": [
             {
-              "type": "Culture",
-              "title": "Confirmation Bias Overview",
-              "author": "Wikipedia / Wason",
-              "year": "1960 (Cited 2024)"
+              "type": "Article",
+              "title": "The Psychology of Misinformation",
+              "author": "BBC News",
+              "year": "2024",
+              "context": "An insightful article explaining how social media algorithms feed into our confirmation bias by only showing us posts we already agree with."
+            },
+            {
+              "type": "Article",
+              "title": "Why We Argue",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "A deep dive into modern politics, showing how voters on all sides use confirmation bias to ignore flaws in their own favorite candidates."
             }
           ],
-          "trivia": "Economist Weijie Zhong's recent models suggest this bias might actually be a 'rational' way to save mental energy under time pressure."
+          "trivia": "Even highly trained scientists suffer from confirmation bias! To fight it, modern researchers use 'double-blind' studies, where even the scientists don't know who gets the real medicine until the very end, preventing them from accidentally seeing what they want to see."
         }
       }
     },
@@ -1603,34 +1605,31 @@
       ],
       "common_assets": {
         "image_url": "images/salient.jpg",
-        "image_prompt": "Bold Lino Cut graphic style of a scene representing: She summarized the salient points of the long report in just two slides.. The scene should capture the essence of 'Salient'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft Watercolor illustration style of a scene inspired by a modern political debate: a confident young politician stands at a wooden podium holding up a single, glowing red folder representing her most salient policy point, while hundreds of boring black-and-white papers flutter unnoticed to the floor around her. 4:5 aspect ratio."
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Salient",
             "definition": "Most noticeable or important.",
-            "example_sentence": "She summarized the salient points of the long report in just two slides.",
-            "pronunciation_guide": "/salient/"
+            "example_sentence": "The young politician held up the glowing red folder, highlighting the most salient point of her entire campaign to the crowd."
           },
           "hi": {
             "word_display": "Mukhya",
-            "word_anglicized": "Mukhya (Ubharne wala)",
-            "word_native": "---",
+            "word_anglicized": "Mukhya",
+            "word_native": "मुख्य",
             "definition": "Sabse mahatvapurn ya dhyan khinchne wala.",
-            "example_sentence": "Usne lambi report ke mukhya binduon ko sirf do slides mein samjha diya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Yuva neta ne chamakta laal folder upar uthakar apni campaign ka sabse mukhya bindu dikhaya, aur bheed ne taliyan bajayin."
           },
           "fr": {
             "word_display": "Saillant",
             "word_native": "Saillant",
             "definition": "Le plus notable ou important.",
-            "example_sentence": "Elle a résumé les points saillants du long rapport en seulement deux diapositives.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "La jeune politicienne a brandi le dossier rouge vif, soulignant le point le plus saillant de sa campagne devant la foule."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'salire' (to leap). Originally a military term for a battlefield line that projects outward into enemy territory. Evolved to mean anything 'standing out' or 'leaping to the eye'.",
+          "evolution_story": "From the Latin 'salire', meaning 'to leap'. It originally described military lines jutting out into enemy territory. Over time, it evolved to describe any detail, fact, or argument that practically 'leaps' out at you because it is so important and noticeable.",
           "related_words": [
             "Prominent",
             "Conspicuous",
@@ -1639,12 +1638,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Modern Usage of Salient",
-              "author": "WordPandit",
-              "year": "2025"
+              "title": "The Art of the Political Debate",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "An analysis of how modern candidates succeed not by listing every policy, but by hammering home a few highly salient arguments."
+            },
+            {
+              "type": "Article",
+              "title": "Information Overload in Elections",
+              "author": "BBC News",
+              "year": "2023",
+              "context": "A discussion on how voters filter out the noise and only focus on the most salient issues that directly affect their daily lives."
             }
           ],
-          "trivia": "In geography, a 'salient' is a piece of land that projects into a body of water."
+          "trivia": "While it usually refers to important ideas today, 'salient' is still used in geography to describe a piece of land that noticeably sticks out into a body of water or another country's border!"
         }
       }
     },

@@ -6,7 +6,7 @@ trigger: enrich jigyaasa word
 
 ## Goal
 Given a raw JSON entry from words.json, produce an enriched version with:
-1. A vivid, memorable `image_prompt` anchored to a famous film/show/speech/book/person (indirectly, not verbatim).
+1. A new vivid, memorable `image_prompt` anchored to a famous film/show/speech/book/person (indirectly, not verbatim).
 2. Three tightly linked `example_sentence` values (EN, HI, FR) — all describing the same scene, each under 25 words, each using the word in its own language.
 3. A punchy `evolution_story` under 50 words that helps the word stick in memory.
 4. Two strong `recent_references` (no dictionaries, no random etymology sites — use named publications: BBC, The Guardian, The Atlantic, Economic Times, NYT, famous speeches, well-known books, or academic papers).
@@ -23,9 +23,9 @@ Invent a short, vivid scene (2-3 characters/assets) that:
 - Literalises or dramatises the meaning of the word
 - Blends ancient/classic references with a modern twist where possible
 - Works as a single still image
-- MUST be reasonably simple and intuitively easy to understand for humans, young students and children above 16 years old as an educational illustration (avoid overly complex, dark, or abstract adult themes).
+- MUST be reasonably simple and intuitively easy to understand for humans, young students and adults above 16 years old as an educational illustration (avoid overly complex, dark, or abstract adult themes).
 
-### Step 3 — Write the image_prompt
+### Step 3 — Write the new/updated image_prompt
 Format:
 `[Illustration style from original JSON] of a scene inspired by [famous reference]: [describe the scene with 2-3 named assets/characters, the key action, the key visual metaphor, lighting/atmosphere]. [Aspect ratio: 4:5]`
 
@@ -36,7 +36,7 @@ Rules:
 
 ### Step 4 — Write example sentences
 - All three sentences must describe the EXACT same scene from the image_prompt
-- The language and concept must be reasonably simple and easy to understand for humans, young students and children above 16 years old as an educational example
+- The language and concept must be reasonably simple and easy to understand for humans, young students and adults above 16 years old as an educational example
 - Each sentence must use the word naturally in its own language
 - Under 25 words each
 - EN sentence uses the English word; HI sentence uses the Hindi equivalent; FR sentence uses the French equivalent
@@ -94,5 +94,5 @@ Do NOT change: id, date, category, type, tags, definitions, image_url, word_disp
 
 ## Lessons Learnt
 - **Enrich the Trivia section**: Even though originally listed to remain unchanged, you must now actively enrich the `trivia` field for every word processing task, making it a highly memorable fact or connecting it to the root history. IMPORTANT: Do NOT mention the current month or year anywhere; instead use indirect references to modern usage.
-- **Educational Simplicity**: Make sure the image prompt narrative and the associated example sentences are reasonably simple, straightforward, and easy to understand for humans, young students and children above 16 years old. Treat it like an engaging educational illustration rather than a dense abstract puzzle.
+- **Educational Simplicity**: Make sure the image prompt narrative and the associated example sentences are reasonably simple, straightforward, and easy to understand for humans, young students and adults above 16 years old. Treat it like an engaging educational illustration rather than a dense abstract puzzle.
 - Remove the pronunciation_guide field and cultural_note field from the JSON if present.
