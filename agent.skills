@@ -18,7 +18,7 @@ Given a raw JSON entry from words.json, produce an enriched version with:
 Search for the requested word in `words.json`. 
 - If the word exists, read the `word_display` and `definition` fields from its JSON entry and proceed.
 - If the word DOES NOT exist, you MUST pause and confirm with the user if they want to create the data for the word anew. Do not proceed until they confirm.
-- If the user confirms creation, generate a completely new JSON entry for the word from scratch. The new JSON MUST have exactly the same keys and structure as existing individual words in `words.json` (e.g., id, date, category, type, tags, common_assets, content_payload, english_deep_dive). Generate all required fields by following the enrichment rules below.
+- If the user confirms creation, generate a completely new JSON entry for the word from scratch. The new JSON MUST have exactly the same keys and structure as existing individual words in `words.json` (e.g., id, date, category, type, tags, common_assets, content_payload, english_deep_dive, etc.). Generate all required fields by following the enrichment rules.
 
 ### Step 2 — Design the mnemonic skit
 Invent a short, vivid scene (2-3 characters/assets) that:
@@ -30,17 +30,19 @@ Invent a short, vivid scene (2-3 characters/assets) that:
 
 ### Step 3 — Write the new/updated image_prompt
 Format:
-`[Illustration style from original JSON] of a scene inspired by [famous reference]: [describe the scene with 2-3 named assets/characters, the key action, the key visual metaphor, lighting/atmosphere]. [Aspect ratio: 4:5]`
+`[Illustration style from the list of styles] of a scene inspired by [famous reference]: [describe the scene with 2-3 named assets/characters, the key action, the key visual metaphor, lighting/atmosphere]. [Aspect ratio: 4:5]`
 
 Rules:
-- Keep the illustration style from the original JSON (Ghibli, Baroque, Pixar, etc.)
+- Keep the illustration style from the list of styles:
+    [Ghibli, Baroque, Pixar, Watercolor Painting, Japanese Anime, Marvel Style, Origami, Oil on Canvas Style, Cyberpunk Style, Disney Classic, Street Art, Pointillism, Manga, Minimalist, Cartoon Network Style, ]
 - Reference the famous work/person indirectly (e.g. "a scene inspired by a classic political satire anime" not "a scene from Death Note")
 - Include at least one visual element that IS the definition, not just illustrates it
 - The image prompt should be so vivid that the user can easily understand the meaning of the word just by looking at the image and reading the prompt.
-- Think like a director of a scene and describe the scene in a way that tells a story highlighting the meaning of the word in a fun and creative and memorable way.
+- Think like a director of a scene and describe the scene in a way that tells a story highlighting the meaning of the word in a vivid, creative, and memorable way. **Crucially, vary the emotional tone of the scene on every run.** Mix it up to keep the audience hooked: sometimes make it a thrilling action scene, sometimes deeply emotional, sometimes comedic, suspenseful, cheerful, happy, mysterious, or dramatic. The tone should perfectly match and evoke the visceral feel of the word being enriched.
 - In some instances you would get idioms and proverbs as words. Build the image using the idiomatic meaning of the word.
 
-### Step 4 — Write example sentences
+### Step 4 — Update Definitions and Write Example Sentences
+- Review the `definition` fields across all languages. Update the meaning if required to make it more accurate or simpler; otherwise, skip updating it and leave it as is.
 - All three sentences must describe the EXACT same scene from the image_prompt
 - The language and concept must be reasonably simple and easy to understand for humans, young students and adults above 16 years old as an educational example
 - Each sentence must use the word naturally in its own language
@@ -58,7 +60,7 @@ Under 50 words. Must:
 
 ### Step 6 — Find recent_references
 Search for 2 references that are:
-- Named, credible publications or well-known works (The Hindu, Indian Express,BBC, Guardian, Atlantic, NYT, Economic Times, Shashi Tharoor speeches, etc.)
+- Named, credible publications or well-known works (The Hindu, Indian Express,BBC, Guardian, Atlantic, NYT, Economic Times, Shashi Tharoor speeches, Anand Ranganathan books, speeches, Gita Gopinath references, Richard Dawkins speeches, etc.)
 - From 2020 or later (prefer 2023–2026)
 - NOT dictionaries, etymology sites, or random blogs
 - Each reference needs: type, title, author, year, context (1-2 sentences explaining how the word was used or why the reference is relevant)

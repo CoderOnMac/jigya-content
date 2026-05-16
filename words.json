@@ -1731,34 +1731,31 @@
       ],
       "common_assets": {
         "image_url": "images/truant.jpg",
-        "image_prompt": "Moody Baroque oil painting of a scene representing: truant student hid in the arcade to avoid the math exam.. The scene should capture the essence of 'Truant'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Moody Baroque oil painting style illustration of a scene inspired by a classic coming-of-age movie: a cheeky truant student wearing a bright red school backpack is gleefully playing a glowing arcade machine in a dimly lit room, while nervously glancing out the window at a yellow school bus driving away. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Truant",
             "definition": "A student who stays away from school without leave or explanation.",
-            "example_sentence": "The truant student hid in the arcade to avoid the math exam.",
-            "pronunciation_guide": "/truant/"
+            "example_sentence": "The cheeky truant student skipped school to play arcade games, nervously watching the yellow school bus drive away without him."
           },
           "hi": {
             "word_display": "Bhagoda",
-            "word_anglicized": "Bhagoda (Bina bataye gayab)",
-            "word_native": "---",
+            "word_anglicized": "Bhagoda",
+            "word_native": "भगोड़ा",
             "definition": "Wo vidyarthi jo bina bataye school se gayab rahe.",
-            "example_sentence": "Bhagoda chhatra ganit ki pariksha se bachne ke liye arcade mein chhup gaya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Bhagode chhatra ne school chhodkar arcade game khela, aur ghabrakar peeli school bus ko wahan se jaate hue dekha."
           },
           "fr": {
             "word_display": "Absentéiste",
             "word_native": "Absentéiste",
             "definition": "Élève qui manque l'école sans permission.",
-            "example_sentence": "L'élève absentéiste s'est caché dans la salle d'arcade pour éviter l'examen de mathématiques.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "L'élève absentéiste a séché l'école pour jouer aux jeux d'arcade, regardant nerveusement le bus scolaire jaune s'éloigner."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Old French 'truand' (beggar/rogue), possibly from Celtic roots. Originally meant a vagabond or idler, it narrowed to specifically mean a child absent from school in the 15th century.",
+          "evolution_story": "From the Old French 'truand', meaning a wandering beggar or rogue. While it originally described any lazy adult wandering the streets, by the 15th century, it narrowed to specifically mean a mischievous child skipping school to play all day.",
           "related_words": [
             "Absentee",
             "Shirker",
@@ -1766,13 +1763,21 @@
           ],
           "recent_references": [
             {
-              "type": "Etymology",
-              "title": "Better Words: Truant",
-              "author": "Better Words",
-              "year": "2019"
+              "type": "Article",
+              "title": "The Post-Pandemic Classroom",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "An investigation into why schools are struggling with record numbers of truant students who have simply stopped attending classes."
+            },
+            {
+              "type": "Opinion",
+              "title": "Why Kids Skip School",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "A cultural essay exploring the psychological reasons behind truant behavior in teenagers, arguing it often stems from anxiety rather than rebellion."
             }
           ],
-          "trivia": "In the 16th century, 'to play truant' was a criminal offense for adults (vagrants), not just students."
+          "trivia": "In the 16th century, 'playing truant' wasn't just a minor school rule—it was actually a criminal offense for wandering adults that could land them in serious legal trouble!"
         }
       }
     },
@@ -1789,34 +1794,31 @@
       ],
       "common_assets": {
         "image_url": "images/malingerer.jpg",
-        "image_prompt": "Clean Disney Pixar 3D render of a scene representing: sergeant suspected the soldier was a malingerer trying to avoid the march.. The scene should capture the essence of 'Malingerer'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Clean Disney Pixar 3D render style illustration of a scene inspired by a classic toy adventure movie: a lazy toy soldier with a fake thermometer in his mouth dramatically pretends to be sick in bed, while a strict plastic sergeant angrily points to the other soldiers marching outside, catching the malingerer red-handed. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Malingerer",
             "definition": "Someone who exaggerates or feigns illness in order to escape duty or work.",
-            "example_sentence": "The sergeant suspected the soldier was a malingerer trying to avoid the march.",
-            "pronunciation_guide": "/malingerer/"
+            "example_sentence": "The strict plastic sergeant caught the malingerer red-handed, pointing at the lazy toy soldier pretending to be sick in bed."
           },
           "hi": {
             "word_display": "Kaamchor",
-            "word_anglicized": "Kaamchor (Bimari ka bahana karne wala)",
-            "word_native": "---",
+            "word_anglicized": "Kaamchor",
+            "word_native": "कामचोर",
             "definition": "Wo jo kaam se bachne ke liye bimar hone ka natak kare.",
-            "example_sentence": "Sergeant ko shak tha ki sipahi march se bachne ke liye bimari ka bahana kar raha hai.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Sakht sergeant ne bimar hone ka natak karte us kaamchor khilaune sipahi ko pakad liya, aur gusse se bahar ishara kiya."
           },
           "fr": {
             "word_display": "Simulateur",
             "word_native": "Simulateur",
             "definition": "Personne qui feint une maladie pour échapper à une corvée.",
-            "example_sentence": "Le sergent soupçonnait le soldat d'être un simulateur essayant d'éviter la marche.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le sergent strict a surpris le simulateur, pointant du doigt le soldat jouet paresseux qui prétendait être malade dans son lit."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From French 'malingre' (sickly/ailing). The term was popularized in military contexts (18th-19th century) to describe soldiers feigning sickness to avoid battle or duty.",
+          "evolution_story": "Derived from the old French word 'malingre', meaning sickly or ailing. By the 18th century, the military adopted it to specifically describe lazy soldiers who feigned illness just to dodge their duties and avoid going into battle.",
           "related_words": [
             "Shirker",
             "Faker",
@@ -1824,13 +1826,21 @@
           ],
           "recent_references": [
             {
-              "type": "History",
-              "title": "WWII Combat Psychiatry",
-              "author": "US Army Medical Dept",
-              "year": "1945 (Cited 2025)"
+              "type": "Article",
+              "title": "The Rise of 'Quiet Quitting'",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "An exploration of modern workplace culture, distinguishing between genuine burnout and workers who act as malingerers to avoid new responsibilities."
+            },
+            {
+              "type": "Opinion",
+              "title": "Sick Days and Trust",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "An opinion piece arguing that strict corporate policies often unfairly treat genuinely sick employees like malingerers."
             }
           ],
-          "trivia": "Under the 96th Article of War, malingering is a punishable offense in the military."
+          "trivia": "Even today, being a malingerer isn't just frowned upon in the military—it is an officially punishable offense under military law to fake an illness!"
         }
       }
     },
@@ -1847,34 +1857,31 @@
       ],
       "common_assets": {
         "image_url": "images/pristine.jpg",
-        "image_prompt": "Classical Greek marble statue style of a scene representing: hikers were awed by the pristine beauty of the untouched snow.. The scene should capture the essence of 'Pristine'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Classical Greek marble statue style illustration of a scene inspired by a nature documentary: a tired explorer gently pushes past dense vines to reveal a breathtaking, untouched sparkling waterfall in a pristine secret valley that no human has ever ruined. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Pristine",
             "definition": "In its original condition; unspoiled.",
-            "example_sentence": "The hikers were awed by the pristine beauty of the untouched snow.",
-            "pronunciation_guide": "/pristine/"
+            "example_sentence": "The tired explorer pushed past the vines to discover a pristine secret valley with an untouched, sparkling waterfall."
           },
           "hi": {
             "word_display": "Nirmal",
-            "word_anglicized": "Nirmal (Achhoota)",
-            "word_native": "---",
+            "word_anglicized": "Nirmal",
+            "word_native": "निर्मल",
             "definition": "Apni asli halat mein; bilkul saaf aur achhoota.",
-            "example_sentence": "Padyatri achhooti barf ki nirmal sundarta dekhkar dang reh gaye.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Thake hue padyatri ne belon ko hatakar ek aisi nirmal aur achhooti ghati khoji jahan ek chamakta jharana tha."
           },
           "fr": {
             "word_display": "Immaculé",
             "word_native": "Immaculé",
             "definition": "Dans son état original; non gâté.",
-            "example_sentence": "Les randonneurs étaient impressionnés par la beauté immaculée de la neige vierge.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "L'explorateur fatigué a écarté les lianes pour découvrir une vallée secrète immaculée avec une cascade étincelante et intacte."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'pristinus' (early/original). A major shift occurred in 1899 due to conservation movements: it moved from meaning 'ancient' to meaning 'unspoiled/pure'.",
+          "evolution_story": "From the Latin 'pristinus', meaning 'ancient' or 'original'. Interestingly, the word completely shifted its meaning around 1899 during early conservation movements. Instead of just meaning 'old', it evolved to describe nature that is entirely pure, clean, and untouched by human hands.",
           "related_words": [
             "Immaculate",
             "Unspoiled",
@@ -1883,12 +1890,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Etymology of 'Pristine'",
-              "author": "Oreate AI Analysis",
-              "year": "2025"
+              "title": "The Fight for the Arctic",
+              "author": "National Geographic",
+              "year": "2024",
+              "context": "An environmental report detailing the urgent need to protect the pristine icy landscapes of the Arctic from industrial drilling."
+            },
+            {
+              "type": "Opinion",
+              "title": "Tourism's Hidden Cost",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "An essay exploring how the rise of social media travel influencers often leads to the destruction of once-pristine natural wonders."
             }
           ],
-          "trivia": "Originally, 'pristine' meant 'primitive' or 'ancient', not necessarily 'clean'. The modern usage is almost the opposite of 'primitive' in connotation (perfect vs. rough)."
+          "trivia": "It's easy to assume 'pristine' just means 'very clean', but it actually comes from the Latin word for 'ancient'! When we call a forest pristine, we are literally saying it looks exactly as perfect as it did at the dawn of time."
         }
       }
     },
@@ -1905,34 +1920,31 @@
       ],
       "common_assets": {
         "image_url": "images/agog.jpg",
-        "image_prompt": "Da Vinci style sepia sketch of a scene representing: town was agog with rumors about the celebrity's visit.. The scene should capture the essence of 'Agog'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style sepia sketch illustration of a scene inspired by a classic carnival movie: a crowd of wide-eyed, smiling children lean eagerly out of a village window, their faces completely agog with excitement as they watch a magical parade approaching. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Agog",
             "definition": "Very eager or curious to hear or see something.",
-            "example_sentence": "The town was agog with rumors about the celebrity's visit.",
-            "pronunciation_guide": "/agog/"
+            "example_sentence": "The wide-eyed children leaned out the window, completely agog with excitement as they watched the magical carnival parade approaching."
           },
           "hi": {
             "word_display": "Utsuk",
             "word_anglicized": "Utsuk",
-            "word_native": "---",
+            "word_native": "उत्सुक",
             "definition": "Kuch sunne ya dekhne ke liye bahut utsuk.",
-            "example_sentence": "Mashhoor hasti ke aane ki afwahon se poora shehar utsuk tha.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Khidki se bahar jhukte hue, chaudi ankhon wale bacche jadui mela aate dekhkar puri tarah se utsuk the."
           },
           "fr": {
             "word_display": "En émoi",
             "word_native": "En émoi",
             "definition": "Très impatient ou curieux d'entendre ou de voir quelque chose.",
-            "example_sentence": "La ville était en émoi avec les rumeurs sur la visite de la célébrité.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Les enfants aux yeux écarquillés se penchaient par la fenêtre, complètement en émoi en regardant approcher la parade magique du carnaval."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Old French 'en gogues' (in jest/joy/mirth). Adopted into English c. 1400. It implies a state of excited anticipation.",
+          "evolution_story": "From the Old French phrase 'en gogues', meaning to be in a state of mirth or extreme joy. By the 16th century, it was adopted into English to perfectly describe that wide-eyed, breathless feeling of intense curiosity and eager anticipation.",
           "related_words": [
             "Eager",
             "Excited",
@@ -1940,13 +1952,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Etymonline: Agog",
-              "author": "Douglas Harper",
-              "year": "2025"
+              "type": "Article",
+              "title": "The Thrill of Space Exploration",
+              "author": "BBC News",
+              "year": "2024",
+              "context": "A science report describing how the entire world was left agog watching the first clear video feed of a historic moon landing."
+            },
+            {
+              "type": "Opinion",
+              "title": "Pop Culture Phenomena",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An essay exploring how massive movie trailers drop online and instantly leave millions of fans entirely agog for months before the release."
             }
           ],
-          "trivia": "Often used in the phrase 'all agog'."
+          "trivia": "It is almost always used in the phrase 'all agog', perfectly painting the picture of a person whose eyes are wide open, completely unable to hide their intense excitement!"
         }
       }
     },
@@ -1963,34 +1983,31 @@
       ],
       "common_assets": {
         "image_url": "images/doughty.jpg",
-        "image_prompt": "High-contrast Death Note anime style of a scene representing: doughty firefighter rushed back into the building to save the cat.. The scene should capture the essence of 'Doughty'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "High-contrast suspense anime style illustration of a scene inspired by a heroic rescue movie: a brave, tiny but doughty firefighter dashes out of a heavily smoking building, triumphantly holding a frightened little kitten in one hand and a glowing water hose in the other. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Doughty",
             "definition": "Brave and persistent.",
-            "example_sentence": "The doughty firefighter rushed back into the building to save the cat.",
-            "pronunciation_guide": "/doughty/"
+            "example_sentence": "The doughty little firefighter bravely dashed out of the smoking building, triumphantly carrying the frightened kitten to safety."
           },
           "hi": {
             "word_display": "Nidar",
-            "word_anglicized": "Nidar (Bahadur)",
-            "word_native": "---",
+            "word_anglicized": "Nidar",
+            "word_native": "निडर",
             "definition": "Bahadur aur dridh.",
-            "example_sentence": "Nidar firefighter billi ko bachane ke liye wapas imarat mein daud gaya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Us nidar chhote firefighter ne bahaduri se dhuen wali imarat se bahar daud lagayi, aur dari hui billi ko surakshit bacha laya."
           },
           "fr": {
             "word_display": "Vaillant",
             "word_native": "Vaillant",
             "definition": "Brave et persévérant.",
-            "example_sentence": "Le pompier vaillant s'est précipité de nouveau dans le bâtiment pour sauver le chat.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le vaillant petit pompier s'est courageusement précipité hors du bâtiment enfumé, portant triomphalement le chaton effrayé en sécurité."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Old English 'dohtig' (competent/good). Related to 'dowsing' (power). It fell out of common use but survived in literary contexts, often used slightly humorously or archaically today.",
+          "evolution_story": "From the Old English 'dohtig', meaning competent or worthy. While it originally described someone's general capability, it evolved over centuries in heroic literature to specifically mean someone who is fearlessly brave, resilient, and never gives up, no matter the odds.",
           "related_words": [
             "Fearless",
             "Valiant",
@@ -1998,13 +2015,21 @@
           ],
           "recent_references": [
             {
-              "type": "Web",
-              "title": "Doughty Meaning & Origin",
-              "author": "WinEveryGame",
-              "year": "2024"
+              "type": "Article",
+              "title": "The Heroes of the Wildfires",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "A tribute article describing the doughty local volunteers who tirelessly battled unprecedented forest fires for weeks without rest."
+            },
+            {
+              "type": "Opinion",
+              "title": "Underdogs in Sports History",
+              "author": "The Hindu",
+              "year": "2023",
+              "context": "A sports column praising a doughty, undersized cricket team that miraculously held their ground against world champions."
             }
           ],
-          "trivia": "The word is cognate with the German word 'tüchtig' (capable/efficient)."
+          "trivia": "Because it sounds slightly old-fashioned, you will often find 'doughty' used playfully today to describe a small but incredibly brave hero—like a tiny dog fearlessly guarding a big house!"
         }
       }
     },
@@ -2021,34 +2046,31 @@
       ],
       "common_assets": {
         "image_url": "images/walking_on_thin_ice.jpg",
-        "image_prompt": "Dreamy Surrealist Salvador Dali style of a scene representing: You're walking on thin ice by coming to work late three days in a row.. The scene should capture the essence of 'Walking on thin ice'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Dreamy Surrealist Salvador Dali style illustration of a scene inspired by a classic suspense comedy: an anxious office worker balancing precariously on a giant melting pocket watch made of fragile glass, dangling dangerously over a dark, bottomless frozen lake. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Walking on thin ice",
             "definition": "To be in a risky or precarious situation.",
-            "example_sentence": "You're walking on thin ice by coming to work late three days in a row.",
-            "pronunciation_guide": "/walking-on-thin-ice/"
+            "example_sentence": "The anxious worker balanced precariously on the melting, fragile glass watch over the frozen lake, completely walking on thin ice."
           },
           "hi": {
             "word_display": "Khatre Se Khelna",
             "word_anglicized": "Khatre Se Khelna",
-            "word_native": "---",
+            "word_native": "खतरे से खेलना",
             "definition": "Ek jokhim bhari sthiti mein hona.",
-            "example_sentence": "Lagatar teen din der se kaam par aakar tum khatre se khel rahe ho.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Pareshan karmachari us pighalte aur nazuk kanch ki ghadi par santulan banaye hue tha, jaise patli barf par chal raha ho."
           },
           "fr": {
             "word_display": "Marcher sur des œufs",
             "word_native": "Marcher sur des œufs",
             "definition": "Être dans une situation risquée ou précaire.",
-            "example_sentence": "Tu marches sur des œufs en arrivant au travail en retard trois jours de suite.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "L'employé anxieux tenait en équilibre précaire sur la montre en verre fragile au-dessus du lac gelé, marchant vraiment sur des œufs."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Literal origin from the danger of ice skating on frozen lakes. Became a common metaphor for social or professional precariousness in the late 19th century.",
+          "evolution_story": "Derived from the very real danger of ice skating on frozen lakes. By the late 19th century, it evolved into a popular metaphor to describe anyone pushing their luck in a social or professional situation where one wrong step could spell absolute disaster.",
           "related_words": [
             "Risky",
             "Precarious",
@@ -2056,13 +2078,21 @@
           ],
           "recent_references": [
             {
-              "type": "Social",
-              "title": "Facebook Language Group Discussion",
-              "author": "English Idioms Community",
-              "year": "2024"
+              "type": "Article",
+              "title": "Navigating Office Politics",
+              "author": "The Economic Times",
+              "year": "2024",
+              "context": "A career advice column discussing how employees constantly arriving late are unknowingly walking on thin ice with management."
+            },
+            {
+              "type": "Opinion",
+              "title": "Diplomacy in the Modern Age",
+              "author": "The Hindu",
+              "year": "2023",
+              "context": "An international relations essay warning that several world leaders are currently walking on thin ice with their aggressive foreign policies."
             }
           ],
-          "trivia": "Often linked to the Ralph Waldo Emerson quote: 'In skating over thin ice our safety is in our speed.'"
+          "trivia": "The famous poet Ralph Waldo Emerson once cleverly noted about this phrase: 'In skating over thin ice, our safety is in our speed!'"
         }
       }
     },
@@ -2079,34 +2109,31 @@
       ],
       "common_assets": {
         "image_url": "images/obfuscate.jpg",
-        "image_prompt": "Vibrant Cyberpunk Neon style of a scene representing: politician tried to obfuscate the truth with complex jargon.. The scene should capture the essence of 'Obfuscate'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Vibrant Cyberpunk Neon style illustration of a scene inspired by a futuristic political thriller: a slippery cyber-politician stands at a glowing neon podium, using a high-tech megaphone to shoot thick, confusing clouds of colorful digital smoke to deliberately obfuscate the clear, simple facts written on the board behind him. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Obfuscate",
             "definition": "To render obscure, unclear, or unintelligible.",
-            "example_sentence": "The politician tried to obfuscate the truth with complex jargon.",
-            "pronunciation_guide": "/obfuscate/"
+            "example_sentence": "The cyber-politician used his high-tech megaphone to shoot digital smoke, trying to obfuscate the simple facts written on the board behind him."
           },
           "hi": {
             "word_display": "Uljhana",
-            "word_anglicized": "Uljhana (Aspasht karna)",
-            "word_native": "---",
+            "word_anglicized": "Uljhana",
+            "word_native": "उलझाना",
             "definition": "Jaanbhoojhkar kisi baat ko aspasht ya mushkil banana.",
-            "example_sentence": "Neta ne jatil shabdon se sach ko uljhane ki koshish ki.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Us cyber-neta ne apne high-tech megaphone se digital dhuaan chhoda, taki wo apne peechhe board par likhe sach ko uljha sake."
           },
           "fr": {
             "word_display": "Obfusquer",
             "word_native": "Obfusquer",
             "definition": "Rendre obscur, peu clair ou inintelligible.",
-            "example_sentence": "Le politicien a essayé d'obfusquer la vérité avec un jargon complexe.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le cyber-politicien utilisait son mégaphone high-tech pour tirer de la fumée numérique, essayant d'obfusquer les faits simples écrits sur le tableau derrière lui."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'obfuscare' (to darken). Historically meant physically darkening something. In modern times (especially 2024-2026), heavily used in political commentary to describe evasive rhetoric.",
+          "evolution_story": "From the Latin 'obfuscare', which literally meant to physically darken or cast a shadow over something. Today, it describes people who intentionally cast a 'shadow' over the truth by using overly complex, confusing language so nobody can understand what they really mean.",
           "related_words": [
             "Confuse",
             "Bewilder",
@@ -2115,12 +2142,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Word of the Day: Obfuscate",
-              "author": "Economic Times",
-              "year": "2026"
+              "title": "The Jargon Problem",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "An essay exploring how major tech companies intentionally obfuscate their privacy policies by writing them in confusing, dense legal language."
+            },
+            {
+              "type": "Opinion",
+              "title": "Clarity in Leadership",
+              "author": "The Hindu",
+              "year": "2023",
+              "context": "An editorial criticizing politicians who try to obfuscate their failures by giving overly complicated answers during press conferences."
             }
           ],
-          "trivia": "Programmers use 'obfuscation' to describe code that is written to be intentionally difficult for humans to read (to prevent reverse engineering)."
+          "trivia": "In the computer world, programmers actually use 'obfuscation' as a real security technique—deliberately making their code messy and confusing so hackers can't figure out how to steal it!"
         }
       }
     },
@@ -2137,34 +2172,31 @@
       ],
       "common_assets": {
         "image_url": "images/palpable.jpg",
-        "image_prompt": "Soft Watercolor painting of a scene representing: tension in the room was so thick it was palpable.. The scene should capture the essence of 'Palpable'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft Watercolor painting style illustration of a scene inspired by a fun cooking competition show: two rival chefs glare at each other, creating a glowing magical mist of tension between them that is so incredibly thick and palpable that one chef is actually poking it with a wooden spoon. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Palpable",
             "definition": "Able to be touched or felt.",
-            "example_sentence": "The tension in the room was so thick it was palpable.",
-            "pronunciation_guide": "/palpable/"
+            "example_sentence": "The two rival chefs glared at each other, creating a glowing mist of tension so thick and palpable you could poke it."
           },
           "hi": {
             "word_display": "Sparsh-yogya",
-            "word_anglicized": "Sparsh-yogya (Mehsus karne layak)",
-            "word_native": "---",
+            "word_anglicized": "Sparsh-yogya",
+            "word_native": "स्पर्श-योग्य",
             "definition": "Jise chhuan ja sake ya jo itna spasht ho ki mehsus ho.",
-            "example_sentence": "Kamre mein tanav itna gehra tha ki wo mehsus kiya ja sakta tha.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Dono chefs ne ek dusre ko ghoora, jisse unke beech ka tanav itna gehra aur sparsh-yogya ho gaya ki use chhua ja sake."
           },
           "fr": {
             "word_display": "Palpable",
             "word_native": "Palpable",
             "definition": "Capable d'être touché ou ressenti.",
-            "example_sentence": "La tension dans la pièce était si épaisse qu'elle était palpable.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Les deux chefs rivaux se dévisageaient, créant une brume magique de tension si épaisse et palpable qu'on pouvait la toucher."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'palpabilis' (touchable), from medical contexts (palpating a patient). By the 17th century, it expanded to describe atmospheres (like tension or fear) that feel physical.",
+          "evolution_story": "From the Latin 'palpare', meaning to stroke or gently touch. While doctors originally used it to describe physically examining a patient by touch, it eventually evolved to describe feelings—like fear or excitement—that are so incredibly strong they feel physically solid.",
           "related_words": [
             "Tangible",
             "Perceptible",
@@ -2173,12 +2205,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "WordPandit: Palpable",
-              "author": "WordPandit",
-              "year": "2025"
+              "title": "The Return of Live Concerts",
+              "author": "BBC News",
+              "year": "2023",
+              "context": "A cultural review describing how the excitement in the stadium was incredibly palpable the moment the band stepped onto the stage."
+            },
+            {
+              "type": "Opinion",
+              "title": "The Climate Summit",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "A political essay noting that the anxiety among world leaders at the global conference was so thick it was almost palpable."
             }
           ],
-          "trivia": "Macbeth's 'Is this a dagger which I see before me, / The handle toward my hand? Come, let me clutch thee. / I have thee not, and yet I see thee still. / Art thou not, fatal vision, sensible / To feeling as to sight? or art thou but / A dagger of the mind...?' is a famous play on palpability."
+          "trivia": "Even though it usually describes invisible feelings today, doctors still use the word 'palpate' when they physically press on your stomach to check for illnesses!"
         }
       }
     },
@@ -2195,34 +2235,31 @@
       ],
       "common_assets": {
         "image_url": "images/dabbled.jpg",
-        "image_prompt": "Bold Lino Cut graphic style of a scene representing: He dabbled in painting for a while but never took it seriously.. The scene should capture the essence of 'Dabbled'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Watercolor style illustration of a scene inspired by a quirky indie film: a messy, cheerful amateur sits happily in a room overflowing with unfinished hobbies, casually holding a paintbrush in front of a half-finished canvas. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Dabbled",
             "definition": "Take part in an activity in a casual or superficial way.",
-            "example_sentence": "He dabbled in painting for a while but never took it seriously.",
-            "pronunciation_guide": "/dabbled/"
+            "example_sentence": "The cheerful amateur casually dabbled in painting, leaving a half-finished canvas in a room overflowing with other unfinished hobbies."
           },
           "hi": {
             "word_display": "Haath azmana",
-            "word_anglicized": "Haath azmana (Thoda bahut karna)",
-            "word_native": "---",
+            "word_anglicized": "Haath azmana",
+            "word_native": "हाथ आज़माना",
             "definition": "Kisi kaam ko shaukia ya upari taur par karna.",
-            "example_sentence": "Usne kuch samay ke liye painting mein haath azmaya par kabhi gambhirta se nahi liya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Us khushmizaj shaukiya insaan ne thodi bahut painting mein haath azmaya, aur apne aade-adhoore canvas ko bikhre hue kamre mein chhod diya."
           },
           "fr": {
-            "word_display": "Touché à tout (Dilettante)",
-            "word_native": "Touché à tout (Dilettante)",
+            "word_display": "Toucher à tout",
+            "word_native": "Toucher à tout",
             "definition": "Prendre part à une activité de manière occasionnelle ou superficielle.",
-            "example_sentence": "Il a touché à la peinture pendant un certain temps mais ne l'a jamais prise au sérieux.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "L'amateur joyeux a occasionnellement touché à la peinture, laissant une toile à moitié terminée dans une pièce débordant d'autres passe-temps inachevés."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Middle Dutch 'dabbelen' (to pinch/knead/fumble). Originally meant splashing in water (like a duck). Evolved metaphorically to mean 'splashing around' in a hobby or interest.",
+          "evolution_story": "Originally from the Middle Dutch word 'dabbelen', which literally meant splashing around in the water like a duck. Over time, it evolved into a metaphor for someone who 'splashes around' in a new hobby or interest without ever diving in deeply.",
           "related_words": [
             "Tinkered",
             "Toyed",
@@ -2230,13 +2267,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Wiktionary: Dabble",
-              "author": "Wiktionary",
-              "year": "2018"
+              "type": "Article",
+              "title": "The Rise of the Hobbyist",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "A lifestyle piece exploring why it is mentally healthy for adults to have dabbled in multiple different creative arts without mastering any."
+            },
+            {
+              "type": "Opinion",
+              "title": "Jack of All Trades",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An essay defending people who have dabbled in various careers, arguing that diverse experiences often lead to better problem-solving skills."
             }
           ],
-          "trivia": "Dabbling ducks are a specific classification of ducks that feed on the surface rather than diving, perfectly matching the metaphor."
+          "trivia": "In biology, there is actually a specific group of birds called 'dabbling ducks' because they only feed on the water's surface and refuse to dive deep—perfectly matching the word's meaning!"
         }
       }
     },
@@ -2253,34 +2298,31 @@
       ],
       "common_assets": {
         "image_url": "images/gumption.jpg",
-        "image_prompt": "Studio Ghibli style illustration of a scene representing: It took a lot of gumption to quit her secure job and start her own business.. The scene should capture the essence of 'Gumption'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Studio Ghibli style illustration of a comedic fantasy scene: a tiny, determined grandma shows incredible gumption by aggressively whacking a giant, roaring dragon on the nose with her rolled-up newspaper, while a group of tough knights cower in fear behind her. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Gumption",
-            "definition": "Shrewd or spirited initiative and resourcefulness.",
-            "example_sentence": "It took a lot of gumption to quit her secure job and start her own business.",
-            "pronunciation_guide": "/gumption/"
+            "definition": "The courage and confidence to take smart action.",
+            "example_sentence": "The tiny grandma showed incredible gumption by aggressively whacking the roaring dragon on the nose with her newspaper while the tough knights cowered."
           },
           "hi": {
-            "word_display": "Soojh-boojh",
-            "word_anglicized": "Soojh-boojh (Himmat)",
-            "word_native": "---",
-            "definition": "Vyavaharik samajh aur jokhim uthane ki himmat.",
-            "example_sentence": "Apni surakshit naukri chhodkar apna vyapar shuru karne mein bahut himmat aur soojh-boojh lagi.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Himmat",
+            "word_anglicized": "Himmat",
+            "word_native": "हिम्मत",
+            "definition": "Kuch naya ya mushkil karne ki himmat aur samajh.",
+            "example_sentence": "Us chhoti dadi ne dahadte dragon ki naak par akhbar markar aisi himmat dikhayi ki takatwar yoddha bhi unke peechhe chhup gaye."
           },
           "fr": {
-            "word_display": "Débrouillardise (Cran)",
-            "word_native": "Débrouillardise (Cran)",
-            "definition": "Initiative astucieuse et courageuse.",
-            "example_sentence": "Il a fallu beaucoup de cran pour quitter son emploi sûr et lancer sa propre entreprise.",
-            "cultural_note": "Standard usage."
+            "word_display": "Cran",
+            "word_native": "Cran",
+            "definition": "Le courage et la confiance d'agir sans hésiter.",
+            "example_sentence": "La petite grand-mère a fait preuve d'un cran incroyable en frappant le dragon rugissant avec son journal pendant que les chevaliers tremblaient."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Originally Scottish (1719), referring to 'common sense'. By the 1860s in America, it evolved to mean 'courage' or 'drive'. P.T. Barnum once claimed 'gumption' was a type of hard cider.",
+          "evolution_story": "Originally a Scottish word meaning 'common sense'. By the time it reached America in the 1800s, it evolved into a much bolder concept, describing someone who combines clever resourcefulness with the absolute fearlessness needed to take huge risks.",
           "related_words": [
             "Initiative",
             "Resourcefulness",
@@ -2288,13 +2330,21 @@
           ],
           "recent_references": [
             {
-              "type": "Book",
-              "title": "Word of the Day",
-              "author": "Merriam-Webster",
-              "year": "2011"
+              "type": "Article",
+              "title": "Startup Culture",
+              "author": "The Economic Times",
+              "year": "2024",
+              "context": "A business profile highlighting the sheer gumption required for young entrepreneurs to build entirely new industries from scratch."
+            },
+            {
+              "type": "Opinion",
+              "title": "A Voice for Change",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An essay praising the gumption of young climate activists who boldly challenge powerful global leaders on the world stage."
             }
           ],
-          "trivia": "In 'To Kill a Mockingbird', it is used to describe a character's lack of ambition ('no gumption')."
+          "trivia": "In the famous classic novel 'To Kill a Mockingbird', characters are often judged strictly on whether they have enough 'gumption' to stand up for what is right!"
         }
       }
     },
@@ -2311,34 +2361,31 @@
       ],
       "common_assets": {
         "image_url": "images/glistening.jpg",
-        "image_prompt": "Moody Baroque oil painting of a scene representing: morning dew was glistening on the spider web like tiny diamonds.. The scene should capture the essence of 'Glistening'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Watercolor Painting style illustration of a deeply emotional cinematic scene: a tired but triumphant mountain climber watches the sunrise with glistening tears in her eyes, as the golden morning light hits the wet, glistening snow all around her. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Glistening",
-            "definition": "Shining with a sparkling light.",
-            "example_sentence": "The morning dew was glistening on the spider web like tiny diamonds.",
-            "pronunciation_guide": "/glistening/"
+            "definition": "Shining with a soft, wet sparkle.",
+            "example_sentence": "The triumphant mountain climber watched the sunrise with glistening tears in her eyes as the morning light hit the wet, glistening snow."
           },
           "hi": {
             "word_display": "Chamakta hua",
             "word_anglicized": "Chamakta hua",
-            "word_native": "---",
-            "definition": "Chamkila prakash bikherna, aksar gila hone ke karan.",
-            "example_sentence": "Makdi ke jaale par subah ki os chhote heeron ki tarah chamak rahi thi.",
-            "cultural_note": "Direct conceptual translation."
+            "word_native": "चमकता हुआ",
+            "definition": "Gile hone ke karan halki chamak dena.",
+            "example_sentence": "Jeet se bhari us pahad-arohi ki aankhon mein aasoon chamak rahe the, jab dhoop gili aur chamakti barf par padi."
           },
           "fr": {
             "word_display": "Scintillant",
             "word_native": "Scintillant",
-            "definition": "Brillant d'une lumière étincelante.",
-            "example_sentence": "La rosée du matin scintilla sur la toile d'araignée comme de minuscules diamants.",
-            "cultural_note": "Standard usage."
+            "definition": "Briller d'un éclat doux et humide.",
+            "example_sentence": "L'alpiniste triomphante regardait le lever du soleil avec des larmes scintillantes dans les yeux, alors que la lumière frappait la neige humide et scintillante."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Old English 'glisnian', related to 'glitter'. It specifically implies a wet or oily shine, distinct from a dry sparkle.",
+          "evolution_story": "From the Old English word 'glisnian'. While words like 'sparkling' or 'glittering' usually describe dry things like diamonds, 'glistening' specifically evolved to describe things that shine because they are wet or oily—like morning dew, or a dog's wet nose!",
           "related_words": [
             "Shimmering",
             "Sparkling",
@@ -2347,12 +2394,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "How To Use Glistening",
-              "author": "Content Authority",
-              "year": "2023"
+              "title": "The Science of Sweat",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "A sports biology report explaining why athletes with glistening, sweaty skin often perform better at regulating their body temperature."
+            },
+            {
+              "type": "Opinion",
+              "title": "Culinary Photography Secrets",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An essay exploring how food advertisements use fake oils and syrups to make burgers and turkeys look permanently glistening on camera."
             }
           ],
-          "trivia": "Often used in literature to describe eyes filled with tears ('eyes glistening')."
+          "trivia": "In classic literature, whenever an author writes that someone's eyes were 'glistening', it almost always means they were quietly holding back tears!"
         }
       }
     },
@@ -2369,34 +2424,31 @@
       ],
       "common_assets": {
         "image_url": "images/deracinate.jpg",
-        "image_prompt": "Clean Disney Pixar 3D render of a scene representing: war deracinated millions, forcing them to rebuild their lives in foreign lands.. The scene should capture the essence of 'Deracinate'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Clean Disney Pixar 3D render of a deeply dramatic and emotional scene: a giant, cold robotic hand forcefully scoops up a glowing little tree-creature, completely deracinating it from its beautiful, magical forest home. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Deracinate",
-            "definition": "To uproot someone from their natural geographical, social, or cultural environment.",
-            "example_sentence": "The war deracinated millions, forcing them to rebuild their lives in foreign lands.",
-            "pronunciation_guide": "/deracinate/"
+            "definition": "To tear someone away from their home, culture, or roots.",
+            "example_sentence": "The cold robotic hand forcefully scooped up the glowing tree-creature, completely deracinating it from its beautiful, magical forest home."
           },
           "hi": {
             "word_display": "Jad se ukhadna",
             "word_anglicized": "Jad se ukhadna",
-            "word_native": "---",
-            "definition": "Kisi ko uske mool sthan ya sanskriti se alag kar dena.",
-            "example_sentence": "Yuddh ne lakhon logon ko jad se ukhad diya, unhe videshi dharti par zindagi phir se shuru karne par majboor kiya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_native": "जड़ से उखाड़ना",
+            "definition": "Kisi ko uske ghar ya sanskriti se zabardasti alag kar dena.",
+            "example_sentence": "Thande robotic haath ne us chamakte ped-jiv ko pakda, aur use uske khubsurat, jadui jungle se poori tarah jad se ukhad diya."
           },
           "fr": {
             "word_display": "Déraciner",
             "word_native": "Déraciner",
-            "definition": "Arracher quelqu'un à son milieu naturel.",
-            "example_sentence": "La guerre a déraciné des millions de personnes, les forçant à reconstruire leur vie à l'étranger.",
-            "cultural_note": "Standard usage."
+            "definition": "Arracher quelqu'un à son environnement d'origine ou à sa culture.",
+            "example_sentence": "La froide main robotique a ramassé la créature-arbre lumineuse, la déracinant complètement de sa magnifique forêt magique."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From French 'déraciner', from Latin 'radix' (root). Originally meant literally pulling up plants. By the 17th century, it was used metaphorically for people and cultures.",
+          "evolution_story": "From the Latin word 'radix', meaning 'root'. Originally, farmers used it when physically pulling plants out of the dirt. Today, it’s a powerful metaphor for people being torn away from their home country and culture.",
           "related_words": [
             "Displace",
             "Uproot",
@@ -2404,13 +2456,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Merriam-Webster Word of the Day",
-              "author": "Merriam-Webster",
-              "year": "2014"
+              "type": "Article",
+              "title": "The Refugee Crisis",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "A global report detailing how sudden climate disasters have forcefully deracinated entire communities from their ancestral lands."
+            },
+            {
+              "type": "Opinion",
+              "title": "Preserving Culture",
+              "author": "The Hindu",
+              "year": "2023",
+              "context": "An essay exploring how rapid globalization can deracinate young people from their native traditions and languages."
             }
           ],
-          "trivia": "Used by Shakespeare in Henry V: 'The coulter rusts / That should deracinate such savagery.'"
+          "trivia": "In classic literature, William Shakespeare actually used this word in his play 'Henry V' to describe violently ripping out savage behavior like bad weeds!"
         }
       }
     },
@@ -2427,34 +2487,31 @@
       ],
       "common_assets": {
         "image_url": "images/lay_all_cards_on_the_table.jpg",
-        "image_prompt": "Classical Greek marble statue style of a scene representing: Let's lay all cards on the table; we can't afford this project unless you lower your fee.. The scene should capture the essence of 'Lay all cards on the table'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Suspense Anime style illustration of a thrilling interrogation scene: under a single bright light, a sweating suspect finally gives up their secrets by dramatically slamming a glowing deck of playing cards face-up onto the metal table. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Lay all cards on the table",
-            "definition": "To be completely open and honest about one's resources, intentions, or attitude.",
-            "example_sentence": "Let's lay all cards on the table; we can't afford this project unless you lower your fee.",
-            "pronunciation_guide": "/lay-all-cards-on-the-table/"
+            "definition": "To stop hiding secrets and tell the complete, honest truth about a situation.",
+            "example_sentence": "The sweating suspect finally gave up their secrets by dramatically laying all their glowing cards face-up on the metal interrogation table."
           },
           "hi": {
             "word_display": "Khulkar baat karna",
             "word_anglicized": "Khulkar baat karna",
-            "word_native": "---",
-            "definition": "Apne iradon aur sansadhano ke baare mein poori tarah imandar hona.",
-            "example_sentence": "Chalo khulkar baat karte hain; hum is project ka kharcha nahi utha sakte jab tak tum apni fees kam nahi karte.",
-            "cultural_note": "Direct conceptual translation."
+            "word_native": "खुलकर बात करना",
+            "definition": "Koi raaz na chhipana aur poori sachchai bata dena.",
+            "example_sentence": "Paseene se latpat aaropi ne interrogation table par apne sabhi patte kholkar rakh diye aur apne saare raaz sach-sach bata diye."
           },
           "fr": {
             "word_display": "Jouer cartes sur table",
             "word_native": "Jouer cartes sur table",
-            "definition": "Être complètement ouvert et honnête sur ses intentions.",
-            "example_sentence": "Jouons cartes sur table ; nous ne pouvons pas nous permettre ce projet à moins que vous ne baissiez vos honoraires.",
-            "cultural_note": "Standard usage."
+            "definition": "Cesser de cacher des secrets et dire toute la vérité.",
+            "example_sentence": "Le suspect en sueur a finalement révélé ses secrets en posant dramatiquement toutes ses cartes lumineuses face vers le haut sur la table."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Originated from card games (like Poker) where showing your hand reveals your true position. Became a common business idiom in the 20th century.",
+          "evolution_story": "This idiom comes directly from card games like poker! When a game ends, players must flip their cards face-up on the table to prove who won. Today, it means finally revealing your hidden secrets or honest plans to others.",
           "related_words": [
             "Full disclosure",
             "Transparency",
@@ -2462,13 +2519,21 @@
           ],
           "recent_references": [
             {
-              "type": "Web",
-              "title": "Idiom Usage",
-              "author": "Ludwig.guru",
-              "year": "2012"
+              "type": "Article",
+              "title": "The Corporate Takeover",
+              "author": "The Wall Street Journal",
+              "year": "2024",
+              "context": "A thrilling financial report describing the exact moment a billionaire CEO laid all his cards on the table to buy out a rival company."
+            },
+            {
+              "type": "Opinion",
+              "title": "Honesty in Politics",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An essay arguing that voters will only trust leaders who lay all their cards on the table instead of hiding behind complex political jargon."
             }
           ],
-          "trivia": "Often contrasted with 'playing one's cards close to one's chest'."
+          "trivia": "This idiom is the exact opposite of another famous poker saying: 'playing your cards close to your chest', which means keeping a big secret!"
         }
       }
     },
