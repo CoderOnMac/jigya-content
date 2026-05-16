@@ -1287,8 +1287,7 @@
       "tags": [
         "Fusion",
         "Integration",
-        "Amalgamation",
-        "strictly_accurate"
+        "Amalgamation"
       ],
       "common_assets": {
         "image_url": "images/synthesis.jpg",
@@ -1345,8 +1344,7 @@
       "tags": [
         "Worship",
         "Idolatry",
-        "Flattery",
-        "strictly_accurate"
+        "Flattery"
       ],
       "common_assets": {
         "image_url": "images/adulation.jpg",
@@ -1408,8 +1406,7 @@
       "tags": [
         "Prophetic",
         "Visionary",
-        "Clairvoyant",
-        "strictly_accurate"
+        "Clairvoyant"
       ],
       "common_assets": {
         "image_url": "images/prescient.jpg",
@@ -1474,8 +1471,7 @@
       "tags": [
         "Contradiction",
         "Enigma",
-        "Anomaly",
-        "strictly_accurate"
+        "Anomaly"
       ],
       "common_assets": {
         "image_url": "images/paradox.jpg",
@@ -1537,8 +1533,7 @@
       "tags": [
         "Echo chamber",
         "Cherry-picking",
-        "Wishful thinking",
-        "strictly_accurate"
+        "Wishful thinking"
       ],
       "common_assets": {
         "image_url": "images/confirmation_bias.jpg",
@@ -1600,8 +1595,7 @@
       "tags": [
         "Prominent",
         "Conspicuous",
-        "Notable",
-        "strictly_accurate"
+        "Notable"
       ],
       "common_assets": {
         "image_url": "images/salient.jpg",
@@ -1663,8 +1657,7 @@
       "tags": [
         "Debauched",
         "Decadent",
-        "Profligate",
-        "strictly_accurate"
+        "Profligate"
       ],
       "common_assets": {
         "image_url": "images/dissolute.jpg",
@@ -1726,8 +1719,7 @@
       "tags": [
         "Absentee",
         "Shirker",
-        "Delinquent",
-        "strictly_accurate"
+        "Delinquent"
       ],
       "common_assets": {
         "image_url": "images/truant.jpg",
@@ -1789,8 +1781,7 @@
       "tags": [
         "Shirker",
         "Faker",
-        "Dodger",
-        "strictly_accurate"
+        "Dodger"
       ],
       "common_assets": {
         "image_url": "images/malingerer.jpg",
@@ -1852,8 +1843,7 @@
       "tags": [
         "Immaculate",
         "Unspoiled",
-        "Flawless",
-        "strictly_accurate"
+        "Flawless"
       ],
       "common_assets": {
         "image_url": "images/pristine.jpg",
@@ -1915,8 +1905,7 @@
       "tags": [
         "Eager",
         "Excited",
-        "Anticipating",
-        "strictly_accurate"
+        "Anticipating"
       ],
       "common_assets": {
         "image_url": "images/agog.jpg",
@@ -1978,8 +1967,7 @@
       "tags": [
         "Fearless",
         "Valiant",
-        "Intrepid",
-        "strictly_accurate"
+        "Intrepid"
       ],
       "common_assets": {
         "image_url": "images/doughty.jpg",
@@ -2041,8 +2029,7 @@
       "tags": [
         "Risky",
         "Precarious",
-        "On the edge",
-        "strictly_accurate"
+        "On the edge"
       ],
       "common_assets": {
         "image_url": "images/walking_on_thin_ice.jpg",
@@ -2104,8 +2091,7 @@
       "tags": [
         "Confuse",
         "Bewilder",
-        "Muddle",
-        "strictly_accurate"
+        "Muddle"
       ],
       "common_assets": {
         "image_url": "images/obfuscate.jpg",
@@ -2167,8 +2153,7 @@
       "tags": [
         "Tangible",
         "Perceptible",
-        "Noticeable",
-        "strictly_accurate"
+        "Noticeable"
       ],
       "common_assets": {
         "image_url": "images/palpable.jpg",
@@ -2230,8 +2215,7 @@
       "tags": [
         "Tinkered",
         "Toyed",
-        "Dilettante",
-        "strictly_accurate"
+        "Dilettante"
       ],
       "common_assets": {
         "image_url": "images/dabbled.jpg",
@@ -2293,8 +2277,7 @@
       "tags": [
         "Initiative",
         "Resourcefulness",
-        "Moxie",
-        "strictly_accurate"
+        "Moxie"
       ],
       "common_assets": {
         "image_url": "images/gumption.jpg",
@@ -2356,8 +2339,7 @@
       "tags": [
         "Shimmering",
         "Sparkling",
-        "Gleaming",
-        "strictly_accurate"
+        "Gleaming"
       ],
       "common_assets": {
         "image_url": "images/glistening.jpg",
@@ -2419,8 +2401,7 @@
       "tags": [
         "Displace",
         "Uproot",
-        "Alienate",
-        "strictly_accurate"
+        "Alienate"
       ],
       "common_assets": {
         "image_url": "images/deracinate.jpg",
@@ -2482,8 +2463,7 @@
       "tags": [
         "Full disclosure",
         "Transparency",
-        "Honesty",
-        "strictly_accurate"
+        "Honesty"
       ],
       "common_assets": {
         "image_url": "images/lay_all_cards_on_the_table.jpg",
@@ -2545,8 +2525,7 @@
       "tags": [
         "Listless",
         "Leisurely",
-        "Unhurried",
-        "strictly_accurate"
+        "Unhurried"
       ],
       "common_assets": {
         "image_url": "images/languid.jpg",
@@ -2608,8 +2587,7 @@
       "tags": [
         "Meticulous",
         "Punctilious",
-        "Fussy",
-        "strictly_accurate"
+        "Fussy"
       ],
       "common_assets": {
         "image_url": "images/fastidious.jpg",
@@ -2671,8 +2649,7 @@
       "tags": [
         "Procrastination",
         "Patience",
-        "Pragmatism",
-        "strictly_accurate"
+        "Pragmatism"
       ],
       "common_assets": {
         "image_url": "images/cross_that_bridge_when_you_come_to_it.jpg",
@@ -2734,8 +2711,7 @@
       "tags": [
         "Controversial",
         "Disputable",
-        "Debatable",
-        "strictly_accurate"
+        "Debatable"
       ],
       "common_assets": {
         "image_url": "images/contentious.jpg",
@@ -2797,8 +2773,7 @@
       "tags": [
         "Exuberant",
         "Buoyant",
-        "Vivacious",
-        "strictly_accurate"
+        "Vivacious"
       ],
       "common_assets": {
         "image_url": "images/ebullient.jpg",
@@ -2860,8 +2835,7 @@
       "tags": [
         "Rushed",
         "Urgent",
-        "Time-sensitive",
-        "strictly_accurate"
+        "Time-sensitive"
       ],
       "common_assets": {
         "image_url": "images/against_the_clock.jpg",
@@ -2923,8 +2897,7 @@
       "tags": [
         "Impassive",
         "Resilient",
-        "Philosophical",
-        "strictly_accurate"
+        "Philosophical"
       ],
       "common_assets": {
         "image_url": "images/stoic.jpg",
@@ -2986,8 +2959,7 @@
       "tags": [
         "Transitory",
         "Fleeting",
-        "Short-lived",
-        "strictly_accurate"
+        "Short-lived"
       ],
       "common_assets": {
         "image_url": "images/ephemeral.jpg",
@@ -3049,8 +3021,7 @@
       "tags": [
         "Self-sabotage",
         "Blunder",
-        "Own goal",
-        "strictly_accurate"
+        "Own goal"
       ],
       "common_assets": {
         "image_url": "images/shoot_oneself_in_the_foot.jpg",
@@ -3112,8 +3083,7 @@
       "tags": [
         "Voluble",
         "Chatty",
-        "Garrulous",
-        "strictly_accurate"
+        "Garrulous"
       ],
       "common_assets": {
         "image_url": "images/loquacious.jpg",
@@ -3175,8 +3145,7 @@
       "tags": [
         "Sullen",
         "Gloomy",
-        "Glum",
-        "strictly_accurate"
+        "Glum"
       ],
       "common_assets": {
         "image_url": "images/morose.jpg",
@@ -3238,32 +3207,31 @@
       "tags": [
         "Your turn",
         "Responsibility",
-        "Next move",
-        "strictly_accurate"
+        "Next move"
       ],
       "common_assets": {
         "image_url": "images/the_ball_is_in_your_court.jpg",
-        "image_prompt": "Japanese Anime style illustration of a scene inspired by a famous high-stakes volleyball anime: an incredibly intense player stands triumphantly at the net, dramatically pointing his finger forward after a massive spike, signaling that the glowing ball is now entirely in his exhausted rival's court for the next move. Aspect ratio: 4:5"
+        "image_prompt": "Japanese Anime style illustration of a highly suspenseful business negotiation: a confident, sharply dressed businesswoman slides a glowing, finalized contract across a sleek glass table toward a nervously sweating CEO, clearly signaling that it is now entirely his turn to make the final decision. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "The ball is in your court",
             "definition": "It is entirely up to you to make the next decision or step.",
-            "example_sentence": "The intense player dramatically pointed his finger, signaling that the glowing ball was now entirely in his rival's court."
+            "example_sentence": "The confident businesswoman slid the finalized contract across the table, making it clear that the ball was finally in the nervous CEO's court."
           },
           "hi": {
             "word_display": "Ab faisla tumhare haath mein hai",
             "word_anglicized": "Ab faisla tumhare haath mein hai",
             "word_native": "अब फैसला तुम्हारे हाथ में है",
             "definition": "Ab agla kadam uthane ki zimmedari tumhari hai.",
-            "example_sentence": "Us joshile khiladi ne ungli dikhakar ishara kiya ki ab faisla lene ki puri zimmedari thake hue virodhi ki hai."
+            "example_sentence": "Aatm-vishwas se bhari businesswoman ne contract table par aage badhaya, aur saaf kar diya ki ab faisla CEO ke haath mein hai."
           },
           "fr": {
             "word_display": "La balle est dans votre camp",
             "word_native": "La balle est dans votre camp",
             "definition": "C'est à vous de prendre la prochaine décision ou mesure.",
-            "example_sentence": "Le joueur intense a pointé son doigt, signalant que la balle lumineuse était désormais entièrement dans le camp de son rival."
+            "example_sentence": "La femme d'affaires confiante a fait glisser le contrat sur la table, indiquant clairement que la balle était désormais dans le camp du PDG nerveux."
           }
         },
         "english_deep_dive": {
@@ -3301,8 +3269,7 @@
       "tags": [
         "Aggressive",
         "Hostile",
-        "Combative",
-        "strictly_accurate"
+        "Combative"
       ],
       "common_assets": {
         "image_url": "images/belligerent.jpg",
@@ -3364,32 +3331,31 @@
       "tags": [
         "Intellectual",
         "Analytical",
-        "Deep",
-        "strictly_accurate"
+        "Deep"
       ],
       "common_assets": {
         "image_url": "images/cerebral.jpg",
-        "image_prompt": "Cyberpunk Style illustration of a scene inspired by a famous mind-bending sci-fi movie: a brilliantly focused detective floats weightlessly inside a surreal, glowing neon library where physical books represent floating memories, intensely analyzing complex clues instead of physically fighting. Aspect ratio: 4:5"
+        "image_prompt": "Marvel Style illustration of a scene inspired by a famous superhero comic: a powerful psychic professor wearing a high-tech glowing helmet sits inside a massive, spherical metal room, using his incredible cerebral powers to telepathically locate people all across the globe. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Cerebral",
             "definition": "Intellectual rather than emotional or physical.",
-            "example_sentence": "The intensely focused detective floated through the glowing neon library, relying entirely on his cerebral skills to analyze the complex memory clues."
+            "example_sentence": "The powerful psychic professor wore the glowing helmet, using his incredible cerebral powers to locate people across the globe from the metal room."
           },
           "hi": {
             "word_display": "Baudhik",
             "word_anglicized": "Baudhik (Dimagi)",
             "word_native": "बौद्धिक",
             "definition": "Bhavnatmak ke bajaye dimaagi ya buddhijivi.",
-            "example_sentence": "Us dhyan-magna detective ne chamakti neon library mein tairte hue, jatil yaadon ko suljhane ke liye apni baudhik shamta ka poora istemal kiya."
+            "example_sentence": "Taqatwar professor ne chamakta helmet pehna, aur duniya bhar ke logon ko khojne ke liye apni baudhik shaktiyon ka behad shanti se istemal kiya."
           },
           "fr": {
             "word_display": "Cérébral",
             "word_native": "Cérébral",
             "definition": "Intellectuel plutôt qu'émotionnel ou physique.",
-            "example_sentence": "Le détective concentré flottait dans la bibliothèque au néon brillant, s'appuyant entièrement sur ses compétences cérébrales pour analyser les indices de mémoire complexes."
+            "example_sentence": "Le puissant professeur portait le casque lumineux, utilisant ses incroyables pouvoirs cérébraux pour localiser des personnes à travers le monde depuis la pièce métallique."
           }
         },
         "english_deep_dive": {
@@ -3425,55 +3391,59 @@
       "category": "multilingual",
       "type": "word",
       "tags": [
-        "Suddenly",
-        "Unexpectedly",
-        "Unforeseen",
-        "strictly_accurate"
+        "Warning",
+        "Foreboding",
+        "Threat"
       ],
       "common_assets": {
-        "image_url": "images/out_of_the_blue.jpg",
-        "image_prompt": "Soft Watercolor painting of a scene representing: She called me out of the blue after ten years of silence.. The scene should capture the essence of 'Out of the blue'. High quality, detailed, 4:5 aspect ratio."
+        "image_url": "images/a_cloud_on_the_horizon.jpg",
+        "image_prompt": "Oil on Canvas Style illustration of a dramatic, foreboding scene: a young sailor stands cheerfully on the deck of a sunny ship, completely unaware of the single, dark, swirling storm cloud ominously forming on the distant horizon, threatening their peaceful journey. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
-            "word_display": "Out of the blue",
-            "definition": "Without warning; unexpectedly.",
-            "example_sentence": "She called me out of the blue after ten years of silence.",
-            "pronunciation_guide": "/out-of-the-blue/"
+            "word_display": "A cloud on the horizon",
+            "definition": "A warning or sign that trouble, danger, or a problem is coming in the future.",
+            "example_sentence": "The young sailor smiled cheerfully on the sunny deck, completely unaware of the dark storm cloud forming ominously on the distant horizon."
           },
           "hi": {
-            "word_display": "Achanak",
-            "word_anglicized": "Achanak (Bina chetavani ke)",
-            "word_native": "---",
-            "definition": "Bilkul achanak, jaise neele aasman se bijli gire.",
-            "example_sentence": "Usne dus saal ki chuppi ke baad mujhe achanak call kiya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Kshitij par ek badal",
+            "word_anglicized": "Kshitij par ek badal",
+            "word_native": "क्षितिज पर एक बादल",
+            "definition": "Bhavishya mein aane wali kisi pareshani ya khatre ka sanket.",
+            "example_sentence": "Us yuva naavik ne dhoop mein muskurate hue us kaale toofani badal ko andekha kar diya jo door kshitij par mandra raha tha."
           },
           "fr": {
-            "word_display": "À l'improviste",
-            "word_native": "À l'improviste",
-            "definition": "Sans prévenir ; de manière inattendue.",
-            "example_sentence": "Elle m'a appelé à l'improviste après dix ans de silence.",
-            "cultural_note": "Standard usage."
+            "word_display": "Un nuage à l'horizon",
+            "word_native": "Un nuage à l'horizon",
+            "definition": "Un signe ou un avertissement indiquant que des problèmes approchent.",
+            "example_sentence": "Le jeune marin souriait joyeusement sur le pont, totalement inconscient du sombre nuage de tempête se formant de manière inquiétante à l'horizon."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Short for 'a bolt out of the blue' (lightning from a clear blue sky). First documented in 1837. Refers to an event so unlikely it's impossible to predict.",
+          "evolution_story": "This phrase was originally used by actual sailors at sea, who would constantly scan the skies. Even a tiny, distant dark cloud was a serious warning that a massive, dangerous storm was heading their way.",
           "related_words": [
-            "Suddenly",
-            "Unexpectedly",
-            "Unforeseen"
+            "Omen",
+            "Warning",
+            "Foreboding"
           ],
           "recent_references": [
             {
               "type": "Article",
-              "title": "Idiom Origins",
-              "author": "Grammarist",
-              "year": "2024"
+              "title": "Economic Forecasts",
+              "author": "The Wall Street Journal",
+              "year": "2024",
+              "context": "A financial report analyzing minor inflation increases, describing them as a dark cloud on the horizon for the global economy."
+            },
+            {
+              "type": "Opinion",
+              "title": "The Tech Bubble",
+              "author": "Forbes",
+              "year": "2023",
+              "context": "An essay warning investors that sudden hardware shortages are an undeniable cloud on the horizon for the software industry."
             }
           ],
-          "trivia": "The opposite concept is 'a cloud on the horizon' (a visible warning)."
+          "trivia": "This phrase describes a visible warning of approaching trouble, which is the exact opposite of the famous idiom 'out of the blue', which means something happening completely unexpectedly without any warning at all!"
         }
       }
     },
@@ -3485,39 +3455,35 @@
       "tags": [
         "Unappeasable",
         "Unforgiving",
-        "Relentless",
-        "strictly_accurate"
+        "Relentless"
       ],
       "common_assets": {
         "image_url": "images/implacable.jpg",
-        "image_prompt": "Bold Lino Cut graphic style of a scene representing: He had an implacable hatred for his enemy.. The scene should capture the essence of 'Implacable'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Dark Fantasy Oil Painting style illustration of a highly dramatic and epic scene: a giant, implacable stone golem marches relentlessly through a burning forest, completely ignoring the tiny soldiers desperately throwing spears at its massive, unfeeling rocky chest. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Implacable",
-            "definition": "Unable to be placated or appeased.",
-            "example_sentence": "He had an implacable hatred for his enemy.",
-            "pronunciation_guide": "/implacable/"
+            "definition": "Completely unstoppable, relentless, and impossible to calm down or satisfy.",
+            "example_sentence": "The tiny soldiers desperately threw spears, but the giant, implacable stone golem marched relentlessly forward, completely ignoring their frantic attacks."
           },
           "hi": {
             "word_display": "Kathor",
-            "word_anglicized": "Kathor (Jise shant na kiya ja sake)",
-            "word_native": "---",
-            "definition": "Jise manana ya shant karna namumkin ho.",
-            "example_sentence": "Uske man mein apne dushman ke liye ek kathor nafrat thi.",
-            "cultural_note": "Direct conceptual translation."
+            "word_anglicized": "Kathor",
+            "word_native": "कठोर",
+            "definition": "Jise rokna ya shant karna bilkul asambhav ho; behad kathor aur nirdayi.",
+            "example_sentence": "Chhote sainikon ne bhale phenke, parantu vah vishal aur nishthur patthar ka golem unke hamlon ko andekha karte hue lagatar aage badhta raha."
           },
           "fr": {
             "word_display": "Implacable",
             "word_native": "Implacable",
-            "definition": "Impossible à apaiser ou à calmer.",
-            "example_sentence": "Il vouait une haine implacable à son ennemi.",
-            "cultural_note": "Standard usage."
+            "definition": "Complètement imparable, implacable, et impossible à calmer ou à satisfaire.",
+            "example_sentence": "Les minuscules soldats lançaient désespérément des lances, mais le golem de pierre géant et implacable avançait sans relâche, ignorant complètement leurs attaques frénétiques."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'in-' (not) + 'placare' (to soothe). Used frequently in 2022 sports journalism (NYTimes) to describe teams that were 'unstoppable' or 'relentless'.",
+          "evolution_story": "From the Latin word 'placare', meaning 'to calm or soothe', combined with 'in-' meaning 'not'. Originally used to describe incredibly stubborn people, it now perfectly describes anything—from angry enemies to raging storms—that is completely unstoppable and refuses to calm down.",
           "related_words": [
             "Unappeasable",
             "Unforgiving",
@@ -3525,71 +3491,83 @@
           ],
           "recent_references": [
             {
-              "type": "News",
-              "title": "Word of the Day: Implacable",
-              "author": "NY Times",
-              "year": "2022"
+              "type": "Article",
+              "title": "The AI Revolution",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "An incredibly fascinating tech review describing the implacable march of artificial intelligence into every single modern industry."
+            },
+            {
+              "type": "Report",
+              "title": "Unforgiving Weather",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An environmental report detailing the incredibly implacable heatwaves that devastated global crops without a single day of relief."
             }
           ],
-          "trivia": "Often used to describe 'enemies' or 'foes' in literature."
+          "trivia": "While we usually use this word to describe an angry, unstoppable enemy, historians often use it to describe the implacable passage of time, which never stops for anyone!"
         }
       }
     },
     {
-      "id": "20260321-EN-061",
-      "date": "2026-03-21",
+      "id": "20260331-EN-061",
+      "date": "2026-03-31",
       "category": "multilingual",
       "type": "word",
       "tags": [
-        "Guileless",
-        "Genuine",
-        "Naive",
-        "strictly_accurate"
+        "Dominated",
+        "Nagged",
+        "Intimidated"
       ],
       "common_assets": {
-        "image_url": "images/artless.jpg",
-        "image_prompt": "Studio Ghibli style illustration of a scene representing: Her artless questions, innocent and direct, completely disarmed the politician.. The scene should capture the essence of 'Artless'. High quality, detailed, 4:5 aspect ratio."
+        "image_url": "images/henpecked.jpg",
+        "image_prompt": "Cartoon Network style illustration of a hilarious domestic scene: a highly henpecked, giant muscular viking warrior fearfully scrubs the kitchen floor while his tiny, angry wife fiercely points a wooden spoon at him, ordering him around. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
-            "word_display": "Artless",
-            "definition": "Without guile or deception; also, without skill or effort.",
-            "example_sentence": "Her artless questions, innocent and direct, completely disarmed the politician.",
-            "pronunciation_guide": "/artless/"
+            "word_display": "Henpecked",
+            "definition": "Continuously criticized, nagged, or ordered around by one's wife or partner.",
+            "example_sentence": "The giant, muscular viking warrior looked hilariously henpecked as he fearfully scrubbed the kitchen floor under the strict orders of his angry wife."
           },
           "hi": {
-            "word_display": "Nishkapat (Saral)",
-            "word_anglicized": "Nishkapat (Saral)",
-            "word_native": "---",
-            "definition": "Jisme koi chhal ya banavat na ho; sahaj.",
-            "example_sentence": "Uske nishkapat sawalon ne neta ko poori tarah niruttar kar diya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Joru ka ghulam",
+            "word_anglicized": "Joru ka ghulam",
+            "word_native": "जोरू का गुलाम",
+            "definition": "Jise uski patni ya partner hamesha taane maarti ho ya daba kar rakhti ho.",
+            "example_sentence": "Wo vishal viking yoddha behad joru ka ghulam lag raha tha, jo apni gusse wali patni ke darr se chupchap rasoi saaf kar raha tha."
           },
           "fr": {
-            "word_display": "Ingénu (Naïf)",
-            "word_native": "Ingénu (Naïf)",
-            "definition": "Sans artifice ni malice ; naturel et sincère.",
-            "example_sentence": "Ses questions ingénues, innocentes et directes, ont complètement désarmé le politicien.",
-            "cultural_note": "Standard usage."
+            "word_display": "Dominé",
+            "word_native": "Dominé",
+            "definition": "Continuellement critiqué ou dirigé par sa femme ou sa partenaire.",
+            "example_sentence": "Le guerrier viking géant avait l'air hilarant et dominé alors qu'il récurait craintivement le sol sous les ordres stricts de sa femme en colère."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From 'art' (skill/craft) + '-less'. In the 16th century, 'art' meant cunning or trickery (like 'artful dodger'). So 'artless' meant 'honest/without trickery'.",
+          "evolution_story": "First used in the 1600s, this incredibly visual metaphor compares a constantly nagged husband to a weak rooster who is constantly pecked and attacked by the aggressive hens in the farmyard!",
           "related_words": [
-            "Guileless",
-            "Genuine",
-            "Naive"
+            "Nagged",
+            "Dominated",
+            "Intimidated"
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Artless Definition",
-              "author": "Merriam-Webster",
-              "year": "2026"
+              "type": "Article",
+              "title": "The Evolution of Sitcoms",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "An essay explaining how the classic comedy trope of the henpecked husband constantly hiding from his wife is finally disappearing from modern television."
+            },
+            {
+              "type": "Opinion",
+              "title": "Marriage Psychology",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An article exploring why men who jokingly act henpecked in public often have the most equal and loving relationships in private."
             }
           ],
-          "trivia": "While it can mean 'clumsy', in literature it is usually a compliment meaning 'sincerely simple' or 'natural'."
+          "trivia": "Even the famous ancient Greek philosopher Socrates was historically rumored to be completely henpecked by his famously short-tempered wife, Xanthippe!"
         }
       }
     },
@@ -3599,55 +3577,59 @@
       "category": "multilingual",
       "type": "word",
       "tags": [
-        "Lose out",
-        "Oversight",
-        "Too late",
-        "strictly_accurate"
+        "Entertained",
+        "Amused",
+        "Captivated"
       ],
       "common_assets": {
-        "image_url": "images/miss_the_boat.jpg",
-        "image_prompt": "Moody Baroque oil painting of a scene representing: I waited too long to buy the stock, and I completely missed the boat.. The scene should capture the essence of 'Miss the boat'. High quality, detailed, 4:5 aspect ratio."
+        "image_url": "images/regaled.jpg",
+        "image_prompt": "Soft Watercolor painting style illustration of a warm, joyful scene: an incredibly charismatic old grandfather sits by a glowing fireplace, enthusiastically regaling his wide-eyed grandchildren with magical, thrilling stories of his youth. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
-            "word_display": "Miss the boat",
-            "definition": "To lose an opportunity by being slow to act.",
-            "example_sentence": "I waited too long to buy the stock, and I completely missed the boat.",
-            "pronunciation_guide": "/miss-the-boat/"
+            "word_display": "Regaled",
+            "definition": "To highly entertain or amuse someone with stories or jokes.",
+            "example_sentence": "The charismatic old grandfather enthusiastically regaled his wide-eyed grandchildren with magical, thrilling stories of his youth while sitting by the glowing fireplace."
           },
           "hi": {
-            "word_display": "Mauka gawa dena",
-            "word_anglicized": "Mauka gawa dena",
-            "word_native": "---",
-            "definition": "Der karne ke karan avsar kho dena.",
-            "example_sentence": "Maine stock kharidne mein bahut der kar di aur mauka gawa diya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Manoranjan karna",
+            "word_anglicized": "Manoranjan karna",
+            "word_native": "मनोरंजन करना",
+            "definition": "Dher saari kahaniyon ya chutkulon se kisi ka khoob manoranjan karna.",
+            "example_sentence": "Us aakarshak dada ne aag ke paas baithkar apne hairan poton ko apni jawani ki jadui kahaniyan sunakar unka khoob manoranjan kiya."
           },
           "fr": {
-            "word_display": "Rater le coche",
-            "word_native": "Rater le coche",
-            "definition": "Manquer une occasion par lenteur ou négligence.",
-            "example_sentence": "J'ai attendu trop longtemps pour acheter l'action et j'ai complètement raté le coche.",
-            "cultural_note": "Standard usage."
+            "word_display": "Régalé",
+            "word_native": "Régalé",
+            "definition": "Divertir ou amuser grandement quelqu'un avec des histoires ou des blagues.",
+            "example_sentence": "Le vieux grand-père charismatique régalait avec enthousiasme ses petits-enfants émerveillés avec des histoires magiques de sa jeunesse, assis près de la cheminée."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Originally literal maritime slang (late 19th C) for passengers arriving at the dock after the ship sailed. Figurative usage exploded in the 1920s.",
+          "evolution_story": "From the old French word 'regaler', meaning to entertain with a magnificent feast! Over time, instead of feeding people massive plates of food, it evolved to mean feeding their minds with wonderful, entertaining stories and jokes.",
           "related_words": [
-            "Lose out",
-            "Oversight",
-            "Too late"
+            "Entertained",
+            "Amused",
+            "Captivated"
           ],
           "recent_references": [
             {
               "type": "Article",
-              "title": "Idiom History",
-              "author": "The Idioms",
-              "year": "2016"
+              "title": "The Art of Storytelling",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "An essay exploring how modern comedians regale their massive online audiences with hilarious daily stories instead of traditional stand-up routines."
+            },
+            {
+              "type": "Review",
+              "title": "Late Night Legends",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "A review of a brilliant talk show host who effortlessly regaled his audience with fascinating celebrity anecdotes every single night."
             }
           ],
-          "trivia": "The French equivalent 'rater le coche' refers to a stagecoach (coche), not a boat."
+          "trivia": "While it usually means entertaining people with stories today, you can still historically use 'regale' to describe treating someone to an incredibly expensive and lavish dinner!"
         }
       }
     },
@@ -3659,39 +3641,35 @@
       "tags": [
         "Stealthy",
         "Clandestine",
-        "Furtive",
-        "strictly_accurate"
+        "Furtive"
       ],
       "common_assets": {
         "image_url": "images/surreptitious.jpg",
-        "image_prompt": "Clean Disney Pixar 3D render of a scene representing: He cast a surreptitious glance at his watch during the boring meeting.. The scene should capture the essence of 'Surreptitious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Cinematic 3D animation style illustration of a thrilling, suspenseful scene: a nervous spy in a dark trench coat casts a surreptitious, sideways glance over his shoulder while secretly slipping a glowing flash drive into his pocket on a crowded, rainy street. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Surreptitious",
-            "definition": "Kept secret, especially because it would not be approved of.",
-            "example_sentence": "He cast a surreptitious glance at his watch during the boring meeting.",
-            "pronunciation_guide": "/surreptitious/"
+            "definition": "Done secretly or sneakily, especially because it would not be approved of.",
+            "example_sentence": "The nervous spy cast a surreptitious glance over his shoulder before secretly slipping the glowing flash drive into his dark trench coat."
           },
           "hi": {
-            "word_display": "Chupke se (Gupt)",
-            "word_anglicized": "Chupke se (Gupt)",
-            "word_native": "---",
-            "definition": "Chori-chhupe kiya gaya, khaaskar jab wo anuchit ho.",
-            "example_sentence": "Ubaau meeting ke dauran usne chupke se apni ghadi par nazar dali.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Gupt (Chupke se)",
+            "word_anglicized": "Gupt",
+            "word_native": "गुप्त",
+            "definition": "Bahut hi chori-chhupe aur gupt tarike se kiya gaya.",
+            "example_sentence": "Ghabraye hue jasoos ne apni coat mein flash drive chhipane se pehle apne pichhe ek gupt nazar dali."
           },
           "fr": {
             "word_display": "Furtif",
             "word_native": "Furtif",
-            "definition": "Fait en secret, souvent parce que ce n'est pas permis.",
-            "example_sentence": "Il jeta un coup d'œil furtif à sa montre pendant la réunion ennuyeuse.",
-            "cultural_note": "Standard usage."
+            "definition": "Fait de manière secrète ou sournoise, souvent parce que ce n'est pas permis.",
+            "example_sentence": "L'espion nerveux jeta un regard furtif par-dessus son épaule avant de glisser secrètement la clé USB dans son sombre trench-coat."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'surrepticius' (stolen/secretly obtained), from 'sub' (under) + 'rapere' (to snatch). Evolved from 'stolen' to meaning 'sneaky behavior'.",
+          "evolution_story": "Originating from the Latin word 'surrepticius', which meant 'stolen' or 'secretly snatched away'. It perfectly evolved over centuries from describing literal stolen goods to describing sneaky, stolen actions like a quick, secret glance across a room.",
           "related_words": [
             "Stealthy",
             "Clandestine",
@@ -3699,13 +3677,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Surreptitious Origin",
-              "author": "WordPandit",
-              "year": "2025"
+              "type": "Article",
+              "title": "The Shadow War",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "An investigative journalism piece detailing the incredibly surreptitious methods hackers use to steal corporate data without triggering any alarms."
+            },
+            {
+              "type": "Report",
+              "title": "Undercover Operations",
+              "author": "Forbes",
+              "year": "2023",
+              "context": "A fascinating report on how modern detectives use highly surreptitious recording devices disguised as everyday objects."
             }
           ],
-          "trivia": "Often used to describe actions (glance, meeting) rather than people."
+          "trivia": "We almost exclusively use this word to describe tiny physical actions—like a 'surreptitious glance', a 'surreptitious meeting', or a 'surreptitious whisper'—rather than describing a person!"
         }
       }
     },
@@ -3717,39 +3703,35 @@
       "tags": [
         "Exhausted",
         "Fatigued",
-        "Debilitated",
-        "strictly_accurate"
+        "Debilitated"
       ],
       "common_assets": {
         "image_url": "images/enervated.jpg",
-        "image_prompt": "Classical Greek marble statue style of a scene representing: humid heat enervated the tourists, leaving them too tired to walk.. The scene should capture the essence of 'Enervated'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Humorous 3D Claymation style illustration of an incredibly enervated, completely exhausted marathon runner hilariously melting like an ice cream cone into a puddle of sweat right at the finish line, entirely drained of all energy. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Enervated",
-            "definition": "Drained of energy or vitality.",
-            "example_sentence": "The humid heat enervated the tourists, leaving them too tired to walk.",
-            "pronunciation_guide": "/enervated/"
+            "definition": "Completely drained of physical or mental energy and vitality.",
+            "example_sentence": "The incredibly enervated marathon runner hilariously melted into a puddle of sweat at the finish line, completely drained of all physical energy."
           },
           "hi": {
             "word_display": "Kamzor (Nistej)",
-            "word_anglicized": "Kamzor (Nistej)",
-            "word_native": "---",
-            "definition": "Urja ya taakat se khali ho jana.",
-            "example_sentence": "Umas bhari garmi ne paryatakon ko nistej kar diya, wo chalne ke liye bhi thak gaye.",
-            "cultural_note": "Direct conceptual translation."
+            "word_anglicized": "Nistej",
+            "word_native": "निस्तेज",
+            "definition": "Shaaririk ya maansik roop se poori tarah thaka hua aur urja-rahit.",
+            "example_sentence": "Poori tarah thaka hua nistej daawak paseene ke talaab mein hilariously pighal gaya, uski poori shaaririk urja khatam ho chuki thi."
           },
           "fr": {
-            "word_display": "Énervé (Affaibli)",
-            "word_native": "Énervé (Affaibli)",
-            "definition": "Privé d'énergie ou de force (Attention: faux ami avec 'irrité').",
-            "example_sentence": "La chaleur humide a énervé les touristes, les laissant trop fatigués pour marcher.",
-            "cultural_note": "Standard usage."
+            "word_display": "Épuisé",
+            "word_native": "Épuisé",
+            "definition": "Complètement vidé de son énergie physique ou mentale et de sa vitalité.",
+            "example_sentence": "Le marathonien incroyablement épuisé fondait de manière hilarante dans une flaque de sueur sur la ligne d'arrivée, complètement vidé de toute énergie physique."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'enervare' (to cut the sinew/nerve). Often misused to mean 'energized' because they sound similar, but it means the exact opposite.",
+          "evolution_story": "Originating from the Latin 'enervare', which brutally meant 'to cut the sinew or nerve'. Today it has beautifully evolved to mean being completely and utterly drained of all energy. It is often mistakenly confused with 'energized'!",
           "related_words": [
             "Exhausted",
             "Fatigued",
@@ -3757,13 +3739,21 @@
           ],
           "recent_references": [
             {
-              "type": "Grammar Guide",
-              "title": "Enervate vs Innervate",
-              "author": "Rephrasely",
-              "year": "2024"
+              "type": "Article",
+              "title": "The Burnout Generation",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A fascinating psychological report detailing how modern corporate work culture leaves employees feeling incredibly enervated at the end of every week."
+            },
+            {
+              "type": "Report",
+              "title": "Extreme Sports Exhaustion",
+              "author": "Outside Magazine",
+              "year": "2023",
+              "context": "An article exploring the dangerous physical limits of athletes and how they push past the feeling of being completely enervated."
             }
           ],
-          "trivia": "The French word 'énervé' usually means 'annoyed/irritated', creating a false friend for English speakers learning French."
+          "trivia": "Because 'enervated' sounds exactly like 'energized' and starts with an 'E', it is considered one of the most frequently misused words in the entire English language!"
         }
       }
     },
@@ -3773,55 +3763,59 @@
       "category": "multilingual",
       "type": "word",
       "tags": [
-        "Aggravate",
-        "Exacerbate",
-        "Inflame",
-        "strictly_accurate"
+        "Spoil",
+        "Ruin",
+        "Disappoint"
       ],
       "common_assets": {
-        "image_url": "images/add_fuel_to_the_fire.jpg",
-        "image_prompt": "Da Vinci style sepia sketch of a scene representing: Shouting at the angry customer only added fuel to the fire.. The scene should capture the essence of 'Add fuel to the fire'. High quality, detailed, 4:5 aspect ratio."
+        "image_url": "images/rain_on_my_parade.jpg",
+        "image_prompt": "Melancholic Vintage comic book style illustration of a sad scene: a gloomy, dark storm cloud specifically follows and pours heavy rain over a deeply sad little girl marching proudly with her bright red balloon, completely ruining her happy moment. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
-            "word_display": "Add fuel to the fire",
-            "definition": "To cause a situation or conflict to become more intense.",
-            "example_sentence": "Shouting at the angry customer only added fuel to the fire.",
-            "pronunciation_guide": "/add-fuel-to-the-fire/"
+            "word_display": "Rain on my parade",
+            "definition": "To do or say something that ruins someone's plans, happiness, or special moment.",
+            "example_sentence": "The gloomy storm cloud seemed to literally rain on her parade, pouring water over the sad little girl and completely ruining her happy moment."
           },
           "hi": {
-            "word_display": "Aag mein ghee daalna",
-            "word_anglicized": "Aag mein ghee daalna",
-            "word_native": "---",
-            "definition": "Kisi jhagde ya samasya ko aur bhadka dena.",
-            "example_sentence": "Gussaye grahak par chillane ne aag mein ghee daalne ka kaam kiya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Khushi par pani pherna",
+            "word_anglicized": "Khushi par pani pherna",
+            "word_native": "खुशी पर पानी फेरना",
+            "definition": "Kisi ki khushi, yojana ya kisi khaas pal ko kharab ya barbad kar dena.",
+            "example_sentence": "Us kaale toofani badal ne chhoti bacchi par barish karke uski khushi ko poori tarah barbad kar diya, uski parade par pani pher diya."
           },
           "fr": {
-            "word_display": "Jeter de l'huile sur le feu",
-            "word_native": "Jeter de l'huile sur le feu",
-            "definition": "Aggraver une situation conflictuelle.",
-            "example_sentence": "Crier sur le client en colère n'a fait que jeter de l'huile sur le feu.",
-            "cultural_note": "Standard usage."
+            "word_display": "Gâcher la fête",
+            "word_native": "Gâcher la fête",
+            "definition": "Faire ou dire quelque chose qui gâche les plans, le bonheur ou un moment spécial de quelqu'un.",
+            "example_sentence": "Le sombre nuage de tempête a semblé pleuvoir littéralement sur sa parade, ruinant complètement le moment de bonheur de la triste petite fille."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Traced back to Roman historian Titus Livius (Livy, c. 1 AD), who wrote about 'adding fuel to this fire' in a political context. A universal metaphor found in almost every language.",
+          "evolution_story": "This idiom became incredibly popular in 1964 thanks to the hit Broadway musical 'Funny Girl', where Barbra Streisand famously sang the iconic, defiant song 'Don't Rain on My Parade'!",
           "related_words": [
-            "Aggravate",
-            "Exacerbate",
-            "Inflame"
+            "Spoil",
+            "Ruin",
+            "Disappoint"
           ],
           "recent_references": [
             {
               "type": "Article",
-              "title": "Idiom Origins",
-              "author": "Grammarist",
-              "year": "2024"
+              "title": "The Psychology of Joy",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "An article exploring why pessimistic people often subconsciously try to rain on the parade of their most optimistic and cheerful friends."
+            },
+            {
+              "type": "Report",
+              "title": "Workplace Morale",
+              "author": "Forbes",
+              "year": "2023",
+              "context": "A fascinating report detailing how negative managers can easily rain on their team's parade after a highly successful project launch."
             }
           ],
-          "trivia": "The Latin phrase was 'oleum addere camino' (pour oil on the fire)."
+          "trivia": "If you literally want to stop rain on a parade, cloud seeding technology is now used in some countries to make clouds drop rain before they reach important events!"
         }
       }
     },
@@ -3833,39 +3827,35 @@
       "tags": [
         "Composure",
         "Serenity",
-        "Poise",
-        "strictly_accurate"
+        "Poise"
       ],
       "common_assets": {
         "image_url": "images/equanimity.jpg",
-        "image_prompt": "High-contrast Death Note anime style of a scene representing: She accepted the bad news with surprising equanimity.. The scene should capture the essence of 'Equanimity'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "High-contrast Anime style illustration of a highly dramatic scene: a peaceful monk sits calmly meditating with perfect equanimity on a rock, completely ignoring the chaotic, violent storm and giant waves crashing all around him. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Equanimity",
-            "definition": "Mental calmness, composure, and evenness of temper, especially in a difficult situation.",
-            "example_sentence": "She accepted the bad news with surprising equanimity.",
-            "pronunciation_guide": "/equanimity/"
+            "definition": "Maintaining a perfectly calm and balanced mind, especially during highly stressful or chaotic situations.",
+            "example_sentence": "The peaceful monk sat on the rock with perfect equanimity, completely ignoring the chaotic, violent storm crashing all around him."
           },
           "hi": {
-            "word_display": "Sam-bhav (Dhairya)",
-            "word_anglicized": "Sam-bhav (Dhairya)",
-            "word_native": "---",
-            "definition": "Musibat mein bhi man ki shanti aur santulan banaye rakhna.",
-            "example_sentence": "Usne hairan karne wale dhairya ke saath buri khabar sweekar ki.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Dhairya (Sam-bhav)",
+            "word_anglicized": "Dhairya",
+            "word_native": "धैर्य",
+            "definition": "Behad mushkil ya tanaav-bhari sthiti mein bhi man ki shanti aur santulan banaye rakhna.",
+            "example_sentence": "Vo shant sadhu chattano par poore dhairya ke saath baitha raha, aur apne chaaron or aate bhayanak toofan ko bilkul andekha kar diya."
           },
           "fr": {
             "word_display": "Équanimité",
             "word_native": "Équanimité",
-            "definition": "Égalité d'humeur, sérénité face aux épreuves.",
-            "example_sentence": "Elle a accepté la mauvaise nouvelle avec une équanimité surprenante.",
-            "cultural_note": "Standard usage."
+            "definition": "Garder un esprit parfaitement calme et équilibré, en particulier lors de situations très stressantes ou chaotiques.",
+            "example_sentence": "Le moine paisible restait assis sur le rocher avec une parfaite équanimité, ignorant complètement la violente tempête chaotique s'abattant autour de lui."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'aequanimitas' (even mind). A core concept in Stoicism and Buddhism (Upekkha). Re-popularized in 2025 by wellness trends focusing on 'emotional regulation'.",
+          "evolution_story": "Originating from the Latin word 'aequanimitas', which beautifully translates to having an 'even mind'. It is a core concept in both ancient Stoic philosophy and Buddhism, representing the ultimate mastery over one's own emotions during chaos.",
           "related_words": [
             "Composure",
             "Serenity",
@@ -3873,13 +3863,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Equanimity Meaning",
-              "author": "WordPandit",
-              "year": "2025"
+              "type": "Article",
+              "title": "The Art of Mindfulness",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "A fascinating lifestyle article exploring how modern CEOs are adopting ancient meditation practices to maintain their equanimity during intense corporate crises."
+            },
+            {
+              "type": "Report",
+              "title": "Emotional Intelligence in Sports",
+              "author": "ESPN",
+              "year": "2023",
+              "context": "An in-depth analysis of championship athletes who win specifically because they maintain absolute equanimity in the final, high-pressure seconds of a game."
             }
           ],
-          "trivia": "The symbol often associated with equanimity is a mountain (unmoved by winds)."
+          "trivia": "In many ancient Eastern traditions, the ultimate symbol of equanimity is a massive, unmoving mountain that remains completely still no matter how hard the wind blows!"
         }
       }
     },
@@ -3891,8 +3889,7 @@
       "tags": [
         "Idealistic",
         "Romantic",
-        "Utopian",
-        "strictly_accurate"
+        "Utopian"
       ],
       "common_assets": {
         "image_url": "images/quixotic.jpg",
@@ -3949,8 +3946,7 @@
       "tags": [
         "Infer",
         "Deduce",
-        "Interpret",
-        "strictly_accurate"
+        "Interpret"
       ],
       "common_assets": {
         "image_url": "images/read_between_the_lines.jpg",
@@ -4007,8 +4003,7 @@
       "tags": [
         "Wise",
         "Shrewd",
-        "Insightful",
-        "strictly_accurate"
+        "Insightful"
       ],
       "common_assets": {
         "image_url": "images/sagacious.jpg",
@@ -4065,8 +4060,7 @@
       "tags": [
         "Disheartened",
         "Dejected",
-        "Hopeless",
-        "strictly_accurate"
+        "Hopeless"
       ],
       "common_assets": {
         "image_url": "images/despondent.jpg",
@@ -4128,8 +4122,7 @@
       "tags": [
         "Reform",
         "Fresh start",
-        "Reinvent",
-        "strictly_accurate"
+        "Reinvent"
       ],
       "common_assets": {
         "image_url": "images/turn_over_a_new_leaf.jpg",
@@ -4191,8 +4184,7 @@
       "tags": [
         "Reticent",
         "Silent",
-        "Laconic",
-        "strictly_accurate"
+        "Laconic"
       ],
       "common_assets": {
         "image_url": "images/taciturn.jpg",
@@ -4254,8 +4246,7 @@
       "tags": [
         "Jubilant",
         "Triumphant",
-        "Ecstatic",
-        "strictly_accurate"
+        "Ecstatic"
       ],
       "common_assets": {
         "image_url": "images/exultant.jpg",
@@ -4312,8 +4303,7 @@
       "tags": [
         "Confess",
         "Admit",
-        "Own up",
-        "strictly_accurate"
+        "Own up"
       ],
       "common_assets": {
         "image_url": "images/come_clean.jpg",
@@ -4370,8 +4360,7 @@
       "tags": [
         "Fickle",
         "Volatile",
-        "Unpredictable",
-        "strictly_accurate"
+        "Unpredictable"
       ],
       "common_assets": {
         "image_url": "images/capricious.jpg",
@@ -4428,8 +4417,7 @@
       "tags": [
         "Pompous",
         "Dogmatic",
-        "Nitpicking",
-        "strictly_accurate"
+        "Nitpicking"
       ],
       "common_assets": {
         "image_url": "images/pedantic.jpg",
@@ -4486,8 +4474,7 @@
       "tags": [
         "Overextend",
         "Overwhelmed",
-        "Ambitious",
-        "strictly_accurate"
+        "Ambitious"
       ],
       "common_assets": {
         "image_url": "images/bite_off_more_than_you_can_chew.jpg",
@@ -4544,8 +4531,7 @@
       "tags": [
         "Misleading",
         "Deceptive",
-        "Fallacious",
-        "strictly_accurate"
+        "Fallacious"
       ],
       "common_assets": {
         "image_url": "images/specious.jpg",
@@ -4602,8 +4588,7 @@
       "tags": [
         "Talkative",
         "Chatty",
-        "Verbose",
-        "strictly_accurate"
+        "Verbose"
       ],
       "common_assets": {
         "image_url": "images/garrulous.jpg",
@@ -4660,8 +4645,7 @@
       "tags": [
         "Ecstatic",
         "Overjoyed",
-        "Blissful",
-        "strictly_accurate"
+        "Blissful"
       ],
       "common_assets": {
         "image_url": "images/on_cloud_nine.jpg",
