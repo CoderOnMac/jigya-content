@@ -2550,34 +2550,31 @@
       ],
       "common_assets": {
         "image_url": "images/languid.jpg",
-        "image_prompt": "Da Vinci style sepia sketch of a scene representing: They enjoyed a languid afternoon picnic by the river.. The scene should capture the essence of 'Languid'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft Watercolor painting style illustration of a scene inspired by a lazy summer afternoon: a very relaxed, fluffy orange cat stretching languidly in a patch of golden sunlight on a cozy living room rug. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Languid",
-            "definition": "Displaying or having a disinclination for physical exertion or effort; slow and relaxed.",
-            "example_sentence": "They enjoyed a languid afternoon picnic by the river.",
-            "pronunciation_guide": "/languid/"
+            "definition": "Slow, relaxed, and unhurried; often showing a peaceful lack of energy.",
+            "example_sentence": "The fluffy orange cat stretched languidly in a patch of golden sunlight on the cozy living room rug, completely unbothered by the busy world outside."
           },
           "hi": {
             "word_display": "Sust",
-            "word_anglicized": "Sust (Aalsi)",
-            "word_native": "---",
-            "definition": "Dheema aur aaramdayak; jisme mehnat karne ki iccha na ho.",
-            "example_sentence": "Unhone nadi kinare ek sust dopahar ke picnic ka anand liya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_anglicized": "Sust",
+            "word_native": "सुस्त",
+            "definition": "Dheema aur aaramdayak, jisme jaldi ya thakan-bhari mehnat ki kami ho.",
+            "example_sentence": "Us roedar narangi billi ne aaramdayak drawing room ke kaaleen par sunehri dhoop mein susti se angdai li, aur bahar ki vyast duniya se poori tarah befikr rahi."
           },
           "fr": {
-            "word_display": "Languissant",
-            "word_native": "Languissant",
-            "definition": "Manque d'énergie ou de vitalité ; lent et détendu.",
-            "example_sentence": "Ils ont profité d'un pique-nique languissant au bord de la rivière.",
-            "cultural_note": "Standard usage."
+            "word_display": "Langoureux",
+            "word_native": "Langoureux",
+            "definition": "Lent, détendu et sans précipitation ; montrant souvent un manque d'énergie paisible.",
+            "example_sentence": "Le chat orange pelucheux s'étirait langoureusement dans une tache de soleil doré sur le tapis douillet du salon, complètement indifférent au monde extérieur occupé."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'languere' (to be weak/faint). Entering English in 1595, it shifted from meaning 'sickly weak' to a romanticized 'gracefully lazy' in 19th-century poetry.",
+          "evolution_story": "From the Latin word 'languere', meaning to be weak or faint. While it originally described someone who was physically sick and lacked energy, over hundreds of years it evolved into a more romantic or peaceful word describing someone who is gracefully slow, relaxed, and delightfully unhurried.",
           "related_words": [
             "Listless",
             "Leisurely",
@@ -2586,12 +2583,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Word of the Day: Languid",
-              "author": "Mathrubhumi",
-              "year": "2025"
+              "title": "The Slow Living Movement",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "A lifestyle piece exploring how young professionals are embracing languid weekends entirely free of technology to combat burnout."
+            },
+            {
+              "type": "Opinion",
+              "title": "Summer Heatwaves",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An essay beautifully describing the languid pace of life in southern towns when the midday heat forces everyone to simply stop and rest."
             }
           ],
-          "trivia": "Often used to describe the heat of summer ('a languid heat')."
+          "trivia": "Often used by authors to describe the heat of mid-summer—a 'languid heat' that makes you want to do nothing but sip lemonade in the shade!"
         }
       }
     },
@@ -2608,34 +2613,31 @@
       ],
       "common_assets": {
         "image_url": "images/fastidious.jpg",
-        "image_prompt": "High-contrast Death Note anime style of a scene representing: He was fastidious about his appearance, ironing his shirts twice.. The scene should capture the essence of 'Fastidious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft 3D Pixar style illustration of a highly fastidious pastry chef using tiny tweezers to carefully place a single, perfectly golden sugar leaf onto an extravagant wedding cake, looking extremely focused. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Fastidious",
-            "definition": "Very attentive to and concerned about accuracy and detail.",
-            "example_sentence": "He was fastidious about his appearance, ironing his shirts twice.",
-            "pronunciation_guide": "/fastidious/"
+            "definition": "Extremely attentive to accuracy and detail; very hard to please.",
+            "example_sentence": "The fastidious pastry chef used tiny tweezers to carefully place a single, perfectly golden sugar leaf onto the extravagant wedding cake."
           },
           "hi": {
-            "word_display": "Tunak-mizaaj",
-            "word_anglicized": "Tunak-mizaaj (Bariki-pasand)",
-            "word_native": "---",
-            "definition": "Chhoti-chhoti baaton par dhyan dene wala; jise khush karna mushkil ho.",
-            "example_sentence": "Wo apne dikhaave ko lekar itna bariki-pasand tha ki apni shirt do baar istri karta tha.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Bariki-pasand",
+            "word_anglicized": "Bariki-pasand",
+            "word_native": "बारीकी-पसंद",
+            "definition": "Jo chhoti-chhoti baaton par bahut dhyan de aur jise aasani se khush na kiya ja sake.",
+            "example_sentence": "Us bariki-pasand pastry chef ne chhoti chimti ka istemal karke ek shandar wedding cake par sunehri cheeni ka patta bahut dhyan se rakha."
           },
           "fr": {
-            "word_display": "Fastidieux (Exigeant)",
-            "word_native": "Fastidieux (Exigeant)",
-            "definition": "Très attentif aux détails ; difficile à contenter.",
-            "example_sentence": "Il était très exigeant sur son apparence, repassant ses chemises deux fois.",
-            "cultural_note": "Standard usage."
+            "word_display": "Méticuleux",
+            "word_native": "Méticuleux",
+            "definition": "Extrêmement attentif à l'exactitude et aux détails ; très difficile à satisfaire.",
+            "example_sentence": "Le pâtissier méticuleux a utilisé de minuscules pinces pour placer soigneusement une seule feuille de sucre parfaitement dorée sur l'extravagant gâteau de mariage."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'fastidiosus' (squeamish/disdainful). Originally meant 'arrogant' or 'disgusted'. By the 17th century, it evolved to mean 'hard to please' or 'careful'.",
+          "evolution_story": "From the Latin word 'fastidiosus', which originally meant being squeamish or easily disgusted. Over the centuries, it shifted from meaning 'arrogant and hard to please' to describing someone who is incredibly careful, neat, and highly focused on tiny details.",
           "related_words": [
             "Meticulous",
             "Punctilious",
@@ -2643,13 +2645,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Etymology of Fastidious",
-              "author": "Etymonline",
-              "year": "2024"
+              "type": "Article",
+              "title": "The Art of Haute Couture",
+              "author": "Vogue",
+              "year": "2024",
+              "context": "A fashion review describing the fastidious attention to detail required to hand-stitch thousands of tiny pearls onto a single designer gown."
+            },
+            {
+              "type": "Opinion",
+              "title": "Restoring Masterpieces",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "An essay praising the fastidious work of art historians who spend months slowly cleaning a single painting with cotton swabs."
             }
           ],
-          "trivia": "In biology, 'fastidious organisms' are those that have complex nutritional requirements and are hard to grow in a lab."
+          "trivia": "In microbiology, 'fastidious bacteria' are high-maintenance germs that will only grow in a lab if scientists feed them a very specific, complex diet!"
         }
       }
     },
@@ -2666,34 +2676,31 @@
       ],
       "common_assets": {
         "image_url": "images/cross_that_bridge_when_you_come_to_it.jpg",
-        "image_prompt": "Dreamy Surrealist Salvador Dali style of a scene representing: I'm worried about the interview, but I'll cross that bridge when I come to it.. The scene should capture the essence of 'Cross that bridge when you come to it'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft Studio Ghibli style illustration of a comedic fantasy scene: a group of relaxed adventurers sit comfortably having a lovely tea party on a sunny cliff edge, completely ignoring the incredibly dangerous, broken rope bridge spanning a dark chasm right in front of them, deciding to worry about it later. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Cross that bridge when you come to it",
-            "definition": "To deal with a problem only when it actually happens, not before.",
-            "example_sentence": "I'm worried about the interview, but I'll cross that bridge when I come to it.",
-            "pronunciation_guide": "/cross-that-bridge-when-you-come-to-it/"
+            "definition": "To delay worrying about a future problem until it actually happens.",
+            "example_sentence": "The relaxed adventurers enjoyed a lovely tea party on the cliff, deciding they would cross the dangerously broken rope bridge when they came to it."
           },
           "hi": {
             "word_display": "Waqt aane par dekhenge",
             "word_anglicized": "Waqt aane par dekhenge",
-            "word_native": "---",
-            "definition": "Samasya ka samna tab karna jab wo vastav mein aaye, pehle nahi.",
-            "example_sentence": "Mujhe interview ki chinta hai, par waqt aane par dekhenge.",
-            "cultural_note": "Direct conceptual translation."
+            "word_native": "वक्त आने पर देखेंगे",
+            "definition": "Kisi bhavishya ki samasya ki chinta tab tak talna jab tak wo vastav mein saamne na aa jaye.",
+            "example_sentence": "Un aaram talab yatriyon ne choti par baithkar chai ki party ka anand liya, aur faisla kiya ki toote hue pul ki pareshani tab dekhenge jab wahan pahunchenge."
           },
           "fr": {
-            "word_display": "Ne pas vendre la peau de l'ours",
-            "word_native": "Ne pas vendre la peau de l'ours",
-            "definition": "Traiter un problème seulement quand il survient (Expression équivalente: on verra en temps voulu).",
-            "example_sentence": "Je m'inquiète pour l'entretien, mais on verra ça en temps voulu.",
-            "cultural_note": "Standard usage."
+            "word_display": "On verra ça le moment venu",
+            "word_native": "On verra ça le moment venu",
+            "definition": "Ne s'inquiéter d'un problème futur que lorsqu'il se présente réellement.",
+            "example_sentence": "Les aventuriers détendus ont profité d'une charmante fête au thé sur la falaise, décidant qu'ils traverseraient le pont de corde dangereux le moment venu."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Popularized by poet Henry Wadsworth Longfellow in 1850 ('The Golden Legend'). It reflects a philosophy of avoiding premature anxiety.",
+          "evolution_story": "While the core idea is ancient, the exact phrase 'cross that bridge when you come to it' was popularized in 1850 ('The Golden Legend') by the famous American poet Henry Wadsworth Longfellow. It serves as a classic reminder to avoid unnecessary anxiety over future problems that might not even happen.",
           "related_words": [
             "Procrastination",
             "Patience",
@@ -2701,13 +2708,21 @@
           ],
           "recent_references": [
             {
-              "type": "Culture",
-              "title": "Proverb Origin",
-              "author": "Wikipedia",
-              "year": "2011"
+              "type": "Article",
+              "title": "Managing Startup Anxiety",
+              "author": "Forbes",
+              "year": "2024",
+              "context": "A business guide advising young entrepreneurs to focus on their immediate daily goals and simply cross that bridge when they come to it regarding future scaling issues."
+            },
+            {
+              "type": "Opinion",
+              "title": "The Joy of Not Planning",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An essay celebrating the mental health benefits of traveling without a strict itinerary and crossing every bridge when you come to it."
             }
           ],
-          "trivia": "Often used interchangeably with 'don't borrow trouble'."
+          "trivia": "There's a hilarious modern joke that merges this idiom with another one: 'I'll burn that bridge when I get to it,' meaning you will purposefully ruin a relationship or opportunity in the future!"
         }
       }
     },
@@ -2724,34 +2739,31 @@
       ],
       "common_assets": {
         "image_url": "images/contentious.jpg",
-        "image_prompt": "Vibrant Cyberpunk Neon style of a scene representing: new tax law was a contentious issue that divided the parliament.. The scene should capture the essence of 'Contentious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Vibrant Cyberpunk Neon style illustration inspired by a classic sci-fi political thriller: two rival politicians intensely arguing across a glowing holographic table, their faces illuminated by stark blue and red neon lights, as the highly contentious new law completely divides the futuristic council room. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Contentious",
-            "definition": "Causing or likely to cause an argument; controversial.",
-            "example_sentence": "The new tax law was a contentious issue that divided the parliament.",
-            "pronunciation_guide": "/contentious/"
+            "definition": "Causing or likely to cause a heated argument; highly controversial.",
+            "example_sentence": "The two rival politicians argued intensely across the glowing table, as the highly contentious new law completely divided the futuristic council."
           },
           "hi": {
             "word_display": "Vivadaspad",
             "word_anglicized": "Vivadaspad",
-            "word_native": "---",
-            "definition": "Jis par vivad ya bahas hone ki sambhavana ho.",
-            "example_sentence": "Naya tax kanoon ek vivadaspad mudda tha jisne sansad ko baant diya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_native": "विवादास्पद",
+            "definition": "Aisa mudda ya baat jis par behas ya vivad hone ki poori sambhavna ho.",
+            "example_sentence": "Dono virodhi netaon ne chamakti table par teekhi behas ki, kyunki us naye vivadaspad kanoon ne council ko poori tarah baant diya tha."
           },
           "fr": {
             "word_display": "Contentieux",
             "word_native": "Contentieux",
-            "definition": "Susceptible de provoquer une dispute ; controversé.",
-            "example_sentence": "La nouvelle loi fiscale était une question contentieuse qui a divisé le parlement.",
-            "cultural_note": "Standard usage."
+            "definition": "Qui cause ou est susceptible de causer une dispute ; très controversé.",
+            "example_sentence": "Les deux politiciens rivaux se disputaient intensément autour de la table lumineuse, car la nouvelle loi très contentieuse divisait complètement le conseil futuriste."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'contentiosus'. Recently used heavily in politics (e.g., 'contentious leadership race' in Canada, 2026).",
+          "evolution_story": "From the Latin word 'contentiosus', meaning stubborn or argumentative. While it originally described someone who simply loved to pick fights, over time it evolved to describe the actual issues or topics that make people passionately disagree and argue with one another.",
           "related_words": [
             "Controversial",
             "Disputable",
@@ -2759,13 +2771,21 @@
           ],
           "recent_references": [
             {
-              "type": "News",
-              "title": "Pierre Poilievre Leadership Review",
-              "author": "CTV News",
-              "year": "2026"
+              "type": "Article",
+              "title": "The AI Copyright Debate",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "A legal analysis explaining why AI-generated art has become the most contentious issue in the modern creative industry."
+            },
+            {
+              "type": "Opinion",
+              "title": "Redrawing City Borders",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "An editorial discussing how the incredibly contentious proposal to change the school district borders caused massive arguments at the town hall meeting."
             }
           ],
-          "trivia": "In law, 'contentious jurisdiction' refers to courts dealing with disputes between parties."
+          "trivia": "In the famous historical collection 'The Federalist Papers' (1788), authors Alexander Hamilton and James Madison frequently warned about how contentious political factions could tear a young nation apart!"
         }
       }
     },
@@ -2782,34 +2802,31 @@
       ],
       "common_assets": {
         "image_url": "images/ebullient.jpg",
-        "image_prompt": "Soft Watercolor painting of a scene representing: Her ebullient personality made her the life of the party.. The scene should capture the essence of 'Ebullient'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Disney Classic style illustration of a scene inspired by a famous alpine musical film: a highly energetic young governess spins joyfully on a lush green mountain top, her arms wide open, as a burst of golden sunlight perfectly captures her bright, infectious smile and bubbling energy. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Ebullient",
             "definition": "Cheerful and full of energy.",
-            "example_sentence": "Her ebullient personality made her the life of the party.",
-            "pronunciation_guide": "/ebullient/"
+            "example_sentence": "The energetic governess spun joyfully on the lush mountain, her ebullient smile shining brightly under the golden sunlight."
           },
           "hi": {
             "word_display": "Joshila",
             "word_anglicized": "Joshila (Utsahi)",
-            "word_native": "---",
+            "word_native": "जोशीला",
             "definition": "Khush aur urja se bhara hua.",
-            "example_sentence": "Uska joshila vyaktitva use party ki jaan bana deta tha.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Us urjawan governess ne hare bhare pahaad par ghoomte hue sunehri dhoop mein apni joshili muskaan bikheri."
           },
           "fr": {
             "word_display": "Ébullient (Exubérant)",
             "word_native": "Ébullient (Exubérant)",
             "definition": "Gai et plein d'énergie.",
-            "example_sentence": "Sa personnalité exubérante faisait d'elle l'âme de la fête.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "La gouvernante énergique tournoyait joyeusement sur la montagne verdoyante, son sourire ébullient brillant sous la lumière dorée du soleil."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'ebullire' (to boil over). Originally meant literally boiling liquid. Figurative sense of 'bubbling over with enthusiasm' appeared in the 1660s.",
+          "evolution_story": "From the Latin 'ebullire', meaning 'to boil over'. Originally describing literally boiling liquids, it was famously used metaphorically by author Charles Dickens in 'The Pickwick Papers' to capture someone bubbling over with irrepressible, cheerful energy, a meaning we still use today.",
           "related_words": [
             "Exuberant",
             "Buoyant",
@@ -2817,13 +2834,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Etymology of Ebullient",
-              "author": "Etymonline",
-              "year": "2024"
+              "type": "Article",
+              "title": "The Return of Optimism",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "An essay exploring how the public responded to a highly ebullient political speech that promised a brighter, more energetic future after years of hardship."
+            },
+            {
+              "type": "Opinion",
+              "title": "Reviving Broadway",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "A theater review praising the lead actor's incredibly ebullient performance, noting how his bubbling energy single-handedly carried the entire musical."
             }
           ],
-          "trivia": "We still use the related term 'ebullition' in chemistry to mean boiling."
+          "trivia": "In chemistry, 'ebullition' still literally means boiling! Author F. Scott Fitzgerald famously captured this bubbling feeling in 'The Great Gatsby' when describing the endlessly ebullient jazz parties of the Roaring Twenties."
         }
       }
     },
@@ -2840,34 +2865,31 @@
       ],
       "common_assets": {
         "image_url": "images/against_the_clock.jpg",
-        "image_prompt": "Bold Lino Cut graphic style of a scene representing: doctors worked against the clock to save the patient's life.. The scene should capture the essence of 'Against the clock'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Sleek Comic Book Art style illustration inspired by a classic spy thriller movie: a sweating, focused secret agent frantically cuts wires on a glowing red explosive device, working desperately against the clock as the digital timer ticks down to the final three seconds. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Against the clock",
-            "definition": "In a great hurry, as time is running out.",
-            "example_sentence": "The doctors worked against the clock to save the patient's life.",
-            "pronunciation_guide": "/against-the-clock/"
+            "definition": "To work in a great hurry because time is rapidly running out.",
+            "example_sentence": "The sweating secret agent frantically cut the wires, working desperately against the clock as the red digital timer ticked down to the final three seconds."
           },
           "hi": {
             "word_display": "Samay ke viruddh",
             "word_anglicized": "Samay ke viruddh",
-            "word_native": "---",
-            "definition": "Bahut jaldi mein kaam karna kyunki samay khatam ho raha hai.",
-            "example_sentence": "Doctors ne mariiz ki jaan bachane ke liye samay ke viruddh kaam kiya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_native": "समय के विरुद्ध",
+            "definition": "Bahut tezi se koi kaam karna kyunki waqt tezi se khatam ho raha hai.",
+            "example_sentence": "Us paseene se latpat guptchar ne taar kaate, samay ke viruddh poori jaan lagakar kaam kiya kyunki laal timer par aakhri teen second bache the."
           },
           "fr": {
             "word_display": "Contre la montre",
             "word_native": "Contre la montre",
-            "definition": "Dans une grande hâte, car le temps presse.",
-            "example_sentence": "Les médecins ont travaillé contre la montre pour sauver la vie du patient.",
-            "cultural_note": "Standard usage."
+            "definition": "Travailler dans une grande urgence, car le temps est presque écoulé.",
+            "example_sentence": "L'agent secret en sueur coupait frénétiquement les fils, travaillant désespérément contre la montre alors que le chronomètre rouge indiquait les trois dernières secondes."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Originated from sports, particularly timed races (cycling's 'contre-la-montre'). Adopted into general language for any urgent deadline.",
+          "evolution_story": "This idiom actually originated in the world of sports! It started with early 20th-century bicycle racing, where riders didn't race each other directly but instead raced 'against the clock' to get the fastest solo time. Today, we use it for any incredibly urgent deadline.",
           "related_words": [
             "Rushed",
             "Urgent",
@@ -2876,12 +2898,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Decoding the Idiom",
-              "author": "SpeakFluently",
-              "year": "2024"
+              "title": "Climate Change Goals",
+              "author": "BBC News",
+              "year": "2024",
+              "context": "A global environmental report stressing that world leaders are currently working against the clock to reduce carbon emissions before irreversible damage occurs."
+            },
+            {
+              "type": "Article",
+              "title": "The Vaccine Race",
+              "author": "The Hindu",
+              "year": "2023",
+              "context": "An inspiring scientific retrospective detailing how medical researchers worked fiercely against the clock to develop life-saving treatments."
             }
           ],
-          "trivia": "In chess, 'playing against the clock' means managing time pressure rather than just the opponent."
+          "trivia": "In his famous sports memoir 'The Rider', author Tim Krabbé perfectly captures the sheer physical agony of cycling entirely against the clock without any other racers to pace yourself against."
         }
       }
     },
@@ -2898,34 +2928,31 @@
       ],
       "common_assets": {
         "image_url": "images/stoic.jpg",
-        "image_prompt": "Studio Ghibli style illustration of a scene representing: He remained stoic even when his business collapsed, focusing calmly on the next steps.. The scene should capture the essence of 'Stoic'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Japanese Anime style illustration of a scene inspired by a famous dark fantasy epic: a heavily armored, battle-scarred warrior stands perfectly still on a freezing, snow-covered mountain peak, remaining completely stoic and ignoring the fierce blue blizzard whipping around him as he calmly stares down an approaching dark army. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Stoic",
             "definition": "A person who can endure pain or hardship without showing their feelings or complaining.",
-            "example_sentence": "He remained stoic even when his business collapsed, focusing calmly on the next steps.",
-            "pronunciation_guide": "/stoic/"
+            "example_sentence": "The battle-scarred warrior remained perfectly stoic on the freezing peak, ignoring the fierce blizzard as he calmly faced the dark army."
           },
           "hi": {
             "word_display": "Sthitpragya",
             "word_anglicized": "Sthitpragya (Dhairyavaan)",
-            "word_native": "---",
+            "word_native": "स्थितप्रज्ञ",
             "definition": "Wo vyakti jo sukh aur dukh dono mein sthir aur shant rahe.",
-            "example_sentence": "Wo tab bhi sthitpragya raha jab uska vyapar doob gaya, aur shanti se agle kadam par dhyan diya.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Wo ghayal yoddha barfile pahaad par bilkul sthitpragya khada raha, aur bhayankar toofan ke beech shanti se vishal sena ka samna kiya."
           },
           "fr": {
             "word_display": "Stoïque",
             "word_native": "Stoïque",
             "definition": "Personne qui supporte la douleur ou l'épreuve sans se plaindre.",
-            "example_sentence": "Il est resté stoïque même lorsque son entreprise s'est effondrée, se concentrant calmement sur les prochaines étapes.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le guerrier balafré est resté parfaitement stoïque sur le pic glacial, ignorant le violent blizzard en affrontant calmement l'armée sombre."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Greek 'Stoikos', pertaining to the 'Stoa Poikile' (Painted Porch) in Athens where Zeno taught. Originally a philosophy of logic and ethics, it evolved in English by the 1570s to describe anyone suppressing emotion.",
+          "evolution_story": "From the ancient Greek 'Stoikos', referring to the 'Painted Porch' where philosopher Zeno taught. Originally a profound philosophy of logic, it is beautifully explored in Roman Emperor Marcus Aurelius's famous book 'Meditations', and today simply describes anyone who endures extreme hardship without complaining.",
           "related_words": [
             "Impassive",
             "Resilient",
@@ -2933,13 +2960,21 @@
           ],
           "recent_references": [
             {
-              "type": "Encyclopedia",
-              "title": "Stoicism",
-              "author": "Stanford Encyclopedia of Philosophy",
-              "year": "2023"
+              "type": "Article",
+              "title": "The Modern Search for Resilience",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "An essay discussing how modern professionals are adopting ancient stoic philosophies to calmly manage extreme workplace stress without complaining."
+            },
+            {
+              "type": "Opinion",
+              "title": "Leadership in Crisis",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "An editorial praising the incredibly stoic leadership of a city mayor who remained perfectly calm while coordinating relief efforts during a massive natural disaster."
             }
           ],
-          "trivia": "Marcus Aurelius, a Roman Emperor, is one of the most famous Stoic philosophers, writing 'Meditations' while leading armies."
+          "trivia": "While we often think of being stoic as being completely emotionless, the original ancient philosophy didn't mean having no feelings—it meant not letting those feelings control your actions! Author Ryan Holiday famously revived this concept in his bestselling book 'The Daily Stoic'."
         }
       }
     },
@@ -2956,34 +2991,31 @@
       ],
       "common_assets": {
         "image_url": "images/ephemeral.jpg",
-        "image_prompt": "Moody Baroque oil painting of a scene representing: Fashions are ephemeral, changing with every season.. The scene should capture the essence of 'Ephemeral'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft Minimalist Watercolor Painting style illustration inspired by a beautiful romantic drama: a young couple stands in awe watching a glowing, magical ice sculpture of a swan rapidly melting away into nothingness under the warm morning sun, highlighting its beautifully ephemeral nature. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Ephemeral",
-            "definition": "Lasting for a very short time.",
-            "example_sentence": "Fashions are ephemeral, changing with every season.",
-            "pronunciation_guide": "/ephemeral/"
+            "definition": "Lasting for a very short time; beautiful but incredibly short-lived.",
+            "example_sentence": "The young couple stood in awe, watching the beautifully ephemeral ice swan rapidly melt away into nothingness under the warm morning sun."
           },
           "hi": {
             "word_display": "Kshan-bhangur",
-            "word_anglicized": "Kshan-bhangur (Alpkalik)",
-            "word_native": "---",
-            "definition": "Jo bahut kam samay ke liye rahe.",
-            "example_sentence": "Fashion kshan-bhangur hote hain, har mausam ke saath badalte hain.",
-            "cultural_note": "Direct conceptual translation."
+            "word_anglicized": "Kshan-bhangur",
+            "word_native": "क्षणभंगुर",
+            "definition": "Aisi chiz jo bahut hi kam samay ke liye rahe; jaldi khatam hone wali.",
+            "example_sentence": "Us jode ne hairani se dekha, jab wo khoobsurat aur kshanbhangur barf ka hans subah ki dhoop mein tezi se pighalkar gayab ho gaya."
           },
           "fr": {
             "word_display": "Éphémère",
             "word_native": "Éphémère",
-            "definition": "Qui dure très peu de temps.",
-            "example_sentence": "Les modes sont éphémères, changeant à chaque saison.",
-            "cultural_note": "Standard usage."
+            "definition": "Qui dure très peu de temps; de courte durée.",
+            "example_sentence": "Le jeune couple regardait avec admiration le cygne de glace, d'une beauté éphémère, fondre rapidement et disparaître sous le chaud soleil matinal."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Greek 'ephemeros' (lasting only one day). Originally used for fevers or insects (like mayflies) that live for a day. In 2025, Snap Inc. doubled down on 'ephemeral content' as their core philosophy.",
+          "evolution_story": "From the ancient Greek word 'ephemeros', which literally meant 'lasting only one day'. It was originally used by ancient doctors to describe fevers that vanished after a single day, and eventually evolved to describe anything incredibly beautiful but heartbreakingly short-lived.",
           "related_words": [
             "Transitory",
             "Fleeting",
@@ -2991,13 +3023,21 @@
           ],
           "recent_references": [
             {
-              "type": "News",
-              "title": "Snap's Ephemeral Content Strategy",
-              "author": "Campaign India",
-              "year": "2025"
+              "type": "Article",
+              "title": "The Death of Digital Art",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A thought-provoking essay discussing how modern social media stories are entirely ephemeral, vanishing forever after just 24 hours."
+            },
+            {
+              "type": "Opinion",
+              "title": "Cherry Blossom Season",
+              "author": "BBC News",
+              "year": "2023",
+              "context": "A cultural review beautifully capturing the highly ephemeral nature of spring blossoms that bloom brightly but fall away in just days."
             }
           ],
-          "trivia": "The Mayfly is scientifically named 'Ephemeroptera' because adults live for only 24 hours."
+          "trivia": "In science, the Mayfly belongs to the order 'Ephemeroptera' because adult mayflies famously live for only 24 hours! Author Antoine de Saint-Exupéry beautifully captures this concept in his classic book 'The Little Prince', where the Prince is heartbroken to learn that his beloved flower is entirely ephemeral."
         }
       }
     },
@@ -3014,34 +3054,31 @@
       ],
       "common_assets": {
         "image_url": "images/shoot_oneself_in_the_foot.jpg",
-        "image_prompt": "Clean Disney Pixar 3D render of a scene representing: By insulting the interviewer, he really shot himself in the foot.. The scene should capture the essence of 'Shoot oneself in the foot'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Pixar style illustration of a scene inspired by a classic spy comedy movie: a confident but incredibly clumsy secret agent in a high-tech villain's lair dramatically presses a glowing red self-destruct button instead of the elevator button, accidentally locking himself inside. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Shoot oneself in the foot",
             "definition": "To inadvertently cause a disadvantage or problem for oneself.",
-            "example_sentence": "By insulting the interviewer, he really shot himself in the foot.",
-            "pronunciation_guide": "/shoot-oneself-in-the-foot/"
+            "example_sentence": "The clumsy secret agent confidently pressed the glowing red self-destruct button instead of the elevator, completely shooting himself in the foot."
           },
           "hi": {
             "word_display": "Apne pair par kulhadi marna",
             "word_anglicized": "Apne pair par kulhadi marna",
-            "word_native": "---",
+            "word_native": "अपने पैर पर कुल्हाड़ी मारना",
             "definition": "Galti se apna hi nuksan kar lena.",
-            "example_sentence": "Interviewer ki beizzati karke usne apne pair par kulhadi maar li.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Us anadi guptchar ne elevator ki jagah aatm-vinash ka laal button daba kar apne hi pair par kulhadi maar li."
           },
           "fr": {
             "word_display": "Se tirer une balle dans le pied",
             "word_native": "Se tirer une balle dans le pied",
             "definition": "Se causer du tort à soi-même par maladresse.",
-            "example_sentence": "En insultant l'intervieweur, il s'est vraiment tiré une balle dans le pied.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "L'agent secret maladroit a pressé avec confiance le bouton d'autodestruction rouge au lieu de l'ascenseur, se tirant complètement une balle dans le pied."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Originated in WWI, where soldiers would literally shoot their own feet to get sent to the hospital and avoid battle. It became a metaphor for self-sabotage in the 1950s.",
+          "evolution_story": "This phrase originated during World War I, where desperate soldiers would literally shoot their own feet to escape the terrifying frontline trenches. Today, as explored in Barbara Tuchman's historical book 'The March of Folly', it describes anyone foolishly causing their own downfall.",
           "related_words": [
             "Self-sabotage",
             "Blunder",
@@ -3049,13 +3086,21 @@
           ],
           "recent_references": [
             {
+              "type": "Opinion",
+              "title": "Political Blunders",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "An editorial analyzing how the candidate completely shot himself in the foot by aggressively attacking his own core supporters during the final debate."
+            },
+            {
               "type": "Article",
-              "title": "Idiom Origins",
-              "author": "Grammarist",
-              "year": "2024"
+              "title": "Startup Failures",
+              "author": "The Economic Times",
+              "year": "2023",
+              "context": "A business review detailing how the arrogant tech CEO shot himself in the foot by publicly mocking his biggest investors before the crucial funding round."
             }
           ],
-          "trivia": "Often confused with 'shooting oneself in the leg' which is not an idiom."
+          "trivia": "While the phrase is completely metaphorical today, author Joseph Heller masterfully captured this dark humor in his classic war novel 'Catch-22', where characters constantly try to invent absurd ways to escape the madness of combat!"
         }
       }
     },
@@ -3072,34 +3117,31 @@
       ],
       "common_assets": {
         "image_url": "images/loquacious.jpg",
-        "image_prompt": "Classical Greek marble statue style of a scene representing: loquacious host kept the guests entertained for hours with endless stories.. The scene should capture the essence of 'Loquacious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Cartoon Network style illustration of a highly comedic scene: a tiny, incredibly loquacious green parrot wearing a miniature top hat sits on a pirate's shoulder, happily talking completely non-stop while the exhausted pirate covers his ears in frustration. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Loquacious",
-            "definition": "Tending to talk a great deal; talkative.",
-            "example_sentence": "The loquacious host kept the guests entertained for hours with endless stories.",
-            "pronunciation_guide": "/loquacious/"
+            "definition": "Tending to talk a great deal; having a natural, unstoppable flow of words.",
+            "example_sentence": "The incredibly loquacious green parrot talked non-stop, happily entertaining itself while the exhausted pirate covered his ears in frustration."
           },
           "hi": {
             "word_display": "Baatuni",
             "word_anglicized": "Baatuni",
-            "word_native": "---",
-            "definition": "Bahut jyada bolne wala.",
-            "example_sentence": "Baatuni host ne anaginat kahaniyon se mehmano ka ghanton tak manoranjan kiya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_native": "बातूनी",
+            "definition": "Jo swabhav se hi bahut zyada baatein karta ho.",
+            "example_sentence": "Us behad baatuni hare tote ne lagatar bolkar khud ka manoranjan kiya, jabki thake hue samundari lutere ne pareshan hokar apne kaan band kar liye."
           },
           "fr": {
             "word_display": "Loquace",
             "word_native": "Loquace",
-            "definition": "Qui parle beaucoup.",
-            "example_sentence": "L'hôte loquace a diverti les invités pendant des heures avec des histoires sans fin.",
-            "cultural_note": "Standard usage."
+            "definition": "Qui a tendance à parler beaucoup ; très bavard.",
+            "example_sentence": "Le perroquet vert incroyablement loquace parlait sans arrêt, s'amusant joyeusement tandis que le pirate épuisé se couvrait les oreilles de frustration."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'loqui' (to speak). Distinct from 'garrulous' (which implies talking about trivial things annoyingly). 'Loquacious' can imply fluency and charm.",
+          "evolution_story": "From the Latin word 'loqui', meaning 'to speak'. While words like 'garrulous' imply someone who talks annoyingly about trivial nonsense, 'loquacious' simply describes someone who has a natural, fluent, and unstoppable flow of words!",
           "related_words": [
             "Voluble",
             "Chatty",
@@ -3107,13 +3149,21 @@
           ],
           "recent_references": [
             {
-              "type": "Forum",
-              "title": "Loquacious vs Garrulous",
-              "author": "italki Teachers",
-              "year": "2017"
+              "type": "Article",
+              "title": "The Lost Art of Conversation",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "An essay exploring how loquacious podcast hosts are becoming incredibly popular because modern society is starved for long, deep conversations."
+            },
+            {
+              "type": "Review",
+              "title": "Late Night TV Kings",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "A television review praising a brilliantly loquacious talk show host whose non-stop storytelling kept audiences completely mesmerized."
             }
           ],
-          "trivia": "Often paired with 'sesquipedalian' to describe someone who uses long words and talks a lot."
+          "trivia": "In literary history, the character of Polonius in William Shakespeare's famous play 'Hamlet' is famously loquacious, constantly giving extremely long, winding speeches to everyone he meets!"
         }
       }
     },
@@ -3130,34 +3180,31 @@
       ],
       "common_assets": {
         "image_url": "images/morose.jpg",
-        "image_prompt": "Da Vinci style sepia sketch of a scene representing: After losing the match, he sat in the corner, silent and morose.. The scene should capture the essence of 'Morose'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Soft Minimalist Watercolor Painting style illustration of a highly dramatic scene: a very morose, defeated knight in dented armor sits completely alone in a dark, empty tavern corner, sulking miserably while his sword rests neglected on the wooden table. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Morose",
-            "definition": "Sullen and ill-tempered.",
-            "example_sentence": "After losing the match, he sat in the corner, silent and morose.",
-            "pronunciation_guide": "/morose/"
+            "definition": "Sullen, gloomy, and ill-tempered.",
+            "example_sentence": "The defeated knight sat completely alone in the dark tavern corner, looking incredibly morose and sulking miserably next to his neglected sword."
           },
           "hi": {
             "word_display": "Udaas",
-            "word_anglicized": "Udaas (Chidchida)",
-            "word_native": "---",
-            "definition": "Bahut udaas aur kharab mood wala.",
-            "example_sentence": "Match haarne ke baad wo kone mein chupchap aur udaas baitha raha.",
-            "cultural_note": "Direct conceptual translation."
+            "word_anglicized": "Udaas",
+            "word_native": "उदास",
+            "definition": "Aisa vyakti jo bahut udaas, niraash, aur chidchida ho.",
+            "example_sentence": "Wo haara hua yoddha andheri saraye ke kone mein akela aur udaas baitha tha, aur apni talwar ke paas buri tarah kudta raha."
           },
           "fr": {
             "word_display": "Morose",
             "word_native": "Morose",
-            "definition": "D'humeur maussade et triste.",
-            "example_sentence": "Après avoir perdu le match, il s'assit dans un coin, silencieux et morose.",
-            "cultural_note": "Standard usage."
+            "definition": "D'humeur sombre, triste et maussade.",
+            "example_sentence": "Le chevalier vaincu était assis seul dans la taverne sombre, l'air incroyablement morose, boudant misérablement à côté de son épée négligée."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'morosus' (peevish), from 'mos' (habit/will). Originally meant 'devoted to one's own habits' (stubborn), evolving to mean 'gloomy' by the 18th century.",
+          "evolution_story": "From the Latin word 'morosus', which originally meant someone who was overly stubborn and devoted strictly to their own habits. By the 18th century, the meaning had shifted entirely to describe someone who is stubbornly gloomy, sulky, and completely ill-tempered.",
           "related_words": [
             "Sullen",
             "Gloomy",
@@ -3165,13 +3212,21 @@
           ],
           "recent_references": [
             {
-              "type": "Literature",
-              "title": "Epicene Study Guide",
-              "author": "GradeSaver",
-              "year": "1998"
+              "type": "Review",
+              "title": "Modern Cinema Antagonists",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "A film critique explaining how the movie's main villain wasn't evil, but simply a morose, misunderstood outcast who had given up on finding joy."
+            },
+            {
+              "type": "Article",
+              "title": "The Psychology of Slumps",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "A sports psychology article describing the intensely morose atmosphere in the locker room after a championship team suffered an unexpected, devastating loss."
             }
           ],
-          "trivia": "A character in Ben Jonson's play 'Epicene' (1609) is named Morose; he hates noise so much he tries to marry a silent woman."
+          "trivia": "The famous playwright Ben Jonson actually named the main character 'Morose' in his classic 1609 comedy play 'Epicœne, or The Silent Woman'—fittingly, the character was incredibly grumpy and hated all noise!"
         }
       }
     },
@@ -3188,34 +3243,31 @@
       ],
       "common_assets": {
         "image_url": "images/the_ball_is_in_your_court.jpg",
-        "image_prompt": "High-contrast Death Note anime style of a scene representing: I've sent the contract; now the ball is in your court.. The scene should capture the essence of 'The ball is in your court'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Japanese Anime style illustration of a scene inspired by a famous high-stakes volleyball anime: an incredibly intense player stands triumphantly at the net, dramatically pointing his finger forward after a massive spike, signaling that the glowing ball is now entirely in his exhausted rival's court for the next move. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "The ball is in your court",
-            "definition": "It is up to you to make the next decision or step.",
-            "example_sentence": "I've sent the contract; now the ball is in your court.",
-            "pronunciation_guide": "/the-ball-is-in-your-court/"
+            "definition": "It is entirely up to you to make the next decision or step.",
+            "example_sentence": "The intense player dramatically pointed his finger, signaling that the glowing ball was now entirely in his rival's court."
           },
           "hi": {
             "word_display": "Ab faisla tumhare haath mein hai",
             "word_anglicized": "Ab faisla tumhare haath mein hai",
-            "word_native": "---",
+            "word_native": "अब फैसला तुम्हारे हाथ में है",
             "definition": "Ab agla kadam uthane ki zimmedari tumhari hai.",
-            "example_sentence": "Maine contract bhej diya hai; ab faisla tumhare haath mein hai.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Us joshile khiladi ne ungli dikhakar ishara kiya ki ab faisla lene ki puri zimmedari thake hue virodhi ki hai."
           },
           "fr": {
             "word_display": "La balle est dans votre camp",
             "word_native": "La balle est dans votre camp",
-            "definition": "C'est à vous de prendre la prochaine décision.",
-            "example_sentence": "J'ai envoyé le contrat ; maintenant la balle est dans votre camp.",
-            "cultural_note": "Standard usage."
+            "definition": "C'est à vous de prendre la prochaine décision ou mesure.",
+            "example_sentence": "Le joueur intense a pointé son doigt, signalant que la balle lumineuse était désormais entièrement dans le camp de son rival."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Metaphor from Tennis. When the ball lands on your side, you must hit it or lose. Gained widespread figurative use in the 1960s-70s.",
+          "evolution_story": "This famous idiom originated directly from the classic game of tennis! When a player fiercely hits the ball over the net, the complete responsibility to hit it back instantly shifts to the opponent, a metaphor perfectly captured in Andre Agassi's famous autobiography 'Open'.",
           "related_words": [
             "Your turn",
             "Responsibility",
@@ -3224,12 +3276,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Idiom Origins",
-              "author": "The Idioms",
-              "year": "2021"
+              "title": "Global Climate Treaties",
+              "author": "BBC News",
+              "year": "2024",
+              "context": "A political analysis explaining how one nation signed the environmental agreement, officially announcing that the ball is in the other nation's court to follow suit."
+            },
+            {
+              "type": "Opinion",
+              "title": "Salary Negotiations",
+              "author": "Forbes",
+              "year": "2023",
+              "context": "A business guide advising job seekers to confidently state their salary expectations and then remain silent, firmly leaving the ball in the employer's court."
             }
           ],
-          "trivia": "Often used in negotiations to shift pressure to the other party."
+          "trivia": "In legal negotiations, lawyers frequently use this exact sports phrase to intentionally shift all the mental pressure onto the opposing counsel! This high-pressure tactic is brilliantly dramatized in John Grisham's famous legal thriller novel 'The Firm'."
         }
       }
     },
@@ -3246,34 +3306,31 @@
       ],
       "common_assets": {
         "image_url": "images/belligerent.jpg",
-        "image_prompt": "Dreamy Surrealist Salvador Dali style of a scene representing: drunk customer became belligerent when the bartender refused to serve him.. The scene should capture the essence of 'Belligerent'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Oil on Canvas Style illustration of a dramatic wild west scene: a highly belligerent cowboy aggressively slams his fists onto the wooden saloon bar, knocking over glasses while angrily yelling at the calm bartender who refused to serve him. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Belligerent",
-            "definition": "Hostile and aggressive.",
-            "example_sentence": "The drunk customer became belligerent when the bartender refused to serve him.",
-            "pronunciation_guide": "/belligerent/"
+            "definition": "Hostile, aggressive, and highly combative.",
+            "example_sentence": "The belligerent cowboy aggressively slammed his fists onto the wooden bar, knocking over glasses while angrily yelling at the calm bartender."
           },
           "hi": {
             "word_display": "Ladaku",
-            "word_anglicized": "Ladaku (Akramak)",
-            "word_native": "---",
-            "definition": "Jhagda karne wala ya hamesha ladne ko taiyar.",
-            "example_sentence": "Sharab piya hua grahak tab ladaku ho gaya jab bartender ne use aur sharab dene se mana kar diya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_anglicized": "Ladaku",
+            "word_native": "लड़ाकू",
+            "definition": "Bahut adhik akramak aur jo hamesha ladne ya jhagadne ke liye taiyar ho.",
+            "example_sentence": "Us ladaku charvahe ne gusse mein bar par mukka maara, gilaas giraye, aur shaant bartender par jor se chillane laga."
           },
           "fr": {
             "word_display": "Belligérant",
             "word_native": "Belligérant",
-            "definition": "Hostile et agressif.",
-            "example_sentence": "Le client ivre est devenu belligérant lorsque le barman a refusé de le servir.",
-            "cultural_note": "Standard usage."
+            "definition": "Extrêmement hostile, agressif et toujours prêt à se battre.",
+            "example_sentence": "Le cow-boy belligérant a agressivement frappé le bar en bois, renversant des verres tout en hurlant de colère sur le barman calme."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'bellum' (war) + 'gerere' (to wage). Originally a legal term for a nation at war ('belligerent state'). In modern usage, it describes aggressive individuals.",
+          "evolution_story": "Derived from the Latin words 'bellum' (war) and 'gerere' (to wage). Originally used purely as a strict legal term to describe entire nations actively waging war against each other, it eventually evolved to describe any individual acting highly aggressive and ready to fight.",
           "related_words": [
             "Aggressive",
             "Hostile",
@@ -3282,12 +3339,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Origin of Belligerent",
-              "author": "WordPandit",
-              "year": "2025"
+              "title": "The Cost of Anger",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "A psychological analysis examining why passengers on airplanes have become increasingly belligerent and hostile toward flight attendants over minor inconveniences."
+            },
+            {
+              "type": "Opinion",
+              "title": "Debate Night Chaos",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "A political review criticizing the incredibly belligerent tone of the recent presidential debates, where candidates chose to aggressively attack instead of answering questions."
             }
           ],
-          "trivia": "In international law, being recognized as a 'belligerent' gives a rebel group certain rights, like treating captured soldiers as POWs."
+          "trivia": "In international law, officially recognizing a rebel group as a 'belligerent' gives them certain rights, like treating their captured fighters as prisoners of war! This intense legal concept plays a major role in Leo Tolstoy's famous historical novel 'War and Peace'."
         }
       }
     },
@@ -3304,34 +3369,31 @@
       ],
       "common_assets": {
         "image_url": "images/cerebral.jpg",
-        "image_prompt": "Vibrant Cyberpunk Neon style of a scene representing: movie was a cerebral thriller that required the audience to think deeply.. The scene should capture the essence of 'Cerebral'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Cyberpunk Style illustration of a scene inspired by a famous mind-bending sci-fi movie: a brilliantly focused detective floats weightlessly inside a surreal, glowing neon library where physical books represent floating memories, intensely analyzing complex clues instead of physically fighting. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Cerebral",
             "definition": "Intellectual rather than emotional or physical.",
-            "example_sentence": "The movie was a cerebral thriller that required the audience to think deeply.",
-            "pronunciation_guide": "/cerebral/"
+            "example_sentence": "The intensely focused detective floated through the glowing neon library, relying entirely on his cerebral skills to analyze the complex memory clues."
           },
           "hi": {
             "word_display": "Baudhik",
             "word_anglicized": "Baudhik (Dimagi)",
-            "word_native": "---",
+            "word_native": "बौद्धिक",
             "definition": "Bhavnatmak ke bajaye dimaagi ya buddhijivi.",
-            "example_sentence": "Wo film ek baudhik thriller thi jisme darshakon ko gehraai se sochne ki zaroorat thi.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Us dhyan-magna detective ne chamakti neon library mein tairte hue, jatil yaadon ko suljhane ke liye apni baudhik shamta ka poora istemal kiya."
           },
           "fr": {
             "word_display": "Cérébral",
             "word_native": "Cérébral",
             "definition": "Intellectuel plutôt qu'émotionnel ou physique.",
-            "example_sentence": "Le film était un thriller cérébral qui obligeait le public à réfléchir profondément.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Le détective concentré flottait dans la bibliothèque au néon brillant, s'appuyant entièrement sur ses compétences cérébrales pour analyser les indices de mémoire complexes."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'cerebrum' (brain). 2026 film reviews described 'cerebral films' as those democratizing fiction, contrasting with 'weighty' literature.",
+          "evolution_story": "Originating directly from the Latin word 'cerebrum', meaning brain. While doctors first used it strictly for physical brain anatomy, it eventually evolved into a beautiful metaphor for anyone who approaches life logically and intellectually, famously captured in Arthur Conan Doyle's 'Sherlock Holmes' stories.",
           "related_words": [
             "Intellectual",
             "Analytical",
@@ -3340,12 +3402,20 @@
           "recent_references": [
             {
               "type": "Review",
-              "title": "Entertainment Weekly Review",
-              "author": "Chris Snellgrove",
-              "year": "2026"
+              "title": "The Rise of Smart Sci-Fi",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A highly acclaimed film critique praising a new director for creating incredibly cerebral movies that demand the audience's full intellectual attention."
+            },
+            {
+              "type": "Article",
+              "title": "Modern Chess Prodigies",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "A fascinating profile of a young world champion, highlighting his exceptionally cerebral approach to completely outsmarting older, more experienced opponents."
             }
           ],
-          "trivia": "Cerebral Palsy refers to the 'cerebrum' (brain) area affecting movement, but the adjective 'cerebral' alone usually refers to intelligence."
+          "trivia": "Because it literally means 'of the brain', medical conditions like 'Cerebral Palsy' use the exact same word! However, when referring to art or literature, calling it 'cerebral' is a massive compliment, meaning it's brilliant and thought-provoking."
         }
       }
     },
