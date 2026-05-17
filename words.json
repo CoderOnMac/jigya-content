@@ -1229,31 +1229,31 @@
       ],
       "common_assets": {
         "image_url": "images/audacious.jpg",
-        "image_prompt": "Classical Greek marble statue style of a scene inspired by a famous space-age announcement: a young visionary stands before a giant projection of a red planet, pointing at it with one arm outstretched while a room full of scientists and journalists stare back — some scribbling furiously, some slack-jawed, and one older professor in the front row has dropped his pen entirely. The posture and composition echo the classical hero pose, rendered in cool marble tones with dramatic uplighting. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Cinematic 3D Pixar style illustration of a highly thrilling heist scene: an incredibly audacious young thief confidently walks in slow motion toward a heavily guarded bank vault, casually waving hello to the shocked security guards while his nervous crew watches from a van outside. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Audacious",
             "definition": "Showing a willingness to take surprisingly bold risks.",
-            "example_sentence": "The audacious plan to colonize Mars stunned the scientific community. He pointed at the red planet on the screen and named a launch date — an audacious move that made the professor in the front row drop his pen."
+            "example_sentence": "The incredibly audacious young thief walked confidently toward the heavily guarded vault, casually waving hello to the shocked security guards."
           },
           "hi": {
             "word_display": "Sahasi",
-            "word_anglicized": "Sahasi (Nidar)",
-            "word_native": "---",
+            "word_anglicized": "Sahasi",
+            "word_native": "साहसी",
             "definition": "Hairan kar dene wala jokhim uthane ki himmat dikhana.",
-            "example_sentence": "Usne screen par laal grah ki taraf ungli uthaai aur launch ki taareekh bata di — itna sahasi kadam ki aage baithe professor ke haath se pen gir gaya."
+            "example_sentence": "Veh behad sahasi chor bhari security ke beech cash vault ki taraf aatmavishwas se badha aur chaunkaye hue suraksha-karmiyon ko haath hilakar namskar kiya."
           },
           "fr": {
             "word_display": "Audacieux",
             "word_native": "Audacieux",
             "definition": "Montrant une volonté de prendre des risques audacieux.",
-            "example_sentence": "Le plan audacieux de coloniser Mars a stupéfié la communauté scientifique. Il a pointé la planète rouge sur l'écran et annoncé une date de lancement — un geste si audacieux que le professeur au premier rang a lâché son stylo."
+            "example_sentence": "Le jeune voleur incroyablement audacieux marchait avec confiance vers le coffre-fort gardé, saluant nonchalamment les gardes de sécurité choqués."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'audax' (bold), itself from 'audere' (to dare) — literally meaning 'one who advances forward'. The word entered English in the mid-16th century and has always carried a double edge: audacity is admired in heroes and condemned in villains. The same act — ignoring the rules, defying the consensus — is audacious when it succeeds and reckless when it fails. Barack Obama leaned into the positive pole with his 2006 book 'The Audacity of Hope', cementing the word in modern political aspiration. Elon Musk's announcements of Mars colonisation timelines then handed it a new home in the vocabulary of tech ambition.",
+          "evolution_story": "From the Latin 'audax', meaning bold, which itself comes from 'audere', meaning 'to dare'. The same act can be called audacious when it succeeds and reckless when it fails! Barack Obama's 2006 book 'The Audacity of Hope' permanently cemented this word into the vocabulary of modern ambition.",
           "related_words": [
             "Bold",
             "Daring",
@@ -1265,17 +1265,17 @@
               "title": "The Audacity of Hope",
               "author": "Barack Obama",
               "year": "2006",
-              "context": "Obama's pre-presidential book borrowed the phrase from a Reverend Jeremiah Wright sermon, arguing that hope itself — in the face of cynicism and impossibility — is an audacious act. The title single-handedly made 'audacity' a word of political aspiration rather than arrogance for a generation."
+              "context": "Obama's pre-presidential book argued that hope itself, in the face of cynicism, is an audacious act. It single-handedly made 'audacity' a word of political aspiration for a generation."
             },
             {
               "type": "Article",
-              "title": "Audacious Visions of the Total Conquest of Space",
-              "author": "Vocabulary.com / various citations",
+              "title": "The Age of Audacious Startups",
+              "author": "Forbes",
               "year": "2024",
-              "context": "A widely cited usage note tracing how 'audacious' has become the go-to adjective in science and technology journalism for plans that break with consensus — from space colonisation to AI breakthroughs — where the line between vision and recklessness is deliberately left ambiguous."
+              "context": "A business essay exploring how the most successful tech founders are the ones willing to make incredibly audacious bets that terrify their more cautious investors."
             }
           ],
-          "trivia": "Obama's 2006 book 'The Audacity of Hope' cemented the word in modern political rhetoric — but the phrase originally came from a sermon by Reverend Jeremiah Wright, who used it to describe the audacity of dreaming of a better world when the evidence suggests otherwise."
+          "trivia": "Obama's famous book title came from a sermon by Reverend Jeremiah Wright, who used 'audacity' to describe the sheer boldness of daring to dream of a better world when all the evidence suggests otherwise!"
         }
       }
     },
@@ -1348,31 +1348,31 @@
       ],
       "common_assets": {
         "image_url": "images/adulation.jpg",
-        "image_prompt": "High-contrast Death Note anime style illustration of a scene inspired by a simple children's talent show: a cute singing dog wearing a shiny jacket stands on a small wooden stage with arms wide, while all the other little animals cheer wildly and throw flowers at his feet in pure adulation. 4:5 aspect ratio."
+        "image_prompt": "Emotional Digital Art style illustration of a massively dramatic concert scene: a rock star stands alone on the edge of a glowing stadium stage, arms stretched wide, completely overwhelmed and tearful as one hundred thousand screaming fans shower him with pure, overwhelming adulation. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Adulation",
             "definition": "Excessive admiration or praise.",
-            "example_sentence": "The cute singing dog stood on stage, soaking in the adulation as all the little animals cheered wildly and threw flowers."
+            "example_sentence": "The rock star stood tearfully at the edge of the stage, completely overwhelmed by the sheer adulation of one hundred thousand screaming fans."
           },
           "hi": {
             "word_display": "Ati-prashansa",
             "word_anglicized": "Ati-prashansa",
             "word_native": "अति-प्रशंसा",
             "definition": "Hadh se jyada tareef ya prashansa.",
-            "example_sentence": "Pyare gaane wale kutte ne manch par sabhi chhote janwaron dvara phool phenkne aur zor se taliyan bajane ki ati-prashansa ka anand liya."
+            "example_sentence": "Veh rock star manch ke kinare aansoon bhari aankhon se khada raha, ek lakh chillate prashansako ki zabardast ati-prashansa se poori tarah vibhor tha."
           },
           "fr": {
             "word_display": "Adulation",
             "word_native": "Adulation",
             "definition": "Admiration ou louange excessive.",
-            "example_sentence": "Le mignon chien chanteur se tenait sur scène, profitant de l'adulation tandis que les petits animaux l'acclamaient et jetaient des fleurs."
+            "example_sentence": "La rock star se tenait en larmes au bord de la scène, complètement submergée par l'adulation pure de cent mille fans en délire."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From the Latin 'adulatio' (flattery). Originally, it described a dog happily wagging its tail at its master. Today, it simply describes anyone receiving an overwhelming amount of praise and cheering, like a famous pop star on a big stage.",
+          "evolution_story": "From the Latin 'adulatio', which originally described a dog enthusiastically wagging its tail and jumping all over its master to get attention and treats! Over centuries, this playful canine image evolved into describing humans who shower others with overwhelming, often excessive, praise.",
           "related_words": [
             "Worship",
             "Idolatry",
@@ -1384,17 +1384,17 @@
               "title": "The Adulation of the Anti-Hero",
               "author": "The Atlantic",
               "year": "2024",
-              "context": "A cultural essay analyzing how modern television audiences blur the line between being entertained by villainous protagonists and offering them genuine adulation, turning toxic traits into worship."
+              "context": "A cultural essay analyzing how modern TV audiences blur the line between being entertained by villainous protagonists and offering them genuine adulation, turning toxic traits into worship."
             },
             {
               "type": "Article",
               "title": "When Fandom Crosses into Adulation",
               "author": "The Guardian",
               "year": "2025",
-              "context": "An exploration of modern pop music fanbases, arguing that healthy appreciation for artists has frequently mutated into blind adulation where no criticism is tolerated."
+              "context": "An exploration of modern pop music fanbases, arguing that healthy appreciation has frequently mutated into blind adulation where no criticism is tolerated."
             }
           ],
-          "trivia": "Even though it means huge praise now, the Latin root originally just meant a dog wagging its tail to get a treat!"
+          "trivia": "Even though it means overwhelming praise today, the Latin root 'adulatio' originally just described a dog enthusiastically wagging its tail to get a treat from its master!"
         }
       }
     },
