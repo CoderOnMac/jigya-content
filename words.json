@@ -3893,34 +3893,31 @@
       ],
       "common_assets": {
         "image_url": "images/quixotic.jpg",
-        "image_prompt": "Dreamy Surrealist Salvador Dali style of a scene representing: His quixotic campaign to change the world overnight failed miserably.. The scene should capture the essence of 'Quixotic'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Vibrant Studio Ghibli style illustration of a highly fantastical, dreamy scene: an overly optimistic young inventor wearing makeshift armor confidently points his wooden sword at a massive, modern wind turbine, genuinely believing it is an evil giant he must fight. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Quixotic",
-            "definition": "Exceedingly idealistic; unrealistic and impractical.",
-            "example_sentence": "His quixotic campaign to change the world overnight failed miserably.",
-            "pronunciation_guide": "/quixotic/"
+            "definition": "Exceedingly idealistic, romantic, and completely impractical.",
+            "example_sentence": "The overly optimistic young inventor wore makeshift armor and confidently pointed his wooden sword at the massive wind turbine, fully believing in his quixotic quest to defeat the imaginary giant."
           },
           "hi": {
-            "word_display": "Kalpanik (Avyavaharik)",
-            "word_anglicized": "Kalpanik (Avyavaharik)",
-            "word_native": "---",
-            "definition": "Bahut jyada adarshwadi par haqiqat se door.",
-            "example_sentence": "Duniya ko raaton-raat badalne ka uska avyavaharik abhiyan buri tarah vifal raha.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Kalpanik",
+            "word_anglicized": "Kalpanik",
+            "word_native": "काल्पनिक",
+            "definition": "Bahut hi adarshwadi, lekin bilkul avyavaharik aur haqiqat se door.",
+            "example_sentence": "Us behad ashavadi yuva aavishkarak ne apna lakdi ka astra uthaya aur pawan chakki par nishana sadha, apne is kalpanik aur avyavaharik lakshya par poora vishwas karte hue."
           },
           "fr": {
             "word_display": "Quichottesque",
             "word_native": "Quichottesque",
-            "definition": "Idéaliste à l'excès; irréaliste.",
-            "example_sentence": "Sa campagne quichottesque pour changer le monde du jour au lendemain a échoué lamentablement.",
-            "cultural_note": "Standard usage."
+            "definition": "Extrêmement idéaliste, irréaliste et totalement impraticable.",
+            "example_sentence": "Le jeune inventeur trop optimiste portait une armure de fortune et pointait avec confiance son épée de bois vers l'éolienne géante, croyant pleinement en sa quête quichottesque."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Derived from Don Quixote, the hero of Cervantes' 1605 novel who fought windmills believing they were giants. Used politically to describe noble but doomed causes.",
+          "evolution_story": "This word comes directly from the famous character Don Quixote, who famously put on old armor and tried to fight windmills because he romantically believed they were evil giants. Today, we use it to describe anyone chasing incredibly noble but completely unrealistic and doomed dreams.",
           "related_words": [
             "Idealistic",
             "Romantic",
@@ -3928,13 +3925,21 @@
           ],
           "recent_references": [
             {
-              "type": "Academic",
-              "title": "Don Quixote as Political Agent",
-              "author": "M.B. Puyal",
-              "year": "2012"
+              "type": "Article",
+              "title": "The Startup Dream",
+              "author": "Forbes",
+              "year": "2024",
+              "context": "A business critique explaining why a tech billionaire's plan to build a completely free floating city on the ocean is a beautiful but ultimately quixotic project."
+            },
+            {
+              "type": "Opinion",
+              "title": "Saving the Rainforests",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "An environmental essay praising young activists, noting that what older generations dismiss as quixotic dreams might actually be the only way to save the planet."
             }
           ],
-          "trivia": "In the 18th century, anti-Jacobin writers used 'quixotism' to mock revolutionary ideas as dangerous fantasies."
+          "trivia": "This entire concept and word comes directly from Miguel de Cervantes' masterpiece novel, 'Don Quixote' (1605), widely considered to be the first modern novel ever written in Western literature!"
         }
       }
     },
@@ -3944,54 +3949,59 @@
       "category": "multilingual",
       "type": "word",
       "tags": [
-        "Infer",
-        "Deduce",
-        "Interpret"
+        "Guideline",
+        "Standard",
+        "Criteria"
       ],
       "common_assets": {
-        "image_url": "images/read_between_the_lines.jpg",
-        "image_prompt": "Vibrant Cyberpunk Neon style of a scene representing: His letter didn't say much, but reading between the lines, I knew he was in trouble.. The scene should capture the essence of 'Read between the lines'. High quality, detailed, 4:5 aspect ratio."
+        "image_url": "images/rubric.jpg",
+        "image_prompt": "Warm Academic Oil Painting style illustration of a peaceful scene: an old, wise professor carefully examining a glowing, detailed grading rubric written on ancient parchment under the warm light of a desk lamp in a grand, dusty library. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
-            "word_display": "Read between the lines",
-            "definition": "Look for or discover a meaning that is hidden or implied rather than explicitly stated.",
-            "example_sentence": "His letter didn't say much, but reading between the lines, I knew he was in trouble.",
-            "pronunciation_guide": "/read-between-the-lines/"
+            "word_display": "Rubric",
+            "definition": "A set of instructions, rules, or grading criteria used to evaluate work.",
+            "example_sentence": "The wise old professor carefully examined the detailed grading rubric to ensure every student was marked fairly under the warm desk lamp."
           },
           "hi": {
-            "word_display": "Chhipa hua arth samajhna",
-            "word_anglicized": "Chhipa hua arth samajhna",
-            "word_native": "---",
-            "definition": "Jo saaf na likha ho, us ishare ya matlab ko samajh lena.",
-            "example_sentence": "Uske khat mein jyada kuch nahi tha, par chhipa hua arth samajhne par mujhe pata chala wo musibat mein hai.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Niyamavali",
+            "word_anglicized": "Niyamavali",
+            "word_native": "नियमावली",
+            "definition": "Kisi kaam ko jaanchne ya moolyankan karne ke liye nirdharit niyam ya mapdand.",
+            "example_sentence": "Us buddhiman purane professor ne dhyan se us vistrit niyamavali ki jaanch ki taki har chhatra ko sahi ank mil saken."
           },
           "fr": {
-            "word_display": "Lire entre les lignes",
-            "word_native": "Lire entre les lignes",
-            "definition": "Deviner ce qui est sous-entendu.",
-            "example_sentence": "Sa lettre ne disait pas grand-chose, mais en lisant entre les lignes, je savais qu'il avait des ennuis.",
-            "cultural_note": "Standard usage."
+            "word_display": "Grille d'évaluation",
+            "word_native": "Grille d'évaluation",
+            "definition": "Un ensemble de critères ou de directives utilisés pour évaluer ou noter un travail.",
+            "example_sentence": "Le vieux professeur sage a soigneusement examiné la grille d'évaluation détaillée pour s'assurer que chaque étudiant soit noté équitablement."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Originated from cryptography and invisible ink, where secret messages were literally written between the visible lines of a standard letter. Figurative use began in the 19th century.",
+          "evolution_story": "Derived from the Latin word 'rubrica', which literally meant 'red ochre'. In medieval times, monks would write the incredibly important instructions or rules in ancient manuscripts using striking red ink so they stood out from the black text, which is exactly why we now use it to mean a 'grading guide'!",
           "related_words": [
-            "Infer",
-            "Deduce",
-            "Interpret"
+            "Guideline",
+            "Standard",
+            "Criteria"
           ],
           "recent_references": [
             {
               "type": "Article",
-              "title": "Idiom Origins",
-              "author": "Grammarist",
-              "year": "2023"
+              "title": "Modern Education Standards",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "An educational essay arguing that highly rigid grading rubrics are accidentally destroying student creativity in modern classrooms."
+            },
+            {
+              "type": "Journal",
+              "title": "AI in Grading",
+              "author": "The Chronicle of Higher Education",
+              "year": "2023",
+              "context": "A technology review explaining how artificial intelligence can perfectly apply a complex rubric to grade thousands of college essays in seconds."
             }
           ],
-          "trivia": "During wars, censors would literally 'read between the lines' looking for invisible ink."
+          "trivia": "In classical Christian liturgy, the strict instructions for conducting a church service were printed in red ink, famously seen in the historical 'Book of Common Prayer' (1549), where the rules are literally called rubrics!"
         }
       }
     },
@@ -4007,34 +4017,31 @@
       ],
       "common_assets": {
         "image_url": "images/sagacious.jpg",
-        "image_prompt": "Soft Watercolor painting of a scene representing: sagacious leader avoided war by negotiating a clever treaty.. The scene should capture the essence of 'Sagacious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Stunning Fantasy Concept Art style illustration of a highly dramatic scene: a very old, sagacious king with a long white beard calmly sits on his grand throne, easily outsmarting his two angry rival rulers by sliding a clever peace treaty across a map of the kingdom. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Sagacious",
-            "definition": "Having or showing keen mental discernment and good judgment.",
-            "example_sentence": "The sagacious leader avoided war by negotiating a clever treaty.",
-            "pronunciation_guide": "/sagacious/"
+            "definition": "Having or showing keen mental discernment and exceptionally good judgment.",
+            "example_sentence": "The sagacious old king easily outsmarted his angry rivals by calmly sliding a clever peace treaty across the map, completely avoiding a massive war."
           },
           "hi": {
             "word_display": "Budhimaan",
-            "word_anglicized": "Budhimaan (Vicharpurn)",
-            "word_native": "---",
-            "definition": "Tez dimaag aur achhe nirnay lene ki kshamata rakhne wala.",
-            "example_sentence": "Budhimaan neta ne ek chatur samjhauta karke yuddh taal diya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_anglicized": "Budhimaan",
+            "word_native": "बुद्धिमान",
+            "definition": "Jiske paas bahut tez dimaag ho aur jo hamesha door-darshi aur achhe nirnay leta ho.",
+            "example_sentence": "Us buddhiman aur door-darshi raja ne nakshe par ek chatur shanti samjhauta aage badhakar apne gusse wale dushmanon ko asaani se maat de di, aur yuddh taal diya."
           },
           "fr": {
             "word_display": "Sagace",
             "word_native": "Sagace",
-            "definition": "Qui a de la perspicacité et du bon sens.",
-            "example_sentence": "Le chef sagace a évité la guerre en négociant un traité intelligent.",
-            "cultural_note": "Standard usage."
+            "definition": "Avoir un esprit vif et faire preuve d'un excellent jugement et d'une grande perspicacité.",
+            "example_sentence": "Le vieux roi sagace a facilement déjoué ses rivaux en colère en faisant glisser calmement un traité de paix astucieux sur la carte, évitant ainsi complètement une guerre massive."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'sagax' (of quick perception/smell). Originally related to hunting dogs tracking a scent. By 1640, it shifted to human wisdom.",
+          "evolution_story": "This incredibly fascinating word comes from the Latin 'sagax', which originally described hunting dogs that had an incredibly sharp sense of smell! Over hundreds of years, it beautifully evolved from describing a dog tracking a physical scent to describing a wise human tracking down the truth.",
           "related_words": [
             "Wise",
             "Shrewd",
@@ -4042,13 +4049,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Sagacious Etymology",
-              "author": "Etymonline",
-              "year": "2024"
+              "type": "Article",
+              "title": "The Best CEOs",
+              "author": "Forbes",
+              "year": "2024",
+              "context": "A business review praising a newly appointed CEO for making incredibly sagacious financial decisions that saved the company from total bankruptcy."
+            },
+            {
+              "type": "Opinion",
+              "title": "Modern Diplomacy",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "An international politics essay arguing that the world desperately needs more sagacious leaders who prioritize clever peace treaties over aggressive wars."
             }
           ],
-          "trivia": "Related to 'Sage' (wise person), though 'Sagacious' implies a more active sharpness."
+          "trivia": "The word perfectly describes J.R.R. Tolkien's famous wizard Gandalf in the epic fantasy novel 'The Lord of the Rings', as he constantly uses his sagacious wisdom to guide the younger heroes to victory!"
         }
       }
     },
@@ -4064,31 +4079,31 @@
       ],
       "common_assets": {
         "image_url": "images/despondent.jpg",
-        "image_prompt": "Soft water colored style of a scene inspired by a classic fantasy epic: a weary traveler with slumped shoulders sits heavily on a jagged rock in a gloomy wasteland, staring at an empty water canteen, while his loyal companion gently places a reassuring hand on his back. Aspect ratio: 4:5"
+        "image_prompt": "Moody Gothic Romanticism painting style illustration of a highly dramatic scene from a famous classic horror novel: the brilliant but completely despondent scientist Dr. Frankenstein slumps helplessly in a dark, freezing stone laboratory, staring in absolute despair at the terrifying, giant creature he just brought to life. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Despondent",
-            "definition": "In low spirits from loss of hope or courage.",
-            "example_sentence": "The traveler sat on the jagged rock, staring at his empty canteen, feeling completely despondent in the gloomy wasteland."
+            "definition": "In low spirits from loss of hope or courage; profoundly discouraged.",
+            "example_sentence": "The brilliant scientist slumped helplessly in his freezing laboratory, feeling completely despondent as he stared in absolute despair at the terrifying creature he had just brought to life."
           },
           "hi": {
             "word_display": "Hatash",
-            "word_anglicized": "Hatash (Nirash)",
+            "word_anglicized": "Hatash",
             "word_native": "हताश",
-            "definition": "Ummeed kho dene ke karan bahut udaas.",
-            "example_sentence": "Yatri us nukeeli chattan par baith gaya, apni khali botal dekhte hue poori tarah hatash mehsoos kar raha tha."
+            "definition": "Ummeed kho dene ke karan bahut udaas aur niraash.",
+            "example_sentence": "Veh mahan vaigyanik apni thandi laboratory mein bebus hokar baith gaya, aur apne dwara banaye gaye us bhayanak jeev ko dekhkar poori tarah hatash mehsoos karne laga."
           },
           "fr": {
             "word_display": "Abattu",
             "word_native": "Abattu",
-            "definition": "Découragé, qui a perdu l'espoir.",
-            "example_sentence": "Le voyageur s'est assis sur la roche, fixant sa gourde vide, se sentant complètement abattu dans ce désert sombre."
+            "definition": "Découragé, abattu, et qui a perdu tout espoir.",
+            "example_sentence": "Le brillant scientifique s'effondra impuissant dans son laboratoire glacial, se sentant complètement abattu alors qu'il regardait avec un désespoir absolu la créature terrifiante qu'il venait de ramener à la vie."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'despondere', where 'spondere' means to promise (the root of 'spouse'). It literally translates to 'giving up one's promise'. Originally describing soldiers giving up their vows of victory, it arrived in modern English to describe anyone profoundly drained of hope.",
+          "evolution_story": "From Latin 'despondere', where 'spondere' means to promise (the root of 'spouse'). It literally translates to 'giving up one's promise'. Originally describing Roman soldiers giving up their vows of victory in battle, it arrived in modern English to describe anyone profoundly drained of all hope.",
           "related_words": [
             "Disheartened",
             "Dejected",
@@ -4100,17 +4115,17 @@
               "title": "The Silent Epidemic of Burnout",
               "author": "The Atlantic",
               "year": "2024",
-              "context": "The article explored how remote workers became increasingly despondent after months of isolation and lack of clear boundaries."
+              "context": "An article exploring how remote workers became increasingly despondent after months of isolation and lack of clear boundaries."
             },
             {
               "type": "Report",
               "title": "Global Economic Outlook",
               "author": "The Guardian",
               "year": "2023",
-              "context": "The financial correspondent used the word to describe the despondent mood of local business owners facing unprecedented inflation."
+              "context": "A financial correspondent used the word to describe the deeply despondent mood of local business owners facing unprecedented inflation."
             }
           ],
-          "trivia": "In 19th-century literature, being 'despondent' was often depicted as a quiet, motionless grief—like staring into a dying fire—rather than loud weeping or dramatic sobbing, a nuance still preserved in modern psychology."
+          "trivia": "In Andy Weir's massive 21st-century sci-fi hit novel 'The Martian' (2011), astronaut Mark Watney has to constantly use his sense of humor to fight off feeling completely despondent after being accidentally abandoned millions of miles away from Earth!"
         }
       }
     },
@@ -4250,34 +4265,31 @@
       ],
       "common_assets": {
         "image_url": "images/exultant.jpg",
-        "image_prompt": "Clean Disney Pixar 3D render of a scene representing: exultant crowd cheered as the winning goal was scored.. The scene should capture the essence of 'Exultant'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Vibrant Digital Art style illustration of a massive, triumphant celebration: a highly exultant young soccer player slides across the glowing green grass on his knees, screaming in pure joy as stadium fireworks explode right after scoring the World Cup winning goal. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Exultant",
-            "definition": "Triumphantly happy.",
-            "example_sentence": "The exultant crowd cheered as the winning goal was scored.",
-            "pronunciation_guide": "/exultant/"
+            "definition": "Triumphantly happy, joyful, and celebrating a major success.",
+            "example_sentence": "The highly exultant young player slid across the grass, screaming in pure joy as fireworks exploded right after he scored the winning goal."
           },
           "hi": {
             "word_display": "Ullashit",
-            "word_anglicized": "Ullashit (Vijayi khushi)",
-            "word_native": "---",
-            "definition": "Jeet ya safalta ke karan bahut khush.",
-            "example_sentence": "Jaise hi jeetne wala goal hua, ullashit bheed ne khushi se shor machaya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_anglicized": "Ullashit",
+            "word_native": "उल्लासित",
+            "definition": "Jeet ya safalta ke baad khushi aur garv se poori tarah jhoom uthna.",
+            "example_sentence": "Jeet ka goal daagne ke theek baad aatishbazi ke beech, veh behad ullashit yuva khiladi khushi se chillate hue ghaas par phisal gaya."
           },
           "fr": {
             "word_display": "Exultant",
             "word_native": "Exultant",
-            "definition": "Très heureux et triomphant.",
-            "example_sentence": "La foule exultante a applaudi lorsque le but gagnant a été marqué.",
-            "cultural_note": "Standard usage."
+            "definition": "Extrêmement heureux, joyeux et triomphant après un succès.",
+            "example_sentence": "Le jeune joueur très exultant a glissé sur l'herbe, hurlant de joie pure alors que des feux d'artifice explosaient juste après avoir marqué le but de la victoire."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'exultare' (to leap up), from 'saltare' (to jump). Literally means 'jumping for joy'.",
+          "evolution_story": "Derived directly from the Latin word 'exultare', which literally translates to 'leap up' or 'jump around'! This perfectly explains why we naturally jump up and down when we are incredibly happy or victorious.",
           "related_words": [
             "Jubilant",
             "Triumphant",
@@ -4285,13 +4297,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Exult Examples",
-              "author": "WordHippo",
-              "year": "2009 (Cited 2025)"
+              "type": "Article",
+              "title": "Olympic Glory",
+              "author": "Sports Illustrated",
+              "year": "2024",
+              "context": "An incredible sports review capturing the profoundly exultant expressions on the faces of the underdogs as they won their first gold medal."
+            },
+            {
+              "type": "Review",
+              "title": "Election Night Victory",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "A political piece describing the massively exultant atmosphere inside the campaign headquarters the moment the final votes were counted."
             }
           ],
-          "trivia": "Often used in military or sports contexts to describe the victors ('exultant troops')."
+          "trivia": "The word famously captures the triumphant joy of the animals in George Orwell's classic novel 'Animal Farm', specifically when they are exultant after initially taking over the farm from the humans!"
         }
       }
     },
@@ -4301,54 +4321,59 @@
       "category": "multilingual",
       "type": "word",
       "tags": [
-        "Confess",
-        "Admit",
-        "Own up"
+        "Quirks",
+        "Flaws",
+        "Eccentricities"
       ],
       "common_assets": {
-        "image_url": "images/come_clean.jpg",
-        "image_prompt": "Classical Greek marble statue style of a scene representing: You need to come clean about where you were last night.. The scene should capture the essence of 'Come clean'. High quality, detailed, 4:5 aspect ratio."
+        "image_url": "images/foibles.jpg",
+        "image_prompt": "Warm Pixar 3D Animation style illustration of a charming, messy scene: an elderly husband endearingly smiles at his wife's funny little foible of organizing her hundreds of colorful yarn balls by scent instead of color in their cozy living room. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
-            "word_display": "Come clean",
-            "definition": "To be completely honest; to keep nothing hidden.",
-            "example_sentence": "You need to come clean about where you were last night.",
-            "pronunciation_guide": "/come-clean/"
+            "word_display": "Foibles",
+            "definition": "Minor weaknesses, quirks, or eccentricities in someone's character.",
+            "example_sentence": "The elderly husband just smiled endearingly at his wife's funny little foible of organizing her yarn by scent instead of color."
           },
           "hi": {
-            "word_display": "Sach ugal dena",
-            "word_anglicized": "Sach ugal dena",
-            "word_native": "---",
-            "definition": "Poori tarah imandar hona aur kuch bhi na chhupana.",
-            "example_sentence": "Tumhe sach ugal dena chahiye ki kal raat tum kahan the.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Chhoti kamiyan (Ajeeb aadtein)",
+            "word_anglicized": "Chhoti kamiyan",
+            "word_native": "छोटी कमियां",
+            "definition": "Kisi ke vyavhar mein maujood chhoti, ajeeb ya mazedar kamiyan ya aadtein.",
+            "example_sentence": "Buzurg pati apni patni ki is chhoti aur ajeeb aadat par pyar se muskuraya ki vah rang ke bajaye khushbu ke aadhar par oon ke golon ko sajakar rakhti thi."
           },
           "fr": {
-            "word_display": "Avouer tout",
-            "word_native": "Avouer tout",
-            "definition": "Être complètement honnête ; ne rien cacher.",
-            "example_sentence": "Tu dois tout avouer sur l'endroit où tu étais hier soir.",
-            "cultural_note": "Standard usage."
+            "word_display": "Petits travers",
+            "word_native": "Petits travers",
+            "definition": "Petites faiblesses, bizarreries ou excentricités dans le caractère de quelqu'un.",
+            "example_sentence": "Le mari âgé a simplement souri avec tendresse au drôle de petit travers de sa femme qui consistait à organiser ses pelotes de laine par odeur plutôt que par couleur."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Phrase originated in the early 20th century (c. 1904), possibly from police slang meaning to 'make a clean breast' of things (confess fully).",
+          "evolution_story": "This fascinating word comes directly from old French sword fighting terminology! The 'foible' was literally the weakest, thinnest part of a sword blade, from the middle to the tip. Over centuries, it evolved from describing a physical weakness in a weapon to describing a minor, often harmless psychological weakness in a person.",
           "related_words": [
-            "Confess",
-            "Admit",
-            "Own up"
+            "Quirks",
+            "Flaws",
+            "Eccentricities"
           ],
           "recent_references": [
             {
               "type": "Article",
-              "title": "Come Clean Origin",
-              "author": "The Idioms",
-              "year": "2013"
+              "title": "The Science of Marriage",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A psychological study proving that couples who learn to patiently laugh at each other's minor foibles stay together much longer."
+            },
+            {
+              "type": "Review",
+              "title": "Character Driven Fiction",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "A literary critique praising an author for giving their characters highly specific, relatable foibles that make them feel like real humans."
             }
           ],
-          "trivia": "Often implies confessing to a wrongdoing."
+          "trivia": "The word perfectly describes the hilarious personality quirks of the characters in Jane Austen's famous 1813 novel 'Pride and Prejudice', where the author constantly uses their minor foibles to drive the comedy of the story!"
         }
       }
     },
@@ -4364,34 +4389,31 @@
       ],
       "common_assets": {
         "image_url": "images/capricious.jpg",
-        "image_prompt": "Da Vinci style sepia sketch of a scene representing: capricious king would reward a servant one day and banish him the next.. The scene should capture the essence of 'Capricious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Baroque Oil Painting style illustration of a highly dramatic scene: an incredibly capricious, wealthy king sits on his golden throne, tossing heavy gold coins to one happy servant while simultaneously screaming angrily and pointing a sword at another terrified servant for absolutely no reason. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Capricious",
-            "definition": "Given to sudden and unaccountable changes of mood or behavior.",
-            "example_sentence": "The capricious king would reward a servant one day and banish him the next.",
-            "pronunciation_guide": "/capricious/"
+            "definition": "Given to sudden, unpredictable, and unaccountable changes of mood or behavior.",
+            "example_sentence": "The incredibly capricious king would toss heavy gold coins to one servant while simultaneously pointing his sword at another for absolutely no reason."
           },
           "hi": {
-            "word_display": "Manmauji",
-            "word_anglicized": "Manmauji (Sanki)",
-            "word_native": "---",
-            "definition": "Jiske mood ya vyavahar mein achanak badlav aaye.",
-            "example_sentence": "Sanki raja ek din naukar ko inaam deta aur agle din use nikal deta tha.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Sanki (Manmauji)",
+            "word_anglicized": "Sanki",
+            "word_native": "सनकी",
+            "definition": "Jiske mood ya vyavahar mein achanak aur bina kisi karan ke badlav aaye.",
+            "example_sentence": "Us behad sanki raja ne ek naukar ko bhari sone ke sikke diye jabki usi waqt bina kisi karan ke doosre dare hue naukar par apni talwar taan di."
           },
           "fr": {
             "word_display": "Capricieux",
             "word_native": "Capricieux",
-            "definition": "Sujet à des changements d'humeur soudains et imprévisibles.",
-            "example_sentence": "Le roi capricieux récompensait un serviteur un jour et le bannissait le lendemain.",
-            "cultural_note": "Standard usage."
+            "definition": "Sujet à des changements d'humeur ou de comportement soudains, inexplicables et imprévisibles.",
+            "example_sentence": "Le roi incroyablement capricieux lançait de lourdes pièces d'or à un serviteur tout en pointant simultanément son épée sur un autre sans aucune raison."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Italian 'capriccio' (fright/sudden start), associated with 'capra' (goat). It likens human behavior to the skipping, unpredictable movement of a goat.",
+          "evolution_story": "This fascinating word comes from the Italian 'capriccio', which means a sudden start or fright, and is closely associated with 'capra' meaning 'goat'! It literally likens unpredictable, moody human behavior to the sudden, jerky, and erratic skipping of a wild goat.",
           "related_words": [
             "Fickle",
             "Volatile",
@@ -4399,13 +4421,21 @@
           ],
           "recent_references": [
             {
-              "type": "Forum",
-              "title": "Capricious Etymology",
-              "author": "WordSmith",
-              "year": "2012"
+              "type": "Article",
+              "title": "Weather Patterns",
+              "author": "National Geographic",
+              "year": "2024",
+              "context": "An environmental report describing how global warming is creating highly capricious weather patterns that jump from intense heat to freezing cold in a single day."
+            },
+            {
+              "type": "Review",
+              "title": "Modern Fashion Trends",
+              "author": "Vogue",
+              "year": "2023",
+              "context": "A fashion critique explaining that modern consumers have become incredibly capricious, completely abandoning popular clothing brands overnight."
             }
           ],
-          "trivia": "In music, a 'capriccio' is a lively piece of music that is free in form."
+          "trivia": "The word perfectly describes the terrifyingly unpredictable Queen of Hearts in Lewis Carroll's classic 1865 fantasy novel 'Alice's Adventures in Wonderland', as she constantly and randomly orders people to be beheaded!"
         }
       }
     },
@@ -4421,34 +4451,31 @@
       ],
       "common_assets": {
         "image_url": "images/pedantic.jpg",
-        "image_prompt": "High-contrast Death Note anime style of a scene representing: His pedantic corrections of everyone's grammar made him unpopular at parties.. The scene should capture the essence of 'Pedantic'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Vibrant High-contrast Anime style illustration of a comedic scene: a highly pedantic, overly serious young man wearing glasses aggressively points a long ruler at a casual party invitation, loudly correcting a tiny grammar mistake while everyone else at the party awkwardly ignores him. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Pedantic",
-            "definition": "Excessively concerned with minor details or rules; overscrupulous.",
-            "example_sentence": "His pedantic corrections of everyone's grammar made him unpopular at parties.",
-            "pronunciation_guide": "/pedantic/"
+            "definition": "Excessively concerned with minor details, rules, or displaying academic learning.",
+            "example_sentence": "The highly pedantic young man aggressively pointed a ruler at the casual party invitation, loudly correcting a tiny grammar mistake while everyone else just awkwardly ignored him."
           },
           "hi": {
-            "word_display": "Pandityapurn",
-            "word_anglicized": "Pandityapurn (Bariki nikalne wala)",
-            "word_native": "---",
-            "definition": "Chhoti-chhoti galtiyon ya niyamom par zaroorat se jyada dhyan dene wala.",
-            "example_sentence": "Sabki grammar theek karne ki uski aadat ne use party mein badnaam kar diya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Nukta-cheen",
+            "word_anglicized": "Nukta-cheen",
+            "word_native": "नुकताचीन",
+            "definition": "Chhoti-chhoti galtiyon ya niyamon par zaroorat se jyada dhyan dene wala aur doosron ko tokne wala.",
+            "example_sentence": "Us nukta-cheen naujawan ne party ke invitation mein ek chhoti si grammar ki galti nikal kar sabko tokna shuru kar diya, jabki baki sab log use awkwardly ignore kar rahe the."
           },
           "fr": {
             "word_display": "Pédant",
             "word_native": "Pédant",
-            "definition": "Trop soucieux des détails mineurs ou des règles ; qui étale son savoir.",
-            "example_sentence": "Ses corrections pédantes de la grammaire de chacun l'ont rendu impopulaire dans les soirées.",
-            "cultural_note": "Standard usage."
+            "definition": "Excessivement soucieux des détails mineurs ou des règles; qui étale son savoir d'une manière ennuyeuse.",
+            "example_sentence": "Le jeune homme très pédant a pointé agressivement une règle vers l'invitation décontractée, corrigeant bruyamment une minuscule erreur de grammaire pendant que tous les autres l'ignoraient maladroitement."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Italian 'pedante' (teacher), from Greek 'paidagogos'. Originally meant a schoolmaster, but by 1600 it evolved to mean someone who shows off learning inappropriately.",
+          "evolution_story": "From the Italian word 'pedante', meaning 'teacher' or 'schoolmaster', which itself came from the ancient Greek 'paidagogos'. Originally, it was a perfectly neutral word for a teacher, but by the 1600s, it evolved into an insult for someone who annoyingly shows off their learning and obsesses over minor rules!",
           "related_words": [
             "Pompous",
             "Dogmatic",
@@ -4456,13 +4483,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Pedantic Etymology",
-              "author": "Etymonline",
-              "year": "2024"
+              "type": "Article",
+              "title": "Internet Culture",
+              "author": "Wired",
+              "year": "2024",
+              "context": "An essay exploring how the internet encourages highly pedantic behavior, where users constantly argue over minor typos instead of the actual point being made."
+            },
+            {
+              "type": "Review",
+              "title": "The Joy of Language",
+              "author": "The New Yorker",
+              "year": "2023",
+              "context": "A linguistic review arguing that being overly pedantic about grammar rules often ruins the natural, evolving flow of creative writing."
             }
           ],
-          "trivia": "John Donne called the sun a 'Saucy pedantic wretch' for waking lovers up on time."
+          "trivia": "The famous English poet John Donne brilliantly used this word in his classic 1633 poem 'The Sun Rising', where he angrily calls the sun a 'Saucy pedantic wretch' for waking up him and his lover strictly on time!"
         }
       }
     },
@@ -4472,54 +4507,59 @@
       "category": "multilingual",
       "type": "word",
       "tags": [
-        "Overextend",
-        "Overwhelmed",
-        "Ambitious"
+        "Magical",
+        "Breathtaking",
+        "Marvelous"
       ],
       "common_assets": {
-        "image_url": "images/bite_off_more_than_you_can_chew.jpg",
-        "image_prompt": "Dreamy Surrealist Salvador Dali style of a scene representing: By accepting three projects at once, I realized I had bitten off more than I could chew.. The scene should capture the essence of 'Bite off more than you can chew'. High quality, detailed, 4:5 aspect ratio."
+        "image_url": "images/wondrous.jpg",
+        "image_prompt": "Breathtaking Studio Ghibli style illustration of a truly wondrous scene: a young girl with wide, amazed eyes looks up at a massive, glowing, bioluminescent ancient tree floating gracefully in the middle of a starry night sky. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
-            "word_display": "Bite off more than you can chew",
-            "definition": "To take on a task that is way too big.",
-            "example_sentence": "By accepting three projects at once, I realized I had bitten off more than I could chew.",
-            "pronunciation_guide": "/bite-off-more-than-you-can-chew/"
+            "word_display": "Wondrous",
+            "definition": "Inspiring a feeling of great wonder, amazement, or delight.",
+            "example_sentence": "The young girl gazed with wide, amazed eyes at the truly wondrous sight of the glowing ancient tree floating in the starry night sky."
           },
           "hi": {
-            "word_display": "Aukat se jyada zimmedari lena",
-            "word_anglicized": "Aukat se jyada zimmedari lena",
-            "word_native": "---",
-            "definition": "Koi aisa kaam le lena jo aapki kshamata se bahar ho.",
-            "example_sentence": "Ek saath teen project lekar mujhe ehsaas hua ki maine aukat se jyada zimmedari le li hai.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Adbhut",
+            "word_anglicized": "Adbhut",
+            "word_native": "अद्भुत",
+            "definition": "Jo dekhne ya sochne mein behad hairatangez aur sundar ho.",
+            "example_sentence": "Us choti ladki ne hairat bhari aankhon se taron bhare aasmaan mein tairte hue us chamakte, adbhut prachin ped ko dekha."
           },
           "fr": {
-            "word_display": "Avoir les yeux plus gros que le ventre",
-            "word_native": "Avoir les yeux plus gros que le ventre",
-            "definition": "Entreprendre une tâche trop difficile.",
-            "example_sentence": "En acceptant trois projets à la fois, j'ai réalisé que j'avais les yeux plus gros que le ventre.",
-            "cultural_note": "Standard usage."
+            "word_display": "Merveilleux",
+            "word_native": "Merveilleux",
+            "definition": "Qui inspire un sentiment de grand émerveillement, de surprise ou de délice.",
+            "example_sentence": "La petite fille a regardé avec de grands yeux émerveillés le spectacle vraiment merveilleux de l'arbre ancien lumineux flottant dans le ciel étoilé."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Originated in 19th-century America from chewing tobacco. If you bit off a 'plug' of tobacco too large to chew comfortably, you'd have to spit it out, looking foolish.",
+          "evolution_story": "This beautiful word comes from the Old English 'wundor', meaning a marvelous thing or a miracle. By the late 15th century, 'wondrous' emerged to describe anything that filled people with absolute awe and breathless amazement.",
           "related_words": [
-            "Overextend",
-            "Overwhelmed",
-            "Ambitious"
+            "Magical",
+            "Breathtaking",
+            "Marvelous"
           ],
           "recent_references": [
             {
+              "type": "Review",
+              "title": "Modern Sci-Fi Cinema",
+              "author": "Empire Magazine",
+              "year": "2024",
+              "context": "A film review describing the visual effects of a new space movie as a truly wondrous cinematic experience that leaves audiences completely breathless."
+            },
+            {
               "type": "Article",
-              "title": "Idiom Origins",
-              "author": "Grammarist",
-              "year": "2024"
+              "title": "Deep Sea Discoveries",
+              "author": "National Geographic",
+              "year": "2023",
+              "context": "A scientific article detailing the wondrous, glowing creatures recently discovered living in the darkest depths of the Mariana Trench."
             }
           ],
-          "trivia": "The French equivalent literally translates to 'Having eyes bigger than the stomach'."
+          "trivia": "The word perfectly captures the magical atmosphere of C.S. Lewis's classic 1950 fantasy novel 'The Lion, the Witch and the Wardrobe', especially when the children first discover the wondrous snowy land of Narnia hidden inside a wardrobe!"
         }
       }
     },
@@ -4535,34 +4575,31 @@
       ],
       "common_assets": {
         "image_url": "images/specious.jpg",
-        "image_prompt": "Vibrant Cyberpunk Neon style of a scene representing: lawyer's specious argument sounded convincing but fell apart under scrutiny.. The scene should capture the essence of 'Specious'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Vibrant Cyberpunk Neon style illustration of a highly dramatic scene: a slick, futuristic lawyer confidently points at a glowing, complex hologram of a highly specious argument in a dark courtroom, but the hologram is secretly glitching and falling apart under close scrutiny. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Specious",
-            "definition": "Superficially plausible, but actually wrong.",
-            "example_sentence": "The lawyer's specious argument sounded convincing but fell apart under scrutiny.",
-            "pronunciation_guide": "/specious/"
+            "definition": "Superficially plausible, but actually wrong or completely deceptive.",
+            "example_sentence": "The slick lawyer confidently presented a highly specious argument in the courtroom, but the entire case quickly fell apart under close scrutiny."
           },
           "hi": {
-            "word_display": "Dikhawati (Mithya)",
-            "word_anglicized": "Dikhawati (Mithya)",
-            "word_native": "---",
-            "definition": "Jo upar se sahi lage par asal mein galat ho.",
-            "example_sentence": "Vakeel ka dikhawati tark sunne mein yakeen karne layak tha par jaanch karne par galat nikla.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Mithya (Dikhawati)",
+            "word_anglicized": "Mithya",
+            "word_native": "मिथ्या",
+            "definition": "Aisi koi cheez ya baat jo upar se dekhne ya sunne mein bilkul sahi lage, par asal mein poori tarah galat ho.",
+            "example_sentence": "Us chatur vakeel ne adalat mein ek behad mithya tark pesh kiya, par thodi si jaanch hone par hi uska poora case bikhar gaya."
           },
           "fr": {
             "word_display": "Spécieux",
             "word_native": "Spécieux",
-            "definition": "Qui semble vrai mais qui est faux ; trompeur.",
-            "example_sentence": "L'argument spécieux de l'avocat semblait convaincant mais s'est effondré à l'examen.",
-            "cultural_note": "Standard usage."
+            "definition": "Superficiellement plausible, mais en réalité faux ou trompeur.",
+            "example_sentence": "L'avocat habile a présenté avec confiance un argument hautement spécieux dans la salle d'audience, mais toute l'affaire s'est rapidement effondrée sous un examen minutieux."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'speciosus' (beautiful/fair). Originally meant 'beautiful' in English too, but evolved to mean 'deceptively attractive' (looking good but bad inside) by the 17th century.",
+          "evolution_story": "This word took a wild turn! It comes directly from the Latin 'speciosus', which originally meant 'beautiful' or 'fair'. In early English, it still meant 'beautiful', but by the 17th century, the meaning completely shifted to describe something that is only 'deceptively attractive'—looking good on the outside but completely false on the inside!",
           "related_words": [
             "Misleading",
             "Deceptive",
@@ -4570,13 +4607,21 @@
           ],
           "recent_references": [
             {
-              "type": "Dictionary",
-              "title": "Specious Definition",
-              "author": "Merriam-Webster",
-              "year": "2026"
+              "type": "Article",
+              "title": "Political Misinformation",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "A political analysis breaking down how candidates use highly specious statistics during debates to confidently trick voters."
+            },
+            {
+              "type": "Review",
+              "title": "Debunking Diet Myths",
+              "author": "Health Magazine",
+              "year": "2023",
+              "context": "A medical review exposing how heavily marketed 'miracle' weight-loss pills rely entirely on completely specious scientific claims."
             }
           ],
-          "trivia": "Often used in politics to describe 'specious claims' (e.g., election fraud theories that look detailed but have no proof)."
+          "trivia": "The word perfectly describes the sinister tactics of the pigs in George Orwell's famous 1945 novel 'Animal Farm', as they constantly use highly specious arguments to trick the other animals into giving up their rights!"
         }
       }
     },
@@ -4592,34 +4637,31 @@
       ],
       "common_assets": {
         "image_url": "images/garrulous.jpg",
-        "image_prompt": "Soft Watercolor painting of a scene representing: garrulous old man bored us with stories about his cats.. The scene should capture the essence of 'Garrulous'. High quality, detailed, 4:5 aspect ratio."
+        "image_prompt": "Warm Studio Ghibli style illustration of a highly comedic scene: a highly garrulous, eccentric old man sits on a park bench, passionately talking nonstop about his twenty cats while a young listener beside him desperately struggles to stay awake. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
           "en": {
             "word_display": "Garrulous",
-            "definition": "Excessively talkative, especially on trivial matters.",
-            "example_sentence": "The garrulous old man bored us with stories about his cats.",
-            "pronunciation_guide": "/garrulous/"
+            "definition": "Excessively talkative, especially on trivial or unimportant matters.",
+            "example_sentence": "The highly garrulous old man sat on the park bench, talking nonstop about his cats while the young listener desperately struggled to stay awake."
           },
           "hi": {
-            "word_display": "Bakwadi",
-            "word_anglicized": "Bakwadi (Bahut bolne wala)",
-            "word_native": "---",
-            "definition": "Bekaar ki baaton par bahut jyada bolne wala.",
-            "example_sentence": "Bakwadi boodhe aadmi ne apni billiyon ki kahaniyon se humein pakka diya.",
-            "cultural_note": "Direct conceptual translation."
+            "word_display": "Baatuni",
+            "word_anglicized": "Baatuni",
+            "word_native": "बातूनी",
+            "definition": "Bekaar ki ya chhoti-chhoti baaton par bahut jyada bolne wala.",
+            "example_sentence": "Veh behad baatuni boodha aadmi park ki bench par baithkar lagatar apni billiyon ke baare mein bolta raha jabki uske bagal mein baitha yuva shrota jagne ke liye poori tarah sangharsh kar raha tha."
           },
           "fr": {
             "word_display": "Bavard",
             "word_native": "Bavard",
-            "definition": "Excessivement loquace, surtout sur des sujets futiles.",
-            "example_sentence": "Le vieil homme bavard nous a ennuyés avec des histoires sur ses chats.",
-            "cultural_note": "Standard usage."
+            "definition": "Excessivement bavard, surtout sur des sujets futiles ou peu importants.",
+            "example_sentence": "Le vieil homme très bavard était assis sur le banc du parc, parlant sans arrêt de ses chats tandis que le jeune auditeur luttait désespérément pour rester éveillé."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'garrire' (to chatter/prattle). Unlike 'loquacious' (which can be eloquent), 'garrulous' almost always implies rambling, annoying, or trivial speech.",
+          "evolution_story": "This expressive word comes from the Latin 'garrire', which literally means 'to chatter' or 'to prattle'. While 'loquacious' can describe someone who is eloquently talkative, 'garrulous' almost always describes someone who is annoyingly rambling about entirely trivial matters!",
           "related_words": [
             "Talkative",
             "Chatty",
@@ -4627,13 +4669,21 @@
           ],
           "recent_references": [
             {
-              "type": "Forum",
-              "title": "Loquacious vs Garrulous",
-              "author": "italki",
-              "year": "2017"
+              "type": "Article",
+              "title": "Workplace Productivity",
+              "author": "Forbes",
+              "year": "2024",
+              "context": "A management article exploring how highly garrulous coworkers can unintentionally destroy office productivity by trapping colleagues in endless, trivial conversations."
+            },
+            {
+              "type": "Review",
+              "title": "Modern Talk Shows",
+              "author": "Entertainment Weekly",
+              "year": "2023",
+              "context": "A media critique complaining that too many modern podcast hosts have become incredibly garrulous, talking for hours without actually saying anything meaningful."
             }
           ],
-          "trivia": "Often describes older people in literature ('garrulous veteran'), implying a loss of filter."
+          "trivia": "The word perfectly captures the exhausting personality of Miss Bates in Jane Austen's famous 1815 novel 'Emma', as she is famously known for her hilariously garrulous, completely unfiltered, and endless rambling speeches!"
         }
       }
     },
