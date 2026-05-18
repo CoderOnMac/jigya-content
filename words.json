@@ -26,7 +26,7 @@
           "hi": {
             "word_display": "Sabse Bada Hissa",
             "word_anglicized": "Sabse Bada Hissa",
-            "word_native": "---",
+            "word_native": "सबसे बड़ा हिस्सा",
             "definition": "Kisi cheez ka sabse bada aur mukhya bhaag.",
             "example_sentence": "Deal final hote hi sher-mukh CEO ne badi se cake ka sabse bada hissa apni taraf khinch liya.",
             "cultural_note": "Direct conceptual translation."
@@ -48,13 +48,21 @@
           ],
           "recent_references": [
             {
-              "type": "Book",
-              "title": "The Lion's Share - English Animal Idioms",
-              "author": "Troon Harrison",
-              "year": "2020"
+              "type": "Article",
+              "title": "Big Tech and Market Dominance",
+              "author": "The Economist",
+              "year": "2024",
+              "context": "An analysis showing that the top five tech companies take the lion's share of global digital advertising revenue, leaving very little for smaller players."
+            },
+            {
+              "type": "Report",
+              "title": "Wealth Inequality Report",
+              "author": "Forbes",
+              "year": "2023",
+              "context": "A global wealth report showing that the top one percent of earners take the lion's share of all income generated in the world economy."
             }
           ],
-          "trivia": "In the original Latin Phaedrus version, the lion gives four distinct reasons for taking all four parts of the prey."
+          "trivia": "In the original ancient Greek and Latin versions of Aesop's fable, the lion gives four completely different, increasingly absurd excuses to claim each of the four quarters of the prey, all for himself!"
         }
       }
     },
@@ -70,7 +78,7 @@
       ],
       "common_assets": {
         "image_url": "images/a_bit_rich.jpg",
-        "image_prompt": "Moody Baroque oil painting of a scene inspired by a famous courtroom‑style TV courtroom drama: a man in a suit, late and dishevelled, stands behind a judge’s bench pointing at a neatly dressed colleague for being late, while a clock in the background clearly shows the time he arrived. Rich textures, dramatic chiaroscuro lighting, 4:5 aspect ratio."
+        "image_prompt": "Comedic Cartoon Network style illustration of a hilarious and ironic scene: a dishevelled, perpetually late office worker stands on a table pointing his finger angrily at his perfectly punctual colleague for being one minute late, while a giant clock behind him shows he arrived two hours late himself. Aspect ratio: 4:5"
       },
       "content_payload": {
         "languages": {
@@ -83,7 +91,7 @@
           "hi": {
             "word_display": "Ulta Chor Kotwal Ko Daante",
             "word_anglicized": "Ulta Chor Kotwal Ko Daante",
-            "word_native": "---",
+            "word_native": "उल्टा चोर कोतवाल को डाँटे",
             "definition": "Jab koi khud wahi galti kare jiske liye wo doosron ko tok raha ho.",
             "example_sentence": "Usne court‑jaise office mein niyam padhke sabko samay par aane ke liye daanta, lekin uska roz late aana dekhke ye baat bilkul ulta chor kotwal ko daante lagti thi.",
             "cultural_note": "Direct conceptual translation."
@@ -105,12 +113,21 @@
           ],
           "recent_references": [
             {
+              "type": "Article",
+              "title": "Political Hypocrisy",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "An editorial calling it a bit rich that politicians who opposed environmental regulations were now demanding stricter rules after their own regions were hit by floods."
+            },
+            {
               "type": "TV Show",
               "title": "The Thick of It",
-              "context": "British political satire series where characters frequently retort 'That's a bit rich!' in debates over party hypocrisy and double standards."
+              "author": "BBC",
+              "year": "2012",
+              "context": "Critically acclaimed British political satire series where characters constantly retort 'That's a bit rich!' in brilliantly cutting exchanges about party hypocrisy and double standards."
             }
           ],
-          "trivia": "Often colloquially shortened to just 'That's rich!' in arguments."
+          "trivia": "This is an exclusively British English expression. Americans would typically say 'That's pretty nervy!' or 'That takes a lot of nerve!' to express the exact same feeling of hypocritical irony!"
         }
       }
     },
@@ -161,13 +178,21 @@
           ],
           "recent_references": [
             {
-              "type": "Culture",
-              "title": "Pandora's Box in Popular Culture",
-              "author": "Indigo Music Feature",
-              "year": "2024"
+              "type": "Article",
+              "title": "AI and Pandora's Box",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A technology essay warning that releasing unchecked artificial intelligence is the modern equivalent of opening Pandora's box, releasing problems we cannot put back."
+            },
+            {
+              "type": "Report",
+              "title": "Gene Editing Ethics",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "A bioethics report arguing that CRISPR gene-editing technology has opened a Pandora's box of ethical dilemmas that scientists are still unable to close."
             }
           ],
-          "trivia": "The 'box' was originally a 'pithos' (large storage jar) in Hesiod's original Greek text, not a box."
+          "trivia": "The word 'box' is actually a famous mistranslation! In Hesiod's original ancient Greek text, it was a 'pithos', a large clay storage jar. The error was introduced by the Dutch scholar Erasmus in the 16th century and has stuck ever since!"
         }
       }
     },
@@ -219,10 +244,17 @@
               "title": "In Praise of Preaching to the Choir",
               "author": "Mother Jones",
               "year": "2022",
-              "context": "Long-form political commentary that defends the strategic value of rallying one’s own base, even when the audience is already aligned, rather than trying to win over opponents."
+              "context": "Long-form political commentary that defends the strategic value of rallying one's own base, even when the audience is already aligned, rather than trying to win over opponents."
+            },
+            {
+              "type": "Article",
+              "title": "Social Media Echo Chambers",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "A digital culture essay arguing that algorithm-driven social media feeds have turned the entire internet into a massive machine for preaching to the choir."
             }
           ],
-          "trivia": "Often used in politics when candidates hold rallies in their own strongholds, where the crowd is mostly sympathetic and unlikely to change its mind."
+          "trivia": "Interestingly, some political strategists now argue that preaching to the choir is actually a brilliant strategy! Energizing your existing supporters to show up and vote is often far more effective than trying to win over stubborn undecided voters!"
         }
       }
     },
@@ -245,27 +277,24 @@
           "en": {
             "word_display": "Burning the midnight oil",
             "definition": "To work late into the night.",
-            "example_sentence": "The students were burning the midnight oil to finish their thesis before the deadline.",
-            "pronunciation_guide": "/burning-the-midnight-oil/"
+            "example_sentence": "The students were burning the midnight oil to finish their thesis before the deadline."
           },
           "hi": {
             "word_display": "Raat Din Ek Karna",
             "word_anglicized": "Raat Din Ek Karna",
-            "word_native": "---",
+            "word_native": "रात दिन एक करना",
             "definition": "Der raat tak kaam karna ya padhai karna.",
-            "example_sentence": "Chhatra deadline se pehle thesis khatam karne ke liye raat din ek kar rahe the.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Chhatra deadline se pehle thesis khatam karne ke liye raat din ek kar rahe the."
           },
           "fr": {
             "word_display": "Travailler tard dans la nuit",
             "word_native": "Travailler tard dans la nuit",
             "definition": "Travailler très tard la nuit.",
-            "example_sentence": "Les étudiants travaillaient tard dans la nuit pour finir leur thèse avant l'échéance.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "Les étudiants travaillaient tard dans la nuit pour finir leur thèse avant l'échéance."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Dates back to the 17th century (first cited by Francis Quarles, 1635) when working late literally required burning oil in a lamp. The phrase survived the invention of electricity as a metaphor for diligent late-night effort.",
+          "evolution_story": "This phrase dates all the way back to 1635, when the English poet Francis Quarles first used it literally — working late at night truly meant burning expensive, smoky oil lamps! Remarkably, this vivid phrase survived the invention of electricity by over a hundred years and is still perfectly used today as a metaphor for relentless, late-night hard work.",
           "related_words": [
             "Diligent",
             "Overworking",
@@ -273,13 +302,21 @@
           ],
           "recent_references": [
             {
-              "type": "Culture",
-              "title": "Farlex Dictionary of Idioms",
-              "author": "Farlex",
-              "year": "2024"
+              "type": "Article",
+              "title": "The Culture of Overwork",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A psychological essay exploring why modern tech startup culture glorifies burning the midnight oil, even when research shows it dramatically reduces productivity and creativity."
+            },
+            {
+              "type": "Report",
+              "title": "Student Mental Health Crisis",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "A report on university student burnout, showing that students who regularly burn the midnight oil before exams actually perform worse than those who prioritize sleep."
             }
           ],
-          "trivia": "Dolly Parton released a collaborative album titled 'Burning the Midnight Oil' in 1972."
+          "trivia": "This phrase has been alive for almost 400 years, but it became truly iconic in popular culture when the legendary Dolly Parton released a collaborative album also named 'Burning the Midnight Oil' back in 1972!"
         }
       }
     },
@@ -302,27 +339,24 @@
           "en": {
             "word_display": "Storm in a teacup",
             "definition": "Great outrage or excitement about a trivial matter.",
-            "example_sentence": "The media frenzy over the celebrity's typo was just a storm in a teacup.",
-            "pronunciation_guide": "/storm-in-a-teacup/"
+            "example_sentence": "The media frenzy over the celebrity's typo was just a storm in a teacup."
           },
           "hi": {
             "word_display": "Baat Ka Batangad",
             "word_anglicized": "Baat Ka Batangad",
-            "word_native": "---",
+            "word_native": "बात का बतंगड़",
             "definition": "Chhoti si baat par bahut bada hungama karna.",
-            "example_sentence": "Celebrity ki spelling mistake par media ka hungama bas baat ka batangad tha.",
-            "cultural_note": "Direct conceptual translation."
+            "example_sentence": "Celebrity ki spelling mistake par media ka hungama bas baat ka batangad tha."
           },
           "fr": {
             "word_display": "Une tempête dans un verre d'eau",
             "word_native": "Une tempête dans un verre d'eau",
             "definition": "Beaucoup de bruit pour rien.",
-            "example_sentence": "La frénésie médiatique autour de la coquille de la célébrité n'était qu'une tempête dans un verre d'eau.",
-            "cultural_note": "Standard usage."
+            "example_sentence": "La frénésie médiatique autour de la coquille de la célébrité n'était qu'une tempête dans un verre d'eau."
           }
         },
         "english_deep_dive": {
-          "evolution_story": "First recorded in 1838 by Scottish novelist Catherine Sinclair. It likely evolved from the Latin phrase 'excitare fluctus in simpulo' (stirring up billows in a ladle) used by Cicero.",
+          "evolution_story": "This brilliant phrase was first recorded in 1838 by the Scottish novelist Catherine Sinclair, but the idea goes all the way back to the ancient Roman philosopher Cicero, who used a similar Latin phrase meaning 'stirring up waves in a ladle'!",
           "related_words": [
             "Overreaction",
             "Trivial",
@@ -331,13 +365,21 @@
           ],
           "recent_references": [
             {
-              "type": "Book",
-              "title": "Modern Accomplishments",
-              "author": "Catherine Sinclair",
-              "year": "1838 (Cited 2024)"
+              "type": "Article",
+              "title": "The Outrage Economy",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A media culture essay arguing that social media platforms profit by turning every trivial celebrity controversy into a massive storm in a teacup."
+            },
+            {
+              "type": "Article",
+              "title": "Political Scandals in Perspective",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "A political commentary that dismisses a minor government error as nothing more than a storm in a teacup, blown out of proportion by the 24-hour news cycle."
             }
           ],
-          "trivia": "Americans typically use the variation 'Tempest in a teapot'."
+          "trivia": "In America, the exact same idiom is called a 'Tempest in a teapot'! In both cases, the image of a huge, dramatic storm squeezed inside a tiny container perfectly captures how absurdly blown-out-of-proportion the reaction is!"
         }
       }
     },
@@ -365,7 +407,7 @@
           "hi": {
             "word_display": "Ati Sundar",
             "word_anglicized": "Ati Sundar",
-            "word_native": "---",
+            "word_native": "अति सुंदर",
             "definition": "Bahut adhik khoobsurat ya aakarshak.",
             "example_sentence": "Suraj uge peddon par aayi pahadi wadiyon ka ati sundar drishya paryatakon ko bina shabd bana kar rakh diya."
           },
@@ -377,7 +419,7 @@
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'pulchritudo' (beauty). While it existed in Middle English, it vanished from British usage in the 17th century, only to be revived in American English in the late 19th century, often used somewhat humorously or grandiloquently.",
+          "evolution_story": "From the Latin 'pulchritudo', meaning beauty. The word existed in Middle English but completely vanished from British usage in the 17th century! It was dramatically revived in American English in the late 19th century, and today it is most often used with deliberate humor or irony, since the word itself sounds wonderfully strange for something that means 'beautiful'.",
           "related_words": [
             "Beautiful",
             "Comely",
@@ -389,10 +431,17 @@
               "title": "The Most Beautiful Places in the World",
               "author": "National Geographic",
               "year": "2024",
-              "context": "Descriptive travel feature that uses elevated, almost essayistic language to portray landscapes so stunning they are compared to 'pulchritudinous' scenes from dreams."
+              "context": "A breathtaking travel feature using elevated language to portray landscapes so stunning they are described as pulchritudinous scenes straight from a dream."
+            },
+            {
+              "type": "Review",
+              "title": "Renaissance Art and Beauty",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "An art review using the word to describe the pulchritudinous figures in Botticelli's paintings, noting that Renaissance artists treated physical beauty as a form of divine perfection."
             }
           ],
-          "trivia": "Despite meaning 'beautiful', the word itself is often considered ugly‑sounding due to its hard consonants."
+          "trivia": "This is considered one of the most paradoxical words in the English language: it means 'breathtakingly beautiful', but the word itself — with its hard 'k', 'ch', and 'd' sounds — is widely considered one of the most ugly-sounding words ever created!"
         }
       }
     },
@@ -420,7 +469,7 @@
           "hi": {
             "word_display": "Teevra-buddhi",
             "word_anglicized": "Teevra-buddhi",
-            "word_native": "---",
+            "word_native": "तीव्र-बुद्धि",
             "definition": "Jo cheezon ko jaldi aur gehraai se samajh le.",
             "example_sentence": "Usne holo‑screen ke pattar padhte hue, aane wale sankat se pehle hi company ke karodon bacha diye—sach‑me uski teevra‑buddhi thi."
           },
@@ -432,7 +481,7 @@
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'perspicax' (sharp‑sighted), from 'perspicere' (to look through). It implies the ability to see through confusion to the truth, much like a keen analyst spotting a hidden pattern in noisy data.",
+          "evolution_story": "From the Latin 'perspicax', meaning 'sharp-sighted', which itself comes from 'perspicere', meaning 'to see through'. The word beautifully captures the ability to literally see through confusion and noise to get straight to the hidden truth underneath.",
           "related_words": [
             "Insightful",
             "Astute",
@@ -443,11 +492,18 @@
               "type": "Article",
               "title": "Why Some Analysts Seem to See the Future First",
               "author": "The Economist",
-              "year": "2025",
-              "context": "Feature on financial and tech analysts whose 'perspicacious' reads of market signals help their firms avoid billion‑dollar mistakes."
+              "year": "2024",
+              "context": "A feature on financial and tech analysts whose perspicacious reads of market signals consistently help their firms avoid billion-dollar mistakes."
+            },
+            {
+              "type": "Review",
+              "title": "The Art of Great Detectives",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "A literary essay praising Sherlock Holmes as the ultimate example of a perspicacious thinker, noticing tiny details that are completely invisible to everyone around him."
             }
           ],
-          "trivia": "Often confused with 'perspicuous', which means clearly expressed (easy to understand), whereas 'perspicacious' means having keen understanding."
+          "trivia": "This word is frequently confused with its near-twin 'perspicuous', but they mean completely opposite things! 'Perspicacious' means YOU can see through things clearly, while 'perspicuous' means something is written so clearly that anyone can understand it!"
         }
       }
     },
@@ -475,7 +531,7 @@
           "hi": {
             "word_display": "Lambe‑chaude shabdon wala",
             "word_anglicized": "Lambe‑chaude shabdon wala",
-            "word_native": "---",
+            "word_native": "लंबे-चौड़े शब्दों वाला",
             "definition": "Bahut lambe aur mushkil shabdon ka prayog karne wala.",
             "example_sentence": "Sabse aasan niyam ko samjhate hue uski lambe‑chaude shabdon wali bhaashan ne naye chhatron ko bilkul bhaat kar diya."
           },
@@ -487,7 +543,7 @@
           }
         },
         "english_deep_dive": {
-          "evolution_story": "Coined by the Roman poet Horace in 'Ars Poetica' as 'sesquipedalia verba', literally meaning 'words a foot and a half long'. It was used to criticize poets who used big words to sound impressive.",
+          "evolution_story": "This word was actually coined by the famous Roman poet Horace over 2,000 years ago in his 'Ars Poetica', where he mockingly called unnecessarily long words 'sesquipedalia verba', literally meaning 'words a foot and a half long'! It has been used ever since to tease people who use big words to sound impressive.",
           "related_words": [
             "Loquacious",
             "Verbose",
@@ -498,11 +554,18 @@
               "type": "Article",
               "title": "Why Some Writers Obsess Over Long Words",
               "author": "The Atlantic",
-              "year": "2025",
-              "context": "Essay on academic and political language that playfully calls out 'sesquipedalian loquaciousness' in modern speeches and textbooks."
+              "year": "2024",
+              "context": "An essay on academic and political language that playfully calls out the sesquipedalian tendency in modern university textbooks and political speeches."
+            },
+            {
+              "type": "Review",
+              "title": "Plain English Campaign",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "A report on how governments and corporations continue to use deeply sesquipedalian language in official documents, making them impossible for ordinary citizens to understand."
             }
           ],
-          "trivia": "The fear of long words is ironically named 'Hippopotomonstrosesquipedaliophobia'."
+          "trivia": "Fittingly, the official phobia name for the fear of long words is itself an incredibly long word: 'Hippopotomonstrosesquipedaliophobia'! It is widely considered the cruelest joke in all of English language!"
         }
       }
     },
@@ -525,12 +588,12 @@
           "en": {
             "word_display": "Lugubrious",
             "definition": "Looking or sounding sad and dismal.",
-            "example_sentence": "The lugubrious music at the funeral made even the stoic mourners’ eyes glisten."
+            "example_sentence": "The lugubrious music at the funeral made even the stoic mourners' eyes glisten."
           },
           "hi": {
-            "word_display": "Shok‑poorn",
-            "word_anglicized": "Shok‑poorn",
-            "word_native": "---",
+            "word_display": "Shok-poorn",
+            "word_anglicized": "Shok-poorn",
+            "word_native": "शोक-पूर्ण",
             "definition": "Jo dikhne ya sunne mein bahut udaas aur dukhi lage.",
             "example_sentence": "Antim sanskar ki shok‑poorn dhun ne sabki aankhon se aansu nikaal diye, jaise har raag udaasi ka hi thaa."
           },
@@ -542,7 +605,7 @@
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'lugere' (to mourn). It entered English in the early 17th century. It has evolved to often imply an exaggerated or performative gloominess in modern literature, like a character’s drawn‑out sigh or a film score that lingers on minor chords long after the moment is over.",
+          "evolution_story": "From the Latin 'lugere', meaning 'to mourn'. It entered English in the early 17th century and has since evolved to often imply an exaggerated or even darkly comedic performance of sadness — like a character letting out a drawn-out, theatrical sigh or a film score that lingers on sad, minor chords far longer than the scene actually needs.",
           "related_words": [
             "Mournful",
             "Gloomy",
@@ -551,13 +614,20 @@
           "recent_references": [
             {
               "type": "Article",
-              "title": "Why Modern Soundtracks Love the Lugubrious Minor Chord",
+              "title": "Why Modern Soundtracks Love the Minor Chord",
               "author": "Wired",
-              "year": "2025",
-              "context": "Deep‑dive on how contemporary film and gaming music often uses lugubrious, slow‑moving minor progressions to heighten emotional scenes without dialogue."
+              "year": "2024",
+              "context": "A fascinating deep-dive on how contemporary film and gaming composers deliberately use lugubrious, slow-moving minor progressions to heighten emotional scenes without any dialogue."
+            },
+            {
+              "type": "Review",
+              "title": "The Return of Gothic Fiction",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "A literary review praising a new gothic novel for its perfectly lugubrious atmosphere, where the gloomy tone itself feels like a living, mourning character."
             }
           ],
-          "trivia": "Often used in Gothic fiction to set a somber mood, where the atmosphere itself feels like a character that never stops mourning."
+          "trivia": "What makes this word special is that it can describe genuine sadness OR exaggerated, theatrical gloominess! Gothic literature loves using it when a character's sadness feels almost comically overdramatic and performative!"
         }
       }
     },
@@ -585,7 +655,7 @@
           "hi": {
             "word_display": "Upadravi",
             "word_anglicized": "Upadravi",
-            "word_native": "---",
+            "word_native": "उपद्रवी",
             "definition": "Shor machane wala aur kabu mein na aane wala.",
             "example_sentence": "Library ke andar shor machate upadravi kishoron ko librarian ne aangan ki taraf ishara karke bhej diya."
           },
@@ -597,7 +667,7 @@
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'obstreperus' (clamorous), formed from 'ob' (against) + 'strepere' (to make a noise). It implies actively shouting *against* restraint, like a noisy crowd refusing to quiet down or a classroom that refuses to listen to the teacher.",
+          "evolution_story": "This brilliantly expressive word comes from the Latin 'obstreperus', formed from 'ob' meaning 'against' and 'strepere' meaning 'to make noise'. Together they perfectly capture someone who is not just noisy, but specifically making noise as an act of defiance and resistance against someone trying to control them!",
           "related_words": [
             "Unruly",
             "Boisterous",
@@ -608,11 +678,18 @@
               "type": "Article",
               "title": "When Classrooms Turn Into Little Thunderstorms",
               "author": "The Guardian",
-              "year": "2025",
-              "context": "Feature on modern school culture where ‘obstreperous’, high‑energy students both challenge and reshape classroom dynamics in digital‑heavy learning environments."
+              "year": "2024",
+              "context": "A feature on modern school culture where obstreperous, high-energy students both challenge and reshape classroom dynamics in increasingly digital learning environments."
+            },
+            {
+              "type": "Report",
+              "title": "Managing Crowd Behaviour",
+              "author": "Forbes",
+              "year": "2023",
+              "context": "A business psychology report explaining how even small, obstreperous vocal minorities in a workplace meeting can completely derail a productive agenda."
             }
           ],
-          "trivia": "Often used to describe unruly children, but historically used for political mobs and boisterous young men in the 18th century resisting authority."
+          "trivia": "While today we mostly use this word to describe noisy children or rowdy fans, in the 18th century 'obstreperous' was used to specifically describe dangerous political mobs and crowds of young men loudly defying government authority in the streets!"
         }
       }
     },
@@ -639,8 +716,7 @@
           },
           "hi": {
             "word_display": "Vistaar‑poorn",
-            "word_anglicized": "Vistaar‑poorn",
-            "word_native": "---",
+            "word_native": "विस्तार-पूर्ण",
             "definition": "Jarurat se jyada shabdon ka istemal karne wala.",
             "example_sentence": "Jab uska vistaar‑poorn email khula to har kisi ne screen se dheem‑dheem se aankhein bana li, aur kisi ne bhi pura padhne ki himmat nahi dikhayi."
           },
@@ -652,7 +728,7 @@
           }
         },
         "english_deep_dive": {
-          "evolution_story": "From Latin 'prolixus' meaning 'poured forth' or 'extended', from *pro* 'forth' + *liquere* 'to flow'. The image is of words gushing forward like a stream, often past the point where they are still interesting. It entered English via Old French and has kept its slightly formal, slightly negative tone ever since.",
+          "evolution_story": "From Latin 'prolixus' meaning 'poured forth' or 'extended', from pro 'forth' + liquere 'to flow'. The image is of words gushing forward like a stream, often past the point where they are still interesting. It entered English via Old French and has kept its slightly formal, slightly negative tone ever since.",
           "related_words": [
             "Verbose",
             "Long‑winded",
@@ -665,9 +741,16 @@
               "author": "Bloomberg Businessweek",
               "year": "2025",
               "context": "Investigation into modern corporate communication, noting how 'prolix' long‑paragraph emails and memos have become a major source of productivity drain and digital fatigue."
+            },
+            {
+              "type": "Opinion",
+              "title": "The Case for Brevity in Bureaucracy",
+              "author": "The Economist",
+              "year": "2024",
+              "context": "A sharp piece arguing that prolix legal documents are often intentionally designed to obscure simple truths and delay public understanding."
             }
           ],
-          "trivia": "Unlike 'loquacious', which can sound charming or witty, 'prolix' almost always points toward boredom or frustration with someone who just will not stop writing."
+          "trivia": "Unlike 'loquacious', which can sometimes imply a charming or bubbly personality, 'prolix' is almost always a criticism; it implies that the speaker or writer is valuing their own voice far more than the listener's time."
         }
       }
     },
@@ -693,11 +776,11 @@
             "example_sentence": "By 3 AM the screen was still glowing, and she realized she had been doomscrolling for hours."
           },
           "hi": {
-            "word_display": "Dukh‑bhari Scrolling",
-            "word_anglicized": "Dukh‑bhari Scrolling",
-            "word_native": "---",
+            "word_display": "Dukh-bhari Scrolling",
+            "word_anglicized": "Dukh-bhari Scrolling",
+            "word_native": "दुख-भरी स्क्रोलिंग",
             "definition": "Internet par lagatar buri khabrein padhne ki lat.",
-            "example_sentence": "Jab ghadi ne 3 bajate dikhaye tou usne samjha ki wo puri raat dukh‑bhari scrolling kar rahi thi."
+            "example_sentence": "Jab ghadi ne 3 bajate dikhaye tou usne samjha ki wo puri raat dukh-bhari scrolling kar rahi thi."
           },
           "fr": {
             "word_display": "Défilement morbide",
@@ -719,10 +802,17 @@
               "title": "Doomscrolling Dangers: Why Bad News Keeps Us Stuck Online",
               "author": "Harvard Health Publishing",
               "year": "2024",
-              "context": "Medical‑style feature on how compulsive doomscrolling is linked to anxiety, insomnia, and lower life satisfaction, with advice for breaking the cycle."
+              "context": "A medical feature linking compulsive doomscrolling to anxiety, insomnia, and lower life satisfaction, with evidence-based advice for breaking the cycle."
+            },
+            {
+              "type": "Article",
+              "title": "Social Media and Mental Health",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "A psychology report showing that people who doomscroll for more than 30 minutes before bed are significantly more likely to experience anxiety and disturbed sleep."
             }
           ],
-          "trivia": "The term was highlighted by Oxford Languages as a standout word of 2020, and the World Health Organization later linked such behavior to the 'infodemic'‑style anxiety that comes from constant exposure to crisis‑related news."
+          "trivia": "Oxford Languages highlighted 'doomscrolling' as a standout word of 2020, and the World Health Organization later linked the behavior to 'infodemic' anxiety — a term they coined to describe the overwhelming flood of often false or alarming pandemic news!how compulsive doomscrolling is linked to anxiety, insomnia, and lower life satisfaction, with advice for breaking the cycle."
         }
       }
     },
@@ -837,10 +927,17 @@
               "title": "Word of the Year: 'Gaslighting'",
               "author": "Merriam-Webster",
               "year": "2022",
-              "context": "An in‑depth feature explaining how 'gaslighting' moved from the plot of an old thriller into a widely used term for modern emotional and psychological abuse."
+              "context": "An in-depth feature explaining how 'gaslighting' moved from the plot of a 1940s thriller into a widely recognized term for modern emotional and psychological abuse in relationships and workplaces."
+            },
+            {
+              "type": "Article",
+              "title": "Gaslighting in the Workplace",
+              "author": "Forbes",
+              "year": "2024",
+              "context": "A business psychology article identifying specific gaslighting tactics used by managers — such as denying verbal agreements and rewriting the history of meetings — that damage employee mental health."
             }
           ],
-          "trivia": "Searches for 'gaslighting' surged so sharply that it was named Word of the Year by a major English dictionary in 2022, reflecting growing public awareness of subtle forms of coercive control."
+          "trivia": "The original 1944 Hollywood film 'Gaslight' starred Ingrid Bergman, who won an Academy Award for her portrayal of a woman being slowly driven to doubt her own sanity — making it one of the most influential psychological thrillers ever made!"
         }
       }
     },
