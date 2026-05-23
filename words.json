@@ -84,7 +84,7 @@
         "languages": {
           "en": {
             "word_display": "A bit rich",
-            "definition": "Used to describe criticism that is ironic or hypocritical coming from the person saying it.",
+            "definition": "Used to describe criticism that is funny or hypocritical because the person making it is guilty of the exact same thing.",
             "example_sentence": "He quoted the office rules in that courtroom, but it was a bit rich coming from someone who is late every day.",
             "pronunciation_guide": "/a-bit-rich/"
           },
@@ -149,14 +149,14 @@
         "languages": {
           "en": {
             "word_display": "Pandora's box",
-            "definition": "A process that generates many complicated problems as the result of unwise interference.",
+            "definition": "A situation that creates many new and complicated problems, especially when someone starts interfering in something they shouldn't.",
             "example_sentence": "Opening the investigation file turned out to be opening a Pandora's box of corruption.",
             "pronunciation_guide": "/pandora's-box/"
           },
           "hi": {
             "word_display": "Musibaton Ka Pitara",
             "word_anglicized": "Musibaton Ka Pitara",
-            "word_native": "---",
+            "word_native": "मुसीबतों का पिटारा",
             "definition": "Ek aisi prakriya jo anjaane mein dher saari nayi samasyaein paida kar deti hai.",
             "example_sentence": "Jaanch ki file kholna bhrashtachaar ka ek naya musibaton ka pitara kholne jaisa nikla.",
             "cultural_note": "Direct conceptual translation."
@@ -174,7 +174,8 @@
           "related_words": [
             "Can of worms",
             "Unintended consequences",
-            "Hornet's nest"
+            "Hornet's nest",
+            "Interference"
           ],
           "recent_references": [
             {
@@ -220,7 +221,7 @@
           "hi": {
             "word_display": "Mano Ko Manana",
             "word_anglicized": "Mano Ko Manana",
-            "word_native": "---",
+            "word_native": "मानों को मनाना",
             "definition": "Un logon ko samjhaana jo pehle se hi aapki baat se sehmat hain.",
             "example_sentence": "Usne unhi karyakartaon ko bhashan diya jo pahle se hi unke jaisi tole bicha rahe the, machhli ke paas paani dikhane jaisa tha."
           },
@@ -338,7 +339,7 @@
         "languages": {
           "en": {
             "word_display": "Storm in a teacup",
-            "definition": "Great outrage or excitement about a trivial matter.",
+            "definition": "A lot of anger or excitement over something very small and unimportant.",
             "example_sentence": "The media frenzy over the celebrity's typo was just a storm in a teacup."
           },
           "hi": {
@@ -361,7 +362,8 @@
             "Overreaction",
             "Trivial",
             "Mountain out of a Molehill",
-            "Tempest in a teapot"
+            "Tempest in a teapot",
+            "Outrage"
           ],
           "recent_references": [
             {
@@ -463,7 +465,7 @@
         "languages": {
           "en": {
             "word_display": "Perspicacious",
-            "definition": "Having a ready insight into and understanding of things.",
+            "definition": "Quick to notice, understand, and judge things very clearly.",
             "example_sentence": "Her perspicacious reading of the holographic trends saved the company millions before the crisis hit."
           },
           "hi": {
@@ -485,7 +487,8 @@
           "related_words": [
             "Insightful",
             "Astute",
-            "Shrewd"
+            "Shrewd",
+            "Insight"
           ],
           "recent_references": [
             {
@@ -525,7 +528,7 @@
         "languages": {
           "en": {
             "word_display": "Sesquipedalian",
-            "definition": "Characterized by very long words; long‑winded.",
+            "definition": "Using very long words, or being very long-winded in speech or writing.",
             "example_sentence": "His sesquipedalian explanation of the simplest rule left the freshmen staring at the board in confusion."
           },
           "hi": {
@@ -587,7 +590,7 @@
         "languages": {
           "en": {
             "word_display": "Lugubrious",
-            "definition": "Looking or sounding sad and dismal.",
+            "definition": "Looking or sounding extremely sad, gloomy, and depressing.",
             "example_sentence": "The lugubrious music at the funeral made even the stoic mourners' eyes glisten."
           },
           "hi": {
@@ -609,7 +612,8 @@
           "related_words": [
             "Mournful",
             "Gloomy",
-            "Melancholy"
+            "Melancholy",
+            "Dismal"
           ],
           "recent_references": [
             {
@@ -711,7 +715,7 @@
         "languages": {
           "en": {
             "word_display": "Prolix",
-            "definition": "(Of speech or writing) using or containing too many words; tediously lengthy.",
+            "definition": "Using way too many words in speech or writing, making it boring and far too long.",
             "example_sentence": "His prolix emails ate up the whole screen, so the team quietly hit ‘archive’ instead of reading them."
           },
           "hi": {
@@ -732,7 +736,8 @@
           "related_words": [
             "Verbose",
             "Long‑winded",
-            "Discursive"
+            "Discursive",
+            "Tedious"
           ],
           "recent_references": [
             {
@@ -772,7 +777,7 @@
         "languages": {
           "en": {
             "word_display": "Doomscrolling",
-            "definition": "The act of spending an excessive amount of time consuming negative news online.",
+            "definition": "Spending way too much time online looking at and reading bad or depressing news.",
             "example_sentence": "By 3 AM the screen was still glowing, and she realized she had been doomscrolling for hours."
           },
           "hi": {
@@ -794,7 +799,8 @@
           "related_words": [
             "Doomsurfing",
             "Screen time",
-            "Digital burnout"
+            "Digital burnout",
+            "Excessive news consumption"
           ],
           "recent_references": [
             {
@@ -841,7 +847,7 @@
           "hi": {
             "word_display": "Kachcha Rishta",
             "word_anglicized": "Kachcha Rishta",
-            "word_native": "---",
+            "word_native": "कच्चा रिश्ता",
             "definition": "Ek aisa rishta jo dosti se jyada ho par poori tarah se prem-sambandh na ho.",
             "example_sentence": "Har shaam uss chhat par ek doosre ke kareeb baithe earphones baantte the, lekin kabhi kuch naam nahi diya — wahi kachcha rishta, doston se jyada, par zyada kehne ki himmat nahi."
           },
@@ -897,7 +903,7 @@
         "languages": {
           "en": {
             "word_display": "Gaslighting",
-            "definition": "Psychologically manipulating someone into questioning their own perception, memory, or sanity.",
+            "definition": "Manipulating someone into doubting their own thoughts, memory, or sanity.",
             "example_sentence": "She stood in the corridor certain the painting had moved, but his calm smile insisted she was imagining it — gaslighting her right under the flickering lamps."
           },
           "hi": {
@@ -966,7 +972,7 @@
           "hi": {
             "word_display": "Kaamchori",
             "word_anglicized": "Kaamchori (Simit Kaam)",
-            "word_native": "---",
+            "word_native": "कामचोरी (सीमित काम)",
             "definition": "Naukri mein bas utna hi karna jitna zaroori ho, usse zyada bilkul nahi.",
             "example_sentence": "Theek 5 baje usne laptop band kiya aur jacket uthaa li — baaqi emails kal dekhenge. Yahi hai asli simit kaam ki bhavna."
           },
@@ -1028,7 +1034,7 @@
           "hi": {
             "word_display": "Vaakpatu",
             "word_anglicized": "Vaakpatu (Bhavpurn)",
-            "word_native": "---",
+            "word_native": "वाक्पटु (भावपूर्ण)",
             "definition": "Jo bolne ya likhne mein bahut prabhavshali ho.",
             "example_sentence": "Uske bhavpurn bhaashan ne darshakon ki aankhon mein aansu la diye."
           },
@@ -1084,13 +1090,13 @@
         "languages": {
           "en": {
             "word_display": "Rhetoric",
-            "definition": "The art of effective or persuasive speaking or writing, often often implied to be lacking sincerity.",
+            "definition": "The art of persuasive speaking or writing, which is sometimes empty or lacks sincerity.",
             "example_sentence": "The politician's speech was full of fiery rhetoric but short on actual plans."
           },
           "hi": {
             "word_display": "Alankaarik Bhasha",
             "word_anglicized": "Alankaarik Bhasha",
-            "word_native": "---",
+            "word_native": "अलंकारिक भाषा",
             "definition": "Prabhavshali bolne ki kala, aksar jisme sachchayi kam ho.",
             "example_sentence": "Neta ka bhaashan joshile alankaarik shabdon se bhara tha par usme asli yojanaein kam thi."
           },
@@ -1152,7 +1158,7 @@
           "hi": {
             "word_display": "Bariki",
             "word_anglicized": "Bariki",
-            "word_native": "---",
+            "word_native": "बारीकी",
             "definition": "Kisi cheez, arth ya bhav ka bahut chhota aur sookshm antar.",
             "example_sentence": "Jab sablog poori painting ke baare mein jhagad rahe the, usne paas jaake dekha — do lagbhag ek jaisi neeli rangon ki bariki ne poori kahani bata di."
           },
@@ -1214,7 +1220,7 @@
           "hi": {
             "word_display": "Pratiman",
             "word_anglicized": "Pratiman (Model)",
-            "word_native": "---",
+            "word_native": "प्रतिमान (मॉडल)",
             "definition": "Kisi cheez ka ek vishishth udaharan ya namuna.",
             "example_sentence": "Jab usne double helix utha ke dikhaya, bade professors ne chupchap apne chalkboard mita diye — uss khoj ne poora pratiman badal diya tha."
           },
@@ -1270,13 +1276,13 @@
         "languages": {
           "en": {
             "word_display": "Siloed",
-            "definition": "Kept in isolation in a way that hinders communication and cooperation.",
+            "definition": "Kept apart or isolated in a way that prevents communication and cooperation.",
             "example_sentence": "The two teams were solving the same problem on opposite sides of a glass wall — so siloed that neither noticed the other's 'Help?' note."
           },
           "hi": {
             "word_display": "Alag-alag",
             "word_anglicized": "Alag-alag (Vibhagit)",
-            "word_native": "---",
+            "word_native": "अलग-अलग (विभाजित)",
             "definition": "Aise alag rakha jana ki aapsi baatcheet aur sahyog mein badha aaye.",
             "example_sentence": "Dono teams ek hi samasya ek kaanch ki deewar ke doosri taraf hal kar rahi thi — itni vibhagit ki kisi ne doosre ka 'Help?' note nahi dekha."
           },
@@ -1292,7 +1298,8 @@
           "related_words": [
             "Isolated",
             "Compartmentalized",
-            "Segregated"
+            "Segregated",
+            "Hinder"
           ],
           "recent_references": [
             {
@@ -1401,7 +1408,7 @@
           "hi": {
             "word_display": "Sanshleshan",
             "word_anglicized": "Sanshleshan (Mishran)",
-            "word_native": "---",
+            "word_native": "संश्लेषण (मिश्रण)",
             "definition": "Alag-alag tatvon ko milakar ek naya roop dena.",
             "example_sentence": "Uska siddhant purvi darshan aur pashchimi manovigyan ka ek sanshleshan tha.",
             "cultural_note": "Direct conceptual translation."
@@ -1640,7 +1647,7 @@
         "languages": {
           "en": {
             "word_display": "Confirmation bias",
-            "definition": "The tendency to interpret new evidence as confirmation of one's existing beliefs or theories.",
+            "definition": "The habit of only noticing or believing new information that proves what you already believe, while ignoring facts that show you are wrong.",
             "example_sentence": "The cute detective bear only examined the tiny blue paw prints that matched his own fur, completely ignoring the giant monster tracks."
           },
           "hi": {
@@ -1662,7 +1669,8 @@
           "related_words": [
             "Echo chamber",
             "Cherry-picking",
-            "Wishful thinking"
+            "Wishful thinking",
+            "Interpretive bias"
           ],
           "recent_references": [
             {
@@ -1764,7 +1772,7 @@
         "languages": {
           "en": {
             "word_display": "Dissolute",
-            "definition": "Lax in morals; licentious.",
+            "definition": "Lacking moral restraint; indulging in wild or uncontrolled behavior.",
             "example_sentence": "The lazy raccoon prince lived a completely dissolute lifestyle, eating endless sweets and tossing wrappers everywhere while his treehouse fell apart."
           },
           "hi": {
@@ -1786,7 +1794,8 @@
           "related_words": [
             "Debauched",
             "Decadent",
-            "Profligate"
+            "Profligate",
+            "Licentious"
           ],
           "recent_references": [
             {
@@ -1826,7 +1835,7 @@
         "languages": {
           "en": {
             "word_display": "Truant",
-            "definition": "A student who stays away from school without leave or explanation.",
+            "definition": "A student who stays away from school without permission or a good reason.",
             "example_sentence": "The cheeky truant student skipped school to play arcade games, nervously watching the yellow school bus drive away without him."
           },
           "hi": {
@@ -1888,7 +1897,7 @@
         "languages": {
           "en": {
             "word_display": "Malingerer",
-            "definition": "Someone who exaggerates or feigns illness in order to escape duty or work.",
+            "definition": "Someone who pretends to be sick or exaggerates an illness to avoid duty or work.",
             "example_sentence": "The strict plastic sergeant caught the malingerer red-handed, pointing at the lazy toy soldier pretending to be sick in bed."
           },
           "hi": {
@@ -1910,7 +1919,8 @@
           "related_words": [
             "Shirker",
             "Faker",
-            "Dodger"
+            "Dodger",
+            "Feign"
           ],
           "recent_references": [
             {
@@ -2198,7 +2208,7 @@
         "languages": {
           "en": {
             "word_display": "Obfuscate",
-            "definition": "To render obscure, unclear, or unintelligible.",
+            "definition": "To deliberately make something unclear or difficult to understand.",
             "example_sentence": "The cyber-politician used his high-tech megaphone to shoot digital smoke, trying to obfuscate the simple facts written on the board behind him."
           },
           "hi": {
@@ -2220,7 +2230,9 @@
           "related_words": [
             "Confuse",
             "Bewilder",
-            "Muddle"
+            "Muddle",
+            "Obscure",
+            "Unintelligible"
           ],
           "recent_references": [
             {
@@ -2322,7 +2334,7 @@
         "languages": {
           "en": {
             "word_display": "Dabbled",
-            "definition": "Take part in an activity in a casual or superficial way.",
+            "definition": "To try a hobby or activity in a casual or playful way without being very serious about it.",
             "example_sentence": "The cheerful amateur casually dabbled in painting, leaving a half-finished canvas in a room overflowing with other unfinished hobbies."
           },
           "hi": {
@@ -3128,7 +3140,7 @@
         "languages": {
           "en": {
             "word_display": "Shoot oneself in the foot",
-            "definition": "To inadvertently cause a disadvantage or problem for oneself.",
+            "definition": "To accidentally cause a problem or disadvantage for yourself through your own actions.",
             "example_sentence": "The clumsy secret agent confidently pressed the glowing red self-destruct button instead of the elevator, completely shooting himself in the foot."
           },
           "hi": {
@@ -3150,7 +3162,8 @@
           "related_words": [
             "Self-sabotage",
             "Blunder",
-            "Own goal"
+            "Own goal",
+            "Inadvertent"
           ],
           "recent_references": [
             {
@@ -3252,7 +3265,7 @@
         "languages": {
           "en": {
             "word_display": "Morose",
-            "definition": "Sullen, gloomy, and ill-tempered.",
+            "definition": "Sad, gloomy, and bad-tempered.",
             "example_sentence": "The defeated knight sat completely alone in the dark tavern corner, looking incredibly morose and sulking miserably next to his neglected sword."
           },
           "hi": {
@@ -3376,7 +3389,7 @@
         "languages": {
           "en": {
             "word_display": "Belligerent",
-            "definition": "Hostile, aggressive, and highly combative.",
+            "definition": "Hostile, aggressive, and eager to fight.",
             "example_sentence": "The belligerent cowboy aggressively slammed his fists onto the wooden bar, knocking over glasses while angrily yelling at the calm bartender."
           },
           "hi": {
@@ -4120,7 +4133,7 @@
         "languages": {
           "en": {
             "word_display": "Sagacious",
-            "definition": "Having or showing keen mental discernment and exceptionally good judgment.",
+            "definition": "Having or showing great wisdom and exceptionally good judgment.",
             "example_sentence": "The sagacious old king easily outsmarted his angry rivals by calmly sliding a clever peace treaty across the map, completely avoiding a massive war."
           },
           "hi": {
@@ -4142,7 +4155,8 @@
           "related_words": [
             "Wise",
             "Shrewd",
-            "Insightful"
+            "Insightful",
+            "Discernment"
           ],
           "recent_references": [
             {
@@ -4182,7 +4196,7 @@
         "languages": {
           "en": {
             "word_display": "Despondent",
-            "definition": "In low spirits from loss of hope or courage; profoundly discouraged.",
+            "definition": "Extremely sad and discouraged due to a complete loss of hope.",
             "example_sentence": "The brilliant scientist slumped helplessly in his freezing laboratory, feeling completely despondent as he stared in absolute despair at the terrifying creature he had just brought to life."
           },
           "hi": {
@@ -4204,7 +4218,8 @@
           "related_words": [
             "Disheartened",
             "Dejected",
-            "Hopeless"
+            "Hopeless",
+            "Profoundly discouraged"
           ],
           "recent_references": [
             {
@@ -4306,7 +4321,7 @@
         "languages": {
           "en": {
             "word_display": "Taciturn",
-            "definition": "Reserved or uncommunicative in speech; saying little.",
+            "definition": "Very quiet and disliking talking; saying very little.",
             "example_sentence": "The frantic traveler asked for directions, but the taciturn cowboy by the campfire merely nodded once instead of speaking."
           },
           "hi": {
@@ -4328,7 +4343,9 @@
           "related_words": [
             "Reticent",
             "Silent",
-            "Laconic"
+            "Laconic",
+            "Reserved",
+            "Uncommunicative"
           ],
           "recent_references": [
             {
@@ -4430,7 +4447,7 @@
         "languages": {
           "en": {
             "word_display": "Foibles",
-            "definition": "Minor weaknesses, quirks, or eccentricities in someone's character.",
+            "definition": "Small, harmless weaknesses or unusual habits in someone's character.",
             "example_sentence": "The elderly husband just smiled endearingly at his wife's funny little foible of organizing her yarn by scent instead of color."
           },
           "hi": {
@@ -4492,7 +4509,7 @@
         "languages": {
           "en": {
             "word_display": "Capricious",
-            "definition": "Given to sudden, unpredictable, and unaccountable changes of mood or behavior.",
+            "definition": "Often changing mood or behavior suddenly and without any clear reason.",
             "example_sentence": "The incredibly capricious king would toss heavy gold coins to one servant while simultaneously pointing his sword at another for absolutely no reason."
           },
           "hi": {
@@ -4514,7 +4531,8 @@
           "related_words": [
             "Fickle",
             "Volatile",
-            "Unpredictable"
+            "Unpredictable",
+            "Unaccountable"
           ],
           "recent_references": [
             {
@@ -4554,7 +4572,7 @@
         "languages": {
           "en": {
             "word_display": "Pedantic",
-            "definition": "Excessively concerned with minor details, rules, or displaying academic learning.",
+            "definition": "Paying far too much attention to tiny details, minor rules, or showing off academic knowledge.",
             "example_sentence": "The highly pedantic young man aggressively pointed a ruler at the casual party invitation, loudly correcting a tiny grammar mistake while everyone else just awkwardly ignored him."
           },
           "hi": {
@@ -4678,7 +4696,7 @@
         "languages": {
           "en": {
             "word_display": "Specious",
-            "definition": "Superficially plausible, but actually wrong or completely deceptive.",
+            "definition": "Seeming to be right or true at first, but actually wrong or deceptive.",
             "example_sentence": "The slick lawyer confidently presented a highly specious argument in the courtroom, but the entire case quickly fell apart under close scrutiny."
           },
           "hi": {
@@ -4700,7 +4718,8 @@
           "related_words": [
             "Misleading",
             "Deceptive",
-            "Fallacious"
+            "Fallacious",
+            "Plausible"
           ],
           "recent_references": [
             {
@@ -4740,7 +4759,7 @@
         "languages": {
           "en": {
             "word_display": "Garrulous",
-            "definition": "Excessively talkative, especially on trivial or unimportant matters.",
+            "definition": "Talking way too much, especially about unimportant things.",
             "example_sentence": "The highly garrulous old man sat on the park bench, talking nonstop about his cats while the young listener desperately struggled to stay awake."
           },
           "hi": {
@@ -4762,7 +4781,8 @@
           "related_words": [
             "Talkative",
             "Chatty",
-            "Verbose"
+            "Verbose",
+            "Trivial"
           ],
           "recent_references": [
             {
