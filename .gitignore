@@ -5,3 +5,16 @@ secrets*
 .env*
 .DS_Store
 images_orig/
+*.svg
+*.pdf
+*.html
+*.css
+*.zip
+*.kpf
+*.kcb
+*.kdf
+*.log
+*.cfg
+*venv/
+*venv/*
+Expedition 1/*
