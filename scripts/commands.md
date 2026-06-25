@@ -27,3 +27,18 @@ To cleanly fetch the remote changes and keep a straight, linear history, use:
 git pull --rebase
 ```
 **What it does:** It pulls the latest changes from the remote server, temporarily sets aside your local commits, updates your files to match the server, and then "replays" your local commits cleanly on top of the remote ones.
+
+
+### JSON to CSV Conversion
+Converts `words.json` (or any specified JSON) to a CSV format.
+
+**Standard conversion:**
+```bash
+python3 scripts/json_to_csv.py
+```
+
+**Incremental conversion (process only recent words):**
+If you only want to process words that were added *after* a specific ID (useful for appending to an existing CSV rather than regenerating everything), use the `--after-id` flag:
+```bash
+python3 scripts/json_to_csv.py --after-id <SPECIFIC_ID>
+```

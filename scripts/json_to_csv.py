@@ -53,9 +53,17 @@ def lang_field(content_payload, lang, field):
         return ""
 
 
+import argparse
+
 def main():
-    in_path = Path(sys.argv[1]) if len(sys.argv) > 1 else Path('words.json')
-    out_path = Path(sys.argv[2]) if len(sys.argv) > 2 else Path('words.csv')
+    parser = argparse.ArgumentParser(description="Convert words.json into a ready-to-paste CSV.")
+    parser.add_argument("input", nargs="?", default="words.json", help="Input JSON file")
+    parser.add_argument("output", nargs="?", default="words.csv", help="Output CSV file")
+    parser.add_argument("--after-id", dest="after_id", default=None, help="Only process words that come after this specific ID")
+    args = parser.parse_args()
+
+    in_path = Path(args.input)
+    out_path = Path(args.output)
 
     if not in_path.exists():
         print(f"Input file not found: {in_path}")
@@ -63,6 +71,18 @@ def main():
 
     data = json.loads(in_path.read_text(encoding='utf-8'))
     words = data.get('words', []) if isinstance(data, dict) else []
+
+    if args.after_id:
+        filtered_words = []
+        found = False
+        for w in words:
+            if not isinstance(w, dict):
+                continue
+            if found:
+                filtered_words.append(w)
+            elif w.get('id') == args.after_id:
+                found = True
+        words = filtered_words
 
     headers = [
         'id','date','category','type','tags',

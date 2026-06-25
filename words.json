@@ -4869,6 +4869,1404 @@
           "trivia": "While the meteorological origin is the most widely cited, another fascinating theory links the idiom to Buddhism, where 'Cloud 9' represents one of the highest stages of spiritual enlightenment. Furthermore, the phrase completely overshadowed 'cloud seven' (derived from Dante's 'Seventh Heaven') during the mid-20th century, making 'nine' the definitive number for ultimate happiness in modern English."
         }
       }
+    },
+    {
+      "id": "20260411-EN-081",
+      "date": "2026-04-11",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Creation",
+        "Assembly",
+        "Patchwork"
+      ],
+      "common_assets": {
+        "image_url": "images/bricolage.jpg",
+        "image_prompt": "Moody Steampunk style illustration of a highly dramatic scene: a wild-haired inventor in a cluttered, dimly lit workshop frantically assembles a glowing, intricate machine using a chaotic bricolage of discarded clock parts, rusty pipes, and broken glass. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Bricolage",
+            "definition": "The construction or creation of a work from a diverse range of things that happen to be available, or a work created by such a process.",
+            "example_sentence": "The wild-haired inventor frantically assembled a glowing, intricate machine in his cluttered workshop, using a chaotic bricolage of discarded clock parts, rusty pipes, and broken glass to save the city."
+          },
+          "hi": {
+            "word_display": "Jugaad",
+            "word_anglicized": "Jugaad",
+            "word_native": "जुगाड़",
+            "definition": "Aas-paas uplabdh alag-alag aur bekaar cheezon ko jodkar kuch naya aur upyogi banane ki prakriya.",
+            "example_sentence": "Us bikhre baalon wale aavishkarak ne apni bhari hui workshop mein phek diye gaye ghadi ke purzon, zang lage pipe aur toote kaanch ke jugaad se shahar ko bachane ke liye ek chamakti, jatil machine jaldbaazi mein banayi."
+          },
+          "fr": {
+            "word_display": "Bricolage",
+            "word_native": "Bricolage",
+            "definition": "La construction ou la création d'une œuvre à partir d'une gamme diversifiée de choses qui se trouvent être disponibles.",
+            "example_sentence": "L'inventeur aux cheveux ébouriffés a frénétiquement assemblé une machine complexe et lumineuse dans son atelier encombré, en utilisant un bricolage chaotique de pièces d'horlogerie jetées, de tuyaux rouillés et de verre brisé pour sauver la ville."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "Borrowed directly from French in the mid-20th century, 'bricolage' originally meant to 'tinker' or 'fiddle' with odds and ends. Anthropologist Claude Lévi-Strauss famously popularized it to describe how mythological thought works—by taking whatever cultural fragments are at hand and patching them together into something entirely new and profoundly meaningful!",
+          "related_words": [
+            "Improvisation",
+            "Patchwork",
+            "Montage",
+            "Medley"
+          ],
+          "recent_references": [
+            {
+              "type": "Review",
+              "title": "Modern Art Exhibitions",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "An art critic praised a brilliant new sculptor whose emotional masterpieces were created through the careful bricolage of street trash and discarded electronics."
+            },
+            {
+              "type": "Article",
+              "title": "The Rise of Indie Game Design",
+              "author": "Wired",
+              "year": "2023",
+              "context": "A tech piece explaining how young, broke developers use a clever bricolage of free, open-source code snippets to build massive, bestselling video games."
+            }
+          ],
+          "trivia": "In the world of survival skills and everyday problem-solving, the spirit of 'bricolage' is essentially the academic term for the famous television hero MacGyver, who could build explosives out of chewing gum and paperclips!"
+        }
+      }
+    },
+    {
+      "id": "20260412-EN-082",
+      "date": "2026-04-12",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Discard",
+        "Abandon",
+        "Eject"
+      ],
+      "common_assets": {
+        "image_url": "images/jettison.jpg",
+        "image_prompt": "High-contrast Sci-Fi Digital Art style illustration of a tense, dramatic scene: a desperate astronaut floating inside a heavily damaged, sparks-flying spaceship violently jettisons heavy cargo crates out of the glowing airlock to prevent a catastrophic crash. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Jettison",
+            "definition": "To throw or drop something from an aircraft or ship in distress, or to completely discard something that is no longer wanted or needed.",
+            "example_sentence": "The desperate astronaut, surrounded by flying sparks in the damaged spaceship, violently had to jettison the heavy cargo crates out of the glowing airlock to prevent a catastrophic crash."
+          },
+          "hi": {
+            "word_display": "Fenk dena",
+            "word_anglicized": "Fenk dena",
+            "word_native": "फेंक देना",
+            "definition": "Kharab sthiti mein vimaan ya jahaaz se saaman bahar fenkna, ya kisi aisi cheez ko tyaag dena jiski ab zaroorat na ho.",
+            "example_sentence": "Apne shatigrast antariksh yaan mein udate hue chingariyon ke beech ghire us niraash antariksh yatri ko ek bhayanak crash se bachne ke liye bhari cargo crates ko chamakte airlock se bahar fenk dena pada."
+          },
+          "fr": {
+            "word_display": "Jeter",
+            "word_native": "Jeter",
+            "definition": "Jeter ou larguer quelque chose d'un avion ou d'un navire en détresse, ou abandonner complètement quelque chose qui n'est plus désiré.",
+            "example_sentence": "L'astronaute désespéré, entouré d'étincelles volantes dans le vaisseau spatial endommagé, a dû jeter violemment les lourdes caisses de fret hors du sas lumineux pour éviter un crash catastrophique."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "This highly dramatic word comes from the Latin 'jactare' (to throw) and the Old French 'getaison'. Originally, it strictly referred to the terrifying maritime practice of throwing heavy cargo overboard to lighten a sinking ship during a violent storm. Today, it describes dropping any unwanted burden, physically or emotionally!",
+          "related_words": [
+            "Discard",
+            "Abandon",
+            "Eject",
+            "Dump"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Corporate Restructuring",
+              "author": "The Wall Street Journal",
+              "year": "2024",
+              "context": "A financial report detailing how a failing tech giant was forced to aggressively jettison its underperforming mobile division to save the rest of the company."
+            },
+            {
+              "type": "Opinion",
+              "title": "Mental Health in the Modern Age",
+              "author": "Psychology Today",
+              "year": "2023",
+              "context": "A therapist's essay encouraging overwhelmed professionals to ruthlessly jettison toxic relationships and impossible expectations from their lives."
+            }
+          ],
+          "trivia": "In aerospace terminology, when a rocket launches into space, it intentionally jettisons its massive external fuel tanks once they are empty, allowing the spacecraft to travel faster and lighter into orbit!"
+        }
+      }
+    },
+    {
+      "id": "20260413-EN-083",
+      "date": "2026-04-13",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Morals",
+        "Conscience",
+        "Hesitation"
+      ],
+      "common_assets": {
+        "image_url": "images/scruples.jpg",
+        "image_prompt": "Expressive 3D Pixar style illustration of a highly relatable comedic scene: an honest teenager finds a thick wallet full of cash on the sidewalk, looking deeply conflicted as a tiny glowing angel and a tiny red devil on his shoulders hilariously argue over his moral scruples. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Scruples",
+            "definition": "Feelings of doubt or hesitation regarding the morality or propriety of a proposed course of action.",
+            "example_sentence": "The teenager found a wallet full of cash on the sidewalk, but his strong moral scruples prevented him from pocketing the money, and he decided to return it instead."
+          },
+          "hi": {
+            "word_display": "Naitik sandeh",
+            "word_anglicized": "Naitik sandeh",
+            "word_native": "नैतिक संदेह",
+            "definition": "Kisi kaam ko karne se pehle ye sochkar hichkichaana ki vah sahi hai ya galat, vishesh roop se naitik taur par.",
+            "example_sentence": "Us kishor ko sadak par paison se bhara ek wallet mila, lekin uske naitik sandeh ne use paise rakhne se rok diya, aur usne use lautane ka faisla kiya."
+          },
+          "fr": {
+            "word_display": "Scrupules",
+            "word_native": "Scrupules",
+            "definition": "Sentiments de doute ou d'hésitation concernant la moralité ou la convenance d'une ligne de conduite proposée.",
+            "example_sentence": "L'adolescent a trouvé un portefeuille plein d'argent sur le trottoir, mais ses forts scrupules moraux l'ont empêché d'empocher l'argent, et il a décidé de le rendre à la place."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "The etymology of this word is wonderfully vivid! It comes from the Latin 'scrupulus', which literally meant a 'rough, sharp little pebble'. The Romans metaphorically used it to describe a tiny, annoying pebble stuck inside your shoe that makes you hesitate to walk. Today, it describes that sharp little pebble of conscience in your mind that makes you hesitate to do wrong!",
+          "related_words": [
+            "Conscience",
+            "Qualms",
+            "Hesitation",
+            "Misgivings"
+          ],
+          "recent_references": [
+            {
+              "type": "Review",
+              "title": "Anti-Hero Tropes in Television",
+              "author": "Entertainment Weekly",
+              "year": "2024",
+              "context": "A review analyzing a popular crime show where the main character is incredibly dangerous precisely because he operates with absolutely no moral scruples."
+            },
+            {
+              "type": "Article",
+              "title": "Ethics in Artificial Intelligence",
+              "author": "Wired",
+              "year": "2023",
+              "context": "A tech piece warning that corporations must program AI models with deep ethical scruples to prevent them from making ruthless, harm-inducing decisions."
+            }
+          ],
+          "trivia": "A popular 1980s party game was literally called 'Scruples', where players were given highly questionable moral dilemmas and had to guess how their friends would behave in those situations!"
+        }
+      }
+    },
+    {
+      "id": "20260414-EN-084",
+      "date": "2026-04-14",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Belief",
+        "Philosophy",
+        "Doctrine"
+      ],
+      "common_assets": {
+        "image_url": "images/credo.jpg",
+        "image_prompt": "Colorful 3D Pop-Art style illustration of a comedic scene: a massive, terrifyingly tough-looking biker entirely stops angry city traffic to gently help a tiny family of ducklings cross the street, perfectly living up to the surprisingly wholesome credo embroidered in huge letters on the back of his leather jacket: 'Always Be Kind'. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Credo",
+            "definition": "A formal statement of deeply held beliefs or aims which strongly guide someone's actions.",
+            "example_sentence": "The terrifyingly tough-looking biker stopped all the angry city traffic to help the tiny ducklings cross the street, perfectly living up to the surprisingly wholesome credo embroidered on his leather jacket."
+          },
+          "hi": {
+            "word_display": "Siddhant",
+            "word_anglicized": "Siddhant",
+            "word_native": "सिद्धांत",
+            "definition": "Vah gehre vishwas ya niyam jo kisi vyakti ke har kadam aur faisle ko nirdeshit karte hain.",
+            "example_sentence": "Us khaufnaak dikhne wale biker ne chhote batakh ke bachhon ko sadak paar karane ke liye shahar ka poora traffic rok diya, aur apni leather jacket par kade hue us pyare siddhant ko poori tarah se nibhaya."
+          },
+          "fr": {
+            "word_display": "Credo",
+            "word_native": "Credo",
+            "definition": "Une déclaration formelle des croyances ou des objectifs qui guident fortement les actions de quelqu'un.",
+            "example_sentence": "Le motard à l'air terrifiant a arrêté toute la circulation en colère de la ville pour aider les petits canetons à traverser la rue, respectant parfaitement le credo étonnamment sain brodé sur sa veste en cuir."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "Borrowed directly from Latin, 'credo' literally translates to 'I believe'. Historically, it was the first word of the Apostles' Creed in Christian liturgy. Over centuries, it moved beyond religion to represent any profoundly powerful personal philosophy or mission statement that a person or organization swears by.",
+          "related_words": [
+            "Belief",
+            "Philosophy",
+            "Doctrine",
+            "Tenet"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Startup Culture",
+              "author": "Fast Company",
+              "year": "2024",
+              "context": "A profile on a successful environmental startup whose absolute credo of 'people over profits' completely disrupted their industry."
+            },
+            {
+              "type": "Review",
+              "title": "The Mandalorian's Appeal",
+              "author": "The Verge",
+              "year": "2023",
+              "context": "A cultural review exploring how the stoic television character captures audiences by rigidly adhering to his cultural credo: 'This is the way.'"
+            }
+          ],
+          "trivia": "While a credo is usually a very serious philosophy, in the hit sitcom 'Friends', the character Joey Tribbiani lives by one incredibly strict and hilarious credo that dictates his every move: 'Joey doesn't share food!'"
+        }
+      }
+    },
+    {
+      "id": "20260415-EN-085",
+      "date": "2026-04-15",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Division",
+        "Rift",
+        "Separation"
+      ],
+      "common_assets": {
+        "image_url": "images/schism.jpg",
+        "image_prompt": "Vibrant 3D Animation style illustration of a highly comedic scene: a group of friends sit around a living room table, angrily glaring at each other from opposite sides of the room, representing a bitter, permanent schism caused entirely by someone ordering pineapple on the pizza. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Schism",
+            "definition": "A deep split or division between strongly opposed sections or parties, caused by severe differences in opinion or belief.",
+            "example_sentence": "A bitter and permanent schism completely divided the once-close group of friends, caused entirely by a furious debate over whether pineapple belongs on pizza."
+          },
+          "hi": {
+            "word_display": "Matbhed",
+            "word_anglicized": "Matbhed",
+            "word_native": "मतभेद",
+            "definition": "Vicharon ya vishwas mein bhari antar ke karan kisi samooh ya dal ka do virodhi hisson mein toot jana.",
+            "example_sentence": "Doston ke us kareebi samooh mein ek kadwa aur sthayi matbhed paida ho gaya, jiski poori wajah is baat par hua gusse bhara vivad tha ki pizza par pineapple hona chahiye ya nahi."
+          },
+          "fr": {
+            "word_display": "Schisme",
+            "word_native": "Schisme",
+            "definition": "Une division ou une séparation profonde entre des sections ou des partis fortement opposés, causée par de graves différences d'opinion ou de croyance.",
+            "example_sentence": "Un schisme amer et permanent a complètement divisé le groupe d'amis autrefois très uni, causé entièrement par un débat furieux sur la question de savoir si l'ananas a sa place sur la pizza."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "This powerful word originates from the Greek 'skhisma', which literally means 'a cleft, rent, or tear'. Originally used primarily to describe a literal tearing of fabric or wood, it was adopted by early historians to describe the devastating ideological tearing apart of the Church, and now applies to any massive fracture within a group.",
+          "related_words": [
+            "Division",
+            "Rift",
+            "Separation",
+            "Fracture"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Modern Political Polarization",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A political analysis describing how extreme rhetoric has created an unbridgeable schism within the country's oldest political party."
+            },
+            {
+              "type": "Opinion",
+              "title": "The Future of Crypto",
+              "author": "Wired",
+              "year": "2023",
+              "context": "A tech editorial detailing the ideological schism between software developers over whether cryptocurrency should be entirely decentralized or government-regulated."
+            }
+          ],
+          "trivia": "While historically used for massive religious and political splits, the most common 'schism' in modern households is the fierce, never-ending debate over whether the toilet paper roll should hang 'over' or 'under'!"
+        }
+      }
+    },
+    {
+      "id": "20260416-EN-086",
+      "date": "2026-04-16",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Perceive",
+        "Recognize",
+        "Distinguish"
+      ],
+      "common_assets": {
+        "image_url": "images/discern.jpg",
+        "image_prompt": "Classic Oil Painting style illustration of a highly comedic and dramatic scene: a very suspicious man holds a freshly baked cookie up to the light, squinting intensely as he desperately tries to discern whether the dark lumps are delicious chocolate chips or deceitful raisins before taking a bite. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Discern",
+            "definition": "To clearly perceive, recognize, or distinguish something, especially something that is obscured or difficult to see.",
+            "example_sentence": "The suspicious man held the cookie up to the light, squinting intensely as he desperately tried to discern whether the dark lumps were delicious chocolate chips or deceitful raisins."
+          },
+          "hi": {
+            "word_display": "Pehchanna",
+            "word_anglicized": "Pehchanna",
+            "word_native": "पहचानना",
+            "definition": "Kisi cheez ko dhyan se dekhkar uski asaliyat ya farq samajhna, khaaskar jab vah cheez saaf na dikh rahi ho.",
+            "example_sentence": "Us shakki aadmi ne cookie ko roshni ki taraf uthaya, aur dhyan se aankhein sikodkar yeh pehchaanne ki koshish ki kya ve kaale tukde swadisht chocolate chips hain ya dhokebaaz kishmish."
+          },
+          "fr": {
+            "word_display": "Discerner",
+            "word_native": "Discerner",
+            "definition": "Percevoir, reconnaître ou distinguer clairement quelque chose, en particulier quelque chose d'obscurci ou de difficile à voir.",
+            "example_sentence": "L'homme méfiant a levé le biscuit à la lumière, plissant intensément les yeux alors qu'il essayait désespérément de discerner si les morceaux sombres étaient de délicieuses pépites de chocolat ou des raisins secs trompeurs."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From the Latin 'discernere', where 'dis-' means 'apart' and 'cernere' means 'to separate'. It literally means to mentally sift through confusion and separate the truth from falsehood, or to pick out a tiny detail from a chaotic background.",
+          "related_words": [
+            "Perceive",
+            "Recognize",
+            "Distinguish",
+            "Detect"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Deepfakes and Reality",
+              "author": "The Verge",
+              "year": "2024",
+              "context": "An article warning that as artificial intelligence improves, it is becoming nearly impossible for the average person to discern real videos from heavily manipulated deepfakes."
+            },
+            {
+              "type": "Review",
+              "title": "The Art of Wine Tasting",
+              "author": "Food & Wine",
+              "year": "2023",
+              "context": "A culinary piece explaining how master sommeliers train for years just to instantly discern the subtle notes of oak and cherry in a single drop of wine."
+            }
+          ],
+          "trivia": "While detectives use magnifying glasses to discern clues, the most difficult act of discernment in human history is figuring out if your partner saying 'I'm fine' actually means they are fine, or if you are in terrible danger!"
+        }
+      }
+    },
+    {
+      "id": "20260417-EN-087",
+      "date": "2026-04-17",
+      "category": "multilingual",
+      "type": "idiom",
+      "tags": [
+        "Controversy",
+        "Trouble",
+        "Provocation"
+      ],
+      "common_assets": {
+        "image_url": "images/a_hornets_nest.jpg",
+        "image_prompt": "Surrealistic Art style illustration of a highly dramatic scene: a nervous politician accidentally pokes a giant, glowing, floating hornet's nest shaped like a microphone, instantly unleashing a chaotic swarm of angry, buzzing reporters in a surreal newsroom. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "A hornet's nest",
+            "definition": "A highly controversial situation or issue that causes a lot of trouble, anger, or complicated problems when someone interferes with it.",
+            "example_sentence": "The nervous politician accidentally poked a hornet's nest when he mentioned the new tax plan, instantly unleashing a chaotic swarm of angry reporters.",
+            "pronunciation_guide": "/a-hor-nets-nest/"
+          },
+          "hi": {
+            "word_display": "Bhirad ka chhatta",
+            "word_anglicized": "Bhirad ka chhatta",
+            "word_native": "भिरड़ का छत्ता",
+            "definition": "Ek aisi behad vivadaspad sthiti ya mudda jismein hastakshep karne par bahut zyada gussa, pareshani ya samasyayein paida ho jati hain.",
+            "example_sentence": "Us ghabraye hue neta ne naye tax plan ka zikra karke anjaane mein bhirad ka chhatta chhed diya, jisse turant gusse mein bhare patrakaron ka ek bhayanak hungama khada ho gaya.",
+            "cultural_note": "A direct equivalent idiom in Hindi ('bhirad ka chhatta chhedna') which paints the exact same metaphor of provoking aggressive insects."
+          },
+          "fr": {
+            "word_display": "Un guêpier",
+            "word_native": "Un guêpier",
+            "definition": "Une situation hautement controversée qui cause beaucoup de problèmes, de colère ou de complications lorsqu'on s'en mêle.",
+            "example_sentence": "Le politicien nerveux a accidentellement mis les pieds dans un guêpier lorsqu'il a mentionné le nouveau plan fiscal, déclenchant instantanément un essaim chaotique de journalistes en colère.",
+            "cultural_note": "Translates idiomatically to 'a wasp's nest' ('se fourrer dans un guêpier'), maintaining the stinging insect metaphor perfectly."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "This idiom dates back to the 18th century. A literal hornet's nest is a paper-like structure filled with incredibly aggressive stinging insects that will violently attack anyone who disturbs them. Metaphorically, 'stirring up a hornet's nest' perfectly describes the disastrous consequences of interfering in a volatile and deeply controversial situation.",
+          "related_words": [
+            "Controversy",
+            "Troublemaker",
+            "Provocation",
+            "Uproar"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "City Council Debates",
+              "author": "The New York Times",
+              "year": "2024",
+              "context": "A political analyst noted that the mayor completely stirred up a hornet's nest when he unexpectedly announced the closure of the beloved city park."
+            },
+            {
+              "type": "Review",
+              "title": "Social Media Privacy Changes",
+              "author": "Wired",
+              "year": "2023",
+              "context": "A tech blog explaining how the CEO walked right into a hornet's nest by suddenly changing the platform's strict privacy policies without consulting users."
+            }
+          ],
+          "trivia": "During the American Revolution, the city of Charlotte, North Carolina resisted British troops so fiercely that British Commander Lord Cornwallis angrily called the city 'a hornet's nest of rebellion'—and the city proudly adopted the hornet as its official symbol ever since!"
+        }
+      }
+    },
+    {
+      "id": "20260418-EN-088",
+      "date": "2026-04-18",
+      "category": "multilingual",
+      "type": "idiom",
+      "tags": [
+        "Vocal",
+        "Broadcast",
+        "Loud"
+      ],
+      "common_assets": {
+        "image_url": "images/on_a_bullhorn.jpg",
+        "image_prompt": "Vibrant Pop Art style illustration of a highly comedic scene: an overly dramatic office worker stands on his desk, shouting his extremely minor complaint about the coffee machine on a literal glowing red bullhorn while his annoyed colleagues aggressively cover their ears. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "On a bullhorn",
+            "definition": "To communicate something very loudly, aggressively, and publicly, often making a private matter unnecessarily public.",
+            "example_sentence": "Instead of quietly bringing up the minor coffee machine issue, the overly dramatic office worker stood on his desk and complained about it on a bullhorn, forcing his annoyed colleagues to cover their ears.",
+            "pronunciation_guide": "/on-a-bull-horn/"
+          },
+          "hi": {
+            "word_display": "Dhindhora peetna",
+            "word_anglicized": "Dhindhora peetna",
+            "word_native": "ढिंढोरा पीटना",
+            "definition": "Kisi chhote ya niji masle ko public mein bahut zor-shor se uchhalna.",
+            "example_sentence": "Coffee machine ki chhoti si samasya ko shanti se batane ke bajaye, us behad dramebaaz office worker ne apni desk par khade hokar dhindhora peetna shuru kar diya, jisse uske pareshan saathiyon ko apne kaan band karne pade.",
+            "cultural_note": "A very exact conceptual equivalent in Hindi where one 'beats a drum' to announce something loudly to everyone."
+          },
+          "fr": {
+            "word_display": "Crier sur tous les toits",
+            "word_native": "Crier sur tous les toits",
+            "definition": "Communiquer quelque chose de très fort et publiquement, rendant souvent publique une question privée.",
+            "example_sentence": "Au lieu de soulever discrètement le problème mineur de la machine à café, l'employé de bureau trop dramatique s'est tenu sur son bureau et s'en est plaint en criant sur tous les toits, forçant ses collègues agacés à se boucher les oreilles.",
+            "cultural_note": "Translates idiomatically to 'shouting on all the roofs', which carries the exact same meaning of making something overly public."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "A 'bullhorn' is a modern electronic megaphone. The idiom evolved in the late 20th century to metaphorically describe people—especially politicians or internet personalities—who broadcast their opinions at maximum volume, refusing to engage in subtle or private conversation.",
+          "related_words": [
+            "Broadcast",
+            "Trumpet",
+            "Proclaim",
+            "Advertise"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Social Media Behavior",
+              "author": "Wired",
+              "year": "2024",
+              "context": "An editorial criticizing how modern social media platforms essentially force every user to speak on a bullhorn, turning minor disagreements into massive public spectacles."
+            },
+            {
+              "type": "Opinion",
+              "title": "The Art of the Apology",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "A PR expert noted that when a celebrity makes a mistake on a bullhorn, they must also deliver their apology on a bullhorn to be taken seriously."
+            }
+          ],
+          "trivia": "Before electronic amplification, the literal 'bullhorn' was exactly what it sounds like—a hollowed-out horn of a bull used by shepherds to shout across massive valleys!"
+        }
+      }
+    },
+    {
+      "id": "20260419-EN-089",
+      "date": "2026-04-19",
+      "category": "multilingual",
+      "type": "idiom",
+      "tags": [
+        "Challenge",
+        "Defy",
+        "Provoke"
+      ],
+      "common_assets": {
+        "image_url": "images/throw_down_the_gauntlet.jpg",
+        "image_prompt": "Epic Medieval Fantasy style illustration of an incredibly tense scene: a fearless young warrior violently throws a heavy, glowing iron gauntlet onto the cracked stone floor of a grand throne room, issuing a terrifying challenge to the massive, heavily armored tyrant king sitting above. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Throw down the gauntlet",
+            "definition": "To issue a very serious, dramatic, and unmistakable challenge to someone.",
+            "example_sentence": "The fearless young warrior stepped forward in the silent throne room and violently threw his heavy iron gauntlet onto the cracked stone floor, throwing down the gauntlet to the terrifying tyrant king.",
+            "pronunciation_guide": "/throw-down-the-gaunt-let/"
+          },
+          "hi": {
+            "word_display": "Khuli chunauti dena",
+            "word_anglicized": "Khuli chunauti dena",
+            "word_native": "खुली चुनौती देना",
+            "definition": "Kisi ko aamne-saamne aakar ek gambhir aur badi chunauti dena.",
+            "example_sentence": "Vah nidar yuva yoddha us shant darbar mein aage badha aur usne apna bhari lohe ka gauntlet tute hue patthar ke farsh par zor se patak diya, aur us khaufnaak tanashah raja ko khuli chunauti di.",
+            "cultural_note": "A direct translation to 'open challenge'. The visual of throwing a glove isn't native to Indian history, but the concept translates perfectly."
+          },
+          "fr": {
+            "word_display": "Jeter le gant",
+            "word_native": "Jeter le gant",
+            "definition": "Lancer un défi très sérieux, dramatique et indubitable à quelqu'un.",
+            "example_sentence": "Le jeune guerrier intrépide s'avança dans la salle du trône silencieuse et jeta violemment son lourd gantelet de fer sur le sol de pierre fissuré, jetant le gant au terrifiant roi tyran.",
+            "cultural_note": "A perfectly literal et commonly used translation in French which shares the exact same medieval origin."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "This awesome idiom comes straight out of the Middle Ages! Knights wore heavy, armored gloves called 'gauntlets'. If a knight wanted to challenge someone to a duel to the death, he would literally take off his gauntlet and violently throw it on the ground at his enemy's feet. If the enemy picked it up, the challenge was accepted!",
+          "related_words": [
+            "Challenge",
+            "Defy",
+            "Confront",
+            "Provoke"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "The Tech Wars",
+              "author": "Forbes",
+              "year": "2024",
+              "context": "A business report covering how a scrappy startup completely threw down the gauntlet by releasing a superior, cheaper product that directly targeted the industry's biggest monopoly."
+            },
+            {
+              "type": "Review",
+              "title": "Political Debates",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "A political analyst noted that the underdog candidate finally threw down the gauntlet by challenging the sitting president to an unscripted, three-hour live debate."
+            }
+          ],
+          "trivia": "While 'throwing down' the gauntlet starts the fight, the idiom 'running the gauntlet' is completely different—it refers to an ancient military punishment where a soldier had to run between two rows of men striking him with sticks!"
+        }
+      }
+    },
+    {
+      "id": "20260420-EN-090",
+      "date": "2026-04-20",
+      "category": "multilingual",
+      "type": "idiom",
+      "tags": [
+        "Commitment",
+        "Irrevocable",
+        "Decision"
+      ],
+      "common_assets": {
+        "image_url": "images/cross_the_rubicon.jpg",
+        "image_prompt": "Cinematic Historical Epic style illustration of a highly dramatic scene: a grim, battle-hardened Roman general rides his muscular black horse into the freezing, turbulent waters of a glowing shallow river at dawn, crossing the Rubicon with his massive army following closely behind, knowing there is no turning back. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Cross the Rubicon",
+            "definition": "To take a massive, irrevocable step that commits one to a specific course of action, crossing a point of absolute no return.",
+            "example_sentence": "As the grim general rode his black horse into the freezing, turbulent river at dawn, he knew he was finally crossing the Rubicon, committing his massive army to a war from which there was absolutely no turning back.",
+            "pronunciation_guide": "/cross-the-ru-bi-con/"
+          },
+          "hi": {
+            "word_display": "Lautne ke sabhi raste band kar dena",
+            "word_anglicized": "Lautne ke sabhi raste band kar dena",
+            "word_native": "लौटने के सभी रास्ते बंद कर देना",
+            "definition": "Ek aisa bada aur aakhiri kadam uthana jiske baad faisla badalna ya wapas lautna namumkin ho jaye.",
+            "example_sentence": "Jaise hi us kathor senapati ne bhor mein apne kaale ghode ko us thandi aur toofani nadi mein utara, use pata tha ki vah aakhirkar Rubicon paar kar raha hai, apni vishal sena ko ek aise yuddh mein jhonk raha hai jahan se wapas lautne ka koi rasta nahi tha.",
+            "cultural_note": "Translated conceptually. The phrase 'kashti jala dena' (burning the boats) is a similar Hindi idiom meaning the point of no return."
+          },
+          "fr": {
+            "word_display": "Franchir le Rubicon",
+            "word_native": "Franchir le Rubicon",
+            "definition": "Prendre une mesure massive et irrévocable qui engage à une ligne de conduite spécifique, franchir un point de non-retour absolu.",
+            "example_sentence": "Alors que le général sinistre chevauchait son cheval noir dans la rivière glaciale et turbulente à l'aube, il savait qu'il franchissait enfin le Rubicon, engageant sa massive armée dans une guerre d'où il n'y avait absolument aucun retour en arrière.",
+            "cultural_note": "A direct translation that carries the exact same historical and metaphorical meaning in French."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "This idiom is a literal history lesson! In 49 BC, the Rubicon was a shallow river in Italy marking the boundary between Rome and its northern provinces. Roman law strictly forbade any general from bringing an army across it into Rome proper. When Julius Caesar defied the Senate and marched his army across this very river, it was an act of treason that guaranteed civil war. He famously declared 'Alea iacta est' (The die is cast).",
+          "related_words": [
+            "Commitment",
+            "Irrevocable",
+            "Decisive",
+            "Point of no return"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "The AI Revolution",
+              "author": "The Atlantic",
+              "year": "2024",
+              "context": "A tech piece arguing that by integrating artificial intelligence into nuclear defense systems, humanity has dangerously crossed the Rubicon."
+            },
+            {
+              "type": "Opinion",
+              "title": "Climate Action",
+              "author": "National Geographic",
+              "year": "2023",
+              "context": "An environmentalist warned that if global temperatures rise another degree, we will have crossed the Rubicon into an era of irreversible climate damage."
+            }
+          ],
+          "trivia": "Because of Julius Caesar's legendary march, the tiny, muddy Rubicon river—which is so small it barely registers on modern maps—remains one of the most famous bodies of water in the entire English language!"
+        }
+      }
+    },
+    {
+      "id": "20260421-EN-091",
+      "date": "2026-04-21",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Unstoppable",
+        "Relentless",
+        "Inevitable"
+      ],
+      "common_assets": {
+        "image_url": "images/inexorable.jpg",
+        "image_prompt": "Cinematic Sci-Fi style illustration of a dramatic scene: a massive, glowing, unstoppable glacier of solid ice slowly crushing an ancient city beneath it, demonstrating a completely inexorable force of nature. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Inexorable",
+            "definition": "Impossible to stop, prevent, or persuade by request or entreaty.",
+            "example_sentence": "Despite all their futuristic technology, the citizens could do nothing to stop the inexorable advance of the massive, crushing glacier."
+          },
+          "hi": {
+            "word_display": "Atal",
+            "word_anglicized": "Atal",
+            "word_native": "अटल",
+            "definition": "Koi aisi takat ya pratikriya jise rokna ya badalna puri tarah se asambhav ho.",
+            "example_sentence": "Apni sabhi aadhunik takneek ke bawajood, nagarik us vishal, sab kuch kuchal dene wale glacier ki atal raftaar ko rokne mein puri tarah asamarth the."
+          },
+          "fr": {
+            "word_display": "Inexorable",
+            "word_native": "Inexorable",
+            "definition": "Impossible à arrêter, à empêcher ou à persuader par une demande ou une prière.",
+            "example_sentence": "Malgré toute leur technologie futuriste, les citoyens ne pouvaient rien faire pour arrêter l'avancée inexorable de l'immense glacier écrasant."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From Latin 'inexorabilis', meaning 'not to be moved by entreaty'. It was historically used to describe harsh Roman judges who refused to listen to any begging or pleading for mercy.",
+          "related_words": [
+            "Unstoppable",
+            "Relentless",
+            "Inevitable",
+            "Unyielding"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Climate Change",
+              "author": "National Geographic",
+              "year": "2024",
+              "context": "A scientific paper detailing the inexorable rise of global sea levels due to melting ice caps."
+            },
+            {
+              "type": "Review",
+              "title": "Historical War Drama",
+              "author": "Empire Magazine",
+              "year": "2023",
+              "context": "A review praising the film for depicting the terrifying, inexorable march of the invading army."
+            }
+          ],
+          "trivia": "In classic literature, 'Time' and 'Death' are the two things most commonly described as 'inexorable', as absolutely no amount of money or begging can stop either of them!"
+        }
+      }
+    },
+    {
+      "id": "20260422-EN-092",
+      "date": "2026-04-22",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Fierce",
+        "Savage",
+        "Aggressive"
+      ],
+      "common_assets": {
+        "image_url": "images/truculent.jpg",
+        "image_prompt": "Cinematic Cyberpunk style illustration of a highly dramatic scene: a heavily scarred, glowing neon cyborg bouncer standing aggressively outside a rainy nightclub, glaring at everyone with a fiercely truculent expression, just waiting for an excuse to fight. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Truculent",
+            "definition": "Eager or quick to argue or fight; aggressively defiant and fiercely savage.",
+            "example_sentence": "The heavily scarred cyborg bouncer glared at the crowd with a fiercely truculent expression, just waiting for an excuse to start a brutal fight."
+          },
+          "hi": {
+            "word_display": "Jhagadalu",
+            "word_anglicized": "Jhagadalu",
+            "word_native": "झगड़ालू",
+            "definition": "Hamesha ladne-jhagadne ko taiyaar rehne wala vyakti.",
+            "example_sentence": "Ghavon se bhara vah cyborg bouncer bheed ko behad jhagaalu nigaahon se ghoorta raha, bas ladai shuru karne ke bahane ke intezaar mein."
+          },
+          "fr": {
+            "word_display": "Truculent",
+            "word_native": "Truculent",
+            "definition": "Prêt à se disputer ou à se battre ; agressif et combatif.",
+            "example_sentence": "Le videur cyborg lourdement balafré fixait la foule avec une expression férocement truculente, n'attendant qu'une excuse pour déclencher une bagarre brutale."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "Latin 'truculentus', meaning 'fierce or savage'. While today it usually describes someone who is just aggressively argumentative, it originally described ruthless, bloodthirsty warriors who showed no mercy in combat.",
+          "related_words": [
+            "Fierce",
+            "Savage",
+            "Aggressive",
+            "Combative"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Boxing Legends",
+              "author": "Sports Illustrated",
+              "year": "2024",
+              "context": "A sports profile praising a young boxer for his incredibly truculent fighting style that absolutely terrified his opponents."
+            },
+            {
+              "type": "Review",
+              "title": "Action Cinema",
+              "author": "The Verge",
+              "year": "2023",
+              "context": "A movie review describing the main villain as a highly entertaining, wildly truculent warlord who never stops screaming."
+            }
+          ],
+          "trivia": "In older English literature, 'truculent' was sometimes used to describe the terrifying, harsh physical appearance of wild beasts, not just their aggressive behavior!"
+        }
+      }
+    },
+    {
+      "id": "20260423-EN-093",
+      "date": "2026-04-23",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Cowardly",
+        "Timid",
+        "Fearful"
+      ],
+      "common_assets": {
+        "image_url": "images/pusillanimous.jpg",
+        "image_prompt": "Classic Animation style illustration of a comedic, memorable scene: a supposedly brave, heavily armored knight acting completely pusillanimous, hilariously running away in sheer terror from a tiny, fluffy white bunny sitting on a glowing green hill. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Pusillanimous",
+            "definition": "Showing a severe lack of courage or determination; completely cowardly and timid.",
+            "example_sentence": "In a legendary comedic scene, the supposedly brave knight proved to be utterly pusillanimous, hilariously dropping his sword and running away in terror from a tiny, fluffy white bunny."
+          },
+          "hi": {
+            "word_display": "Darpok",
+            "word_anglicized": "Darpok",
+            "word_native": "डरपोक",
+            "definition": "Bahut zyada himmatheen aur kamzor dil ka hona.",
+            "example_sentence": "Ek mashhoor comedy scene mein, vah bahadur dikhne wala yoddha bilkul darpok nikla, jo apna hathiyar chhodkar ek chhote, pyare safed khargosh se darr kar bhag gaya."
+          },
+          "fr": {
+            "word_display": "Pusillanime",
+            "word_native": "Pusillanime",
+            "definition": "Faisant preuve d'un manque sévère de courage ou de détermination ; complètement lâche et timide.",
+            "example_sentence": "Dans une scène comique légendaire, le chevalier soi-disant courageux s'est révélé totalement pusillanime, fuyant de terreur devant un minuscule lapin blanc pelucheux."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From Latin 'pusillus' (very small) and 'animus' (mind or soul). Therefore, to be pusillanimous literally translates to having a 'tiny soul' or a 'small mind' that is completely unable to handle any fear or adversity.",
+          "related_words": [
+            "Cowardly",
+            "Timid",
+            "Fearful",
+            "Craven"
+          ],
+          "recent_references": [
+            {
+              "type": "Academic Journal",
+              "title": "Psychology of Leadership",
+              "author": "Journal of Applied Psychology",
+              "year": "2024",
+              "context": "A psychological study analyzing how leaders who display pusillanimous behavior during crises severely damage the long-term morale and trust of their organizations."
+            },
+            {
+              "type": "Literary Analysis",
+              "title": "The Evolution of the Anti-Hero",
+              "author": "Oxford Literary Review",
+              "year": "2023",
+              "context": "An academic paper exploring how modern literature increasingly features pusillanimous protagonists who reluctantly overcome their extreme cowardice."
+            }
+          ],
+          "trivia": "The word was famously resurrected in American politics when Vice President Spiro Agnew criticized opponents as 'pusillanimous pussyfooters'—a memorable alliteration that permanently tied the word to political rhetoric!"
+        }
+      }
+    },
+    {
+      "id": "20260424-EN-094",
+      "date": "2026-04-24",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Eagerness",
+        "Enthusiasm",
+        "Swiftness"
+      ],
+      "common_assets": {
+        "image_url": "images/alacrity.jpg",
+        "image_prompt": "Vibrant Pixar 3D Animation style illustration of a comedic scene: a highly enthusiastic, glowing golden retriever dog instantly leaping through a screen door with explosive energy the exact second his owner picks up a leash, showing massive alacrity. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Alacrity",
+            "definition": "Brisk and cheerful readiness; extreme eagerness.",
+            "example_sentence": "The highly enthusiastic dog showed massive alacrity, instantly leaping through the screen door the exact second his owner picked up the leash."
+          },
+          "hi": {
+            "word_display": "Tatparta",
+            "word_anglicized": "Tatparta",
+            "word_native": "तत्परता",
+            "definition": "Kisi kaam ko karne ki behad khushi aur tezi se taiyari.",
+            "example_sentence": "Us behad utsaahit kutte ne aisi tatparta dikhayi, ki jaise hi uske malik ne patta uthaya, vah turant darwaze se kood gaya."
+          },
+          "fr": {
+            "word_display": "Alacrité",
+            "word_native": "Alacrité",
+            "definition": "Une rapidité joyeuse et empressée ; un empressement extrême.",
+            "example_sentence": "Le chien très enthousiaste a fait preuve d'une grande alacrité, sautant instantanément à travers la moustiquaire à la seconde même où son propriétaire a ramassé la laisse."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From Latin 'alacritas', which translates to 'liveliness'. During the 15th century, it became a common word to describe highly disciplined soldiers who obeyed orders not just quickly, but with a cheerful, highly motivated attitude.",
+          "related_words": [
+            "Eagerness",
+            "Enthusiasm",
+            "Swiftness",
+            "Zeal"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Startup Culture",
+              "author": "Fast Company",
+              "year": "2024",
+              "context": "A business review praising a young team for tackling massive, difficult projects with surprising alacrity."
+            },
+            {
+              "type": "Opinion",
+              "title": "Customer Service",
+              "author": "Harvard Business Review",
+              "year": "2023",
+              "context": "An editorial arguing that resolving customer complaints with alacrity is the only way to build true brand loyalty."
+            }
+          ],
+          "trivia": "While it means 'cheerful readiness', lawyers also use the word in court to describe someone who signs a contract very quickly, proving they weren't forced to do it!"
+        }
+      }
+    },
+    {
+      "id": "20260425-EN-095",
+      "date": "2026-04-25",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Generous",
+        "Charitable",
+        "Bountiful"
+      ],
+      "common_assets": {
+        "image_url": "images/munificent.jpg",
+        "image_prompt": "Cinematic Modern Photography style illustration of a dramatic, heartwarming scene: a smiling tech billionaire standing on a glowing graduation stage, making a completely munificent announcement that he is paying off the massive student debt for every single cheering graduate in the crowd. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Munificent",
+            "definition": "Larger or more generous than is usual or necessary; extremely bountiful.",
+            "example_sentence": "In an incredibly munificent gesture, the tech billionaire shocked the graduating class by announcing he would pay off every single student's college debt."
+          },
+          "hi": {
+            "word_display": "Daani",
+            "word_anglicized": "Daani",
+            "word_native": "दानी",
+            "definition": "Zaroorat ya umeed se kahin zyada bada aur khule dil se daan karne wala.",
+            "example_sentence": "Ek behad udaar aur daani kadam uthate hue, us tech arabpati ne poori graduating class ka saara college karz chukane ka ailaan karke sabko hairaan kar diya."
+          },
+          "fr": {
+            "word_display": "Munificent",
+            "word_native": "Munificent",
+            "definition": "Plus grand ou plus généreux qu'il n'est habituel ou nécessaire ; extrêmement généreux.",
+            "example_sentence": "Dans un geste incroyablement munificent, le milliardaire de la technologie a choqué la classe diplômée en annonçant qu'il rembourserait les dettes universitaires de chaque étudiant."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From Latin 'munus' (gift) and 'facere' (to make). A 'munificent' act literally means 'making a massive gift'. It was originally used exclusively to describe the immense, showy generosity of kings, popes, and emperors to their loyal subjects.",
+          "related_words": [
+            "Generous",
+            "Charitable",
+            "Bountiful",
+            "Philanthropic"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Billionaire Philanthropy",
+              "author": "Forbes",
+              "year": "2024",
+              "context": "An article highlighting a tech billionaire's incredibly munificent donation that completely paid off the college debt for an entire graduating class."
+            },
+            {
+              "type": "Review",
+              "title": "Historical Fiction",
+              "author": "The New York Times",
+              "year": "2023",
+              "context": "A review noting how the novel portrays the ancient empress not as a tyrant, but as a surprisingly munificent leader."
+            }
+          ],
+          "trivia": "In Ancient Rome, the word 'munus' also specifically referred to the incredibly expensive, bloody gladiator games that politicians threw for free to win the love of the public!"
+        }
+      }
+    },
+    {
+      "id": "20260426-EN-096",
+      "date": "2026-04-26",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Treacherous",
+        "Deceitful",
+        "Disloyal"
+      ],
+      "common_assets": {
+        "image_url": "images/perfidious.jpg",
+        "image_prompt": "Cinematic Historical Epic style illustration of a dramatic scene: the famous, perfidious betrayal in the Roman Senate, where a trusted friend in a glowing white toga shockingly draws a hidden dagger to assassinate the shocked emperor. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Perfidious",
+            "definition": "Deceitful and entirely untrustworthy; deliberately breaking someone's trust or faith.",
+            "example_sentence": "In one of history's most perfidious acts, the trusted friend shockingly drew his hidden dagger to assassinate the emperor on the Senate floor."
+          },
+          "hi": {
+            "word_display": "Dhokhebaaz",
+            "word_anglicized": "Dhokhebaaz",
+            "word_native": "धोखेबाज़",
+            "definition": "Jis par bilkul bharosa na kiya ja sake, aur jo jaanboojhkar kisi ka vishwas tode.",
+            "example_sentence": "Itihaas ke sabse vishwasghati kamo mein se ek mein, us bharosemand dost ne Senate ke farsh par samrat ki hatya karne ke liye apna chhipa hua khanjar nikal liya."
+          },
+          "fr": {
+            "word_display": "Perfide",
+            "word_native": "Perfide",
+            "definition": "Trompeur et entièrement indigne de confiance ; brisant délibérément la confiance ou la foi de quelqu'un.",
+            "example_sentence": "Dans l'un des actes les plus perfides de l'histoire, l'ami de confiance a sorti son poignard caché pour assassiner l'empereur sur le sol du Sénat."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From Latin 'perfidia', constructed from 'per-' (through, or away) and 'fides' (faith). It literally translates to breaking entirely through the faith or trust that someone placed in you, representing the highest possible form of betrayal.",
+          "related_words": [
+            "Treacherous",
+            "Deceitful",
+            "Disloyal",
+            "Traitorous"
+          ],
+          "recent_references": [
+            {
+              "type": "Opinion",
+              "title": "Political Scandals",
+              "author": "The Guardian",
+              "year": "2024",
+              "context": "An editorial condemning the remarkably perfidious actions of the treasurer who stole millions from the charity he was running."
+            },
+            {
+              "type": "Review",
+              "title": "Shakespearean Tragedy",
+              "author": "The New Yorker",
+              "year": "2023",
+              "context": "A theater critique highlighting how the actor played the perfidious villain Iago with terrifying charm."
+            }
+          ],
+          "trivia": "For hundreds of years, French writers commonly referred to England as 'Perfidious Albion' because they believed the British government was completely untrustworthy in making treaties!"
+        }
+      }
+    },
+    {
+      "id": "20260427-EN-097",
+      "date": "2026-04-27",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Sleepy",
+        "Boring",
+        "Dull"
+      ],
+      "common_assets": {
+        "image_url": "images/soporific.jpg",
+        "image_prompt": "Classic Oil Painting style illustration of a highly comedic scene: a dusty, incredibly soporific university professor droning on in front of a glowing chalkboard while literally every single student in the massive lecture hall has completely collapsed onto their desks, fast asleep. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Soporific",
+            "definition": "Tending to completely induce drowsiness or sleep; incredibly boring or monotonous.",
+            "example_sentence": "The professor's endless lecture about ancient rocks was so intensely soporific that every single student in the massive hall collapsed onto their desks, fast asleep."
+          },
+          "hi": {
+            "word_display": "Neend laane wala",
+            "word_anglicized": "Neend laane wala",
+            "word_native": "नींद लाने वाला",
+            "definition": "Koi aisi cheez ya aawaaz jo itni ubaau ho ki use sunkar ya dekhkar zor ki neend aane lage.",
+            "example_sentence": "Prachin chattanon ke bare mein professor ka lamba bhashan itna jyada ubaau tha ki vishal hall mein maujood har ek chhatr apni desk par gir kar gehri neend mein so gaya."
+          },
+          "fr": {
+            "word_display": "Soporifique",
+            "word_native": "Soporifique",
+            "definition": "Tendant à induire complètement la somnolence ou le sommeil ; incroyablement ennuyeux ou monotone.",
+            "example_sentence": "La conférence interminable du professeur sur les roches anciennes était si intensément soporifique que chaque étudiant dans l'immense salle s'est effondré sur son bureau, profondément endormi."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From Latin 'sopor' (deep sleep) and 'facere' (to make). It was initially a strict medical term used for heavy sedatives or sleeping pills, but naturally evolved to describe terribly boring movies, books, and public speakers that accidentally act like sleeping pills.",
+          "related_words": [
+            "Sleepy",
+            "Boring",
+            "Dull",
+            "Monotonous"
+          ],
+          "recent_references": [
+            {
+              "type": "Review",
+              "title": "Movie Critique",
+              "author": "Empire Magazine",
+              "year": "2024",
+              "context": "A harsh review stating that despite the massive budget, the three-hour sci-fi film's terrible pacing made it a completely soporific experience."
+            },
+            {
+              "type": "Article",
+              "title": "Health & Wellness",
+              "author": "Psychology Today",
+              "year": "2023",
+              "context": "A sleep study explaining why the repetitive, gentle hum of an airplane engine has a highly soporific effect on human brains."
+            }
+          ],
+          "trivia": "In classical Greek mythology, the god of sleep, Hypnos, was said to dip a magical branch into the River Lethe to drip 'soporific' water onto the heads of sleeping humans to give them dreams!"
+        }
+      }
+    },
+    {
+      "id": "20260428-EN-098",
+      "date": "2026-04-28",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Aggressive",
+        "Hostile",
+        "Combative"
+      ],
+      "common_assets": {
+        "image_url": "images/bellicose.jpg",
+        "image_prompt": "Cinematic Comic Book style illustration of a highly dramatic scene: a fiercely bellicose, glowing red alien general standing on a shattered battlefield, violently roaring and slamming his giant fists together, constantly eager to start another brutal war. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Bellicose",
+            "definition": "Demonstrating a constant willingness to fight; highly aggressive and hostile.",
+            "example_sentence": "The glowing red alien general was notoriously bellicose, roaring and slamming his fists together on the shattered battlefield, always eager for more war."
+          },
+          "hi": {
+            "word_display": "Ladaaku",
+            "word_anglicized": "Ladaaku",
+            "word_native": "लड़ाकू",
+            "definition": "Jo hamesha ladne ke liye taiyar rahe aur jiska swabhav bahut hi gusse wala aur aakramak ho.",
+            "example_sentence": "Vah chamakta hua laal alien general apne ladaaku swabhav ke liye badnaam tha, jo hamesha yuddh ki chah mein apne vishal mukke aapas mein takrata rehta tha."
+          },
+          "fr": {
+            "word_display": "Belliqueux",
+            "word_native": "Belliqueux",
+            "definition": "Démontrant une volonté constante de se battre ; très agressif et hostile.",
+            "example_sentence": "Le général extraterrestre rouge vif était notoirement belliqueux, rugissant et claquant des poings sur le champ de bataille brisé, toujours avide de faire la guerre."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "Originating from Latin 'bellicus', which simply means 'of war'. It shares the exact same root word as 'rebellion' and 'belligerent'. In early history, it was purely a military term, but now it is used to describe anyone who gets incredibly angry and wants to start fights in everyday life.",
+          "related_words": [
+            "Aggressive",
+            "Hostile",
+            "Combative",
+            "Pugnacious"
+          ],
+          "recent_references": [
+            {
+              "type": "Opinion",
+              "title": "Geopolitics",
+              "author": "Foreign Affairs",
+              "year": "2024",
+              "context": "An international relations piece warning about the highly bellicose rhetoric coming from a dictator testing nuclear weapons."
+            },
+            {
+              "type": "Article",
+              "title": "Sports Rivalries",
+              "author": "ESPN",
+              "year": "2023",
+              "context": "A sports review describing a specific boxer's press conference behavior as intensely bellicose and unhinged."
+            }
+          ],
+          "trivia": "Because the Latin root for war is 'bellum', the term 'ante-bellum' literally means 'before the war'—which is why the American South before the Civil War is called the 'Antebellum South'!"
+        }
+      }
+    },
+    {
+      "id": "20260429-EN-099",
+      "date": "2026-04-29",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Throw",
+        "Eject",
+        "Dismiss"
+      ],
+      "common_assets": {
+        "image_url": "images/defenestrate.jpg",
+        "image_prompt": "Epic Baroque Painting style illustration of a highly comedic, dramatic historical scene: angry, heavily armored knights violently but hilariously throwing a screaming, terrified corrupt politician out of a high, glowing stained-glass window in a massive stone castle. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Defenestrate",
+            "definition": "The extremely specific act of throwing someone or something out of a window.",
+            "example_sentence": "During the chaotic rebellion, the angry knights violently decided to completely defenestrate the terrified corrupt politician from the castle's highest stained-glass window."
+          },
+          "hi": {
+            "word_display": "Khidki se fenkna",
+            "word_anglicized": "Khidki se fenkna",
+            "word_native": "खिड़की से फेंकना",
+            "definition": "Kisi vyakti ya cheez ko khidki ke bahar phek dene ka atyant vishisht karya.",
+            "example_sentence": "Us afra-tafri bhare vidroha ke dauran, gusse mein bhare un yoddhaon ne us bhrasht neta ko mahal ki sabse oonchi kaanch ki khidki se bahar fenk dene ka faisla kiya."
+          },
+          "fr": {
+            "word_display": "Défenestrer",
+            "word_native": "Défenestrer",
+            "definition": "L'acte extrêmement spécifique de jeter quelqu'un ou quelque chose par la fenêtre.",
+            "example_sentence": "Pendant la rébellion chaotique, les chevaliers en colère ont violemment décidé de défenestrer complètement le politicien corrompu terrifié depuis la plus haute fenêtre en vitrail du château."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "This wildly specific word combines Latin 'de-' (down from) and 'fenestra' (window). It was literally invented in 1618 for one specific historical event: 'The Defenestration of Prague', where angry Protestants literally threw three Catholic officials out of a castle window, officially sparking the brutal Thirty Years' War in Europe!",
+          "related_words": [
+            "Throw",
+            "Eject",
+            "Oust",
+            "Dismiss"
+          ],
+          "recent_references": [
+            {
+              "type": "Review",
+              "title": "Corporate Mergers",
+              "author": "The Wall Street Journal",
+              "year": "2024",
+              "context": "A financial article metaphorically describing how the new CEO quickly defenestrated the entire old management team."
+            },
+            {
+              "type": "Opinion",
+              "title": "Modern Politics",
+              "author": "The Atlantic",
+              "year": "2023",
+              "context": "A political piece using the word to describe how voters completely defenestrated an unpopular leader during the election."
+            }
+          ],
+          "trivia": "Amazingly, the Catholic officials who were thrown out of the window during the original 1618 'Defenestration of Prague' actually survived the 70-foot drop because they landed entirely in a massive pile of horse manure!"
+        }
+      }
+    },
+    {
+      "id": "20260430-EN-100",
+      "date": "2026-04-30",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Self-absorbed",
+        "Ego",
+        "Philosophical"
+      ],
+      "common_assets": {
+        "image_url": "images/solipsism.jpg",
+        "image_prompt": "Surrealist Oil Painting style illustration of a highly bizarre scene: a massively arrogant, glowing philosopher sitting cross-legged in outer space, completely ignoring the entire universe because he firmly believes he is the only thing that actually exists. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Solipsism",
+            "definition": "The philosophical theory that the self is all that can be known to exist; extreme egocentrism.",
+            "example_sentence": "Trapped in his own absolute solipsism, the incredibly arrogant billionaire completely ignored the suffering of everyone else, believing he was the only real person in the universe."
+          },
+          "hi": {
+            "word_display": "Ahamvaad",
+            "word_anglicized": "Ahamvaad",
+            "word_native": "अहंवाद",
+            "definition": "Ek darshanik vichar ki sirf 'main' ya mera wajood hi sacch hai aur baaki sab illusion hai; atyadhik swarth.",
+            "example_sentence": "Apne hi atyadhik ahamvaad mein phanse hue, us behad ahankari arabpati ne baki sabhi ke dukh ko poori tarah andekha kar diya, ye mante hue ki is brahmand mein sirf wahi ek asali insaan hai."
+          },
+          "fr": {
+            "word_display": "Solipsisme",
+            "word_native": "Solipsisme",
+            "definition": "La théorie philosophique selon laquelle le moi est tout ce qui peut être connu comme existant ; égocentrisme extrême.",
+            "example_sentence": "Piégé dans son solipsisme absolu, le milliardaire incroyablement arrogant ignorait complètement la souffrance de tous les autres, croyant qu'il était la seule personne réelle dans l'univers."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From Latin 'solus' (alone) and 'ipse' (self). It originated in the late 19th century to describe the extreme, mind-bending philosophical stance that literally nothing exists outside of your own mind.",
+          "related_words": [
+            "Self-absorbed",
+            "Egocentrism",
+            "Narcissism",
+            "Subjectivism"
+          ],
+          "recent_references": [
+            {
+              "type": "Opinion",
+              "title": "Social Media",
+              "author": "Wired",
+              "year": "2024",
+              "context": "An essay arguing that modern social media algorithms constantly trap users in bubbles of digital solipsism, where they only see their own beliefs reflected back at them."
+            },
+            {
+              "type": "Review",
+              "title": "Modern Art Cinema",
+              "author": "Empire Magazine",
+              "year": "2023",
+              "context": "A review of a deeply bizarre movie where the main character slowly goes mad due to his absolute solipsism."
+            }
+          ],
+          "trivia": "In the famous 'brain in a vat' thought experiment, scientists argue that because our brains only perceive electrical signals, pure solipsism is technically impossible to disprove!"
+        }
+      }
+    },
+    {
+      "id": "20260501-EN-101",
+      "date": "2026-05-01",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Childish",
+        "Moody",
+        "Irritable"
+      ],
+      "common_assets": {
+        "image_url": "images/petulant.jpg",
+        "image_prompt": "Vibrant Cartoon Animation style illustration of a highly comedic scene: a fully grown, wildly petulant corporate CEO in a glowing expensive suit violently throwing a childish temper tantrum on the floor of a boardroom because his coffee was slightly cold. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Petulant",
+            "definition": "Childishly sulky or bad-tempered, especially over something incredibly minor or trivial.",
+            "example_sentence": "The fully grown CEO was notoriously petulant, famously throwing a violent temper tantrum on the boardroom floor just because his coffee was slightly cold."
+          },
+          "hi": {
+            "word_display": "Chidchida",
+            "word_anglicized": "Chidchida",
+            "word_native": "चिड़चिड़ा",
+            "definition": "Bachchon jaisa gussa dikhane wala aur baat-baat par bina kisi badi vajah ke chidh jaane wala.",
+            "example_sentence": "Vah bada ho chuka CEO apne chidchide swabhav ke liye badnaam tha, jo sirf apni coffee thodi thandi hone ke karan boardroom ke farsh par bachchon ki tarah gussa dikhane laga."
+          },
+          "fr": {
+            "word_display": "Pétulant",
+            "word_native": "Pétulant",
+            "definition": "Enfantinement boudeur ou de mauvaise humeur, surtout pour quelque chose d'incroyablement mineur ou trivial.",
+            "example_sentence": "Le PDG adulte était notoirement pétulant, faisant une célèbre crise de colère violente sur le sol de la salle de conférence juste parce que son café était légèrement froid."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From Latin 'petulantem', meaning 'forward, insolent, or saucy'. Originally, it meant being boldly disrespectful to authority figures, but over the last 200 years, it softened to specifically describe an adult acting like a whiny, spoiled toddler.",
+          "related_words": [
+            "Childish",
+            "Moody",
+            "Irritable",
+            "Sulky"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Celebrity Gossip",
+              "author": "Vanity Fair",
+              "year": "2024",
+              "context": "An entertainment article mocking a famous actor's highly petulant behavior when he demanded a private jet just to fly his dogs."
+            },
+            {
+              "type": "Opinion",
+              "title": "Sports Behavior",
+              "author": "ESPN",
+              "year": "2023",
+              "context": "An editorial criticizing an athlete's incredibly petulant reaction to a totally fair referee decision."
+            }
+          ],
+          "trivia": "A 'petard' is a medieval bomb, and 'petulant' shares the exact same linguistic root word, which literally means 'to break wind' or 'to explode' in ancient dialects!"
+        }
+      }
+    },
+    {
+      "id": "20260502-EN-102",
+      "date": "2026-05-02",
+      "category": "multilingual",
+      "type": "word",
+      "tags": [
+        "Stubborn",
+        "Defiant",
+        "Uncooperative"
+      ],
+      "common_assets": {
+        "image_url": "images/recalcitrant.jpg",
+        "image_prompt": "Classic Oil Painting style illustration of a highly comedic scene: a wildly recalcitrant, massive gray mule violently planting its glowing hooves into the dirt, completely refusing to move forward despite three angry farmers pulling on its rope. Aspect ratio: 4:5"
+      },
+      "content_payload": {
+        "languages": {
+          "en": {
+            "word_display": "Recalcitrant",
+            "definition": "Having an obstinately uncooperative attitude toward authority or discipline; entirely refusing to obey.",
+            "example_sentence": "The wildly recalcitrant mule violently planted its hooves into the dirt, completely refusing to move forward no matter how hard the angry farmers pulled the rope."
+          },
+          "hi": {
+            "word_display": "Adiyal",
+            "word_anglicized": "Adiyal",
+            "word_native": "अड़ियल",
+            "definition": "Koi aisa jo bahut ziddi ho aur kisi ke nirdesh ya niyam manne se poori tarah inkar kar de.",
+            "example_sentence": "Us behad adiyal khachchar ne apne khurron ko mitti mein zor se gaad diya, aur chahe gusse mein kisanon ne rassi kitni hi zor se kyon na kheenchi ho, aage badhne se poori tarah inkar kar diya."
+          },
+          "fr": {
+            "word_display": "Récalcitrant",
+            "word_native": "Récalcitrant",
+            "definition": "Avoir une attitude obstinément non coopérative envers l'autorité ou la discipline ; refusant entièrement d'obéir.",
+            "example_sentence": "Le mulet follement récalcitrant a violemment planté ses sabots dans la terre, refusant complètement d'avancer peu importe à quel point les fermiers en colère tiraient sur la corde."
+          }
+        },
+        "english_deep_dive": {
+          "evolution_story": "From Latin 'recalcitrare', which literally translates to 'to kick back' (from 're-' meaning back, and 'calx' meaning heel). It originally described a stubborn horse or mule viciously kicking backward when someone tried to saddle it!",
+          "related_words": [
+            "Stubborn",
+            "Defiant",
+            "Uncooperative",
+            "Obstinate"
+          ],
+          "recent_references": [
+            {
+              "type": "Article",
+              "title": "Corporate Law",
+              "author": "The Wall Street Journal",
+              "year": "2024",
+              "context": "A legal piece detailing how the government heavily fined a highly recalcitrant technology company that outright refused to hand over user data."
+            },
+            {
+              "type": "Review",
+              "title": "Education Systems",
+              "author": "The Guardian",
+              "year": "2023",
+              "context": "A review of a new documentary showing teachers successfully managing extremely recalcitrant teenagers without using harsh punishments."
+            }
+          ],
+          "trivia": "Because the root 'calx' means heel, the element 'Calcium' (which makes up bone and heels) literally shares the exact same origin word as 'recalcitrant'!"
+        }
+      }
     }
   ]
 }
