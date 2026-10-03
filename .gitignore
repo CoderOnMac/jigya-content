@@ -19,3 +19,7 @@ images_orig/
 *venv/*
 Expedition 1/*
 Expedition 2/PAPERBACK_8.500x11.000_106_PREMIUM_WHITE_en_US/readme.txt
+compress_pdf_pymupdf.py
+*.toml
+*.lock
+.python-version
